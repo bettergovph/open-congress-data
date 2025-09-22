@@ -3,6 +3,6 @@ senate_website_keys = [ "LMANU",]
 full_name = "Lapid, Manuel \"Lito\" M."
 aliases = [ "Lito",]
 last_name = "Lapid"
-middle_initial = "M"
+middle_name = "M"
 first_name = "Manuel"
 congresses = [ 13, 14, 15, 16, 18, 19, 20,]

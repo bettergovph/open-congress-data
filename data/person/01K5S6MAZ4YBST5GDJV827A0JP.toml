@@ -3,6 +3,6 @@ senate_website_keys = [ "PEMMA",]
 full_name = "Pacquiao, Emmanuel \"Manny\" D."
 aliases = [ "Manny",]
 last_name = "Pacquiao"
-middle_initial = "D"
+middle_name = "D"
 first_name = "Emmanuel"
 congresses = [ 17, 18,]

@@ -3,6 +3,6 @@ senate_website_keys = [ "RRAMO",]
 full_name = "Revilla Jr., Ramon A."
 name_suffix = "Jr"
 last_name = "Revilla"
-middle_initial = "A"
+middle_name = "A"
 first_name = "Ramon"
 congresses = [ 13, 14, 15, 16, 18, 19,]

@@ -3,6 +3,6 @@ senate_website_keys = [ "ABENI",]
 full_name = "Aquino III, Benigno S."
 name_suffix = "III"
 last_name = "Aquino"
-middle_initial = "S"
+middle_name = "S"
 first_name = "Benigno"
 congresses = [ 14,]

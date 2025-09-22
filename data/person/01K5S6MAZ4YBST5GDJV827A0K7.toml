@@ -3,6 +3,6 @@ senate_website_keys = [ "VMANU",]
 full_name = "Villar Jr., Manuel B."
 name_suffix = "Jr"
 last_name = "Villar"
-middle_initial = "B"
+middle_name = "B"
 first_name = "Manuel"
 congresses = [ 13, 14,]

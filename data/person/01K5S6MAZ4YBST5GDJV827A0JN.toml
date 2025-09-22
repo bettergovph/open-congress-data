@@ -3,6 +3,6 @@ senate_website_keys = [ "PAQUI",]
 full_name = "Pimentel Jr., Aquilino Q."
 name_suffix = "Jr"
 last_name = "Pimentel"
-middle_initial = "Q"
+middle_name = "Q"
 first_name = "Aquilino"
 congresses = [ 13, 14, 15, 16, 17, 18, 19,]

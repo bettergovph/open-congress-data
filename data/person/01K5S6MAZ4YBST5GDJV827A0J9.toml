@@ -3,6 +3,6 @@ senate_website_keys = [ "HGREG",]
 full_name = "Honasan II, Gregorio B."
 name_suffix = "II"
 last_name = "Honasan"
-middle_initial = "B"
+middle_name = "B"
 first_name = "Gregorio"
 congresses = [ 14, 15, 16, 17,]

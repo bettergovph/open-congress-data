@@ -19,7 +19,7 @@ metadata and the congresses where they served.
 
 | Field            | Type   | Description                       | Example             |
 | ---------------- | ------ | --------------------------------- | ------------------- |
-| `middle_initial` | string | Middle initial                    | `"S"`               |
+| `middle_name` | string | Middle name                    | `"Santos"`               |
 | `name_suffix`    | string | Name suffix (Jr., Sr., III, etc.) | `"III"`             |
 | `name_prefix`    | string | Name prefix (Dr., Hon., etc.)     | `"Dr."`             |
 | `aliases`        | array  | Nicknames or alternative names    | `["Sonny", "Chiz"]` |
@@ -44,7 +44,7 @@ id = "01K5S6MAZ4YBST5GDJV827A0K9"
 senate_website_keys = ["ZJMIG", "ZMIGU"]
 full_name = "Zubiri, Juan Miguel F."
 last_name = "Zubiri"
-middle_initial = "F"
+middle_name = "F"
 first_name = "Juan Miguel"
 congresses = [14, 15, 17, 18, 19, 20]
 ```
@@ -58,7 +58,7 @@ full_name = "Trillanes IV, Antonio \"Sonny\" F."
 aliases = ["Sonny"]
 name_suffix = "IV"
 last_name = "Trillanes"
-middle_initial = "F"
+middle_name = "F"
 first_name = "Antonio"
 congresses = [14, 15, 16, 17]
 ```
