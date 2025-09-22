@@ -3,6 +3,17 @@
 Open data for the Philippine Congress: track representatives, senators, bills,
 and voting records. Transparent and community-maintained.
 
+## Data Accuracy Note
+
+⚠️ **Important**: The data in this repository is manually encoded and may
+contain inaccuracies. We strive for accuracy but human error is possible. If you
+discover incorrect information, please report it by opening an issue or
+submitting a pull request. Your help in maintaining data quality is greatly
+appreciated!
+
+See our [Contributing Guide](CONTRIBUTING.md) for information on how to help
+improve the data.
+
 ## Data Sources
 
 This project aggregates publicly available information from official Philippine
@@ -15,7 +26,9 @@ government sources:
 
 ## Data Structure
 
-All data files are organized in the `data/` directory with subdirectories for each entity type:
+All data files are organized in the `data/` directory with subdirectories for
+each entity type:
+
 - `data/congress/` - Philippine Congress entities (8th through 20th)
 - `data/committee/` - Senate committee entities
 - `data/person/` - Senator and official entities

@@ -1,8 +1,8 @@
 # Congress Entity Structure
 
 This directory contains TOML files for Philippine Congress entities. Each file
-represents a single Congress entity with comprehensive metadata about its duration and
-identification.
+represents a single Congress entity with comprehensive metadata about its
+duration and identification.
 
 ## Required Fields
 
@@ -19,10 +19,10 @@ identification.
 
 ## Optional Fields
 
-| Field      | Type    | Description                               | Example        |
-| ---------- | ------- | ----------------------------------------- | -------------- |
-| `end_date` | string  | End date (ISO format) - omit if ongoing  | `"2010-06-09"` |
-| `end_year` | integer | Ending year - omit if ongoing            | `2010`         |
+| Field      | Type    | Description                             | Example        |
+| ---------- | ------- | --------------------------------------- | -------------- |
+| `end_date` | string  | End date (ISO format) - omit if ongoing | `"2010-06-09"` |
+| `end_year` | integer | Ending year - omit if ongoing           | `2010`         |
 
 ## Example
 

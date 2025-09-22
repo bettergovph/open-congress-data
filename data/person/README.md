@@ -1,8 +1,8 @@
 # Person Entity Structure
 
 This directory contains TOML files for senators and other officials in the
-Philippine Congress. Each file represents a single Person entity with their metadata
-and the congresses where they served.
+Philippine Congress. Each file represents a single Person entity with their
+metadata and the congresses where they served.
 
 ## Required Fields
 

@@ -1,7 +1,8 @@
 # Committee Entity Structure
 
-This directory contains TOML files for Philippine Senate Committee entities. Each file
-represents a single Committee entity with its metadata and the congresses where it was active.
+This directory contains TOML files for Philippine Senate Committee entities.
+Each file represents a single Committee entity with its metadata and the
+congresses where it was active.
 
 ## Required Fields
 
