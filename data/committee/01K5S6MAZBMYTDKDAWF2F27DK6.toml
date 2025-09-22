@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DK6"
+senate_website_keys = [ "SCARA",]
+name = "Subcommittee on Amendments to R.A. 11223 (Universal Healthcare Act)"
+type = "subcommittee"
+congresses = [ 19, 20,]

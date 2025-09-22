@@ -3,6 +3,60 @@
 Open data for the Philippine Congress: track representatives, senators, bills,
 and voting records. Transparent and community-maintained.
 
+## Data Sources
+
+This project aggregates publicly available information from official Philippine
+government sources:
+
+- **Senate of the Philippines**: https://web.senate.gov.ph
+- **House of Representatives**: https://congress.gov.ph
+- **Legislative Documents and Records**: https://ldr.senate.gov.ph
+- **eCongress**: https://econgress.gov.ph
+
+## Data Structure
+
+All data files are organized in the `data/` directory with subdirectories for each entity type:
+- `data/congress/` - Philippine Congress entities (8th through 20th)
+- `data/committee/` - Senate committee entities
+- `data/person/` - Senator and official entities
+
+The following graph shows the current entities and their relationships in the
+dataset:
+
+```mermaid
+graph LR
+    %% Node definitions with styling
+    Congress["🏛️ Congress<br/>━━━━━━━<br/>• id<br/>• congress_number<br/>• congress_website_key<br/>• name<br/>• ordinal<br/>• year_range<br/>• start_date<br/>• end_date"]
+
+    Committee["📋 Committee<br/>━━━━━━━<br/>• id<br/>• name<br/>• type<br/>• senate_website_keys[]"]
+
+    Person["👤 Person<br/>━━━━━━━<br/>• id<br/>• full_name<br/>• first_name<br/>• last_name<br/>• middle_initial<br/>• senate_website_keys[]<br/>• aliases[]"]
+
+    %% Relationships
+    Committee -->|BELONGS_TO| Congress
+    Person -->|SERVED_IN| Congress
+
+    %% Styling
+    classDef congressNode fill:#4a90e2,stroke:#2c5aa0,stroke-width:2px,color:#fff
+    classDef committeeNode fill:#7cb342,stroke:#558b2f,stroke-width:2px,color:#fff
+    classDef personNode fill:#ff7043,stroke:#d84315,stroke-width:2px,color:#fff
+
+    class Congress congressNode
+    class Committee committeeNode
+    class Person personNode
+```
+
+### Entity Details
+
+- **Congress**: Central entity representing each Philippine Congress (8th
+  through 20th)
+- **Committee**: Senate committees that operate within specific congresses
+- **Person**: Senators and officials who serve in various congresses
+
+Relationships to Congress nodes are established through the BELONGS_TO (for
+Committees) and SERVED_IN (for People) edges, based on the `congresses` field in
+the source TOML files.
+
 ## Impostor Syndrome Disclaimer
 
 **We want your help. No, really.**

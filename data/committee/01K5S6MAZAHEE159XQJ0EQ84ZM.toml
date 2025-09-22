@@ -1,0 +1,5 @@
+id = "01K5S6MAZAHEE159XQJ0EQ84ZM"
+senate_website_keys = [ "AUELS", "JCOAE",]
+name = "Jt. Cong. Oversight Committee on Automated Election System"
+type = "joint"
+congresses = [ 14, 15, 16, 17, 18, 19, 20,]

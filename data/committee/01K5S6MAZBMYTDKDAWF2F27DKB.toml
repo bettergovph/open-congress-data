@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DKB"
+senate_website_keys = [ "SCCPS",]
+name = "Subcommittee on Career Progression System for Public School Teachers"
+type = "subcommittee"
+congresses = [ 19, 20,]

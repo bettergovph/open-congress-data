@@ -1,0 +1,5 @@
+id = "01K5S6MAZAHEE159XQJ0EQ850Y"
+senate_website_keys = [ "EDUCA",]
+name = "Education, Arts and Culture"
+type = "regular"
+congresses = [ 13, 14, 15, 16, 17, 18,]

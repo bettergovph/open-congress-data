@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DJ7"
+senate_website_keys = [ "JCOCS",]
+name = "Jt. Cong. Oversight Committee on the Chain Saw Act"
+type = "joint"
+congresses = [ 13, 14, 15, 16, 17, 18, 19, 20,]

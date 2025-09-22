@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DKF"
+senate_website_keys = [ "SCENP",]
+name = "Subcommittee on El Niño Phenomenon (SRN 987)"
+type = "subcommittee"
+congresses = [ 19, 20,]

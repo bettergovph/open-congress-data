@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DNJ"
+senate_website_keys = [ "VFA",]
+name = "Oversight Committee on the VFA"
+type = "oversight"
+congresses = [ 13, 14,]

@@ -1,0 +1,5 @@
+id = "01K5S6MAZAHEE159XQJ0EQ851M"
+senate_website_keys = [ "FSUBN",]
+name = "Finance Sub-Committee \"N\""
+type = "subcommittee"
+congresses = [ 19, 20,]

@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DKK"
+senate_website_keys = [ "SCFIS",]
+name = "Subcommittee on Fixed Income Securities Market"
+type = "subcommittee"
+congresses = [ 15, 16, 17, 18, 19, 20,]

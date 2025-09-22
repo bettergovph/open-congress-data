@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DM1"
+senate_website_keys = [ "SCPMA",]
+name = "Special Committee on Philippine Maritime and Admiralty Zones"
+type = "special"
+congresses = [ 19, 20,]

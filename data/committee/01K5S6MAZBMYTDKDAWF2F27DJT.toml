@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DJT"
+senate_website_keys = [ "OCOML",]
+name = "Oversight Committee on Labor"
+type = "oversight"
+congresses = [ 13, 14,]

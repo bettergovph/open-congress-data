@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DNC"
+senate_website_keys = [ "SSRBH",]
+name = "Subcommittee on Senate Resolution of Both Houses No. 6"
+type = "subcommittee"
+congresses = [ 19, 20,]

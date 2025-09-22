@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DJM"
+senate_website_keys = [ "LOVFA",]
+name = "Legislative Oversight Committee on the Visiting Forces Agreement"
+type = "oversight"
+congresses = [ 13, 14, 15, 16, 17, 18, 19, 20,]

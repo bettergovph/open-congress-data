@@ -1,0 +1,5 @@
+id = "01K5S6MAZAHEE159XQJ0EQ850H"
+senate_website_keys = [ "CONIR",]
+name = "Oversight Committee on the Proper Implementation of the NIRC"
+type = "oversight"
+congresses = [ 13, 14, 15, 16, 17, 18, 19, 20,]

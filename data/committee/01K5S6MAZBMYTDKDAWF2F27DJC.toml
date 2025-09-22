@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DJC"
+senate_website_keys = [ "JCPCM",]
+name = "Jt. Cong. Power Commission"
+type = "joint"
+congresses = [ 13, 14, 15, 16, 17, 18, 19, 20,]

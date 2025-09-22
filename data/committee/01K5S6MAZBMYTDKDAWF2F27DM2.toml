@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DM2"
+senate_website_keys = [ "SCPPA",]
+name = "Subcommittee on Philippine Professional Agriculturists"
+type = "subcommittee"
+congresses = [ 19, 20,]

@@ -1,0 +1,5 @@
+id = "01K5S6MAZAHEE159XQJ0EQ851H"
+senate_website_keys = [ "FINAN",]
+name = "Finance"
+type = "regular"
+congresses = [ 13, 14, 15, 16, 17, 18, 19, 20,]

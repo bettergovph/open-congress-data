@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DN0"
+senate_website_keys = [ "SOCGP",]
+name = "Select Oversight Committee on Government Procurement"
+type = "oversight"
+congresses = [ 15, 16, 17, 18, 19, 20,]

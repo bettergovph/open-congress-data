@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DNA"
+senate_website_keys = [ "SSOCR",]
+name = "Senate Special Oversight Committee on Regional Comprehensive Economic Partnership (RCEP) Agreement"
+type = "special"
+congresses = [ 19, 20,]

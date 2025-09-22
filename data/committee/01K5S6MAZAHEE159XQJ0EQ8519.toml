@@ -1,0 +1,5 @@
+id = "01K5S6MAZAHEE159XQJ0EQ8519"
+senate_website_keys = [ "FINAF",]
+name = "Finance Sub-Committee \"F\""
+type = "subcommittee"
+congresses = [ 17, 18, 19, 20,]

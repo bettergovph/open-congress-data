@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DMA"
+senate_website_keys = [ "SCRSI",]
+name = "Subcommittee on Rome Statute of the International Criminal Court"
+type = "subcommittee"
+congresses = [ 15, 16, 17, 18, 19, 20,]

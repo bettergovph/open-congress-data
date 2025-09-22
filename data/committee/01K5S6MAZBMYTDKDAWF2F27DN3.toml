@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DN3"
+senate_website_keys = [ "SOCOS",]
+name = "Select Oversight Committee on Suffrage"
+type = "oversight"
+congresses = [ 15, 16, 17, 18, 19, 20,]

@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DM8"
+senate_website_keys = [ "SCRMF",]
+name = "Subcommittee on Rationalization of the Mining Fiscal Regime"
+type = "subcommittee"
+congresses = [ 19, 20,]

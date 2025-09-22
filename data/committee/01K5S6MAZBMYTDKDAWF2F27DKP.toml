@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DKP"
+senate_website_keys = [ "SCIIB",]
+name = "Subcommittee on SRN 1228 - Indiscriminate Issuance of Barangay Certifications"
+type = "subcommittee"
+congresses = [ 19, 20,]

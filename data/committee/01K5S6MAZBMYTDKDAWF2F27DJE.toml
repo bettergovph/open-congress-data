@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DJE"
+senate_website_keys = [ "JOCGP",]
+name = "Jt. Cong. Oversight Committee on the Government Procurement Act"
+type = "joint"
+congresses = [ 13, 14, 15, 16, 17, 18, 19, 20,]

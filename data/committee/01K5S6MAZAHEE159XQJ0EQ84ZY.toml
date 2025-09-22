@@ -1,0 +1,5 @@
+id = "01K5S6MAZAHEE159XQJ0EQ84ZY"
+senate_website_keys = [ "CLIMA", "OCCLC",]
+name = "Oversight Committee on Climate Change"
+type = "oversight"
+congresses = [ 14, 15, 16, 17, 18, 19, 20,]

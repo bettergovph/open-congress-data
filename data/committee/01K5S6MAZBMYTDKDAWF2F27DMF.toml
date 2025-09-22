@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DMF"
+senate_website_keys = [ "SCSRN",]
+name = "Subcommittee on SRNs 253 and 466"
+type = "subcommittee"
+congresses = [ 19, 20,]

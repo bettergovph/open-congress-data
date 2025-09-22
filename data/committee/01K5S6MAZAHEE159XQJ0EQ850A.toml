@@ -1,0 +1,5 @@
+id = "01K5S6MAZAHEE159XQJ0EQ850A"
+senate_website_keys = [ "COCQA", "QUAFM",]
+name = "Cong. Oversight on on Quality Affordable Medicines"
+type = "oversight"
+congresses = [ 14, 15, 16, 17, 18, 19, 20,]

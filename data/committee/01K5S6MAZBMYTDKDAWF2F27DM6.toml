@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DM6"
+senate_website_keys = [ "SCPWI",]
+name = "Subcommittee on the Philippine War on Illegal Drugs"
+type = "subcommittee"
+congresses = [ 19, 20,]

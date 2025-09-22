@@ -1,0 +1,5 @@
+id = "01K5S6MAZAHEE159XQJ0EQ850C"
+senate_website_keys = [ "COCST",]
+name = "Congressional Commission on Science and Technology, and Engineering"
+type = "regular"
+congresses = [ 15, 16, 17, 18, 19, 20,]

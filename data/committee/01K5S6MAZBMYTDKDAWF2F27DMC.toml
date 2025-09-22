@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DMC"
+senate_website_keys = [ "SCSCC",]
+name = "Subcommittee on the Sudden Collapse of the Cabagan-Sta. Maria Bridge in the Province of Isabela"
+type = "subcommittee"
+congresses = [ 19, 20,]

@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DKN"
+senate_website_keys = [ "SCIEN",]
+name = "Science and Technology"
+type = "regular"
+congresses = [ 13, 14, 15, 16, 17, 18, 19, 20,]

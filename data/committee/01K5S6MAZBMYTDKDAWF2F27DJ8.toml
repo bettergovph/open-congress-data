@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DJ8"
+senate_website_keys = [ "JCOCT",]
+name = "Jt. Cong. Oversight Committee on Tourism"
+type = "joint"
+congresses = [ 14, 15, 16, 17, 18, 19, 20,]

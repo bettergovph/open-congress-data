@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DJF"
+senate_website_keys = [ "JOCHS",]
+name = "Joint Oversight Committee on the Human Security Act"
+type = "joint"
+congresses = [ 15, 16, 17, 18, 19, 20,]

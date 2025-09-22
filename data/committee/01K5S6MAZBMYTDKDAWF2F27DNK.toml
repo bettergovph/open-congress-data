@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DNK"
+senate_website_keys = [ "WHOLE",]
+name = "Committee of the Whole"
+type = "regular"
+congresses = [ 13, 14, 15, 16, 17, 18, 19, 20,]

@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DKG"
+senate_website_keys = [ "SCEPS",]
+name = "Subcommittee on Expanded Pshs System Act"
+type = "subcommittee"
+congresses = [ 19, 20,]

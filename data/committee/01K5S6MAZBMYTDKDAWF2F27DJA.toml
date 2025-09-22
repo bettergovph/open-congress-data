@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DJA"
+senate_website_keys = [ "JCORA",]
+name = "Jt. Cong. Oversight Committee on the Alternative Dispute Resolution Act"
+type = "joint"
+congresses = [ 13, 14, 15, 16, 17, 18, 19, 20,]

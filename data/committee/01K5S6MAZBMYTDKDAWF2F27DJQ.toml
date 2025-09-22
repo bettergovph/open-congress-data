@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DJQ"
+senate_website_keys = [ "NDSPU",]
+name = "National Defense and Security, Peace, Unification and Reconciliation"
+type = "regular"
+congresses = [ 18, 19, 20,]

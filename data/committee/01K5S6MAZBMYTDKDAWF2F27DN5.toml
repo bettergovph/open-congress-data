@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DN5"
+senate_website_keys = [ "SPORT",]
+name = "Sports"
+type = "regular"
+congresses = [ 17, 18, 19, 20,]

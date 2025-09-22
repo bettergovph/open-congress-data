@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DJK"
+senate_website_keys = [ "LOCAL",]
+name = "Local Government"
+type = "regular"
+congresses = [ 13, 14, 15, 16, 17, 18, 19, 20,]

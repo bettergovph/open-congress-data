@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DM7"
+senate_website_keys = [ "SCRMC",]
+name = "Special Committee on the Rehabilitation of the Manila Central Post Office"
+type = "special"
+congresses = [ 19, 20,]

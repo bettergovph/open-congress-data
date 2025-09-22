@@ -1,0 +1,5 @@
+id = "01K5S6MAZBMYTDKDAWF2F27DJJ"
+senate_website_keys = [ "LABOR",]
+name = "Labor, Employment and Human Resources Development"
+type = "regular"
+congresses = [ 13, 14, 15, 16, 17, 18, 19, 20,]
