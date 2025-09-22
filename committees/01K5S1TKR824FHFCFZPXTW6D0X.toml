@@ -1,0 +1,5 @@
+id = "01K5S1TKR824FHFCFZPXTW6D0X"
+senate_website_key = "CLIMC"
+name = "Climate Change"
+type = "regular"
+congresses = [ 15, 16, 17, 18,]

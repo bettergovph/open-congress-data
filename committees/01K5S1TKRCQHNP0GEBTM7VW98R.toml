@@ -1,0 +1,5 @@
+id = "01K5S1TKRCQHNP0GEBTM7VW98R"
+senate_website_key = "ENRCC"
+name = "Environment, Natural Resources and Climate Change"
+type = "regular"
+congresses = [ 18, 19, 20,]

@@ -1,0 +1,5 @@
+id = "01K5S1TKRQ27NMY95ZQWABFRST"
+senate_website_key = "SCMPR"
+name = "Subcommittee on Motu Proprio in Relation to SRN 1323"
+type = "subcommittee"
+congresses = [ 19, 20,]

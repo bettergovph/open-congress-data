@@ -1,0 +1,5 @@
+id = "01K5S1TKRVZ3KQDRCRRR2M4D7X"
+senate_website_key = "SOCIF"
+name = "Select Oversight Committee on Intelligence Funds, Programs and Activities"
+type = "oversight"
+congresses = [ 13, 14, 15, 16, 17, 18, 19, 20,]

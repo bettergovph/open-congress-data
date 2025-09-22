@@ -1,0 +1,5 @@
+id = "01K5S1TKRSW4E6T0P9PA2ETPN7"
+senate_website_key = "SCRTL"
+name = "Subcommittee on Psr 1028 (Rice Tariffication Law) and Psr 1024 (Surging Cost of Rice in the Market)"
+type = "subcommittee"
+congresses = [ 19, 20,]

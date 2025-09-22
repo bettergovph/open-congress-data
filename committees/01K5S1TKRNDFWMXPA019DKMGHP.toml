@@ -1,0 +1,5 @@
+id = "01K5S1TKRNDFWMXPA019DKMGHP"
+senate_website_key = "SCAHT"
+name = "Subcommittee on Anti-Human Trafficking"
+type = "subcommittee"
+congresses = [ 15, 16, 17, 18, 19, 20,]

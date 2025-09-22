@@ -1,0 +1,5 @@
+id = "01K5S1TKRPGRFK5J1R88M28PK4"
+senate_website_key = "SCIDM"
+name = "Subcommittee on the Comprehensive Infrastructure Development Master Plan"
+type = "subcommittee"
+congresses = [ 19, 20,]

@@ -1,0 +1,5 @@
+id = "01K5S1TKRDM1DZ7PE7S7CN46WY"
+senate_website_key = "ETHIC"
+name = "Ethics and Privileges"
+type = "regular"
+congresses = [ 13, 14, 15, 16, 17, 18, 19, 20,]

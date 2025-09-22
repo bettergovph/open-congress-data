@@ -1,0 +1,5 @@
+id = "01K5S1TKRTDZJANGAEXTZK07P4"
+senate_website_key = "SHELD"
+name = "Subcommittee on Hearing Loss Detection"
+type = "subcommittee"
+congresses = [ 14,]

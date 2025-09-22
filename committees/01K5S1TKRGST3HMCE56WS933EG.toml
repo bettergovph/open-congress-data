@@ -1,0 +1,5 @@
+id = "01K5S1TKRGST3HMCE56WS933EG"
+senate_website_key = "INTEL"
+name = "Oversight Committee on Intelligence and Confidential Funds"
+type = "oversight"
+congresses = [ 13, 14, 15, 16, 17, 18, 19, 20,]

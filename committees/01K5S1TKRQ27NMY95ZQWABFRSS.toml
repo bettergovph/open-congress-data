@@ -1,0 +1,5 @@
+id = "01K5S1TKRQ27NMY95ZQWABFRSS"
+senate_website_key = "SCMIN"
+name = "Subcommittee on SRN 1310 (Philippine Mining Act [Exploration Permits and Mineral Agreements])"
+type = "subcommittee"
+congresses = [ 19, 20,]

@@ -1,0 +1,5 @@
+id = "01K5S1TKRSW4E6T0P9PA2ETPNC"
+senate_website_key = "SCTPL"
+name = "Subcommittee on Trabaho Para Sa Lahat Ng Filipino Act"
+type = "subcommittee"
+congresses = [ 19, 20,]

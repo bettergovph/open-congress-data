@@ -1,0 +1,5 @@
+id = "01K5S1TKRWTPFR30MYZTAXNTZM"
+senate_website_key = "TOURI"
+name = "Tourism"
+type = "regular"
+congresses = [ 13, 14, 15, 16, 17, 18, 19, 20,]

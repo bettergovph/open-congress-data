@@ -1,0 +1,5 @@
+id = "01K5S1TKRCQHNP0GEBTM7VW98J"
+senate_website_key = "EASUB"
+name = "Economic Affairs (Sub-Committee on Pencas Law and Blue Economy}"
+type = "subcommittee"
+congresses = [ 19, 20,]

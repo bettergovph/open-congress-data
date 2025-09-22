@@ -1,0 +1,5 @@
+id = "01K5S1TKREXGZGG1N91PC9VECH"
+senate_website_key = "FINAM"
+name = "Finance Sub-Committee \"M\""
+type = "subcommittee"
+congresses = [ 19, 20,]

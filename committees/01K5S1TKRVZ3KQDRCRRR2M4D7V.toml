@@ -1,0 +1,5 @@
+id = "01K5S1TKRVZ3KQDRCRRR2M4D7V"
+senate_website_key = "SOCEA"
+name = "Special Oversight Committee on  Economic Affairs"
+type = "special"
+congresses = [ 14, 15, 16, 17, 18, 19, 20,]

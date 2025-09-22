@@ -1,0 +1,5 @@
+id = "01K5S1TKRX057CDFGAP3YMMX4P"
+senate_website_key = "URBAN"
+name = "Urban Planning, Housing and Resettlement"
+type = "regular"
+congresses = [ 13, 14, 15, 16, 17, 18, 19, 20,]

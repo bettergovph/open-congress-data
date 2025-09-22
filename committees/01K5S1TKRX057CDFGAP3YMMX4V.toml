@@ -1,0 +1,5 @@
+id = "01K5S1TKRX057CDFGAP3YMMX4V"
+senate_website_key = "YOUTH"
+name = "Youth"
+type = "regular"
+congresses = [ 16, 17, 18, 19, 20,]

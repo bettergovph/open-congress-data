@@ -1,0 +1,5 @@
+id = "01K5S1TKRPGRFK5J1R88M28PK2"
+senate_website_key = "SCFIN"
+name = "Subcommittee on Finance"
+type = "subcommittee"
+congresses = [ 18, 19, 20,]

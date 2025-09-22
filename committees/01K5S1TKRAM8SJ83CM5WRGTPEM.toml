@@ -1,0 +1,5 @@
+id = "01K5S1TKRAM8SJ83CM5WRGTPEM"
+senate_website_key = "COCTR"
+name = "Cong. Oversight on on Comprehensive Tax Reform Program"
+type = "oversight"
+congresses = [ 17, 18, 19, 20,]

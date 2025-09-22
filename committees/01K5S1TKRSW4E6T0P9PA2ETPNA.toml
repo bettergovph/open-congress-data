@@ -1,0 +1,5 @@
+id = "01K5S1TKRSW4E6T0P9PA2ETPNA"
+senate_website_key = "SCSPO"
+name = "Subcommittee on Sports"
+type = "subcommittee"
+congresses = [ 15, 16, 17, 18, 19, 20,]

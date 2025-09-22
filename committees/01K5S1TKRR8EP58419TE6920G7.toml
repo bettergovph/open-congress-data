@@ -1,0 +1,5 @@
+id = "01K5S1TKRR8EP58419TE6920G7"
+senate_website_key = "SCPQF"
+name = "Subcommittee on Philippine Qualifications Framework"
+type = "subcommittee"
+congresses = [ 19, 20,]

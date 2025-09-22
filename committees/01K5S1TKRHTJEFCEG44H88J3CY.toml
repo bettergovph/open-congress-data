@@ -1,0 +1,5 @@
+id = "01K5S1TKRHTJEFCEG44H88J3CY"
+senate_website_key = "JCOCO"
+name = "Jt. Cong. Oversight Committee on Overseas Workers Affairs"
+type = "joint"
+congresses = [ 15, 16, 17, 18, 19, 20,]

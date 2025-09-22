@@ -1,0 +1,5 @@
+id = "01K5S1TKRMPF6Q7X2T3EJ3TMR3"
+senate_website_key = "RULES"
+name = "Rules"
+type = "regular"
+congresses = [ 13, 14, 15, 16, 17, 18, 19, 20,]

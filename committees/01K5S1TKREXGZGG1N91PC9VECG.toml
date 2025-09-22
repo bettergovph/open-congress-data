@@ -1,0 +1,5 @@
+id = "01K5S1TKREXGZGG1N91PC9VECG"
+senate_website_key = "FINAL"
+name = "Finance Sub-Committee \"L\""
+type = "subcommittee"
+congresses = [ 18, 19, 20,]

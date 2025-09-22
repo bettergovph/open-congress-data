@@ -1,0 +1,5 @@
+id = "01K5S1TKRNDFWMXPA019DKMGHV"
+senate_website_key = "SCCAC"
+name = "Subcommittee on Children in Armed Conflict"
+type = "subcommittee"
+congresses = [ 15, 16, 17, 18, 19, 20,]

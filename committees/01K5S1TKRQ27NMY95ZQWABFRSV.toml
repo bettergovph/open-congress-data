@@ -1,0 +1,5 @@
+id = "01K5S1TKRQ27NMY95ZQWABFRSV"
+senate_website_key = "SCMRC"
+name = "Subcommittee on Medical Reserve Corps"
+type = "subcommittee"
+congresses = [ 19, 20,]

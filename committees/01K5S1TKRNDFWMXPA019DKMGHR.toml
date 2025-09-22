@@ -1,0 +1,5 @@
+id = "01K5S1TKRNDFWMXPA019DKMGHR"
+senate_website_key = "SCAPT"
+name = "Subcommittee on Amendments to the Philippine Teachers Professionalization Act"
+type = "subcommittee"
+congresses = [ 19, 20,]

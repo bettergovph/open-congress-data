@@ -1,0 +1,5 @@
+id = "01K5S1TKRTDZJANGAEXTZK07P1"
+senate_website_key = "SFINA"
+name = "Subcommittee on Finance"
+type = "subcommittee"
+congresses = [ 14,]

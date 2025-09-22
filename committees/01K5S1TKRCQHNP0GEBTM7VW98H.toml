@@ -1,0 +1,5 @@
+id = "01K5S1TKRCQHNP0GEBTM7VW98H"
+senate_website_key = "DEFEN"
+name = "National Defense and Security"
+type = "regular"
+congresses = [ 13, 14, 15, 16, 17, 18,]

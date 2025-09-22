@@ -1,0 +1,5 @@
+id = "01K5S1TKRNDFWMXPA019DKMGHQ"
+senate_website_key = "SCAML"
+name = "Subcommittee on Anti-Money Laundering Law Amendments"
+type = "subcommittee"
+congresses = [ 15, 16, 17, 18, 19, 20,]

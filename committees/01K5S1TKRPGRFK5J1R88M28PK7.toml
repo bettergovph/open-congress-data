@@ -1,0 +1,5 @@
+id = "01K5S1TKRPGRFK5J1R88M28PK7"
+senate_website_key = "SCJPS"
+name = "Subcommittee on Jose Panganiban Special Ecozone and Freeport Act"
+type = "subcommittee"
+congresses = [ 19, 20,]

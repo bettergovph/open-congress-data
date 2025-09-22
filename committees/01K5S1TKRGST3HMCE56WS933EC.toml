@@ -1,0 +1,5 @@
+id = "01K5S1TKRGST3HMCE56WS933EC"
+senate_website_key = "HUMAN"
+name = "Justice and Human Rights"
+type = "regular"
+congresses = [ 13, 14, 15, 16, 17, 18, 19, 20,]

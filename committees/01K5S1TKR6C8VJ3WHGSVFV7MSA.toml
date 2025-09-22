@@ -1,0 +1,5 @@
+id = "01K5S1TKR6C8VJ3WHGSVFV7MSA"
+senate_website_key = "BANKS"
+name = "Banks, Financial Institutions and Currencies"
+type = "regular"
+congresses = [ 13, 14, 15, 16, 17, 18, 19, 20,]
