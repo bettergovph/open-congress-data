@@ -4,5 +4,6 @@ congress_website_author_keys = [ "C011",]
 full_name = "Andaya, Rolando Jr. G."
 last_name = "Andaya"
 first_name = "Rolando"
-middle_name = "Jr G"
+middle_name = "G"
 congresses = [ 11, 12, 13, 15, 16, 17,]
+name_suffix = "Jr"

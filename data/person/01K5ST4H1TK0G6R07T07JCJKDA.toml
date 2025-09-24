@@ -4,5 +4,6 @@ congress_website_author_keys = [ "I072",]
 full_name = "Yap, Melecio Jr. J."
 last_name = "Yap"
 first_name = "Melecio"
-middle_name = "Jr J"
+middle_name = "J"
 congresses = [ 17,]
+name_suffix = "Jr"

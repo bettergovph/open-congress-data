@@ -4,5 +4,6 @@ congress_website_author_keys = [ "E026",]
 full_name = "Defensor, Matias, Jr. V."
 last_name = "Defensor"
 first_name = "Matias,"
-middle_name = "Jr V"
+middle_name = "V"
 congresses = [ 13, 14,]
+name_suffix = "Jr"

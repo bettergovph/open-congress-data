@@ -4,6 +4,6 @@ congress_website_author_keys = [ "G049",]
 full_name = "Gonzalez, Fernando V."
 last_name = "Gonzalez"
 first_name = "Fernando"
-middle_name = "V"
 aliases = [ "Nando",]
 congresses = [ 15, 16, 17,]
+name_suffix = "V"

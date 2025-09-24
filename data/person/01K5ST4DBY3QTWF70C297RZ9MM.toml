@@ -4,5 +4,6 @@ congress_website_author_keys = [ "E055",]
 full_name = "Roquero, Eduardo V. , M.D."
 last_name = "Roquero"
 first_name = "Eduardo"
-middle_name = "V , Md"
+middle_name = "V"
 congresses = [ 13,]
+professional_designations = [ "M.D.",]

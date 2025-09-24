@@ -4,6 +4,6 @@ congress_website_author_keys = [ "0050",]
 full_name = "Cuenco, Antonio V."
 last_name = "Cuenco"
 first_name = "Antonio"
-middle_name = "V"
 aliases = [ "Tony",]
 congresses = [ 9, 10, 12, 13, 14,]
+name_suffix = "V"

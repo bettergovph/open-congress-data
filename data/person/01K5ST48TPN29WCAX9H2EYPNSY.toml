@@ -4,5 +4,6 @@ congress_website_author_keys = [ "H041",]
 full_name = "Leonardia, Evelio \"Bing\" R."
 last_name = "Leonardia"
 first_name = "Evelio"
-middle_name = "\"Bing\" R"
+middle_name = "R"
 congresses = [ 16,]
+aliases = [ "Bing",]

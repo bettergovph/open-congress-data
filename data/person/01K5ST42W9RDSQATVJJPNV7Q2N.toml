@@ -4,5 +4,6 @@ congress_website_author_keys = [ "I012",]
 full_name = "Cagas, Mercedes \"Didi\" C."
 last_name = "Cagas"
 first_name = "Mercedes"
-middle_name = "\"Didi\" C"
+middle_name = "C"
 congresses = [ 17, 18,]
+aliases = [ "Didi",]

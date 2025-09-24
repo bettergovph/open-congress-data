@@ -4,5 +4,6 @@ congress_website_author_keys = [ "E020",]
 full_name = "Bravo, Narciso Jr. R."
 last_name = "Bravo"
 first_name = "Narciso"
-middle_name = "Jr R"
+middle_name = "R"
 congresses = [ 13, 14, 15, 18,]
+name_suffix = "Jr"

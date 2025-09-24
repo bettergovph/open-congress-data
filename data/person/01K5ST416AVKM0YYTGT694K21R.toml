@@ -4,5 +4,6 @@ congress_website_author_keys = [ "H065",]
 full_name = "Atienza, Jose Jr. L."
 last_name = "Atienza"
 first_name = "Jose"
-middle_name = "Jr L"
+middle_name = "L"
 congresses = [ 16, 17, 18,]
+name_suffix = "Jr"

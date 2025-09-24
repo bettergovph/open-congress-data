@@ -4,5 +4,5 @@ congress_website_author_keys = [ "0108",]
 full_name = "Del Mar, Raul V."
 last_name = "Del Mar"
 first_name = "Raul"
-middle_name = "V"
 congresses = [ 9, 10, 12, 13, 14, 16, 17, 18,]
+name_suffix = "V"

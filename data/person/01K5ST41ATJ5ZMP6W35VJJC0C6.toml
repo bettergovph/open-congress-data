@@ -4,5 +4,6 @@ congress_website_author_keys = [ "J010",]
 full_name = "Babasa, Leonardo Jr. L."
 last_name = "Babasa"
 first_name = "Leonardo"
-middle_name = "Jr L"
+middle_name = "L"
 congresses = [ 18,]
+name_suffix = "Jr"

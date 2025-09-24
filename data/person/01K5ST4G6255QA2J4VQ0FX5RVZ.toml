@@ -4,6 +4,6 @@ congress_website_author_keys = [ "I070",]
 full_name = "Vergara, Rosanna \"Ria\" V."
 last_name = "Vergara"
 first_name = "Rosanna"
-middle_name = "\"Ria\" V"
 aliases = [ "Ria",]
 congresses = [ 17, 18, 19,]
+name_suffix = "V"

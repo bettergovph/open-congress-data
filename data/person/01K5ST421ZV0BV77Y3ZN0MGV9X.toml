@@ -4,5 +4,6 @@ congress_website_author_keys = [ "I077",]
 full_name = "Belmonte,  Ricardo \"RJ\" T."
 last_name = "Belmonte"
 first_name = "Ricardo"
-middle_name = "\"Rj\" T"
+middle_name = "T"
 congresses = [ 17,]
+aliases = [ "RJ",]

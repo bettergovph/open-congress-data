@@ -4,5 +4,6 @@ congress_website_author_keys = [ "0072",]
 full_name = "Garcia, Enrique Jr. T."
 last_name = "Garcia"
 first_name = "Enrique"
-middle_name = "Jr T"
+middle_name = "T"
 congresses = [ 10, 11, 12, 16,]
+name_suffix = "Jr"

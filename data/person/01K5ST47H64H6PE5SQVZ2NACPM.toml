@@ -4,5 +4,6 @@ congress_website_author_keys = [ "B015",]
 full_name = "Gonzales, Neptali II M."
 last_name = "Gonzales"
 first_name = "Neptali"
-middle_name = "Ii M"
+middle_name = "M"
 congresses = [ 10, 11, 12, 14, 15, 16, 18, 19,]
+name_suffix = "II"

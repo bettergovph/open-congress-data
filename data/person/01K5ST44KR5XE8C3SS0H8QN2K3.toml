@@ -4,5 +4,6 @@ congress_website_author_keys = [ "I110",]
 full_name = "Datol, Francisco Jr. G."
 last_name = "Datol"
 first_name = "Francisco"
-middle_name = "Jr G"
+middle_name = "G"
 congresses = [ 17, 18,]
+name_suffix = "Jr"

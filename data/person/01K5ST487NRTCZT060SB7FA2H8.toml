@@ -4,5 +4,6 @@ congress_website_author_keys = [ "B019",]
 full_name = "Jalosjos, Romeo Jr. M."
 last_name = "Jalosjos"
 first_name = "Romeo"
-middle_name = "Jr M"
+middle_name = "M"
 congresses = [ 10, 11, 12, 15, 18,]
+name_suffix = "Jr"

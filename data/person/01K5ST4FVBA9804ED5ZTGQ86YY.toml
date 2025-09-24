@@ -4,5 +4,6 @@ congress_website_author_keys = [ "J079",]
 full_name = "Valmayor, Gerardo Jr. P."
 last_name = "Valmayor"
 first_name = "Gerardo"
-middle_name = "Jr P"
+middle_name = "P"
 congresses = [ 18, 19,]
+name_suffix = "Jr"

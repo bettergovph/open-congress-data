@@ -4,5 +4,6 @@ congress_website_author_keys = [ "J001",]
 full_name = "Abueg-Zaldivar, Cyrille \"Beng\" F."
 last_name = "Abueg-Zaldivar"
 first_name = "Cyrille"
-middle_name = "\"Beng\" F"
+middle_name = "F"
+aliases = [ "Beng",]
 congresses = [ 18,]

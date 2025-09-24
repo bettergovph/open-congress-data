@@ -4,6 +4,6 @@ congress_website_author_keys = [ "C089",]
 full_name = "Paras, Jacinto V."
 last_name = "Paras"
 first_name = "Jacinto"
-middle_name = "V"
 aliases = [ "Jing",]
 congresses = [ 11, 12, 13,]
+name_suffix = "V"

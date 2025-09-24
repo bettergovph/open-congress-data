@@ -4,5 +4,5 @@ congress_website_author_keys = [ "G058",]
 full_name = "Lopez, Carlo V."
 last_name = "Lopez"
 first_name = "Carlo"
-middle_name = "V"
 congresses = [ 15, 16, 17,]
+name_suffix = "V"

@@ -4,5 +4,5 @@ congress_website_author_keys = [ "J087", "K124",]
 full_name = "Bustos, Jorge \"PATROL\""
 last_name = "Bustos"
 first_name = "Jorge"
-middle_name = "\"Patrol\""
 congresses = [ 18, 19,]
+aliases = [ "Patrol",]

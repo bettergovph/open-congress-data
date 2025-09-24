@@ -4,5 +4,6 @@ congress_website_author_keys = [ "G001",]
 full_name = "Acharon, Pedro Jr. B."
 last_name = "Acharon"
 first_name = "Pedro"
-middle_name = "Jr B"
+middle_name = "B"
 congresses = [ 15, 16, 17,]
+name_suffix = "Jr"

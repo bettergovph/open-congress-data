@@ -4,5 +4,6 @@ congress_website_author_keys = [ "H047",]
 full_name = "Pancho, Gavini  \"Apol\" C."
 last_name = "Pancho"
 first_name = "Gavini"
-middle_name = "\"Apol\" C"
+middle_name = "C"
 congresses = [ 16, 17, 18,]
+aliases = [ "Apol",]

@@ -4,5 +4,6 @@ congress_website_author_keys = [ "I049",]
 full_name = "Pacquiao, Rogelio \"Ruel\" D."
 last_name = "Pacquiao"
 first_name = "Rogelio"
-middle_name = "\"Ruel\" D"
+middle_name = "D"
 congresses = [ 17, 18,]
+aliases = [ "Ruel",]

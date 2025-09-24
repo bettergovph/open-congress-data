@@ -4,5 +4,6 @@ congress_website_author_keys = [ "H004",]
 full_name = "Abueg, Frederick \"Erick\" F."
 last_name = "Abueg"
 first_name = "Frederick"
-middle_name = "\"Erick\" F"
+middle_name = "F"
+aliases = [ "Erick",]
 congresses = [ 16, 17,]

@@ -4,6 +4,6 @@ congress_website_author_keys = [ "G007",]
 full_name = "Apacible, Tomas V."
 last_name = "Apacible"
 first_name = "Tomas"
-middle_name = "V"
 aliases = [ "Tom",]
 congresses = [ 15,]
+name_suffix = "V"

@@ -4,6 +4,6 @@ congress_website_author_keys = [ "E052",]
 full_name = "PUNO, RONALDO V."
 last_name = "Puno"
 first_name = "Ronaldo"
-middle_name = "V"
 aliases = [ "Ronaldo V. Puno",]
 congresses = [ 13, 103,]
+name_suffix = "V"

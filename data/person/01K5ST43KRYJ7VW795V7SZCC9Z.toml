@@ -4,6 +4,5 @@ congress_website_author_keys = [ "K142",]
 full_name = "CENDAÑA, PERCIVAL \"PERCI\""
 last_name = "Cendaña"
 first_name = "Percival"
-middle_name = "\"Perci\""
-aliases = [ "Percival \"Perci\" Cendaña",]
+aliases = [ "Percival \"Perci\" Cendaña", "Perci",]
 congresses = [ 19, 103,]

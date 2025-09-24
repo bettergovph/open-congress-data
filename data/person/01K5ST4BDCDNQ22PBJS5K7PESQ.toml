@@ -4,6 +4,6 @@ congress_website_author_keys = [ "J056",]
 full_name = "Peña, Romulo \"Kid\" Jr."
 last_name = "Peña"
 first_name = "Romulo"
-middle_name = "\"Kid\" Jr"
 aliases = [ "Kid",]
 congresses = [ 18, 19,]
+name_suffix = "Jr"

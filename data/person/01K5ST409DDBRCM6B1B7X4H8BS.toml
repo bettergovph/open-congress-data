@@ -4,5 +4,6 @@ congress_website_author_keys = [ "H008",]
 full_name = "Alcala, Vicente \"Kulit\" J."
 last_name = "Alcala"
 first_name = "Vicente"
-middle_name = "\"Kulit\" J"
+middle_name = "J"
 congresses = [ 16, 17,]
+aliases = [ "Kulit",]

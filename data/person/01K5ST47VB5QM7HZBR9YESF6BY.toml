@@ -4,5 +4,6 @@ congress_website_author_keys = [ "G050",]
 full_name = "Haresco, Teodorico Jr. T."
 last_name = "Haresco"
 first_name = "Teodorico"
-middle_name = "Jr T"
+middle_name = "T"
 congresses = [ 15, 16, 18, 19,]
+name_suffix = "Jr"

@@ -4,5 +4,6 @@ congress_website_author_keys = [ "F121",]
 full_name = "Palparan, Jovito Jr. S."
 last_name = "Palparan"
 first_name = "Jovito"
-middle_name = "Jr S"
+middle_name = "S"
 congresses = [ 14,]
+name_suffix = "Jr"

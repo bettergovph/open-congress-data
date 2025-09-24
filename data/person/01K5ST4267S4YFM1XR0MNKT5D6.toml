@@ -4,5 +4,6 @@ congress_website_author_keys = [ "G016",]
 full_name = "Bernos, Maria Jocelyn V."
 last_name = "Bernos"
 first_name = "Maria"
-middle_name = "Jocelyn V"
+middle_name = "Jocelyn"
 congresses = [ 15, 16,]
+name_suffix = "V"

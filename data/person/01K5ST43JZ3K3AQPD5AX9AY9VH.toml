@@ -1,8 +1,9 @@
 id = "01K5ST43JZ3K3AQPD5AX9AY9VH"
 congress_website_primary_keys = [ 976,]
 congress_website_author_keys = [ "J022",]
-full_name = "Celeste, Arnold  \"Noli\" D."
+full_name = "Celeste, Arnold \"Noli\" D."
 last_name = "Celeste"
 first_name = "Arnold"
-middle_name = "\"Noli\" D"
+middle_name = "D"
 congresses = [ 18,]
+aliases = [ "Noli",]

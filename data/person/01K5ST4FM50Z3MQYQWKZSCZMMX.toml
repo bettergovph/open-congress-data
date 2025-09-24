@@ -4,5 +4,6 @@ congress_website_author_keys = [ "J076",]
 full_name = "Ty, Diego \"Nonoy\" C."
 last_name = "Ty"
 first_name = "Diego"
-middle_name = "\"Nonoy\" C"
+middle_name = "C"
 congresses = [ 18,]
+aliases = [ "Nonoy",]

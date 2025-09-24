@@ -4,5 +4,6 @@ congress_website_author_keys = [ "I106",]
 full_name = "Acosta, Gil \"Kabarangay\" P."
 last_name = "Acosta"
 first_name = "Gil"
-middle_name = "\"Kabarangay\" P"
+middle_name = "P"
 congresses = [ 17,]
+aliases = [ "Kabarangay",]

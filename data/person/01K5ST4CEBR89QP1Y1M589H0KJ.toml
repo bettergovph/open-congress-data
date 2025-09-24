@@ -4,5 +4,6 @@ congress_website_author_keys = [ "I057",]
 full_name = "Rocamora, Ramon V. A.\"Rav\""
 last_name = "Rocamora"
 first_name = "Ramon"
-middle_name = "V A\"Rav\""
+middle_name = "A"
 congresses = [ 17,]
+aliases = [ "Rav",]

@@ -4,5 +4,6 @@ congress_website_author_keys = [ "H059",]
 full_name = "Tejada, Jose  \"PingPing\" I."
 last_name = "Tejada"
 first_name = "Jose"
-middle_name = "\"Pingping\" I"
+middle_name = "I"
 congresses = [ 16, 17, 18,]
+aliases = [ "PingPing",]

@@ -4,5 +4,6 @@ congress_website_author_keys = [ "F089",]
 full_name = "Piamonte, Mariano Jr. U."
 last_name = "Piamonte"
 first_name = "Mariano"
-middle_name = "Jr U"
+middle_name = "U"
 congresses = [ 14, 15, 16,]
+name_suffix = "Jr"

@@ -4,5 +4,6 @@ congress_website_author_keys = [ "H020",]
 full_name = "Calalay, Francisco Jr. A."
 last_name = "Calalay"
 first_name = "Francisco"
-middle_name = "Jr A"
+middle_name = "A"
 congresses = [ 16,]
+name_suffix = "Jr"

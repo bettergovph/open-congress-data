@@ -4,5 +4,6 @@ congress_website_author_keys = [ "J121",]
 full_name = "Nolasco, Ramon Jr. C."
 last_name = "Nolasco"
 first_name = "Ramon"
-middle_name = "Jr C"
+middle_name = "C"
 congresses = [ 18, 19,]
+name_suffix = "Jr"

@@ -4,5 +4,6 @@ congress_website_author_keys = [ "H023",]
 full_name = "Chipeco, Joaquin Jr. M."
 last_name = "Chipeco"
 first_name = "Joaquin"
-middle_name = "Jr M"
+middle_name = "M"
 congresses = [ 16, 17, 18,]
+name_suffix = "Jr"

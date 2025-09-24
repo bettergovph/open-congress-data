@@ -4,6 +4,6 @@ congress_website_author_keys = [ "F115",]
 full_name = "Arquiza, Godofredo V."
 last_name = "Arquiza"
 first_name = "Godofredo"
-middle_name = "V"
 aliases = [ "Fred",]
 congresses = [ 14, 15,]
+name_suffix = "V"

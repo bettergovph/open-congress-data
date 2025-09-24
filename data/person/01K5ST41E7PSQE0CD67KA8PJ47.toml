@@ -4,5 +4,6 @@ congress_website_author_keys = [ "G010",]
 full_name = "Baguilat, Teddy Jr. Brawner"
 last_name = "Baguilat"
 first_name = "Teddy"
-middle_name = "Jr Brawner"
+middle_name = "Brawner"
 congresses = [ 15, 16, 17,]
+name_suffix = "Jr"

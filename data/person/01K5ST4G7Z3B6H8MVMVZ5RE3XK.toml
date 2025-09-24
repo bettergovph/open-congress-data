@@ -4,5 +4,6 @@ congress_website_author_keys = [ "K125",]
 full_name = "Verzosa, Samuel Jr. S."
 last_name = "Verzosa"
 first_name = "Samuel"
-middle_name = "Jr S"
+middle_name = "S"
 congresses = [ 19,]
+name_suffix = "Jr"

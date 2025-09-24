@@ -4,5 +4,6 @@ congress_website_author_keys = [ "H032",]
 full_name = "Guiao, Joseller \"Yeng\" M."
 last_name = "Guiao"
 first_name = "Joseller"
-middle_name = "\"Yeng\" M"
+middle_name = "M"
 congresses = [ 16,]
+aliases = [ "Yeng",]

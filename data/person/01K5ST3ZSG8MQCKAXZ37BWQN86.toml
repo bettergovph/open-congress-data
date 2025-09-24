@@ -4,5 +4,6 @@ congress_website_author_keys = [ "0004",]
 full_name = "Ablan, Roque Jr. R."
 last_name = "Ablan"
 first_name = "Roque"
-middle_name = "Jr R"
+middle_name = "R"
 congresses = [ 9, 10, 12, 13, 14,]
+name_suffix = "Jr"

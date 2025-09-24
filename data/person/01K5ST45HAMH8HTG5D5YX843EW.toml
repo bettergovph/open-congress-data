@@ -4,5 +4,5 @@ congress_website_author_keys = [ "C042",]
 full_name = "Echiverri, Enrico \"Recom\""
 last_name = "Echiverri"
 first_name = "Enrico"
-middle_name = "\"Recom\""
 congresses = [ 11, 12, 16,]
+aliases = [ "Recom",]

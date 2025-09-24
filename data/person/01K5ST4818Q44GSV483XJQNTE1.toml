@@ -4,5 +4,6 @@ congress_website_author_keys = [ "H069",]
 full_name = "Hicap, Fernando \"Ka Pando\" L."
 last_name = "Hicap"
 first_name = "Fernando"
-middle_name = "\"Ka Pando\" L"
+middle_name = "L"
 congresses = [ 16,]
+aliases = [ "Ka Pando",]

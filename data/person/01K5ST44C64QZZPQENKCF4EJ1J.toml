@@ -4,5 +4,6 @@ congress_website_author_keys = [ "J092",]
 full_name = "Cullamat, Eufemia \"Ka Femia\" C."
 last_name = "Cullamat"
 first_name = "Eufemia"
-middle_name = "\"Ka Femia\" C"
+middle_name = "C"
 congresses = [ 18,]
+aliases = [ "Ka Femia",]

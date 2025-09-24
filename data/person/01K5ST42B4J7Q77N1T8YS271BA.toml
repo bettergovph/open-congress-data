@@ -4,5 +4,6 @@ congress_website_author_keys = [ "H018",]
 full_name = "Biron, Hernan Jr. G."
 last_name = "Biron"
 first_name = "Hernan"
-middle_name = "Jr G"
+middle_name = "G"
 congresses = [ 16,]
+name_suffix = "Jr"

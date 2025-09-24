@@ -4,5 +4,6 @@ congress_website_author_keys = [ "I065", "J122",]
 full_name = "Suansing, Horacio Jr. P."
 last_name = "Suansing"
 first_name = "Horacio"
-middle_name = "Jr P"
+middle_name = "P"
 congresses = [ 17, 18, 19,]
+name_suffix = "Jr"

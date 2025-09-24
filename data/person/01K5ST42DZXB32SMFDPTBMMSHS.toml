@@ -4,5 +4,6 @@ congress_website_author_keys = [ "I010",]
 full_name = "Bordado, Gabriel Jr. H."
 last_name = "Bordado"
 first_name = "Gabriel"
-middle_name = "Jr H"
+middle_name = "H"
 congresses = [ 17, 18, 19,]
+name_suffix = "Jr"

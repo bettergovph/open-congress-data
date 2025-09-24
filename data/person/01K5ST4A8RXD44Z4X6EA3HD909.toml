@@ -4,5 +4,6 @@ congress_website_author_keys = [ "I087",]
 full_name = "Montoro, Teodoro \"Ted\" G."
 last_name = "Montoro"
 first_name = "Teodoro"
-middle_name = "\"Ted\" G"
+middle_name = "G"
+aliases = ["Ted", ]
 congresses = [ 17,]

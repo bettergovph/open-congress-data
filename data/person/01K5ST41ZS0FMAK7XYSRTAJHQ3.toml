@@ -4,5 +4,6 @@ congress_website_author_keys = [ "A013",]
 full_name = "Belmonte, Feliciano Jr. R."
 last_name = "Belmonte"
 first_name = "Feliciano"
-middle_name = "Jr R"
+middle_name = "R"
 congresses = [ 9, 10, 11, 15, 16, 17,]
+name_suffix = "Jr"
