@@ -6,4 +6,18 @@ last_name = "Hontiveros-Baraquel"
 first_name = "Ana"
 middle_name = "Theresia 'Risa'"
 aliases = [ "Risa",]
-congresses = [ 13, 14, 17,]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

@@ -5,5 +5,19 @@ full_name = "Tejada, Jose  \"PingPing\" I."
 last_name = "Tejada"
 first_name = "Jose"
 middle_name = "I"
-congresses = [ 16, 17, 18,]
 aliases = [ "PingPing",]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

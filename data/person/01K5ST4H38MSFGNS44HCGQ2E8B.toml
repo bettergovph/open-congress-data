@@ -5,4 +5,18 @@ full_name = "Yu, Divina Grace C."
 last_name = "Yu"
 first_name = "Divina"
 middle_name = "Grace C"
-congresses = [ 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

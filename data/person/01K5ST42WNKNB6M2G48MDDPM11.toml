@@ -5,4 +5,18 @@ full_name = "Cajayon-Uy, Mary Mitzi L."
 last_name = "Cajayon-Uy"
 first_name = "Mary"
 middle_name = "Mitzi L"
-congresses = [ 14, 15, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

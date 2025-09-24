@@ -5,4 +5,18 @@ full_name = "Sy-Alvarado, Ma. Victoria R."
 last_name = "Sy-Alvarado"
 first_name = "Ma."
 middle_name = "Victoria R"
-congresses = [ 14, 15, 16,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

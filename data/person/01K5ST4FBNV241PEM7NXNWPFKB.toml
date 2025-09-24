@@ -4,4 +4,18 @@ congress_website_author_keys = [ "H060",]
 full_name = "Tolentino, Abraham"
 last_name = "Tolentino"
 first_name = "Abraham"
-congresses = [ 16, 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

@@ -5,4 +5,8 @@ full_name = "Acop, Resurreccion M."
 last_name = "Acop"
 first_name = "Resurreccion"
 middle_name = "M"
-congresses = [ 18,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

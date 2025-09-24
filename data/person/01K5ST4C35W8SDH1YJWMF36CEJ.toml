@@ -5,4 +5,8 @@ full_name = "Revilla, Juan Johnny R."
 last_name = "Revilla"
 first_name = "Juan"
 middle_name = "Johnny R"
-congresses = [ 16,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

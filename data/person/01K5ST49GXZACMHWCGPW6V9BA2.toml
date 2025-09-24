@@ -6,4 +6,13 @@ last_name = "Mangudadatu"
 first_name = "Suharto"
 middle_name = "'Teng' T"
 aliases = [ "Teng",]
-congresses = [ 13, 17,]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

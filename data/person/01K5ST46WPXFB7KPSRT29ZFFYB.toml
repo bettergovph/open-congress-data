@@ -5,4 +5,23 @@ full_name = "Garcia, Pablo John F."
 last_name = "Garcia"
 first_name = "Pablo"
 middle_name = "John F"
-congresses = [ 14, 15, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

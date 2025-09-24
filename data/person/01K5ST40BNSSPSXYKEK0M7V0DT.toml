@@ -5,4 +5,8 @@ full_name = "Alfonso, Samantha Louise Vargas"
 last_name = "Alfonso"
 first_name = "Samantha"
 middle_name = "Louise Vargas"
-congresses = [ 18,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

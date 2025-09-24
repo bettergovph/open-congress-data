@@ -4,5 +4,29 @@ congress_website_author_keys = [ "F054",]
 full_name = "Puno, Roberto V."
 last_name = "Puno"
 first_name = "Roberto"
-congresses = [ 14, 15, 16, 18, 19,]
 name_suffix = "V"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

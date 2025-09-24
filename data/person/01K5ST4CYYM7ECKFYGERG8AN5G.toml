@@ -5,4 +5,18 @@ full_name = "Roman, Geraldine B."
 last_name = "Roman"
 first_name = "Geraldine"
 middle_name = "B"
-congresses = [ 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

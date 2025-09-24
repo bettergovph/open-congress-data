@@ -5,4 +5,13 @@ full_name = "Salimbangon, Janice Z."
 last_name = "Salimbangon"
 first_name = "Janice"
 middle_name = "Z"
-congresses = [ 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

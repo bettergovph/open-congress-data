@@ -6,6 +6,20 @@ last_name = "Matugas"
 first_name = "Francisco Jose"
 middle_name = "F"
 aliases = [ "Bingo",]
-congresses = [ 17, 18, 19,]
 name_suffix = "II"
 professional_designations = ["CPA", "CESO", "LLB"]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

@@ -4,4 +4,18 @@ congress_website_author_keys = [ "H007",]
 full_name = "Advincula, Alex"
 last_name = "Advincula"
 first_name = "Alex"
-congresses = [ 16, 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

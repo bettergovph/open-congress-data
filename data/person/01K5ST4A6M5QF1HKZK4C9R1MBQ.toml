@@ -5,4 +5,18 @@ full_name = "Mirasol, Alejandro Y."
 last_name = "Mirasol"
 first_name = "Alejandro"
 middle_name = "Y"
-congresses = [ 15, 16, 17,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

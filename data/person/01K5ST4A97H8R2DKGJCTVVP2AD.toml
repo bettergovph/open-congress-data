@@ -5,4 +5,8 @@ full_name = "Morden, Michael M."
 last_name = "Morden"
 first_name = "Michael"
 middle_name = "M"
-congresses = [ 19,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

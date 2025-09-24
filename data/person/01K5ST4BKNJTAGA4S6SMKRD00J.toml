@@ -6,4 +6,13 @@ last_name = "Pleyto"
 first_name = "Salvador"
 middle_name = "A"
 aliases = [ "Salvador A. Pleyto",]
-congresses = [ 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

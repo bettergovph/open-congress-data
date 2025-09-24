@@ -6,5 +6,14 @@ last_name = "Luistro"
 first_name = "Gerville"
 middle_name = "R"
 aliases = [ "Atty. Gerville \"Jinky Bitrics\" R. Luistro", "Jinky Bitrics",]
-congresses = [ 19, 20,]
 name_prefix = "Atty"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

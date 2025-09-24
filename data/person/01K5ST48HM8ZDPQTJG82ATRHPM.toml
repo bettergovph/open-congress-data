@@ -6,5 +6,19 @@ last_name = "Lagdameo"
 first_name = "Antonio"
 middle_name = "F"
 aliases = [ "Anton",]
-congresses = [ 14, 15, 16,]
 name_suffix = "Jr"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

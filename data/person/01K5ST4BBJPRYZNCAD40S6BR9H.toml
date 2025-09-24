@@ -5,6 +5,15 @@ full_name = "Panganiban, Jose Jr. T."
 last_name = "Panganiban"
 first_name = "Jose"
 middle_name = "T"
-congresses = [ 16, 17,]
 name_suffix = "Jr"
 professional_designations = [ "CPA","LLB",]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

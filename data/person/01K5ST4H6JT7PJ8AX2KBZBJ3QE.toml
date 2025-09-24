@@ -6,4 +6,23 @@ last_name = "Zamora"
 first_name = "Maria"
 middle_name = "Carmen S"
 aliases = [ "Maria Carmen S. Zamora",]
-congresses = [ 16, 17, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

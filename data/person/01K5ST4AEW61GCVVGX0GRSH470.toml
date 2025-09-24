@@ -5,5 +5,29 @@ full_name = "Noel, Florencio Gabriel \"Bem\" G."
 last_name = "Noel"
 first_name = "Florencio Gabriel"
 middle_name = "G"
-congresses = [ 13, 14, 15, 18, 19,]
 aliases = [ "Bem",]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

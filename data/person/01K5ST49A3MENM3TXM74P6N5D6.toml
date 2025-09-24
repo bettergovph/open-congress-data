@@ -6,4 +6,18 @@ last_name = "Magsaysay"
 first_name = "Ma."
 middle_name = "Milagros H"
 aliases = [ "Mitos",]
-congresses = [ 13, 14, 15,]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"

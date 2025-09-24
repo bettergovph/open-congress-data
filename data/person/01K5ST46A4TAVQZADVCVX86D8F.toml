@@ -6,4 +6,23 @@ last_name = "Ferrer"
 first_name = "Jeffrey"
 middle_name = "P"
 aliases = [ "Jeffrey P. Ferrer",]
-congresses = [ 14, 15, 16, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

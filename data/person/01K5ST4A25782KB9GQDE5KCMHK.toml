@@ -5,4 +5,8 @@ full_name = "Mercado, Damian  G."
 last_name = "Mercado"
 first_name = "Damian"
 middle_name = "G"
-congresses = [ 16,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

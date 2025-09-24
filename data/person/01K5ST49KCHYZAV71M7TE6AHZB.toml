@@ -6,5 +6,29 @@ last_name = "Marañon"
 first_name = "Alfredo"
 middle_name = "D"
 aliases = [ "Alfredo D. Marañon Iii",]
-congresses = [ 13, 14, 15, 19, 20,]
 name_suffix = "III"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

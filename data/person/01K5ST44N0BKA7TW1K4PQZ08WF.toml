@@ -5,4 +5,18 @@ full_name = "Daza, Paul Ruiz"
 last_name = "Daza"
 first_name = "Paul"
 middle_name = "Ruiz"
-congresses = [ 14, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

@@ -4,4 +4,13 @@ full_name = "Biazon, Rodolfo G."
 last_name = "Biazon"
 middle_name = "G"
 first_name = "Rodolfo"
-congresses = [ 13, 14,]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "senator"

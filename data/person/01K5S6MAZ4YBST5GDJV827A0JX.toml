@@ -3,4 +3,23 @@ senate_website_keys = [ "SMIRI",]
 full_name = "Defensor Santiago, Miriam"
 last_name = "Defensor Santiago"
 first_name = "Miriam"
-congresses = [ 13, 14, 15, 16,]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "senator"

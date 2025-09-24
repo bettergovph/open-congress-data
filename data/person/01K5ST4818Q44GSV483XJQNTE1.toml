@@ -5,5 +5,9 @@ full_name = "Hicap, Fernando \"Ka Pando\" L."
 last_name = "Hicap"
 first_name = "Fernando"
 middle_name = "L"
-congresses = [ 16,]
 aliases = [ "Ka Pando",]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

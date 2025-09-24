@@ -6,4 +6,13 @@ last_name = "Horibata"
 first_name = "Tsuyoshi Anthony"
 middle_name = "G"
 aliases = [ "Tsuyoshi Anthony \"Hori\" G. Horibata", "Hori",]
-congresses = [ 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

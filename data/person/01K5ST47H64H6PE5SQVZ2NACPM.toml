@@ -5,5 +5,44 @@ full_name = "Gonzales, Neptali II M."
 last_name = "Gonzales"
 first_name = "Neptali"
 middle_name = "M"
-congresses = [ 10, 11, 12, 14, 15, 16, 18, 19,]
 name_suffix = "II"
+
+[[memberships]]
+type = "congress"
+congress = 10
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

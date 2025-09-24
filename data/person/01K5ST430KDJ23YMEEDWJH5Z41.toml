@@ -5,4 +5,18 @@ full_name = "Caminero, Wilfredo S."
 last_name = "Caminero"
 first_name = "Wilfredo"
 middle_name = "S"
-congresses = [ 16, 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

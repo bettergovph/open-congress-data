@@ -6,4 +6,28 @@ last_name = "Celeste"
 first_name = "Arthur"
 middle_name = "F"
 aliases = [ "Arthur F. Celeste",]
-congresses = [ 12, 13, 14, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

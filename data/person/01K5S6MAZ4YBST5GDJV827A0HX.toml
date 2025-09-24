@@ -4,4 +4,18 @@ full_name = "Dela Rosa, Ronald \"Bato\""
 aliases = [ "Bato",]
 last_name = "Dela Rosa"
 first_name = "Ronald"
-congresses = [ 18, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "senator"

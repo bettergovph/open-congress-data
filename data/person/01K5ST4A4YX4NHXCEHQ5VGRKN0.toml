@@ -6,4 +6,33 @@ last_name = "Mercado"
 first_name = "Roger"
 middle_name = "Gaviola"
 aliases = [ "Roger G. Mercado",]
-congresses = [ 9, 10, 13, 14, 18, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 9
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 10
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

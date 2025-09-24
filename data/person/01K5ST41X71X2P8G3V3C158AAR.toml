@@ -5,4 +5,23 @@ full_name = "Bautista, Franklin P."
 last_name = "Bautista"
 first_name = "Franklin"
 middle_name = "P"
-congresses = [ 11, 14, 15, 16,]
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

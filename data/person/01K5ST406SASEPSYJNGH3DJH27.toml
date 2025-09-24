@@ -5,4 +5,8 @@ full_name = "Akbar, Jum J."
 last_name = "Akbar"
 first_name = "Jum"
 middle_name = "J"
-congresses = [ 17,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

@@ -5,4 +5,8 @@ full_name = "Colada, Lex Anthony Cris A."
 last_name = "Colada"
 first_name = "Lex"
 middle_name = "Anthony Cris A"
-congresses = [ 19,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

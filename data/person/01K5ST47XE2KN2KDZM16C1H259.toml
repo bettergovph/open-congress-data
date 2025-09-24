@@ -6,4 +6,8 @@ last_name = "Hernandez"
 first_name = "Ariel"
 middle_name = "C"
 aliases = [ "Ayi",]
-congresses = [ 14,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"

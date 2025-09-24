@@ -5,4 +5,18 @@ full_name = "Colmenares, Neri J"
 last_name = "Colmenares"
 first_name = "Neri"
 middle_name = "J"
-congresses = [ 14, 15, 16,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

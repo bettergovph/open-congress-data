@@ -5,6 +5,10 @@ full_name = "Papandayan, Mauyag Jr. \"Jun\" B."
 last_name = "Papandayan"
 first_name = "Mauyag"
 middle_name = "B"
-congresses = [ 17,]
 aliases = [ "Jun",]
 name_suffix = "Jr"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

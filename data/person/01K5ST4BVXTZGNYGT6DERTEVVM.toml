@@ -5,4 +5,8 @@ full_name = "Radaza, Arturo O."
 last_name = "Radaza"
 first_name = "Arturo"
 middle_name = "O"
-congresses = [ 15,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"

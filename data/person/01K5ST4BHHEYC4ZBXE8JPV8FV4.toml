@@ -5,4 +5,13 @@ full_name = "Ping-ay, Jose R."
 last_name = "Ping-Ay"
 first_name = "Jose"
 middle_name = "R"
-congresses = [ 14, 15,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"

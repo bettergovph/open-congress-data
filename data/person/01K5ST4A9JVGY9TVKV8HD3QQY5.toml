@@ -5,4 +5,8 @@ full_name = "Natividad-NagaÃ±o, Maricel G., MD."
 last_name = "Natividad-Nagaã±O"
 first_name = "Maricel"
 middle_name = "G, Md"
-congresses = [ 18,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

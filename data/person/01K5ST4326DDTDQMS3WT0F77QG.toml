@@ -5,4 +5,13 @@ full_name = "Canama, Sabiniano S."
 last_name = "Canama"
 first_name = "Sabiniano"
 middle_name = "S"
-congresses = [ 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

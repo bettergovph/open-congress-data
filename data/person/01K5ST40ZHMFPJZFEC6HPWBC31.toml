@@ -5,4 +5,8 @@ full_name = "Arcillas, Arlene B."
 last_name = "Arcillas"
 first_name = "Arlene"
 middle_name = "B"
-congresses = [ 17,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

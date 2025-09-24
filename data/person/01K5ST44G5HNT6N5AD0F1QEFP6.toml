@@ -5,5 +5,19 @@ full_name = "Dalipe, Manuel Jose \"Mannix\" M."
 last_name = "Dalipe"
 first_name = "Manuel Jose"
 middle_name = "M"
-congresses = [ 17, 18, 19,]
 aliases = [ "Mannix",]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

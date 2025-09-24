@@ -6,4 +6,8 @@ last_name = "Yu"
 first_name = "Joseph"
 middle_name = "Kim C"
 aliases = [ "Joseph Kim C. Yu",]
-congresses = [ 20,]
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

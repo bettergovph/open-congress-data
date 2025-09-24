@@ -5,6 +5,20 @@ full_name = "GATO, CIRIACO B., JR., MD, FPSO-HNS"
 last_name = "Gato"
 first_name = "Ciriaco"
 middle_name = "B"
-congresses = [ 18, 19, 20,]
 name_suffix = "Jr"
 professional_designations = [ "MD", "FPSO-HNS",]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

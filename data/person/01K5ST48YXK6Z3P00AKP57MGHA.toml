@@ -5,4 +5,13 @@ full_name = "Loong, Tupay T."
 last_name = "Loong"
 first_name = "Tupay"
 middle_name = "T"
-congresses = [ 15, 16,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

@@ -4,4 +4,8 @@ congress_website_author_keys = [ "H044",]
 full_name = "Macrohon-NuÃ±o, Lilia"
 last_name = "Macrohon-Nuã±O"
 first_name = "Lilia"
-congresses = [ 16,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

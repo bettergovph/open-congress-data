@@ -5,5 +5,9 @@ full_name = "Cabochan, Manuel III DG."
 last_name = "Cabochan"
 first_name = "Manuel"
 middle_name = "De Guzman"
-congresses = [ 18,]
 name_suffix = "III"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

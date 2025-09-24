@@ -6,4 +6,23 @@ last_name = "Romualdez"
 first_name = "Yedda"
 middle_name = "Marie K"
 aliases = [ "Yedda Marie K. Romualdez",]
-congresses = [ 17, 18, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

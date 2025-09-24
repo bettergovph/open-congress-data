@@ -5,4 +5,8 @@ full_name = "Cayetano, Lino S."
 last_name = "Cayetano"
 first_name = "Lino"
 middle_name = "S"
-congresses = [ 16,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

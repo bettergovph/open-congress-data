@@ -5,4 +5,18 @@ full_name = "Tan-Tambut, Shernee A."
 last_name = "Tan-Tambut"
 first_name = "Shernee"
 middle_name = "A"
-congresses = [ 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

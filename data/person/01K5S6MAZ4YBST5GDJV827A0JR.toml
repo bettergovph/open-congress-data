@@ -4,4 +4,23 @@ full_name = "Poe, Grace L."
 last_name = "Poe"
 middle_name = "L"
 first_name = "Grace"
-congresses = [ 16, 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "senator"

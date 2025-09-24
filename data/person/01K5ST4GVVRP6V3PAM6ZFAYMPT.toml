@@ -6,4 +6,13 @@ last_name = "Yamsuan"
 first_name = "Brian"
 middle_name = "Raymund S"
 aliases = [ "Brian Raymund S. Yamsuan",]
-congresses = [ 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

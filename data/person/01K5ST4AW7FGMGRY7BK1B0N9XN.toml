@@ -5,4 +5,18 @@ full_name = "Ong, Emil L."
 last_name = "Ong"
 first_name = "Emil"
 middle_name = "L"
-congresses = [ 14, 15, 16,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

@@ -5,4 +5,18 @@ full_name = "Maceda, Edward Vera Perez"
 last_name = "Maceda"
 first_name = "Edward"
 middle_name = "Vera Perez"
-congresses = [ 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

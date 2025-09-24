@@ -6,4 +6,23 @@ last_name = "Montemayor"
 first_name = "Leonardo"
 middle_name = "Q"
 aliases = [ "Leonie",]
-congresses = [ 9, 10, 11, 14,]
+
+[[memberships]]
+type = "congress"
+congress = 9
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 10
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"

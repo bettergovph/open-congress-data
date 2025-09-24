@@ -5,4 +5,18 @@ full_name = "Relampagos, Rene L."
 last_name = "Relampagos"
 first_name = "Rene"
 middle_name = "L"
-congresses = [ 15, 16, 17,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

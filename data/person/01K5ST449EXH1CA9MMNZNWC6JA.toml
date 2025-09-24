@@ -5,4 +5,18 @@ full_name = "Cuaresma, Luisa Lloren"
 last_name = "Cuaresma"
 first_name = "Luisa"
 middle_name = "Lloren"
-congresses = [ 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

@@ -6,4 +6,23 @@ last_name = "Durano"
 first_name = "Joseph"
 middle_name = "'Ace' H"
 aliases = [ "Ace",]
-congresses = [ 11, 12, 13, 16,]
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

@@ -6,5 +6,29 @@ last_name = "Abante"
 first_name = "Bienvenido"
 middle_name = "M"
 aliases = [ "Bienvenido M. Abante Jr.",]
-congresses = [ 13, 14, 18, 19, 20,]
 name_suffix = "Jr"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

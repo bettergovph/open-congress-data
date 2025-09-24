@@ -6,4 +6,13 @@ last_name = "Fariñas"
 first_name = "Rudys"
 middle_name = "Caesar I G"
 aliases = [ ".",]
-congresses = [ 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

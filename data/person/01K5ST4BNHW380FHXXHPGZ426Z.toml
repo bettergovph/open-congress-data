@@ -5,5 +5,9 @@ full_name = "Ponce Enrile, Salvacion \"Sally\" S."
 last_name = "Ponce Enrile"
 first_name = "Salvacion"
 middle_name = "S"
-congresses = [ 16,]
 aliases = [ "Sally",]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

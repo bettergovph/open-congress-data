@@ -5,5 +5,29 @@ full_name = "Jalosjos, Romeo Jr. M."
 last_name = "Jalosjos"
 first_name = "Romeo"
 middle_name = "M"
-congresses = [ 10, 11, 12, 15, 18,]
 name_suffix = "Jr"
+
+[[memberships]]
+type = "congress"
+congress = 10
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

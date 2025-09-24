@@ -4,4 +4,13 @@ full_name = "Padilla, Robinhood C."
 last_name = "Padilla"
 middle_name = "C"
 first_name = "Robinhood"
-congresses = [ 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "senator"

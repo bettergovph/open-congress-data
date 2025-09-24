@@ -5,4 +5,8 @@ full_name = "Aguinaldo, Naealla Bainto"
 last_name = "Aguinaldo"
 first_name = "Naealla"
 middle_name = "Bainto"
-congresses = [ 18,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

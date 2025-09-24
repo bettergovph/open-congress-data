@@ -5,4 +5,18 @@ full_name = "Daza, Raul A."
 last_name = "Daza"
 first_name = "Raul"
 middle_name = "A"
-congresses = [ 8, 15, 17,]
+
+[[memberships]]
+type = "congress"
+congress = 8
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

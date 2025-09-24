@@ -6,4 +6,18 @@ last_name = "Puentevella"
 first_name = "Monico"
 middle_name = "O"
 aliases = [ "Newks",]
-congresses = [ 12, 13, 14,]
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"

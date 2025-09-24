@@ -5,5 +5,9 @@ full_name = "Sinsuat, Datu Roonie Sr. Q."
 last_name = "Sinsuat"
 first_name = "Datu Roonie"
 middle_name = "Q"
-congresses = [ 18,]
 name_suffix = "Sr"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

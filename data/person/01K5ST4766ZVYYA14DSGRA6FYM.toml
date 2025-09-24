@@ -5,5 +5,14 @@ full_name = "Golez, Anthony Rolando Jr. T."
 last_name = "Golez"
 first_name = "Anthony Rolando"
 middle_name = "T"
-congresses = [ 15, 19,]
 name_suffix = "Jr"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

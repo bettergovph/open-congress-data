@@ -5,4 +5,23 @@ full_name = "MERCADO-REVILLA, LANI"
 last_name = "Mercado-Revilla"
 first_name = "Lani"
 aliases = [ "Lani Mercado-Revilla",]
-congresses = [ 15, 16, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

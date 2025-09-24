@@ -4,4 +4,13 @@ full_name = "De Lima, Leila M."
 last_name = "De Lima"
 middle_name = "M"
 first_name = "Leila"
-congresses = [ 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "senator"

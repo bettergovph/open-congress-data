@@ -5,4 +5,8 @@ full_name = "Canonigo, Ranulfo P."
 last_name = "Canonigo"
 first_name = "Ranulfo"
 middle_name = "P"
-congresses = [ 15,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"

@@ -5,4 +5,18 @@ full_name = "Defensor, Michael T."
 last_name = "Defensor"
 first_name = "Michael"
 middle_name = "T"
-congresses = [ 10, 11, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 10
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

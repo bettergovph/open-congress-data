@@ -5,4 +5,18 @@ full_name = "Catamco, Nancy A."
 last_name = "Catamco"
 first_name = "Nancy"
 middle_name = "A"
-congresses = [ 15, 16, 17,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

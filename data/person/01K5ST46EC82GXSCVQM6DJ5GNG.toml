@@ -5,4 +5,13 @@ full_name = "FORTES, WOWO"
 last_name = "Fortes"
 first_name = "Wowo"
 aliases = [ "Wowo Fortes",]
-congresses = [ 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

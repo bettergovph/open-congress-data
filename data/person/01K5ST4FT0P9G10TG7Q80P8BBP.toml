@@ -4,4 +4,23 @@ congress_website_author_keys = [ "F074",]
 full_name = "Uy, Rolando"
 last_name = "Uy"
 first_name = "Rolando"
-congresses = [ 14, 16, 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

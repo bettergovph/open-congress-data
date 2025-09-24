@@ -5,4 +5,8 @@ full_name = "Payuyo, Ponciano D."
 last_name = "Payuyo"
 first_name = "Ponciano"
 middle_name = "D"
-congresses = [ 15,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"

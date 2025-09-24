@@ -5,4 +5,28 @@ full_name = "Angara-Castillo, Bellaflor J."
 last_name = "Angara-Castillo"
 first_name = "Bellaflor"
 middle_name = "J"
-congresses = [ 10, 11, 12, 16, 17,]
+
+[[memberships]]
+type = "congress"
+congress = 10
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

@@ -5,4 +5,8 @@ full_name = "Salvador-Tambunting, Joy Myra"
 last_name = "Salvador-Tambunting"
 first_name = "Joy"
 middle_name = "Myra"
-congresses = [ 18,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

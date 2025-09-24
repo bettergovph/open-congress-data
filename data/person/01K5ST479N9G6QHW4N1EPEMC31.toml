@@ -5,4 +5,18 @@ full_name = "Go, Mark O."
 last_name = "Go"
 first_name = "Mark"
 middle_name = "O"
-congresses = [ 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

@@ -5,4 +5,8 @@ full_name = "Taduran, Rowena NiÃ±a O."
 last_name = "Taduran"
 first_name = "Rowena"
 middle_name = "Niã±A O"
-congresses = [ 18,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

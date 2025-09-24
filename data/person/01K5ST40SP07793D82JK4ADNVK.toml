@@ -5,5 +5,14 @@ full_name = "ANG, JAMES \"JOJO\" JR."
 last_name = "Ang"
 first_name = "James"
 aliases = [ "James \"Jojo\" A. Ang Jr.", "Jojo",]
-congresses = [ 19, 20,]
 name_suffix = "Jr"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

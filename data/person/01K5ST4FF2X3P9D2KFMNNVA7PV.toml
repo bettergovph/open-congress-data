@@ -5,4 +5,8 @@ full_name = "Tulfo, Erwin T."
 last_name = "Tulfo"
 first_name = "Erwin"
 middle_name = "T"
-congresses = [ 19,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

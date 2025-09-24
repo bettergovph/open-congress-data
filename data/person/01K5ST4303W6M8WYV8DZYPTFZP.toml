@@ -5,4 +5,18 @@ full_name = "Calixto-Rubiano, Emi G."
 last_name = "Calixto-Rubiano"
 first_name = "Emi"
 middle_name = "G"
-congresses = [ 15, 16, 17,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

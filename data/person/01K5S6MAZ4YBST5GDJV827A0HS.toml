@@ -5,4 +5,33 @@ aliases = [ "Companero",]
 last_name = "Cayetano"
 middle_name = "S"
 first_name = "Alan Peter"
-congresses = [ 14, 15, 16, 17, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "senator"

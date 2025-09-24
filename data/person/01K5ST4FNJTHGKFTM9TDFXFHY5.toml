@@ -4,5 +4,9 @@ congress_website_author_keys = [ "J116",]
 full_name = "Umali, Ma. Victoria V."
 last_name = "Umali"
 first_name = "Ma. Victoria"
-congresses = [ 18,]
 middle_name = "V"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

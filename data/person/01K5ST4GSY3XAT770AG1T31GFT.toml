@@ -5,4 +5,13 @@ full_name = "Violago, Micaela S."
 last_name = "Violago"
 first_name = "Micaela"
 middle_name = "S"
-congresses = [ 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

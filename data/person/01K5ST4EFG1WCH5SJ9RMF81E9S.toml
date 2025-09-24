@@ -6,4 +6,13 @@ last_name = "Suansing"
 first_name = "Mikaela"
 middle_name = "Angela B"
 aliases = [ "Mikaela Angela B. Suansing",]
-congresses = [ 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

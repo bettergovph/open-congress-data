@@ -5,4 +5,28 @@ full_name = "Albano, Rodolfo B."
 last_name = "Albano"
 first_name = "Rodolfo"
 middle_name = "B"
-congresses = [ 9, 10, 12, 15, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 9
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 10
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

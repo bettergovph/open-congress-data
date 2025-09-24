@@ -5,5 +5,14 @@ full_name = "Amante, Erlpe John \"Ping\" M."
 last_name = "Amante"
 first_name = "Erlpe John"
 middle_name = "M"
-congresses = [ 16, 17,]
 aliases = [ "Ping",]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

@@ -5,4 +5,8 @@ full_name = "Cabilao Yambao, Jonathan"
 last_name = "Cabilao Yambao"
 first_name = "Jonathan"
 aliases = [ "Boyet",]
-congresses = [ 15,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"

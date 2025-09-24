@@ -4,4 +4,23 @@ full_name = "Villar, Cynthia A."
 last_name = "Villar"
 middle_name = "A"
 first_name = "Cynthia"
-congresses = [ 16, 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "senator"

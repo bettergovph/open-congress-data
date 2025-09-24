@@ -5,5 +5,19 @@ full_name = "Yap, Jose V."
 last_name = "Yap"
 first_name = "Jose"
 aliases = [ "Aping",]
-congresses = [ 9, 10, 14,]
 name_suffix = "V"
+
+[[memberships]]
+type = "congress"
+congress = 9
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 10
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"

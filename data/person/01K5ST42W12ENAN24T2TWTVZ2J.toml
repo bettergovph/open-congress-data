@@ -5,5 +5,14 @@ full_name = "Cagas, Marc Douglas IV C."
 last_name = "Cagas"
 first_name = "Marc Douglas"
 middle_name = "C"
-congresses = [ 14, 15,]
 name_suffix = "IV"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"

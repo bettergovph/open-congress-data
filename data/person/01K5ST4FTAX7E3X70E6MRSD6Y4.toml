@@ -6,4 +6,18 @@ last_name = "Valdez"
 first_name = "Edgar"
 middle_name = "L"
 aliases = [ "Egay/Gasi",]
-congresses = [ 12, 13, 14,]
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"

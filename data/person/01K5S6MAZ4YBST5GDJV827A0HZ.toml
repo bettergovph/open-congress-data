@@ -4,4 +4,33 @@ full_name = "Ejercito-Estrada, Jinggoy P."
 last_name = "Ejercito-Estrada"
 middle_name = "P"
 first_name = "Jinggoy"
-congresses = [ 13, 14, 15, 16, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "senator"

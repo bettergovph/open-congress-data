@@ -5,4 +5,18 @@ full_name = "Abaya, Francis Gerald A."
 last_name = "Abaya"
 first_name = "Francis"
 middle_name = "Gerald A"
-congresses = [ 16, 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

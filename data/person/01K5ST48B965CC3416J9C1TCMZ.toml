@@ -5,4 +5,8 @@ full_name = "Kho, David L."
 last_name = "Kho"
 first_name = "David"
 middle_name = "L"
-congresses = [ 15,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"

@@ -5,4 +5,18 @@ full_name = "Zarate, Carlos Isagani T."
 last_name = "Zarate"
 first_name = "Carlos"
 middle_name = "Isagani T"
-congresses = [ 16, 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

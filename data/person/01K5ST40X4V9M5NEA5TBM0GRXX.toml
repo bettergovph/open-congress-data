@@ -6,5 +6,24 @@ last_name = "Aquino"
 first_name = "Jose"
 middle_name = "S"
 aliases = [ "Jose \"Joboy\" S. Aquino Ii", "Joboy",]
-congresses = [ 14, 15, 19, 20,]
 name_suffix = "II"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

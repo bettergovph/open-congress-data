@@ -5,4 +5,28 @@ full_name = "Limkaichong, Jocelyn Sy"
 last_name = "Limkaichong"
 first_name = "Jocelyn"
 middle_name = "Sy"
-congresses = [ 14, 15, 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

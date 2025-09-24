@@ -5,4 +5,8 @@ full_name = "Buhain, Eric R. OLY"
 last_name = "Buhain"
 first_name = "Eric"
 middle_name = "R Oly"
-congresses = [ 19,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

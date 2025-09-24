@@ -5,4 +5,18 @@ full_name = "Sagarbarria, Manuel T."
 last_name = "Sagarbarria"
 first_name = "Manuel"
 middle_name = "T"
-congresses = [ 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

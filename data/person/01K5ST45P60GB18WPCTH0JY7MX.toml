@@ -6,4 +6,23 @@ last_name = "Emano"
 first_name = "Yevgeny"
 middle_name = "Vincente B"
 aliases = [ "Yevgeny Vincente B. Emano",]
-congresses = [ 14, 15, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

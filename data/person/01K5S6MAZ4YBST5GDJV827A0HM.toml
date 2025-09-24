@@ -5,4 +5,13 @@ aliases = [ "Bam",]
 name_suffix = "IV"
 last_name = "Aquino"
 first_name = "Paolo Benigno"
-congresses = [ 16, 17,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "senator"

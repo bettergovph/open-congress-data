@@ -5,4 +5,38 @@ name_suffix = "Jr"
 last_name = "Pimentel"
 middle_name = "Q"
 first_name = "Aquilino"
-congresses = [ 13, 14, 15, 16, 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "senator"

@@ -4,5 +4,19 @@ congress_website_author_keys = [ "C042",]
 full_name = "Echiverri, Enrico \"Recom\""
 last_name = "Echiverri"
 first_name = "Enrico"
-congresses = [ 11, 12, 16,]
 aliases = [ "Recom",]
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

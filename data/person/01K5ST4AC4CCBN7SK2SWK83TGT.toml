@@ -6,4 +6,13 @@ last_name = "Nieto"
 first_name = "John Marvin"
 middle_name = "C"
 aliases = [ "Yul Servo",]
-congresses = [ 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

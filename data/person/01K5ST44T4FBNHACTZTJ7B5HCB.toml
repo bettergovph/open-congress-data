@@ -6,4 +6,8 @@ last_name = "De Lima"
 first_name = "Leila"
 middle_name = "M"
 aliases = [ "Leila M. De Lima",]
-congresses = [ 20,]
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

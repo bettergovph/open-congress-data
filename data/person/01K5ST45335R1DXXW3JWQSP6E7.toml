@@ -5,4 +5,8 @@ full_name = "De Vera, Eugene Michael B."
 last_name = "De Vera"
 first_name = "Eugene"
 middle_name = "Michael B"
-congresses = [ 17,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

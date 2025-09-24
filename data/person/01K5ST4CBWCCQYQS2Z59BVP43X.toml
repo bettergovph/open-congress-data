@@ -4,5 +4,9 @@ congress_website_author_keys = [ "I055",]
 full_name = "Roa-Puno, Cristina \"Chiqui\""
 last_name = "Roa-Puno"
 first_name = "Cristina"
-congresses = [ 17,]
 aliases = [ "Chiqui",]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

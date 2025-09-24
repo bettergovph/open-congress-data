@@ -6,4 +6,13 @@ last_name = "Adiong"
 first_name = "Ziaur-Rahman"
 middle_name = "Alonto"
 aliases = [ "Ziaur-Rahman \"Zia\" Alonto Adiong", "Zia",]
-congresses = [ 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

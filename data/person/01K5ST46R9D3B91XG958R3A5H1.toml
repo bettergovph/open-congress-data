@@ -5,4 +5,8 @@ full_name = "Garces, Ulysses G."
 last_name = "Garces"
 first_name = "Ulysses"
 middle_name = "G"
-congresses = [ 17,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

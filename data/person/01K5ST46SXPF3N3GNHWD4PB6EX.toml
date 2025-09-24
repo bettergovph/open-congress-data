@@ -5,5 +5,24 @@ full_name = "Garcia, Enrique Jr. T."
 last_name = "Garcia"
 first_name = "Enrique"
 middle_name = "T"
-congresses = [ 10, 11, 12, 16,]
 name_suffix = "Jr"
+
+[[memberships]]
+type = "congress"
+congress = 10
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

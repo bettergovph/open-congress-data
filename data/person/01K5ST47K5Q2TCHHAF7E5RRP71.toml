@@ -5,4 +5,13 @@ full_name = "Gorriceta, Arcadio H."
 last_name = "Gorriceta"
 first_name = "Arcadio"
 middle_name = "H"
-congresses = [ 16, 17,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

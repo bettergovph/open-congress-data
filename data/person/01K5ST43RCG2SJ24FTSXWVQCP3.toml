@@ -5,4 +5,8 @@ full_name = "Chong, Glenn A."
 last_name = "Chong"
 first_name = "Glenn"
 middle_name = "A"
-congresses = [ 14,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"

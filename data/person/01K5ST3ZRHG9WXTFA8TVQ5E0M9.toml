@@ -5,5 +5,9 @@ full_name = "Abayon, Harlin Neil III J."
 last_name = "Abayon"
 first_name = "Harlin Neil"
 middle_name = "J"
-congresses = [ 17,]
 name_suffix = "III"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

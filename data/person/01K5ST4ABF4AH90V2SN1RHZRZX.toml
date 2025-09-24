@@ -5,5 +5,9 @@ full_name = "Nava, Pablo III Roces"
 last_name = "Nava"
 first_name = "Pablo"
 middle_name = "Roces"
-congresses = [ 16,]
 name_suffix = "III"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

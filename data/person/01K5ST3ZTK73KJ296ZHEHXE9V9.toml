@@ -6,4 +6,8 @@ last_name = "Abueg-Zaldivar"
 first_name = "Cyrille"
 middle_name = "F"
 aliases = [ "Beng",]
-congresses = [ 18,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

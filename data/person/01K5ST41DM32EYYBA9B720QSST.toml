@@ -5,4 +5,13 @@ full_name = "Bagatsing, Cristal L."
 last_name = "Bagatsing"
 first_name = "Cristal"
 middle_name = "L"
-congresses = [ 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

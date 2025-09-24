@@ -5,4 +5,18 @@ full_name = "Nava, Ma. Lucille L., M.D."
 last_name = "Nava"
 first_name = "Ma."
 middle_name = "Lucille L, Md"
-congresses = [ 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

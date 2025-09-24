@@ -5,4 +5,8 @@ full_name = "Santiago, Erlinda M."
 last_name = "Santiago"
 first_name = "Erlinda"
 middle_name = "M"
-congresses = [ 16,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

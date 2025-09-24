@@ -5,4 +5,8 @@ full_name = "Katoh, Angelina L."
 last_name = "Katoh"
 first_name = "Angelina"
 middle_name = "L"
-congresses = [ 16,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

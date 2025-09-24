@@ -4,5 +4,44 @@ congress_website_author_keys = [ "0108",]
 full_name = "Del Mar, Raul V."
 last_name = "Del Mar"
 first_name = "Raul"
-congresses = [ 9, 10, 12, 13, 14, 16, 17, 18,]
 name_suffix = "V"
+
+[[memberships]]
+type = "congress"
+congress = 9
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 10
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

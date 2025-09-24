@@ -5,4 +5,18 @@ full_name = "Banal, Jorge \"Bolet\""
 last_name = "Banal"
 first_name = "Jorge"
 aliases = [ "Bolet",]
-congresses = [ 15, 16, 17,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

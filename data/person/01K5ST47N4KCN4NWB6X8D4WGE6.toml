@@ -6,5 +6,19 @@ last_name = "Guingona"
 first_name = "Teofisto"
 middle_name = "L"
 aliases = [ "Tg",]
-congresses = [ 13, 14, 16,]
 name_suffix = "III"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

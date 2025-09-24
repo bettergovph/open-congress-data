@@ -5,4 +5,13 @@ full_name = "Saulog, Irene Gay F."
 last_name = "Saulog"
 first_name = "Irene"
 middle_name = "Gay F"
-congresses = [ 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

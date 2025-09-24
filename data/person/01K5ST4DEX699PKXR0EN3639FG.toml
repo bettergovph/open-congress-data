@@ -5,4 +5,13 @@ full_name = "Sakaluran, Princess Rihan M."
 last_name = "Sakaluran"
 first_name = "Princess"
 middle_name = "Rihan M"
-congresses = [ 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

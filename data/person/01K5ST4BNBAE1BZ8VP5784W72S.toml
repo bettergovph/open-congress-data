@@ -6,5 +6,24 @@ last_name = "Ponce Enrile"
 first_name = "Juan"
 middle_name = "C"
 aliases = [ "Jack",]
-congresses = [ 11, 12, 13, 15,]
 name_suffix = "Jr"
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"

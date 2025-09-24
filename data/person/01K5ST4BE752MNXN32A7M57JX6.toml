@@ -5,4 +5,18 @@ full_name = "Pichay, Philip A."
 last_name = "Pichay"
 first_name = "Philip"
 middle_name = "A"
-congresses = [ 14, 15, 16,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

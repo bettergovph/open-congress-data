@@ -6,4 +6,8 @@ last_name = "Collantes"
 first_name = "King George Leandro Antonio"
 middle_name = "V"
 aliases = [ "King George Leandro Antonio V. Collantes",]
-congresses = [ 20,]
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

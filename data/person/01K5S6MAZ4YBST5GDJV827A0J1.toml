@@ -3,4 +3,23 @@ senate_website_keys = [ "EJUAN",]
 full_name = "Enrile, Juan Ponce"
 last_name = "Enrile"
 first_name = "Juan Ponce"
-congresses = [ 13, 14, 15, 16,]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "senator"

@@ -6,5 +6,9 @@ last_name = "Abalos"
 first_name = "Benjamin"
 middle_name = "D"
 aliases = [ "Benhur",]
-congresses = [ 13,]
 name_suffix = "Jr"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"

@@ -5,4 +5,18 @@ full_name = "BERNOS, JB"
 last_name = "Bernos"
 first_name = "Jb"
 aliases = [ "Jb Bernos",]
-congresses = [ 17, 18, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

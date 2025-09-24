@@ -6,5 +6,9 @@ last_name = "Ortega"
 first_name = "Francisco Emmanuel"
 middle_name = "R"
 aliases = [ "Pacoy",]
-congresses = [ 16,]
 name_suffix = "III"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

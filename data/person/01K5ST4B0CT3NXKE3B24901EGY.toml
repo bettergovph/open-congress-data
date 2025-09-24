@@ -5,4 +5,13 @@ full_name = "Osabel, Diogenes S."
 last_name = "Osabel"
 first_name = "Diogenes"
 middle_name = "S"
-congresses = [ 11, 14,]
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"

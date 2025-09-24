@@ -5,4 +5,8 @@ full_name = "Gaite, Ferdinand R."
 last_name = "Gaite"
 first_name = "Ferdinand"
 middle_name = "R"
-congresses = [ 18,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

@@ -5,5 +5,19 @@ full_name = "Figueroa, Catalino V."
 last_name = "Figueroa"
 first_name = "Catalino"
 aliases = [ "Cata",]
-congresses = [ 9, 10, 13,]
 name_suffix = "V"
+
+[[memberships]]
+type = "congress"
+congress = 9
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 10
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"

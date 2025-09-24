@@ -5,4 +5,8 @@ full_name = "Pernes, Marie Anne S."
 last_name = "Pernes"
 first_name = "Marie"
 middle_name = "Anne S"
-congresses = [ 16,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

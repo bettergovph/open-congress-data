@@ -6,4 +6,18 @@ last_name = "Sacdalan"
 first_name = "Jesus"
 middle_name = "N"
 aliases = [ "Susing",]
-congresses = [ 15, 16, 17,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

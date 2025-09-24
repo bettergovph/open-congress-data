@@ -6,4 +6,33 @@ last_name = "Villarica"
 first_name = "Linabelle"
 middle_name = "Ruth R"
 aliases = [ "Lv",]
-congresses = [ 15, 16, 17, 18, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

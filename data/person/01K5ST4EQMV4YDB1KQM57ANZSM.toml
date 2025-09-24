@@ -6,4 +6,18 @@ last_name = "Syjuco"
 first_name = "Augusto"
 middle_name = "Boboy, Phd"
 aliases = [ "Boboy",]
-congresses = [ 11, 12, 15,]
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"

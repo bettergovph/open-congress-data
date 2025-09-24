@@ -5,4 +5,18 @@ full_name = "Labadlabad, Glona G."
 last_name = "Labadlabad"
 first_name = "Glona"
 middle_name = "G"
-congresses = [ 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

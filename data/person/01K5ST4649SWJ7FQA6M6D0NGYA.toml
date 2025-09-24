@@ -5,4 +5,8 @@ full_name = "FariÃ±as, Ria Christina G."
 last_name = "Fariã±As"
 first_name = "Ria"
 middle_name = "Christina G"
-congresses = [ 18,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

@@ -5,4 +5,8 @@ full_name = "Ebdane, Jun Omar C."
 last_name = "Ebdane"
 first_name = "Jun"
 middle_name = "Omar C"
-congresses = [ 15,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"

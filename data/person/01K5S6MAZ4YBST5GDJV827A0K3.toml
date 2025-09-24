@@ -4,4 +4,8 @@ full_name = "Villar, Camille A."
 last_name = "Villar"
 middle_name = "A"
 first_name = "Camille"
-congresses = [ 20,]
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "senator"

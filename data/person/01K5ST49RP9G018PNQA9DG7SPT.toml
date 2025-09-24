@@ -4,5 +4,19 @@ congress_website_author_keys = [ "E047",]
 full_name = "Mariano, Rafael V."
 last_name = "Mariano"
 first_name = "Rafael"
-congresses = [ 13, 14, 15,]
 name_suffix = "V"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"

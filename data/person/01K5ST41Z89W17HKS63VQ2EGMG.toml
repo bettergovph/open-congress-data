@@ -5,5 +5,9 @@ full_name = "Bello, Silvestre III H."
 last_name = "Bello"
 first_name = "Silvestre"
 middle_name = "H"
-congresses = [ 16,]
 name_suffix = "III"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

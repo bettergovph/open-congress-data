@@ -4,4 +4,8 @@ full_name = "Flavier, Juan M."
 last_name = "Flavier"
 middle_name = "M"
 first_name = "Juan"
-congresses = [ 13,]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "senator"

@@ -5,4 +5,8 @@ full_name = "Uybarreta, Carlos Roman"
 last_name = "Uybarreta"
 first_name = "Carlos"
 middle_name = "Roman"
-congresses = [ 17,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

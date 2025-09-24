@@ -5,4 +5,23 @@ full_name = "Herrera, Bernadette \"BH\""
 last_name = "Herrera"
 first_name = "Bernadette"
 aliases = [ "BH",]
-congresses = [ 15, 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

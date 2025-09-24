@@ -4,4 +4,23 @@ congress_website_author_keys = [ "D055",]
 full_name = "Ramirez-Sato, Josephine"
 last_name = "Ramirez-Sato"
 first_name = "Josephine"
-congresses = [ 12, 16, 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

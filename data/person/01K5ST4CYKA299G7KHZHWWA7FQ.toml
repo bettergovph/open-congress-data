@@ -5,4 +5,8 @@ full_name = "Rodriguez-Zaldarriaga, Adelina"
 last_name = "Rodriguez-Zaldarriaga"
 first_name = "Adelina"
 aliases = [ "Deline",]
-congresses = [ 14,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"

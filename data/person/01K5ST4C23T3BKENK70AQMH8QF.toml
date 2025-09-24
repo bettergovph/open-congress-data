@@ -6,4 +6,13 @@ last_name = "Revilla"
 first_name = "Bryan"
 middle_name = "B"
 aliases = [ "Bryan B. Revilla",]
-congresses = [ 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

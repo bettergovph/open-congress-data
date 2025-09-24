@@ -5,5 +5,9 @@ full_name = "Belmonte,  Ricardo \"RJ\" T."
 last_name = "Belmonte"
 first_name = "Ricardo"
 middle_name = "T"
-congresses = [ 17,]
 aliases = [ "RJ",]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

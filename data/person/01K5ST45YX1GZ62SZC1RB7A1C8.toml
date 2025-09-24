@@ -6,5 +6,24 @@ last_name = "Escudero"
 first_name = "Salvador"
 middle_name = "H"
 aliases = [ "Sonny",]
-congresses = [ 9, 10, 14, 15,]
 name_suffix = "III"
+
+[[memberships]]
+type = "congress"
+congress = 9
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 10
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"

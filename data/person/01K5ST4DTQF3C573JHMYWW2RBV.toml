@@ -5,4 +5,8 @@ full_name = "Sandoval, Alvin S."
 last_name = "Sandoval"
 first_name = "Alvin"
 middle_name = "S"
-congresses = [ 14,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"

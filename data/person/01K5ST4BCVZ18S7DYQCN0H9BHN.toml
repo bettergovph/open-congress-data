@@ -5,4 +5,8 @@ full_name = "Paquiz, Leah S."
 last_name = "Paquiz"
 first_name = "Leah"
 middle_name = "S"
-congresses = [ 16,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

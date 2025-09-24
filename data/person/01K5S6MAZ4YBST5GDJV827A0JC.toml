@@ -4,4 +4,33 @@ full_name = "Legarda, Loren B."
 last_name = "Legarda"
 middle_name = "B"
 first_name = "Loren"
-congresses = [ 14, 15, 16, 17, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "senator"

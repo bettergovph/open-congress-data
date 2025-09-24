@@ -5,4 +5,18 @@ full_name = "Castro, France L."
 last_name = "Castro"
 first_name = "France"
 middle_name = "L"
-congresses = [ 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

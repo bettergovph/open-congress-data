@@ -5,4 +5,13 @@ full_name = "Seachon-Lanete, Rizalina"
 last_name = "Seachon-Lanete"
 first_name = "Rizalina"
 aliases = [ "Dayan",]
-congresses = [ 13, 14,]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"

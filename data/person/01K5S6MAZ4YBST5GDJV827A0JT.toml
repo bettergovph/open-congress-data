@@ -3,4 +3,13 @@ senate_website_keys = [ "RMARA",]
 full_name = "Roxas, Mar"
 last_name = "Roxas"
 first_name = "Mar"
-congresses = [ 13, 14,]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "senator"

@@ -5,4 +5,8 @@ full_name = "Enciso, Nicolas VIII C."
 last_name = "Enciso"
 first_name = "Nicolas"
 middle_name = "Viii C"
-congresses = [ 19,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

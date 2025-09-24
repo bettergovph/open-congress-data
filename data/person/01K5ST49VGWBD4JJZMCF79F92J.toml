@@ -5,4 +5,18 @@ full_name = "Martinez, Clavel A."
 last_name = "Martinez"
 first_name = "Clavel"
 middle_name = "A"
-congresses = [ 11, 12, 13,]
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"

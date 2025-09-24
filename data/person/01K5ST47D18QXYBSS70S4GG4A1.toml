@@ -5,4 +5,23 @@ full_name = "Gomez, Lucy T."
 last_name = "Gomez"
 first_name = "Lucy"
 middle_name = "T"
-congresses = [ 15, 16, 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

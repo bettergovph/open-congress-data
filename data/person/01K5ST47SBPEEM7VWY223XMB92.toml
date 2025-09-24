@@ -5,6 +5,10 @@ full_name = "Gutierrez, Ibarra \"Barry\" M. III"
 last_name = "Gutierrez"
 first_name = "Ibarra"
 middle_name = "M"
-congresses = [ 16,]
 aliases = [ "Barry",]
 name_suffix = "III"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

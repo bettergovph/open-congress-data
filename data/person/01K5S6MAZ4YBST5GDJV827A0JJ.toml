@@ -5,4 +5,8 @@ name_suffix = "Jr"
 last_name = "Magsaysay"
 middle_name = "B"
 first_name = "Ramon"
-congresses = [ 13,]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "senator"

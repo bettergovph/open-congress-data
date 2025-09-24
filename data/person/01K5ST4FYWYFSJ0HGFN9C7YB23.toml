@@ -5,4 +5,13 @@ full_name = "Vargas, Florencio L."
 last_name = "Vargas"
 first_name = "Florencio"
 middle_name = "L"
-congresses = [ 13, 14,]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"

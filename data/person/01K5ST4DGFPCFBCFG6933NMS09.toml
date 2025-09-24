@@ -5,4 +5,33 @@ full_name = "Salceda, Joey Sarte"
 last_name = "Salceda"
 first_name = "Joey"
 middle_name = "Sarte"
-congresses = [ 11, 12, 13, 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

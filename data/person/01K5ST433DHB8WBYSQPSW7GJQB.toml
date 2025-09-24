@@ -5,4 +5,8 @@ full_name = "Cardema, Ducielle Marie S."
 last_name = "Cardema"
 first_name = "Ducielle"
 middle_name = "Marie S"
-congresses = [ 18,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

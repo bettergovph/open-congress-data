@@ -3,4 +3,13 @@ senate_website_keys = [ "MJAMB",]
 full_name = "Madrigal, M. A."
 last_name = "Madrigal"
 first_name = "M. A."
-congresses = [ 13, 14,]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "senator"

@@ -3,4 +3,23 @@ senate_website_keys = [ "HANAT",]
 full_name = "Hontiveros, Risa"
 last_name = "Hontiveros"
 first_name = "Risa"
-congresses = [ 17, 18, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "senator"

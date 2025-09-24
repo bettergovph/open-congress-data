@@ -4,4 +4,8 @@ congress_website_author_keys = [ "H052",]
 full_name = "Gerona-Robredo, Leni"
 last_name = "Gerona-Robredo"
 first_name = "Leni"
-congresses = [ 16,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

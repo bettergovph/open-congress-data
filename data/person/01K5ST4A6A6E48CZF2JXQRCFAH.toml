@@ -6,4 +6,23 @@ last_name = "Miraflores"
 first_name = "Florencio"
 middle_name = "T"
 aliases = [ "Florencio T. Miraflores",]
-congresses = [ 13, 14, 15, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

@@ -5,4 +5,23 @@ full_name = "Velasco, Lord Allan Jay Q."
 last_name = "Velasco"
 first_name = "Lord"
 middle_name = "Allan Jay Q"
-congresses = [ 15, 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

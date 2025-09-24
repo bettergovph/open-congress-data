@@ -4,4 +4,8 @@ congress_website_author_keys = [ "J008",]
 full_name = "Andaya, Marissa"
 last_name = "Andaya"
 first_name = "Marissa"
-congresses = [ 18,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

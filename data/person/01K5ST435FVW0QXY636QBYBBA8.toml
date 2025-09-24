@@ -5,4 +5,8 @@ full_name = "Casilao, Ariel  'Ka Ayik' B."
 last_name = "Casilao"
 first_name = "Ariel"
 middle_name = "'Ka Ayik' B"
-congresses = [ 17,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

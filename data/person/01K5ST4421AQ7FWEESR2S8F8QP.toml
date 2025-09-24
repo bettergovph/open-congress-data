@@ -5,4 +5,8 @@ full_name = "Cortes, Jonas C."
 last_name = "Cortes"
 first_name = "Jonas"
 middle_name = "C"
-congresses = [ 17,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

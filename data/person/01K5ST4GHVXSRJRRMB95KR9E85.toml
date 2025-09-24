@@ -6,4 +6,8 @@ last_name = "Villafuerte"
 first_name = "Vincenzo"
 middle_name = "Renato Luigi R"
 aliases = [ "Vicenzo Renato Luigi R. Villafuerte",]
-congresses = [ 20,]
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

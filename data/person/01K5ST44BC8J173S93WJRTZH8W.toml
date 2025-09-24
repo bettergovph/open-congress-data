@@ -5,5 +5,29 @@ full_name = "Cuenco, Antonio V."
 last_name = "Cuenco"
 first_name = "Antonio"
 aliases = [ "Tony",]
-congresses = [ 9, 10, 12, 13, 14,]
 name_suffix = "V"
+
+[[memberships]]
+type = "congress"
+congress = 9
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 10
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"

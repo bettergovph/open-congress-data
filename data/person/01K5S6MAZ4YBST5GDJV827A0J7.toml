@@ -5,4 +5,13 @@ aliases = [ "Tg",]
 name_suffix = "III"
 last_name = "Guingona"
 first_name = "Teofisto"
-congresses = [ 15, 16,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "senator"

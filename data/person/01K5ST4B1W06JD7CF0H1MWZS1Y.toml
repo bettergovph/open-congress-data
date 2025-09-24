@@ -5,5 +5,14 @@ full_name = "Pacquiao, Rogelio \"Ruel\" D."
 last_name = "Pacquiao"
 first_name = "Rogelio"
 middle_name = "D"
-congresses = [ 17, 18,]
 aliases = [ "Ruel",]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

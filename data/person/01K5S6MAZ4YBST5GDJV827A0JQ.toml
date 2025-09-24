@@ -4,4 +4,33 @@ full_name = "Pangilinan, Francis N."
 last_name = "Pangilinan"
 middle_name = "N"
 first_name = "Francis"
-congresses = [ 13, 14, 15, 17, 18, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "senator"

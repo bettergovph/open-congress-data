@@ -5,5 +5,19 @@ full_name = "Gonzalez, Fernando V."
 last_name = "Gonzalez"
 first_name = "Fernando"
 aliases = [ "Nando",]
-congresses = [ 15, 16, 17,]
 name_suffix = "V"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

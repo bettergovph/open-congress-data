@@ -6,5 +6,19 @@ last_name = "Villafuerte"
 first_name = "Luis Raymund"
 middle_name = "F"
 aliases = [ "Lray",]
-congresses = [ 17, 18, 19,]
 name_suffix = "Jr"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

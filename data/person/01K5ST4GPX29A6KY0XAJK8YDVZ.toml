@@ -5,4 +5,8 @@ full_name = "Villarin, Tom S."
 last_name = "Villarin"
 first_name = "Tom"
 middle_name = "S"
-congresses = [ 17,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

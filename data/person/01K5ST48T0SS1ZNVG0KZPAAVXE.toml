@@ -4,4 +4,8 @@ congress_website_author_keys = [ "C407",]
 full_name = "Legarda, Loren"
 last_name = "Legarda"
 first_name = "Loren"
-congresses = [ 18,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

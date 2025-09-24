@@ -5,4 +5,8 @@ full_name = "Reyes, Regina  Ongsiako"
 last_name = "Reyes"
 first_name = "Regina"
 middle_name = "Ongsiako"
-congresses = [ 16,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

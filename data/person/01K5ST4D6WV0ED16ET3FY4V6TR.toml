@@ -6,4 +6,28 @@ last_name = "Romualdo"
 first_name = "Jurdin"
 middle_name = "Jesus M"
 aliases = [ "Jurdin Jesus M. Romualdo",]
-congresses = [ 11, 12, 13, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

@@ -6,4 +6,28 @@ last_name = "Briones"
 first_name = "Nicanor"
 middle_name = "M"
 aliases = [ "Nikki",]
-congresses = [ 14, 15, 16, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

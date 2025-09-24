@@ -5,4 +5,13 @@ full_name = "Garcia, Gwendolyn F."
 last_name = "Garcia"
 first_name = "Gwendolyn"
 middle_name = "F"
-congresses = [ 16, 17,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

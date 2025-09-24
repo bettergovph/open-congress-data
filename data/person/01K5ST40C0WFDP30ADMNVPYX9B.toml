@@ -5,5 +5,9 @@ full_name = "Aliping, Nicasio Jr. M."
 last_name = "Aliping"
 first_name = "Nicasio"
 middle_name = "M"
-congresses = [ 16,]
 name_suffix = "Jr"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

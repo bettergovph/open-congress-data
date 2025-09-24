@@ -6,4 +6,13 @@ last_name = "Pacquiao"
 first_name = "Emmanuel"
 middle_name = "D"
 aliases = [ "Manny",]
-congresses = [ 15, 16,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

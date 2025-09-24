@@ -5,4 +5,28 @@ full_name = "Garcia, Vincent J."
 last_name = "Garcia"
 first_name = "Vincent"
 middle_name = "J"
-congresses = [ 12, 13, 14, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

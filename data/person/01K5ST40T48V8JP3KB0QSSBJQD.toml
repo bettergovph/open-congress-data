@@ -6,4 +6,18 @@ last_name = "Angping"
 first_name = "Maria"
 middle_name = "Zenaida B"
 aliases = [ "Naida",]
-congresses = [ 14, 15, 16,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

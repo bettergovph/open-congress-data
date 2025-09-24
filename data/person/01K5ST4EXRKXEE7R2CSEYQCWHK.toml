@@ -5,4 +5,18 @@ full_name = "Tan, Angelina"
 last_name = "Tan"
 first_name = "Angelina"
 aliases = [ "Helen",]
-congresses = [ 16, 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

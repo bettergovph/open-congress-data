@@ -5,4 +5,23 @@ full_name = "Enerio-Cerilles, Aurora"
 last_name = "Enerio-Cerilles"
 first_name = "Aurora"
 aliases = [ "Auring",]
-congresses = [ 11, 15, 16, 17,]
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

@@ -6,4 +6,18 @@ last_name = "Baronda"
 first_name = "Julienne"
 middle_name = "L"
 aliases = [ "Julienne \"Jam\" L. Baronda", "Jam",]
-congresses = [ 18, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

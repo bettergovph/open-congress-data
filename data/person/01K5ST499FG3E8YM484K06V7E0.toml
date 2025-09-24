@@ -5,4 +5,8 @@ full_name = "Madrona, Emmanuel F."
 last_name = "Madrona"
 first_name = "Emmanuel"
 middle_name = "F"
-congresses = [ 17,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

@@ -5,4 +5,8 @@ full_name = "Acharon, Loreto B."
 last_name = "Acharon"
 first_name = "Loreto"
 middle_name = "B"
-congresses = [ 19,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

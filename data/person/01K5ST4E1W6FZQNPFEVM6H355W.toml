@@ -6,4 +6,13 @@ last_name = "Savellano"
 first_name = "Deogracias Victor"
 middle_name = "B"
 aliases = [ "DV",]
-congresses = [ 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

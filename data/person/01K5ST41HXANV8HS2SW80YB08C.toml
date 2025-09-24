@@ -6,4 +6,8 @@ last_name = "Bancoro"
 first_name = "Marlo"
 middle_name = "C"
 aliases = [ "Marlo C. Bancoro",]
-congresses = [ 20,]
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

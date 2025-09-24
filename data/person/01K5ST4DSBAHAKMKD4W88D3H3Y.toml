@@ -5,4 +5,8 @@ full_name = "Salvame, Edgardo"
 last_name = "Salvame"
 first_name = "Edgardo"
 aliases = [ ".",]
-congresses = [ 19,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

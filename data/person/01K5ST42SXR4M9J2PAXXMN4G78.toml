@@ -5,4 +5,13 @@ full_name = "Cabredo, Fernando T."
 last_name = "Cabredo"
 first_name = "Fernando"
 middle_name = "T"
-congresses = [ 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

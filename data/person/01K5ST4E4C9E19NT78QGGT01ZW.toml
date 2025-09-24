@@ -5,4 +5,13 @@ full_name = "Siao, Frederick W."
 last_name = "Siao"
 first_name = "Frederick"
 middle_name = "W"
-congresses = [ 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

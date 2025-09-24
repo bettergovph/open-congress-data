@@ -5,4 +5,8 @@ full_name = "Bosita, Bonifacio L."
 last_name = "Bosita"
 first_name = "Bonifacio"
 middle_name = "L"
-congresses = [ 19,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

@@ -5,4 +5,18 @@ full_name = "AQUINO-MAGSAYSAY, MILAGROS"
 last_name = "Aquino-Magsaysay"
 first_name = "Milagros"
 aliases = [ "Milagros  Aquino-Magsaysay",]
-congresses = [ 17, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

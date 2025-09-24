@@ -5,4 +5,28 @@ full_name = "Fernandez, Dan S."
 last_name = "Fernandez"
 first_name = "Dan"
 middle_name = "S"
-congresses = [ 14, 15, 16, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

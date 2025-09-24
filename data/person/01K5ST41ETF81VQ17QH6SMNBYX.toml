@@ -5,4 +5,23 @@ full_name = "Balindong, Pangalian M."
 last_name = "Balindong"
 first_name = "Pangalian"
 middle_name = "M"
-congresses = [ 10, 14, 15, 16,]
+
+[[memberships]]
+type = "congress"
+congress = 10
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

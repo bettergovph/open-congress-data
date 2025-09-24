@@ -5,5 +5,19 @@ full_name = "Atienza, Jose Jr. L."
 last_name = "Atienza"
 first_name = "Jose"
 middle_name = "L"
-congresses = [ 16, 17, 18,]
 name_suffix = "Jr"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

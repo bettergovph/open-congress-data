@@ -5,5 +5,19 @@ full_name = "Baguilat, Teddy Jr. Brawner"
 last_name = "Baguilat"
 first_name = "Teddy"
 middle_name = "Brawner"
-congresses = [ 15, 16, 17,]
 name_suffix = "Jr"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

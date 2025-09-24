@@ -5,5 +5,14 @@ full_name = "Alcala, Vicente \"Kulit\" J."
 last_name = "Alcala"
 first_name = "Vicente"
 middle_name = "J"
-congresses = [ 16, 17,]
 aliases = [ "Kulit",]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

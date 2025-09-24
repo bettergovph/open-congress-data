@@ -5,4 +5,18 @@ full_name = "Reyes, Carmencita O."
 last_name = "Reyes"
 first_name = "Carmencita"
 middle_name = "O"
-congresses = [ 9, 10, 14,]
+
+[[memberships]]
+type = "congress"
+congress = 9
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 10
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"

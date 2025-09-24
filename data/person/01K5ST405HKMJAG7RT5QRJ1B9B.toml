@@ -4,4 +4,18 @@ congress_website_author_keys = [ "G003",]
 full_name = "Aglipay-Villar, Emmeline"
 last_name = "Aglipay-Villar"
 first_name = "Emmeline"
-congresses = [ 15, 16, 17,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

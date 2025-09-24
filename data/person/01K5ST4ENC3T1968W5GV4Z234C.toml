@@ -5,4 +5,13 @@ full_name = "Sy-Alvarado, \"Kuya\" Jose Antonio R."
 last_name = "Sy-Alvarado"
 first_name = "\"Kuya\""
 middle_name = "Jose Antonio R"
-congresses = [ 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

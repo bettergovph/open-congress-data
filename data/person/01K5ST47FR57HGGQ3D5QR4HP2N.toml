@@ -5,4 +5,13 @@ full_name = "GONZALES, ALEXANDRIA \"QUEENIE\""
 last_name = "Gonzales"
 first_name = "Alexandria"
 aliases = [ "Alexandria \"Queenie\" Gonzales", "Queenie",]
-congresses = [ 17, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

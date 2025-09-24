@@ -3,4 +3,23 @@ senate_website_keys = [ "VEMMA",]
 full_name = "Villanueva, Joel"
 last_name = "Villanueva"
 first_name = "Joel"
-congresses = [ 17, 18, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "senator"

@@ -5,4 +5,13 @@ full_name = "Nograles, Jericho Jonas B."
 last_name = "Nograles"
 first_name = "Jericho"
 middle_name = "Jonas B"
-congresses = [ 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

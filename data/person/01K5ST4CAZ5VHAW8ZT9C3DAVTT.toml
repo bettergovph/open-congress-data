@@ -5,4 +5,8 @@ full_name = "Rivera, Domingo C."
 last_name = "Rivera"
 first_name = "Domingo"
 middle_name = "C"
-congresses = [ 18,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

@@ -5,4 +5,8 @@ full_name = "Singson, Ryan Luis V."
 last_name = "Singson"
 first_name = "Ryan Luis"
 middle_name = "V"
-congresses = [ 15,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"

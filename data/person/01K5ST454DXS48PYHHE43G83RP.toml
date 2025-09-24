@@ -6,4 +6,33 @@ last_name = "Dimaporo"
 first_name = "Abdullah"
 middle_name = "D"
 aliases = [ "Booby / Bob",]
-congresses = [ 12, 13, 14, 16, 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

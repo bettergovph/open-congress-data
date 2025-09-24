@@ -5,4 +5,48 @@ full_name = "Lagman, Edcel C."
 last_name = "Lagman"
 first_name = "Edcel"
 middle_name = "C"
-congresses = [ 8, 9, 10, 13, 14, 15, 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 8
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 9
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 10
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

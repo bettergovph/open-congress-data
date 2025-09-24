@@ -4,4 +4,8 @@ congress_website_author_keys = [ "I007",]
 full_name = "Austria Barzaga, Jennifer"
 last_name = "Austria Barzaga"
 first_name = "Jennifer"
-congresses = [ 17,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

@@ -6,4 +6,13 @@ last_name = "Carmona"
 first_name = "Tranquilino"
 middle_name = "B"
 aliases = [ "Quiling",]
-congresses = [ 9, 13,]
+
+[[memberships]]
+type = "congress"
+congress = 9
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"

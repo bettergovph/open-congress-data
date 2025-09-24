@@ -6,4 +6,18 @@ last_name = "Dimaporo"
 first_name = "Imelda"
 middle_name = "Quibranza"
 aliases = [ "Imelda Quibranza Dimaporo",]
-congresses = [ 15, 16, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

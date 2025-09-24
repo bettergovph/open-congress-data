@@ -6,4 +6,23 @@ last_name = "Calimbas-Villarosa"
 first_name = "Ma."
 middle_name = "Amelita A"
 aliases = [ "Girlie",]
-congresses = [ 11, 13, 14, 15,]
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"

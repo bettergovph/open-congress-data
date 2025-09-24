@@ -5,5 +5,19 @@ full_name = "Bordado, Gabriel Jr. H."
 last_name = "Bordado"
 first_name = "Gabriel"
 middle_name = "H"
-congresses = [ 17, 18, 19,]
 name_suffix = "Jr"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

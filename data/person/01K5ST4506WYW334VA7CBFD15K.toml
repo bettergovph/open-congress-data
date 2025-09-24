@@ -5,4 +5,18 @@ full_name = "De Venecia, Christopher V.P."
 last_name = "De Venecia"
 first_name = "Christopher"
 middle_name = "Vp"
-congresses = [ 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

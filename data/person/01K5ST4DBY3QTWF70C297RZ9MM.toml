@@ -5,5 +5,9 @@ full_name = "Roquero, Eduardo V. , M.D."
 last_name = "Roquero"
 first_name = "Eduardo"
 middle_name = "V"
-congresses = [ 13,]
 professional_designations = [ "M.D.",]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"

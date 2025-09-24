@@ -5,4 +5,23 @@ full_name = "Lobregat, Celso L."
 last_name = "Lobregat"
 first_name = "Celso"
 middle_name = "L"
-congresses = [ 11, 12, 16, 17,]
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

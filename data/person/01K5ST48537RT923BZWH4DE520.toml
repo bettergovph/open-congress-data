@@ -5,4 +5,18 @@ full_name = "Ilagan,Luzviminda C."
 last_name = "Ilagan"
 first_name = "Luzviminda"
 middle_name = "C"
-congresses = [ 14, 15, 16,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

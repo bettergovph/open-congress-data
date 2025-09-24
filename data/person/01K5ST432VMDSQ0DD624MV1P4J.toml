@@ -6,4 +6,18 @@ last_name = "Caoagdan"
 first_name = "Rudy"
 middle_name = "S, Dpa"
 aliases = [ "Rudy S. Caoagdan, Dpa",]
-congresses = [ 18, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

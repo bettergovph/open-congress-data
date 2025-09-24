@@ -6,5 +6,19 @@ last_name = "Tañada"
 first_name = "Lorenzo"
 middle_name = "R"
 aliases = [ "Erin",]
-congresses = [ 13, 14, 15,]
 name_suffix = "III"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"

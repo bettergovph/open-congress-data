@@ -5,4 +5,8 @@ full_name = "Teodoro, Marjorie Ann A."
 last_name = "Teodoro"
 first_name = "Marjorie"
 middle_name = "Ann A"
-congresses = [ 19,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

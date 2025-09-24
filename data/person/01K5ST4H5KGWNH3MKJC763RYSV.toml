@@ -5,4 +5,8 @@ full_name = "Zamora, Amparo Maria J."
 last_name = "Zamora"
 first_name = "Amparo"
 middle_name = "Maria J"
-congresses = [ 19,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

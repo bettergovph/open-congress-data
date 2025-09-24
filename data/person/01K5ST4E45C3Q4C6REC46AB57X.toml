@@ -5,4 +5,13 @@ full_name = "Serapio , Antonio M."
 last_name = "Serapio"
 first_name = "Antonio"
 middle_name = "M"
-congresses = [ 8, 13,]
+
+[[memberships]]
+type = "congress"
+congress = 8
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"

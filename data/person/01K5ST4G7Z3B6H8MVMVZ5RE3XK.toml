@@ -5,5 +5,9 @@ full_name = "Verzosa, Samuel Jr. S."
 last_name = "Verzosa"
 first_name = "Samuel"
 middle_name = "S"
-congresses = [ 19,]
 name_suffix = "Jr"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

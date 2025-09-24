@@ -5,4 +5,18 @@ full_name = "Calderon, Peter John D."
 last_name = "Calderon"
 first_name = "Peter"
 middle_name = "John D"
-congresses = [ 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

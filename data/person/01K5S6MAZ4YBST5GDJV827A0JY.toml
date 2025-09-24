@@ -5,4 +5,28 @@ name_suffix = "III"
 last_name = "Sotto"
 middle_name = "C"
 first_name = "Vicente"
-congresses = [ 15, 16, 17, 18, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "senator"

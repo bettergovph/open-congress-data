@@ -5,4 +5,8 @@ full_name = "Enverga, Anna Katrina M."
 last_name = "Enverga"
 first_name = "Anna"
 middle_name = "Katrina M"
-congresses = [ 17,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

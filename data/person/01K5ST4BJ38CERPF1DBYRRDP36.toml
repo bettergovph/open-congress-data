@@ -6,4 +6,18 @@ last_name = "Plaza"
 first_name = "Eddiebong"
 middle_name = "G"
 aliases = [ "Eddiebong G. Plaza",]
-congresses = [ 18, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

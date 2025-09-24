@@ -5,4 +5,13 @@ full_name = "Fernando, Bayani F."
 last_name = "Fernando"
 first_name = "Bayani"
 middle_name = "F"
-congresses = [ 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

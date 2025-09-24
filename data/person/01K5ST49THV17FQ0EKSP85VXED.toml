@@ -5,4 +5,18 @@ full_name = "Marquez, Carlito S."
 last_name = "Marquez"
 first_name = "Carlito"
 middle_name = "S"
-congresses = [ 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

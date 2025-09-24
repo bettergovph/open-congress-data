@@ -4,4 +4,18 @@ full_name = "Marcos, Imee R."
 last_name = "Marcos"
 middle_name = "R"
 first_name = "Imee"
-congresses = [ 18, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "senator"

@@ -5,4 +5,23 @@ full_name = "Dilangalen, Didagen P."
 last_name = "Dilangalen"
 first_name = "Didagen"
 middle_name = "P"
-congresses = [ 10, 11, 12, 14,]
+
+[[memberships]]
+type = "congress"
+congress = 10
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"

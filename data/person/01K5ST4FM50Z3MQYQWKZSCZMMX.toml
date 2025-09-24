@@ -5,5 +5,9 @@ full_name = "Ty, Diego \"Nonoy\" C."
 last_name = "Ty"
 first_name = "Diego"
 middle_name = "C"
-congresses = [ 18,]
 aliases = [ "Nonoy",]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

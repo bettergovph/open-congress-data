@@ -5,4 +5,8 @@ full_name = "Fongwan, Nestor B."
 last_name = "Fongwan"
 first_name = "Nestor"
 middle_name = "B"
-congresses = [ 18,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

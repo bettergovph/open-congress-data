@@ -5,4 +5,13 @@ full_name = "CENDAÑA, PERCIVAL \"PERCI\""
 last_name = "Cendaña"
 first_name = "Percival"
 aliases = [ "Percival \"Perci\" Cendaña", "Perci",]
-congresses = [ 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

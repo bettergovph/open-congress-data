@@ -5,5 +5,19 @@ full_name = "Vergara, Rosanna \"Ria\" V."
 last_name = "Vergara"
 first_name = "Rosanna"
 aliases = [ "Ria",]
-congresses = [ 17, 18, 19,]
 name_suffix = "V"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

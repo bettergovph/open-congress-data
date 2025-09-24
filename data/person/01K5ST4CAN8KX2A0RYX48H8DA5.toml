@@ -5,4 +5,8 @@ full_name = "Rillo, Marvin D."
 last_name = "Rillo"
 first_name = "Marvin"
 middle_name = "D"
-congresses = [ 19,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

@@ -5,4 +5,8 @@ full_name = "Velasco-Catera, Tricia Nicole Q."
 last_name = "Velasco-Catera"
 first_name = "Tricia"
 middle_name = "Nicole Q"
-congresses = [ 17,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

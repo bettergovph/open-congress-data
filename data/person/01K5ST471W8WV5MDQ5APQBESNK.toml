@@ -5,4 +5,18 @@ full_name = "Gatchalian, Sherwin T."
 last_name = "Gatchalian"
 first_name = "Sherwin"
 middle_name = "T"
-congresses = [ 12, 16, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

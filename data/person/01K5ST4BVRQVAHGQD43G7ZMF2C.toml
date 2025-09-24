@@ -5,4 +5,13 @@ full_name = "Radaza, Aileen C."
 last_name = "Radaza"
 first_name = "Aileen"
 middle_name = "C"
-congresses = [ 16, 17,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

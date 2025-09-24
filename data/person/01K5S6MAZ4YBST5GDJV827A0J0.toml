@@ -4,4 +4,18 @@ full_name = "Ejercito, Joseph Victor G."
 last_name = "Ejercito"
 middle_name = "G"
 first_name = "Joseph Victor"
-congresses = [ 16, 17, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "senator"

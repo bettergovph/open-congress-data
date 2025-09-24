@@ -4,5 +4,19 @@ congress_website_author_keys = [ "G084",]
 full_name = "Sarmiento, Cesar V."
 last_name = "Sarmiento"
 first_name = "Cesar"
-congresses = [ 15, 16, 17,]
 middle_name = "V"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

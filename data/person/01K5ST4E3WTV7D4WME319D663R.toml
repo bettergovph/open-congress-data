@@ -5,5 +5,9 @@ full_name = "Señeres, Roy Sr. V."
 last_name = "Señeres"
 first_name = "Roy"
 middle_name = "Villareal"
-congresses = [ 16,]
 name_suffix = "Sr"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

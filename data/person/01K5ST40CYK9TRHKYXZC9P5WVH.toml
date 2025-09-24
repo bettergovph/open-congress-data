@@ -5,4 +5,28 @@ full_name = "Almario, Mayo Z."
 last_name = "Almario"
 first_name = "Mayo"
 middle_name = "Z"
-congresses = [ 11, 12, 13, 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

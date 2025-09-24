@@ -6,5 +6,19 @@ last_name = "Momo"
 first_name = "Romeo"
 middle_name = "S"
 aliases = [ "Romeo S. Momo",]
-congresses = [ 18, 19, 20,]
 name_suffix = "Sr"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

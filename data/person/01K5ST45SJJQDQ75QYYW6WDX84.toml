@@ -6,4 +6,23 @@ last_name = "Erice"
 first_name = "Edgar"
 middle_name = "R"
 aliases = [ "Edgar R. Erice",]
-congresses = [ 16, 17, 18, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

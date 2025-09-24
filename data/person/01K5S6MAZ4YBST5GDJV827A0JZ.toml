@@ -6,4 +6,23 @@ name_suffix = "IV"
 last_name = "Trillanes"
 middle_name = "F"
 first_name = "Antonio"
-congresses = [ 14, 15, 16, 17,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "senator"

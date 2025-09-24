@@ -6,4 +6,13 @@ last_name = "Oaminal"
 first_name = "Sancho Fernando"
 middle_name = "F"
 aliases = [ "Ando",]
-congresses = [ 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

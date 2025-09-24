@@ -6,4 +6,18 @@ last_name = "Imperial"
 first_name = "Carlos"
 middle_name = "R"
 aliases = [ "Carling",]
-congresses = [ 9, 10, 12,]
+
+[[memberships]]
+type = "congress"
+congress = 9
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 10
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"

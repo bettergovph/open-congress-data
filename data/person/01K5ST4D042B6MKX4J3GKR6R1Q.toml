@@ -5,4 +5,18 @@ full_name = "Romero, Michael L. Ph.D."
 last_name = "Romero"
 first_name = "Michael"
 middle_name = "L Phd"
-congresses = [ 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

@@ -5,4 +5,18 @@ full_name = "Ferriol, Abigail Faye C."
 last_name = "Ferriol"
 first_name = "Abigail"
 middle_name = "Faye C"
-congresses = [ 15, 16, 17,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

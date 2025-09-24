@@ -5,4 +5,23 @@ aliases = [ "Sonny",]
 last_name = "Angara"
 middle_name = "M"
 first_name = "Juan Edgardo"
-congresses = [ 16, 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "senator"

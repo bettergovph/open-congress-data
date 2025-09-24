@@ -6,4 +6,28 @@ last_name = "Bondoc"
 first_name = "Anna"
 middle_name = "York P, Md"
 aliases = [ "Anna York P. Bondoc, Md",]
-congresses = [ 13, 14, 15, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

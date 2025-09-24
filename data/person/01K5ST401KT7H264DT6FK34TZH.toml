@@ -5,4 +5,18 @@ full_name = "Adiong, Ansaruddin Abdul Malik A."
 last_name = "Adiong"
 first_name = "Ansaruddin"
 middle_name = "Abdul Malik A"
-congresses = [ 16, 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

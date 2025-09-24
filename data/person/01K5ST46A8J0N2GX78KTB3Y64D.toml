@@ -5,4 +5,18 @@ full_name = "Ferrer, Juliet Marie de Leon"
 last_name = "Ferrer"
 first_name = "Juliet"
 middle_name = "Marie De Leon"
-congresses = [ 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

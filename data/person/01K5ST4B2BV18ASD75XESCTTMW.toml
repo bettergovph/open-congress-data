@@ -5,4 +5,8 @@ full_name = "PADIERNOS, JAN \"ATTY. JP\""
 last_name = "Padiernos"
 first_name = "Jan"
 aliases = [ "Atty. Jp",]
-congresses = [ 20,]
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

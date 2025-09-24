@@ -5,4 +5,18 @@ full_name = "Abellanosa, Rodrigo A."
 last_name = "Abellanosa"
 first_name = "Rodrigo"
 middle_name = "A"
-congresses = [ 16, 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

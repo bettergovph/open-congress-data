@@ -6,4 +6,23 @@ last_name = "Violago"
 first_name = "Eleuterio"
 middle_name = "R"
 aliases = [ "Eling",]
-congresses = [ 9, 10, 12, 13,]
+
+[[memberships]]
+type = "congress"
+congress = 9
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 10
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"

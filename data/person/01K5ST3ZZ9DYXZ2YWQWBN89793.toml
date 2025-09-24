@@ -6,4 +6,28 @@ last_name = "Acop"
 first_name = "Romeo"
 middle_name = "M"
 aliases = [ "Romeo M. Acop",]
-congresses = [ 15, 16, 17, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

@@ -4,4 +4,18 @@ full_name = "Angara, Edgardo J."
 last_name = "Angara"
 middle_name = "J"
 first_name = "Edgardo"
-congresses = [ 13, 14, 15,]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "senator"

@@ -6,4 +6,28 @@ last_name = "Cojuangco"
 first_name = "Carlos"
 middle_name = "O"
 aliases = [ "Charlie",]
-congresses = [ 11, 12, 13, 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

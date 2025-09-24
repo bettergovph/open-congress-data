@@ -6,5 +6,34 @@ last_name = "Defensor"
 first_name = "Arthur"
 middle_name = "R"
 aliases = [ "Toto",]
-congresses = [ 12, 13, 14, 15, 16, 17,]
 name_suffix = "Jr"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

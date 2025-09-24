@@ -6,5 +6,24 @@ last_name = "Sandoval"
 first_name = "Federico"
 middle_name = "S"
 aliases = [ "Ricky",]
-congresses = [ 11, 12, 13, 17,]
 name_suffix = "II"
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

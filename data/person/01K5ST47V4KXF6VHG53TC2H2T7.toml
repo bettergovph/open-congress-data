@@ -5,4 +5,8 @@ full_name = "Hagedorn, Douglas S."
 last_name = "Hagedorn"
 first_name = "Douglas"
 middle_name = "S"
-congresses = [ 16,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

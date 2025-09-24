@@ -6,5 +6,24 @@ last_name = "Garbin"
 first_name = "Alfredo"
 middle_name = "A"
 aliases = [ "Alfredo A. Garbin Jr.",]
-congresses = [ 15, 17, 18, 20,]
 name_suffix = "Jr"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

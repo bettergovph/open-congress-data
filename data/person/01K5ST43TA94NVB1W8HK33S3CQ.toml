@@ -5,4 +5,13 @@ full_name = "Co, Angelica Natasha"
 last_name = "Co"
 first_name = "Angelica"
 middle_name = "Natasha"
-congresses = [ 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

@@ -5,6 +5,15 @@ full_name = "Palma, Wilter \"Sharky\" II Wee"
 last_name = "Palma"
 first_name = "Wilter"
 middle_name = "Wee"
-congresses = [ 17, 18,]
 aliases = [ "Sharky",]
 name_suffix = "II"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

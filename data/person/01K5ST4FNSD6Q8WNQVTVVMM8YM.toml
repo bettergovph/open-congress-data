@@ -4,4 +4,13 @@ congress_website_author_keys = [ "D067",]
 full_name = "Umali, Oyie"
 last_name = "Umali"
 first_name = "Oyie"
-congresses = [ 12, 13,]
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"

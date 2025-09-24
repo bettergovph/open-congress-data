@@ -6,4 +6,13 @@ last_name = "Tan"
 first_name = "Keith Micah"
 middle_name = "de Luna"
 aliases = [ "Atty Mike",]
-congresses = [ 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

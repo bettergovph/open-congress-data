@@ -5,5 +5,9 @@ full_name = "Apacible, Tomas V."
 last_name = "Apacible"
 first_name = "Tomas"
 aliases = [ "Tom",]
-congresses = [ 15,]
 name_suffix = "V"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"

@@ -5,4 +5,13 @@ full_name = "Fuentebella, Felix William B."
 last_name = "Fuentebella"
 first_name = "Felix"
 middle_name = "William B"
-congresses = [ 12, 16,]
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

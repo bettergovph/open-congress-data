@@ -5,5 +5,9 @@ full_name = "Crisologo, Anthony Peter \"Onyx\"  D."
 last_name = "Crisologo"
 first_name = "Anthony Peter"
 middle_name = "D"
-congresses = [ 18,]
 aliases = [ "Onyx",]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

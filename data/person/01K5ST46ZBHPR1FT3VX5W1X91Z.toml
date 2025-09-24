@@ -5,4 +5,23 @@ full_name = "Garin, Sharon S."
 last_name = "Garin"
 first_name = "Sharon"
 middle_name = "S"
-congresses = [ 15, 16, 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

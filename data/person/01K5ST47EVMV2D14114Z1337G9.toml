@@ -5,4 +5,18 @@ full_name = "Gonzaga, Ruwel Peter"
 last_name = "Gonzaga"
 first_name = "Ruwel"
 middle_name = "Peter"
-congresses = [ 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

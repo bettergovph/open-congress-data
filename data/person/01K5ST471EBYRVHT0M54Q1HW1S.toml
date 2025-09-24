@@ -4,4 +4,18 @@ congress_website_author_keys = [ "F031",]
 full_name = "Gatchalian, Rex"
 last_name = "Gatchalian"
 first_name = "Rex"
-congresses = [ 14, 15, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

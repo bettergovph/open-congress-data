@@ -5,4 +5,23 @@ full_name = "Rodriguez, Oscar S."
 last_name = "Rodriguez"
 first_name = "Oscar"
 middle_name = "S"
-congresses = [ 10, 11, 12, 16,]
+
+[[memberships]]
+type = "congress"
+congress = 10
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

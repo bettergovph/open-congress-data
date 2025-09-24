@@ -6,4 +6,13 @@ last_name = "Remulla"
 first_name = "Crispin"
 middle_name = "Diego D"
 aliases = [ "Crispin Diego D. Remulla",]
-congresses = [ 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

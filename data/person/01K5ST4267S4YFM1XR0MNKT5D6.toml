@@ -5,5 +5,14 @@ full_name = "Bernos, Maria Jocelyn V."
 last_name = "Bernos"
 first_name = "Maria"
 middle_name = "Jocelyn"
-congresses = [ 15, 16,]
 name_suffix = "V"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

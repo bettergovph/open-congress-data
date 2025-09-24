@@ -5,4 +5,8 @@ full_name = "DEGAMO, JANICE"
 last_name = "Degamo"
 first_name = "Janice"
 aliases = [ "Janice  Degamo",]
-congresses = [ 20,]
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

@@ -5,4 +5,8 @@ full_name = "Cagas, Mercedes C."
 last_name = "Cagas"
 first_name = "Mercedes"
 middle_name = "C"
-congresses = [ 16,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

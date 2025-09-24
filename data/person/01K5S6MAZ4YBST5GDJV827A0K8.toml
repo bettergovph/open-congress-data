@@ -4,4 +4,13 @@ full_name = "Villar, Mark A."
 last_name = "Villar"
 middle_name = "A"
 first_name = "Mark"
-congresses = [ 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "senator"

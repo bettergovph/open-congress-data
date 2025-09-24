@@ -5,5 +5,9 @@ full_name = "Jaworski, Robert 'Dodot' , Jr."
 last_name = "Jaworski"
 first_name = "Robert"
 aliases = [ "Dodot",]
-congresses = [ 13,]
 name_suffix = "Jr"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"

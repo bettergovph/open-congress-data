@@ -5,4 +5,13 @@ full_name = "Arroyo, Ma. Lourdes T."
 last_name = "Arroyo"
 first_name = "Ma."
 middle_name = "Lourdes T"
-congresses = [ 14, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

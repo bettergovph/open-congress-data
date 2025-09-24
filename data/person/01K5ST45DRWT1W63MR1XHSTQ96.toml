@@ -6,5 +6,24 @@ last_name = "Dy"
 first_name = "Faustino"
 middle_name = "G"
 aliases = [ "Faustino \"Bojie\" G. Dy Iii", "Bojie",]
-congresses = [ 12, 13, 14, 20,]
 name_suffix = "III"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

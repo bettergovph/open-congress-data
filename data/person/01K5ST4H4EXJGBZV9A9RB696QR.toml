@@ -6,4 +6,13 @@ last_name = "Yu"
 first_name = "Jeyzel"
 middle_name = "Victoria C"
 aliases = [ "Jeyzel Victoria C. Yu",]
-congresses = [ 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

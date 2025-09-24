@@ -6,4 +6,23 @@ last_name = "Lacson-Noel"
 first_name = "Josephine Veronique"
 middle_name = "R"
 aliases = [ "Jaye",]
-congresses = [ 15, 16, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

@@ -4,4 +4,13 @@ congress_website_author_keys = [ "I061",]
 full_name = "Santos-Recto, Vilma"
 last_name = "Santos-Recto"
 first_name = "Vilma"
-congresses = [ 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

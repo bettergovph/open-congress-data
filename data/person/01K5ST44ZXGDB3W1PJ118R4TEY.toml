@@ -5,5 +5,9 @@ full_name = "Del Rosario, Manuel Monsour III T."
 last_name = "Del Rosario"
 first_name = "Manuel Monsour"
 middle_name = "T"
-congresses = [ 17,]
 name_suffix = "III"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

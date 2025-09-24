@@ -6,4 +6,13 @@ last_name = "Advincula"
 first_name = "Adrian"
 middle_name = "Jay C"
 aliases = [ "Adrian Jay C. Advincula",]
-congresses = [ 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

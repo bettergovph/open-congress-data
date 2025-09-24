@@ -5,4 +5,13 @@ full_name = "Sambar, Mark Aeron H."
 last_name = "Sambar"
 first_name = "Mark"
 middle_name = "Aeron H"
-congresses = [ 15, 17,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

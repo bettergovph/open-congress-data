@@ -5,5 +5,9 @@ full_name = "Cruz, Ambrosio Jr. C."
 last_name = "Cruz"
 first_name = "Ambrosio"
 middle_name = "C"
-congresses = [ 19,]
 name_suffix = "Jr"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

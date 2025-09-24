@@ -5,5 +5,19 @@ full_name = "Pancho, Gavini  \"Apol\" C."
 last_name = "Pancho"
 first_name = "Gavini"
 middle_name = "C"
-congresses = [ 16, 17, 18,]
 aliases = [ "Apol",]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

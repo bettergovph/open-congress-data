@@ -5,4 +5,8 @@ full_name = "Ongchuan, Harris Christopher M."
 last_name = "Ongchuan"
 first_name = "Harris"
 middle_name = "Christopher M"
-congresses = [ 19,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

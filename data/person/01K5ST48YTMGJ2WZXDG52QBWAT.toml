@@ -6,5 +6,19 @@ last_name = "Locsin"
 first_name = "Teodoro"
 middle_name = "L"
 aliases = [ "Teddy Boy",]
-congresses = [ 12, 13, 14,]
 name_suffix = "Jr"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"

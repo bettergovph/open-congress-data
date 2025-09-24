@@ -5,4 +5,23 @@ full_name = "Hofer, Ann K."
 last_name = "Hofer"
 first_name = "Ann"
 middle_name = "K"
-congresses = [ 14, 16, 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

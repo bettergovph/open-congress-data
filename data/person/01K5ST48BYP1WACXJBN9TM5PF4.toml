@@ -6,4 +6,23 @@ last_name = "Khonghun"
 first_name = "Jefferson"
 middle_name = "F"
 aliases = [ "Jefferson F. Khonghun",]
-congresses = [ 17, 18, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

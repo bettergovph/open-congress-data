@@ -5,4 +5,13 @@ full_name = "Padiernos, Jose Gay G."
 last_name = "Padiernos"
 first_name = "Jose"
 middle_name = "Gay G"
-congresses = [ 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

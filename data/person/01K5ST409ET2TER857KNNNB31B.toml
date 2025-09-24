@@ -6,5 +6,14 @@ last_name = "Alcover"
 first_name = "Pastor"
 middle_name = "M"
 aliases = [ "Jun",]
-congresses = [ 14, 15,]
 name_suffix = "Jr"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"

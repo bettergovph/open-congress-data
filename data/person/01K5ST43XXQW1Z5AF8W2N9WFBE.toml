@@ -6,4 +6,13 @@ last_name = "Cojuangco"
 first_name = "Jaime"
 middle_name = "Eduardo Marc D"
 aliases = [ "Jaime Eduardo Marc D. Cojuangco",]
-congresses = [ 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

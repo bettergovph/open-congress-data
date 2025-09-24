@@ -3,4 +3,8 @@ senate_website_keys = [ "BAQUI",]
 full_name = "Aquino, Bam"
 last_name = "Aquino"
 first_name = "Bam"
-congresses = [ 20,]
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "senator"

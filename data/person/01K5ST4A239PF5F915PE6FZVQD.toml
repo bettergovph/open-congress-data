@@ -5,5 +5,9 @@ full_name = "Mendoza, Vigor Ma. II D."
 last_name = "Mendoza"
 first_name = "Vigor Ma"
 middle_name = "D"
-congresses = [ 14,]
 name_suffix = "II"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"

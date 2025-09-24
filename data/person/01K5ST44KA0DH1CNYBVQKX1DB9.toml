@@ -6,4 +6,23 @@ last_name = "Dangwa"
 first_name = "Samuel"
 middle_name = "M"
 aliases = [ "Sam",]
-congresses = [ 9, 12, 13, 14,]
+
+[[memberships]]
+type = "congress"
+congress = 9
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"

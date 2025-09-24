@@ -5,4 +5,8 @@ full_name = "Mercado, Homer A. (Resigned)"
 last_name = "Mercado"
 first_name = "Homer"
 middle_name = "A (Resigned)"
-congresses = [ 15,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"

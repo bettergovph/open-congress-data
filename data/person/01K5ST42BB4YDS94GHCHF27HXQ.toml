@@ -5,4 +5,18 @@ full_name = "Bolilia, Lianda B."
 last_name = "Bolilia"
 first_name = "Lianda"
 middle_name = "B"
-congresses = [ 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

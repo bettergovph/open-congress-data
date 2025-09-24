@@ -4,4 +4,28 @@ full_name = "Drilon, Franklin M."
 last_name = "Drilon"
 middle_name = "M"
 first_name = "Franklin"
-congresses = [ 13, 15, 16, 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "senator"

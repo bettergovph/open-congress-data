@@ -5,4 +5,18 @@ full_name = "SINGSON-MEEHAN, KRISTINE"
 last_name = "Singson-Meehan"
 first_name = "Kristine"
 aliases = [ "Kristine  Singson-Meehan",]
-congresses = [ 18, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

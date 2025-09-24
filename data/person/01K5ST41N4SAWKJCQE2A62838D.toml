@@ -5,4 +5,8 @@ full_name = "Barcelona-Reyes, Catherine, M.D."
 last_name = "Barcelona-Reyes"
 first_name = "Catherine,"
 middle_name = "Md"
-congresses = [ 16,]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

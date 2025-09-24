@@ -6,4 +6,18 @@ last_name = "Ordanes"
 first_name = "Rodolfo"
 middle_name = "M"
 aliases = [ "Ompong",]
-congresses = [ 18, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

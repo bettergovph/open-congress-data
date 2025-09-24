@@ -5,5 +5,9 @@ full_name = "Leonardia, Evelio \"Bing\" R."
 last_name = "Leonardia"
 first_name = "Evelio"
 middle_name = "R"
-congresses = [ 16,]
 aliases = [ "Bing",]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

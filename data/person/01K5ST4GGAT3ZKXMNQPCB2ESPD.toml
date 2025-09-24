@@ -6,4 +6,13 @@ last_name = "Villafuerte"
 first_name = "Miguel"
 middle_name = "Luis R"
 aliases = [ "Miguel Luis R. Villafuerte",]
-congresses = [ 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

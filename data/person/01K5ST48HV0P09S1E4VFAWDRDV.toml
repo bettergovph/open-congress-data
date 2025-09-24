@@ -6,4 +6,18 @@ last_name = "Lagdameo"
 first_name = "Monique"
 middle_name = "Yazmin Maria Q"
 aliases = [ "Monique Yazmin Maria Q. Lagdameo",]
-congresses = [ 15, 16, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

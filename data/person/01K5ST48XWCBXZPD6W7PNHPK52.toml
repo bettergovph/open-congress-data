@@ -5,4 +5,8 @@ full_name = "Lim, Reno G."
 last_name = "Lim"
 first_name = "Reno"
 middle_name = "G"
-congresses = [ 14,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"

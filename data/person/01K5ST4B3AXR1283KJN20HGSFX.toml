@@ -6,4 +6,33 @@ last_name = "Padilla"
 first_name = "Carlos"
 middle_name = "M"
 aliases = [ "Caloy",]
-congresses = [ 10, 11, 12, 14, 15, 16,]
+
+[[memberships]]
+type = "congress"
+congress = 10
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

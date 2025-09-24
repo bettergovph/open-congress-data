@@ -6,4 +6,18 @@ last_name = "Lara"
 first_name = "Joseph"
 middle_name = "L"
 aliases = [ "Joseph \"Jojo\" L. Lara", "Jojo",]
-congresses = [ 18, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

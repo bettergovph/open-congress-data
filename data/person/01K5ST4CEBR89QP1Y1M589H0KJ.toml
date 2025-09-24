@@ -5,5 +5,9 @@ full_name = "Rocamora, Ramon V. A.\"Rav\""
 last_name = "Rocamora"
 first_name = "Ramon"
 middle_name = "A"
-congresses = [ 17,]
 aliases = [ "Rav",]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

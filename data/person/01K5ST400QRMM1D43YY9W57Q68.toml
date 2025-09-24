@@ -5,4 +5,13 @@ full_name = "ACOSTA, GIL \"KABARANGAYJR\""
 last_name = "Acosta"
 first_name = "Gil"
 aliases = [ "Kabarangayjr",]
-congresses = [ 18, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

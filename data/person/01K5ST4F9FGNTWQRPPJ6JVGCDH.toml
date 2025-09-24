@@ -6,4 +6,23 @@ last_name = "Tinio"
 first_name = "Antonio"
 middle_name = "L"
 aliases = [ "Antonio L. Tinio",]
-congresses = [ 15, 16, 17, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

@@ -5,5 +5,24 @@ full_name = "Chavez , Leonila V."
 last_name = "Chavez"
 first_name = "Leonila"
 aliases = [ "Nellie",]
-congresses = [ 12, 13, 14, 17,]
 name_suffix = "V"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

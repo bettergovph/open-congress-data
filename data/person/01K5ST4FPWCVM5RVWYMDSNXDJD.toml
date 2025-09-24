@@ -6,4 +6,18 @@ last_name = "Unabia"
 first_name = "Peter"
 middle_name = "M"
 aliases = [ "Sr. Pedro",]
-congresses = [ 15, 16, 17,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

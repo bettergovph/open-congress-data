@@ -6,4 +6,18 @@ last_name = "Jalosjos"
 first_name = "Cesar"
 middle_name = "G"
 aliases = [ "Sar",]
-congresses = [ 13, 14, 15,]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"

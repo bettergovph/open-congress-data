@@ -6,4 +6,13 @@ last_name = "Mastura"
 first_name = "Bai"
 middle_name = "Dimple I"
 aliases = [ "Sittie Shahara I. Mastura",]
-congresses = [ 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

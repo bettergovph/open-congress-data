@@ -6,5 +6,24 @@ last_name = "Quimbo"
 first_name = "Miro"
 middle_name = "S"
 aliases = [ "Atty. Miro S. Quimbo",]
-congresses = [ 15, 16, 17, 20,]
 name_prefix = "Atty"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

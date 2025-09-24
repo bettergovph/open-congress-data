@@ -5,4 +5,18 @@ full_name = "De Jesus, Presley C."
 last_name = "De Jesus"
 first_name = "Presley"
 middle_name = "C"
-congresses = [ 18, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

@@ -5,4 +5,13 @@ full_name = "Bautista-Bandigan, Lorna P."
 last_name = "Bautista-Bandigan"
 first_name = "Lorna"
 middle_name = "P"
-congresses = [ 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

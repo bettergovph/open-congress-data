@@ -5,4 +5,33 @@ full_name = "Marcoleta, Rodante D."
 last_name = "Marcoleta"
 first_name = "Rodante"
 middle_name = "D"
-congresses = [ 13, 14, 15, 17, 18, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

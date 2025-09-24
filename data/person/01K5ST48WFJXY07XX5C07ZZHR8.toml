@@ -4,4 +4,8 @@ congress_website_author_keys = [ "J103",]
 full_name = "Lim, Aloy"
 last_name = "Lim"
 first_name = "Aloy"
-congresses = [ 18,]
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

@@ -6,4 +6,8 @@ last_name = "Akbar"
 first_name = "Wahab"
 middle_name = "M+"
 aliases = [ "Muslim",]
-congresses = [ 14,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"

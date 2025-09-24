@@ -4,4 +4,13 @@ congress_website_author_keys = [ "G102",]
 full_name = "Yap, Susan"
 last_name = "Yap"
 first_name = "Susan"
-congresses = [ 15, 16,]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

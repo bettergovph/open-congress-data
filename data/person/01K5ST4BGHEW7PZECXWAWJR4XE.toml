@@ -5,4 +5,13 @@ full_name = "Pineda, Enrico A."
 last_name = "Pineda"
 first_name = "Enrico"
 middle_name = "A"
-congresses = [ 17, 18,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

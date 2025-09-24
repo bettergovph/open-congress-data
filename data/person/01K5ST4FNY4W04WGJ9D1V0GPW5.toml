@@ -5,5 +5,19 @@ full_name = "Umali, Reynaldo V."
 last_name = "Umali"
 first_name = "Reynaldo"
 aliases = [ "Ru",]
-congresses = [ 15, 16, 17,]
 middle_name = "V"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

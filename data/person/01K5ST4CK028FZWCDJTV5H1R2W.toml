@@ -6,4 +6,33 @@ last_name = "Rodriguez"
 first_name = "Rufus"
 middle_name = "B"
 aliases = [ "Rufus B. Rodriguez",]
-congresses = [ 14, 15, 16, 18, 19, 20,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"

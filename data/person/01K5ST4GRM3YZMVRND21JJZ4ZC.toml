@@ -5,4 +5,23 @@ full_name = "Violago, Joseph Gilbert F."
 last_name = "Violago"
 first_name = "Joseph"
 middle_name = "Gilbert F"
-congresses = [ 14, 15, 16, 19,]
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"

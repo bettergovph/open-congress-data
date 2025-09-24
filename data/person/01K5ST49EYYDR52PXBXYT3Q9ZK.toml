@@ -5,5 +5,14 @@ full_name = "Manalo, Jesulito \"Jess\" A."
 last_name = "Manalo"
 first_name = "Jesulito"
 middle_name = "A"
-congresses = [ 16, 17,]
 aliases = [ "Jess",]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

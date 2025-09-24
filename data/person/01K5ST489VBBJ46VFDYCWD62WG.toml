@@ -5,6 +5,10 @@ full_name = "Jimenez, Cesar Jr. \"Jawo\" L."
 last_name = "Jimenez"
 first_name = "Cesar"
 middle_name = "L"
-congresses = [ 18,]
 aliases = [ "Jawo",]
 name_suffix = "Jr"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"

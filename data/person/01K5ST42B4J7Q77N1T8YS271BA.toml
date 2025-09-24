@@ -5,5 +5,9 @@ full_name = "Biron, Hernan Jr. G."
 last_name = "Biron"
 first_name = "Hernan"
 middle_name = "G"
-congresses = [ 16,]
 name_suffix = "Jr"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

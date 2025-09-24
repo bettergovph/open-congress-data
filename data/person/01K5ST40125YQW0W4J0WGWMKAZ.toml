@@ -5,5 +5,9 @@ full_name = "Acosta, Gil \"Kabarangay\" P."
 last_name = "Acosta"
 first_name = "Gil"
 middle_name = "P"
-congresses = [ 17,]
 aliases = [ "Kabarangay",]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

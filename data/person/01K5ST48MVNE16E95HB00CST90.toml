@@ -5,4 +5,8 @@ full_name = "Laogan, Dennis C."
 last_name = "Laogan"
 first_name = "Dennis"
 middle_name = "C"
-congresses = [ 17,]
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"

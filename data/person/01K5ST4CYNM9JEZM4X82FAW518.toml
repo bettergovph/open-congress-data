@@ -6,5 +6,24 @@ last_name = "Roman"
 first_name = "Antonino"
 middle_name = "B"
 aliases = [ "Antonino B. Roman Iii",]
-congresses = [ 11, 12, 13, 20,]
 name_suffix = "III"
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "representative"
