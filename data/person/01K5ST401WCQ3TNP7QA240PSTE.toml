@@ -5,7 +5,7 @@ full_name = "ADIONG, ZIAUR-RAHMAN \"ZIA\" ALONTO"
 last_name = "Adiong"
 first_name = "Ziaur-Rahman"
 middle_name = "Alonto"
-aliases = [ "Ziaur-Rahman \"Zia\" Alonto Adiong", "Zia",]
+aliases = ["Zia"]
 
 [[memberships]]
 type = "congress"

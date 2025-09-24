@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 641,]
 congress_website_author_keys = [ "F069",]
 full_name = "Sy-Alvarado, Ma. Victoria R."
 last_name = "Sy-Alvarado"
-first_name = "Ma."
-middle_name = "Victoria R"
+first_name = "Ma. Victoria"
+middle_name = "R"
 
 [[memberships]]
 type = "congress"

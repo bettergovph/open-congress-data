@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 685,]
 congress_website_author_keys = [ "F120",]
 full_name = "Arroyo, Ma. Lourdes T."
 last_name = "Arroyo"
-first_name = "Ma."
-middle_name = "Lourdes T"
+first_name = "Ma. Lourdes"
+middle_name = "T"
 
 [[memberships]]
 type = "congress"

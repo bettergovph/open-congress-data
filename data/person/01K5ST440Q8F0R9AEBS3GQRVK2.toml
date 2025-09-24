@@ -3,9 +3,7 @@ congress_website_primary_keys = [ 71,]
 congress_website_author_keys = [ "K022",]
 full_name = "CO-PILAR, MA. VICTORIA"
 last_name = "Co-Pilar"
-first_name = "Ma."
-middle_name = "Victoria"
-aliases = [ "Ma. Victoria Co-Pilar",]
+first_name = "Ma. Victoria"
 
 [[memberships]]
 type = "congress"

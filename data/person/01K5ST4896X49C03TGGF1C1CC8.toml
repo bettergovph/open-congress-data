@@ -5,7 +5,6 @@ full_name = "JAVIER, LOLITA T."
 last_name = "Javier"
 first_name = "Lolita"
 middle_name = "T"
-aliases = [ "Lolita T. Javier",]
 
 [[memberships]]
 type = "congress"

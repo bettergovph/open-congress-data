@@ -5,7 +5,7 @@ full_name = "KHO, WILTON \"TONTON\" T."
 last_name = "Kho"
 first_name = "Wilton"
 middle_name = "T"
-aliases = [ "Wilton \"Tonton\" T. Kho", "Tonton",]
+aliases = ["Tonton"]
 
 [[memberships]]
 type = "congress"

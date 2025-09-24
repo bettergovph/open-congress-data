@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 748,]
 congress_website_author_keys = [ "G071",]
 full_name = "Plaza, Ma. Valentina G."
 last_name = "Plaza"
-first_name = "Ma."
-middle_name = "Valentina G"
+first_name = "Ma. Valentina"
+middle_name = "G"
 aliases = [ "Tina",]
 
 [[memberships]]

@@ -5,7 +5,7 @@ full_name = "ALBANO, ANTONIO \"TONYPET\" T."
 last_name = "Albano"
 first_name = "Antonio"
 middle_name = "T"
-aliases = [ "Antonio T. Albano", "Tonypet",]
+aliases = ["Tonypet"]
 
 [[memberships]]
 type = "congress"

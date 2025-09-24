@@ -5,7 +5,7 @@ full_name = "YAP, JOHN GEESNELL \"BABA\""
 last_name = "Yap"
 first_name = "John"
 middle_name = "Geesnell"
-aliases = [ "John Geesnel \"Baba\" Yap", "Baba",]
+aliases = ["Baba"]
 
 [[memberships]]
 type = "congress"

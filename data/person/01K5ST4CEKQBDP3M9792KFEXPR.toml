@@ -5,7 +5,7 @@ full_name = "RODRIGUEZ, EULOGIO \"LEO\" R."
 last_name = "Rodriguez"
 first_name = "Eulogio"
 middle_name = "R"
-aliases = [ "Eulegio \"Leo\" R. Rodriguez", "Leo",]
+aliases = ["Leo"]
 
 [[memberships]]
 type = "congress"

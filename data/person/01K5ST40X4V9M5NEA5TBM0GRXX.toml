@@ -5,7 +5,7 @@ full_name = "AQUINO, JOSE \"JOBOY\" S. II"
 last_name = "Aquino"
 first_name = "Jose"
 middle_name = "S"
-aliases = [ "Jose \"Joboy\" S. Aquino Ii", "Joboy",]
+aliases = ["Joboy"]
 name_suffix = "II"
 
 [[memberships]]

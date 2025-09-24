@@ -4,7 +4,6 @@ congress_website_author_keys = [ "K033",]
 full_name = "FORTES, WOWO"
 last_name = "Fortes"
 first_name = "Wowo"
-aliases = [ "Wowo Fortes",]
 
 [[memberships]]
 type = "congress"

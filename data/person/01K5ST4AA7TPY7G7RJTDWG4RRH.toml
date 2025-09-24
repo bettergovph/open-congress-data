@@ -3,8 +3,9 @@ congress_website_primary_keys = [ 196,]
 congress_website_author_keys = [ "I043",]
 full_name = "Nava, Ma. Lucille L., M.D."
 last_name = "Nava"
-first_name = "Ma."
-middle_name = "Lucille L, Md"
+first_name = "Ma. Lucille"
+middle_name = "L, Md"
+professional_designations = ["MD",]
 
 [[memberships]]
 type = "congress"

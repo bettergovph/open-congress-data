@@ -4,7 +4,6 @@ congress_website_author_keys = [ "L055",]
 full_name = "POE, BRIAN"
 last_name = "Poe"
 first_name = "Brian"
-aliases = [ "Brian Poe",]
 
 [[memberships]]
 type = "congress"

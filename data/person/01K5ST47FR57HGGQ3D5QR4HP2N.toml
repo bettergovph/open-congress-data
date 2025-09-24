@@ -4,7 +4,7 @@ congress_website_author_keys = [ "I032",]
 full_name = "GONZALES, ALEXANDRIA \"QUEENIE\""
 last_name = "Gonzales"
 first_name = "Alexandria"
-aliases = [ "Alexandria \"Queenie\" Gonzales", "Queenie",]
+aliases = ["Queenie"]
 
 [[memberships]]
 type = "congress"

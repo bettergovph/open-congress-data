@@ -5,7 +5,7 @@ full_name = "Espinosa, Edgar T."
 last_name = "Espinosa"
 first_name = "Edgar"
 middle_name = "T"
-aliases = [ "Ed, Eddie",]
+aliases = [ "Ed", "Eddie",]
 
 [[memberships]]
 type = "congress"

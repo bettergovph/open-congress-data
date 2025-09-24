@@ -5,7 +5,7 @@ full_name = "BARONDA, JULIENNE \"JAM\" L."
 last_name = "Baronda"
 first_name = "Julienne"
 middle_name = "L"
-aliases = [ "Julienne \"Jam\" L. Baronda", "Jam",]
+aliases = ["Jam"]
 
 [[memberships]]
 type = "congress"

@@ -4,7 +4,7 @@ congress_website_author_keys = [ "K108",]
 full_name = "ANG, JAMES \"JOJO\" JR."
 last_name = "Ang"
 first_name = "James"
-aliases = [ "James \"Jojo\" A. Ang Jr.", "Jojo",]
+aliases = ["Jojo"]
 name_suffix = "Jr"
 
 [[memberships]]

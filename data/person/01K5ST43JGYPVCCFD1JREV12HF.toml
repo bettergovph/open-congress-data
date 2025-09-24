@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 650,]
 congress_website_author_keys = [ "F080",]
 full_name = "Cayetano, Ma. Laarni L."
 last_name = "Cayetano"
-first_name = "Ma."
-middle_name = "Laarni L"
+first_name = "Ma. Laarni"
+middle_name = "L"
 aliases = [ "Lani",]
 
 [[memberships]]

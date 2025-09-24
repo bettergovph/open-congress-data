@@ -4,7 +4,6 @@ congress_website_author_keys = [ "L063",]
 full_name = "NAZAL, ROBERT"
 last_name = "Nazal"
 first_name = "Robert"
-aliases = [ "Robert Nazal",]
 
 [[memberships]]
 type = "congress"

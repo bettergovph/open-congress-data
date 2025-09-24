@@ -3,9 +3,8 @@ congress_website_primary_keys = [ 1106,]
 congress_website_author_keys = [ "L070",]
 full_name = "SAGARBARRIA, MA. ISABEL L."
 last_name = "Sagarbarria"
-first_name = "Ma."
-middle_name = "Isabel L"
-aliases = [ "Ma. Isabel L. Sagarbarria",]
+first_name = "Ma. Isabel"
+middle_name = "L"
 
 [[memberships]]
 type = "congress"

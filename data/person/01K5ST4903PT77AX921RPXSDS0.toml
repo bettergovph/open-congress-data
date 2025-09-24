@@ -3,9 +3,8 @@ congress_website_primary_keys = [ 1086,]
 congress_website_author_keys = [ "L056",]
 full_name = "LOPEZ, MA. CRISTINA TALAVERA"
 last_name = "Lopez"
-first_name = "Ma."
-middle_name = "Cristina Talavera"
-aliases = [ "Ma. Cristina Talavera Lopez",]
+first_name = "Ma. Cristina"
+middle_name = "Talavera"
 
 [[memberships]]
 type = "congress"

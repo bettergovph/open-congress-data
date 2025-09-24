@@ -5,7 +5,7 @@ full_name = "LAGBAS, ATTY. JENNIFER \"KAREN\" A."
 last_name = "Lagbas"
 first_name = "Jennifer"
 middle_name = "A"
-aliases = [ "Atty. Jennifer \"Karen\" A. Lagbas", "Karen",]
+aliases = ["Karen"]
 name_prefix = "Atty"
 
 [[memberships]]

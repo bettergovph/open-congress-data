@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 695,]
 congress_website_author_keys = [ "G008",]
 full_name = "Zamora, Ma. Carmen S."
 last_name = "Zamora"
-first_name = "Ma."
-middle_name = "Carmen S"
+first_name = "Ma. Carmen"
+middle_name = "S"
 aliases = [ "Maricar",]
 
 [[memberships]]

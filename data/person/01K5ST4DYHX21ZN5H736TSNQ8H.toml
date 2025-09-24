@@ -5,7 +5,6 @@ full_name = "SANTOS, MARK ANTHONY"
 last_name = "Santos"
 first_name = "Mark"
 middle_name = "Anthony"
-aliases = [ "Mark Anthony Santos",]
 
 [[memberships]]
 type = "congress"

@@ -5,7 +5,6 @@ full_name = "YAP, ERIC GO"
 last_name = "Yap"
 first_name = "Eric"
 middle_name = "Go"
-aliases = [ "Eric Go Yap",]
 
 [[memberships]]
 type = "congress"

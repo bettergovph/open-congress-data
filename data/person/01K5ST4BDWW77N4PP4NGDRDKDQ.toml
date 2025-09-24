@@ -5,7 +5,6 @@ full_name = "PEREZ, JERRY EVANGELISTA"
 last_name = "Perez"
 first_name = "Jerry"
 middle_name = "Evangelista"
-aliases = [ "Jery Evangelista Perez",]
 
 [[memberships]]
 type = "congress"

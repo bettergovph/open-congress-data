@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 458,]
 congress_website_author_keys = [ "C119",]
 full_name = "Calimbas-Villarosa, Ma. Amelita A."
 last_name = "Calimbas-Villarosa"
-first_name = "Ma."
-middle_name = "Amelita A"
+first_name = "Ma. Amelita"
+middle_name = "A"
 aliases = [ "Girlie",]
 
 [[memberships]]

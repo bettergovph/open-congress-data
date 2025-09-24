@@ -5,7 +5,6 @@ full_name = "BONDOC, ANNA YORK P., MD"
 last_name = "Bondoc"
 first_name = "Anna"
 middle_name = "York P, Md"
-aliases = [ "Anna York P. Bondoc, Md",]
 
 [[memberships]]
 type = "congress"

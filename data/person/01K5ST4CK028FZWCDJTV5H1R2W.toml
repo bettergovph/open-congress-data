@@ -5,7 +5,6 @@ full_name = "RODRIGUEZ, RUFUS B."
 last_name = "Rodriguez"
 first_name = "Rufus"
 middle_name = "B"
-aliases = [ "Rufus B. Rodriguez",]
 
 [[memberships]]
 type = "congress"

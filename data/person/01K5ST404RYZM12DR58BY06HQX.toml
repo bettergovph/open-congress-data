@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 894,]
 congress_website_author_keys = [ "I001",]
 full_name = "Aggabao, Ma. Lourdes R."
 last_name = "Aggabao"
-first_name = "Ma."
-middle_name = "Lourdes R"
+first_name = "Ma. Lourdes"
+middle_name = "R"
 
 [[memberships]]
 type = "congress"

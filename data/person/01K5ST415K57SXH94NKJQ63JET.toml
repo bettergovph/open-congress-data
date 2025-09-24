@@ -5,7 +5,7 @@ full_name = "ATAYDE, JUAN CARLOS \"ARJO\" C."
 last_name = "Atayde"
 first_name = "Juan Carlos"
 middle_name = "C"
-aliases = [ "Juan Carlos \"Arjo\" C. Atayde", "Arjo",]
+aliases = ["Arjo"]
 
 [[memberships]]
 type = "congress"

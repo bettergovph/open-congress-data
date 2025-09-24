@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 657,]
 congress_website_author_keys = [ "F091",]
 full_name = "Coscolluela, Ma. Carissa O."
 last_name = "Coscolluela"
-first_name = "Ma."
-middle_name = "Carissa O"
+first_name = "Ma. Carissa"
+middle_name = "O"
 aliases = [ "Iyay",]
 
 [[memberships]]

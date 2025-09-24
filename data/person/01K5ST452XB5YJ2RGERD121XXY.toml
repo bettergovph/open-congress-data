@@ -3,9 +3,8 @@ congress_website_primary_keys = [ 714,]
 congress_website_author_keys = [ "G030",]
 full_name = "DE VENECIA, MA. GEORGINA P."
 last_name = "De Venecia"
-first_name = "Ma."
-middle_name = "Georgina P"
-aliases = [ "Ma. Georgina P. De Venecia",]
+first_name = "Ma. Georgina"
+middle_name = "P"
 
 [[memberships]]
 type = "congress"

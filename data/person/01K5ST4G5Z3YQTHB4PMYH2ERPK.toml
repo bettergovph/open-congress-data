@@ -5,7 +5,7 @@ full_name = "VERGARA, JULIUS CESAR \"JAY\" V."
 last_name = "Vergara"
 first_name = "Julius Cesar"
 middle_name = "V"
-aliases = [ "Julius Cesar \"Jay\" V. Vergara", "Jay",]
+aliases = ["Jay"]
 
 [[memberships]]
 type = "congress"

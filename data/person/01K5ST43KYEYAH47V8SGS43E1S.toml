@@ -5,7 +5,7 @@ full_name = "CENIZA, LEONEL \"JHONG\" D."
 last_name = "Ceniza"
 first_name = "Leonel"
 middle_name = "D"
-aliases = [ "Leonel \"Jhong\" D. Ceniza", "Jhong",]
+aliases = ["Jhong"]
 
 [[memberships]]
 type = "congress"

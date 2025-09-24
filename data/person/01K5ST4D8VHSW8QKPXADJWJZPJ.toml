@@ -5,7 +5,6 @@ full_name = "ROMULO, ROMAN T."
 last_name = "Romulo"
 first_name = "Roman"
 middle_name = "T"
-aliases = [ "Roman T. Romulo",]
 
 [[memberships]]
 type = "congress"

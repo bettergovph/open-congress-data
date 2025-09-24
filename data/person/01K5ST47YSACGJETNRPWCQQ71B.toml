@@ -5,7 +5,7 @@ full_name = "HERNANDEZ, DENNIS \"TOM\" L."
 last_name = "Hernandez"
 first_name = "Dennis"
 middle_name = "L"
-aliases = [ "Dennis \"Tom\" L. Hernandez", "Tom",]
+aliases = ["Tom"]
 
 [[memberships]]
 type = "congress"

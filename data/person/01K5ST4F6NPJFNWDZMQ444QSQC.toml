@@ -5,7 +5,7 @@ full_name = "TEVES, JOSE \"BONG\" J., JR."
 last_name = "Teves"
 first_name = "Jose"
 middle_name = "J"
-aliases = [ "Jose \"Bong\" J. Teves Jr.", "Bong",]
+aliases = ["Bong"]
 name_suffix = "Jr"
 
 [[memberships]]

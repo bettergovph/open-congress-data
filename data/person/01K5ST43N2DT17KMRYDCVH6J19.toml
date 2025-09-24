@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 65,]
 congress_website_author_keys = [ "K019",]
 full_name = "Chan, Ma. Cynthia K."
 last_name = "Chan"
-first_name = "Ma."
-middle_name = "Cynthia K"
+first_name = "Ma. Cynthia"
+middle_name = "K"
 
 [[memberships]]
 type = "congress"

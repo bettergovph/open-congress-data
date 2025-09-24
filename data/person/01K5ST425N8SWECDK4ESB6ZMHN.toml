@@ -4,7 +4,6 @@ congress_website_author_keys = [ "I098",]
 full_name = "BERNOS, JB"
 last_name = "Bernos"
 first_name = "Jb"
-aliases = [ "Jb Bernos",]
 
 [[memberships]]
 type = "congress"

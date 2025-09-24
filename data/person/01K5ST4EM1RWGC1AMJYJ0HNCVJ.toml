@@ -5,7 +5,7 @@ full_name = "SUNTAY, JESUS MANUEL \"BONG\" C."
 last_name = "Suntay"
 first_name = "Jesus Manuel"
 middle_name = "C"
-aliases = [ "Jesus Manuel \"Bong\" C. Suntay", "Bong",]
+aliases = ["Bong"]
 
 [[memberships]]
 type = "congress"

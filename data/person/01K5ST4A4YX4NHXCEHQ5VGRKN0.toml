@@ -5,7 +5,6 @@ full_name = "MERCADO, ROGER GAVIOLA"
 last_name = "Mercado"
 first_name = "Roger"
 middle_name = "Gaviola"
-aliases = [ "Roger G. Mercado",]
 
 [[memberships]]
 type = "congress"

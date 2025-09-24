@@ -5,7 +5,7 @@ full_name = "CHAN, JUNARD \"AHONG\" Q."
 last_name = "Chan"
 first_name = "Junard"
 middle_name = "Q"
-aliases = [ "Junard \"Ahong\" Q. Chan", "Ahong",]
+aliases = ["Ahong"]
 
 [[memberships]]
 type = "congress"

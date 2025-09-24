@@ -5,7 +5,7 @@ full_name = "BELTRAN, FERDINAND \"B1\" L."
 last_name = "Beltran"
 first_name = "Ferdinand"
 middle_name = "L"
-aliases = [ "Ferdinand \"B1\" L. Beltran", "B1",]
+aliases = ["B1"]
 
 [[memberships]]
 type = "congress"
