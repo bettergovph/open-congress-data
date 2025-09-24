@@ -4,7 +4,8 @@ congress_website_author_keys = [ "E018",]
 full_name = "BIRON, FERJENEL G., MD"
 last_name = "Biron"
 first_name = "Ferjenel"
-middle_name = "G, Md"
+middle_name = "G"
+professional_designations = [ "MD",]
 
 [[memberships]]
 type = "congress"

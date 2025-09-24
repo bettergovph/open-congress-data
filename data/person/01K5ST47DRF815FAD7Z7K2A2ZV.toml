@@ -4,7 +4,8 @@ congress_website_author_keys = [ "K039",]
 full_name = "GOMEZ, RICHARD I., DPA"
 last_name = "Gomez"
 first_name = "Richard"
-middle_name = "I, Dpa"
+middle_name = "I"
+professional_designations = [ "DPA",]
 
 [[memberships]]
 type = "congress"

@@ -4,8 +4,9 @@ congress_website_author_keys = [ "G040",]
 full_name = "Eriguel, Eufranio 'Franny' C., M.D."
 last_name = "Eriguel"
 first_name = "Eufranio"
-middle_name = "'Franny' C, Md"
+middle_name = "C"
 aliases = [ "Franny",]
+professional_designations = [ "MD",]
 
 [[memberships]]
 type = "congress"

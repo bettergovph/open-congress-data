@@ -1,10 +1,10 @@
 id = "01K5ST4ESFT34FE8Y9CGE4HEFS"
 congress_website_primary_keys = [ 1016,]
 congress_website_author_keys = [ "J113",]
-full_name = "Taduran, Rowena NiÃ±a O."
+full_name = "Taduran, Rowena Niña O."
 last_name = "Taduran"
-first_name = "Rowena"
-middle_name = "Niã±A O"
+first_name = "Rowena Niña"
+middle_name = "O"
 
 [[memberships]]
 type = "congress"

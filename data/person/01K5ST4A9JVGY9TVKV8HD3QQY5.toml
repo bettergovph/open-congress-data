@@ -1,10 +1,11 @@
 id = "01K5ST4A9JVGY9TVKV8HD3QQY5"
 congress_website_primary_keys = [ 985,]
 congress_website_author_keys = [ "J052",]
-full_name = "Natividad-NagaÃ±o, Maricel G., MD."
-last_name = "Natividad-Nagaã±O"
+full_name = "Natividad-Nagaño, Maricel G., MD."
+last_name = "Natividad-Nagaño"
 first_name = "Maricel"
-middle_name = "G, Md"
+middle_name = "G"
+professional_designations = [ "MD",]
 
 [[memberships]]
 type = "congress"

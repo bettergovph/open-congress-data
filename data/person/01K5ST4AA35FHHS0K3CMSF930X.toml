@@ -3,8 +3,9 @@ congress_website_primary_keys = [ 631,]
 congress_website_author_keys = [ "F055",]
 full_name = "NAVA, JC RAHMAN A., MD"
 last_name = "Nava"
-first_name = "Jc"
-middle_name = "Rahman A, Md"
+first_name = "JC Rahman"
+middle_name = "A"
+professional_designations = [ "MD",]
 
 [[memberships]]
 type = "congress"

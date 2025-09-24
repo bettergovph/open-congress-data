@@ -4,7 +4,8 @@ congress_website_author_keys = [ "L001",]
 full_name = "AGYAO, CAROLINE B., MD."
 last_name = "Agyao"
 first_name = "Caroline"
-middle_name = "B, Md"
+middle_name = "B"
+professional_designations = [ "MD",]
 
 [[memberships]]
 type = "congress"

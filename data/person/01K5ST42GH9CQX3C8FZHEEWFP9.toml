@@ -4,7 +4,8 @@ congress_website_author_keys = [ "H066",]
 full_name = "Bravo, Anthony M., Ph.D."
 last_name = "Bravo"
 first_name = "Anthony"
-middle_name = "M, Phd"
+middle_name = "M"
+professional_designations = [ "Ph.D.",]
 
 [[memberships]]
 type = "congress"

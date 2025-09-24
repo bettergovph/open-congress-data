@@ -4,7 +4,8 @@ congress_website_author_keys = [ "E021",]
 full_name = "Carlos, Bobbit L. , M. D."
 last_name = "Carlos"
 first_name = "Bobbit"
-middle_name = "L , M D"
+middle_name = "L"
+professional_designations = [ "MD",]
 
 [[memberships]]
 type = "congress"

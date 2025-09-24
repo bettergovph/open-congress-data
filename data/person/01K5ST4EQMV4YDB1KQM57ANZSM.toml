@@ -4,8 +4,9 @@ congress_website_author_keys = [ "C111",]
 full_name = "Syjuco, Augusto Boboy, Ph.D."
 last_name = "Syjuco"
 first_name = "Augusto"
-middle_name = "Boboy, Phd"
+middle_name = "Boboy"
 aliases = [ "Boboy",]
+professional_designations = [ "Ph.D.",]
 
 [[memberships]]
 type = "congress"
