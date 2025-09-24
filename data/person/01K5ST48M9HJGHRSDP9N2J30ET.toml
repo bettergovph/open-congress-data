@@ -3,9 +3,9 @@ congress_website_primary_keys = [ 735,]
 congress_website_author_keys = [ "G056",]
 full_name = "Lanete, Scott Davies S., M.D."
 last_name = "Lanete"
-first_name = "Scott"
-middle_name = "Davies S, Md"
-aliases = [ "S",]
+first_name = "Scott Davies"
+middle_name = "S"
+professional_designations = [ "MD",]
 
 [[memberships]]
 type = "congress"

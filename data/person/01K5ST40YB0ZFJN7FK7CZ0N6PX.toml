@@ -6,6 +6,7 @@ last_name = "Aquino"
 first_name = "Rey"
 middle_name = "B, Md"
 aliases = [ "Rey",]
+professional_designations = [ "MD",]
 
 [[memberships]]
 type = "congress"

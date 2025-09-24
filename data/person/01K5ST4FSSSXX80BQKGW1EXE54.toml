@@ -4,8 +4,9 @@ congress_website_author_keys = [ "D070",]
 full_name = "Uy, Reynaldo S. , M.D."
 last_name = "Uy"
 first_name = "Reynaldo"
-middle_name = "S , Md"
+middle_name = "S"
 aliases = [ "Ining",]
+professional_designations = ["MD",]
 
 [[memberships]]
 type = "congress"

@@ -4,8 +4,9 @@ congress_website_author_keys = [ "G041",]
 full_name = "Espina, Rogelio J.,M.D."
 last_name = "Espina"
 first_name = "Rogelio"
-middle_name = "J,Md"
+middle_name = "J"
 aliases = [ "Roger",]
+professional_designations = [ "MD",]
 
 [[memberships]]
 type = "congress"

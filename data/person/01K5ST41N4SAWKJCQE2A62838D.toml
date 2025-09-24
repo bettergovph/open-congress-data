@@ -4,7 +4,7 @@ congress_website_author_keys = [ "H016",]
 full_name = "Barcelona-Reyes, Catherine, M.D."
 last_name = "Barcelona-Reyes"
 first_name = "Catherine,"
-middle_name = "Md"
+professional_designations = [ "MD",]
 
 [[memberships]]
 type = "congress"

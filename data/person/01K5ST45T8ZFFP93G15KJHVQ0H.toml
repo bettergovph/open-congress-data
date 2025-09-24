@@ -4,7 +4,8 @@ congress_website_author_keys = [ "I024",]
 full_name = "Eriguel, Sandra Y., M.D."
 last_name = "Eriguel"
 first_name = "Sandra"
-middle_name = "Y, Md"
+middle_name = "Y"
+professional_designations = [ "MD",]
 
 [[memberships]]
 type = "congress"
