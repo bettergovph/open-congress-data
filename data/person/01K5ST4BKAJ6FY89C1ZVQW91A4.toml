@@ -4,8 +4,8 @@ congress_website_author_keys = [ "D051",]
 full_name = "Plaza, Rodolfo 'Ompong' G."
 last_name = "Plaza"
 first_name = "Rodolfo"
-middle_name = "'Ompong' G"
-aliases = [ "Ompong",]
+middle_name = "G"
+aliases = ["Ompong"]
 
 [[memberships]]
 type = "congress"

@@ -3,9 +3,9 @@ congress_website_primary_keys = [ 560,]
 congress_website_author_keys = [ "E029",]
 full_name = "Falcon, Peter Paul Jed C."
 last_name = "Falcon"
-first_name = "Peter"
-middle_name = "Paul Jed C"
-aliases = [ "Jed",]
+first_name = "Peter Paul Jed"
+middle_name = "C"
+aliases = ["Jed"]
 
 [[memberships]]
 type = "congress"

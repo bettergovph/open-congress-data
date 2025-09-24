@@ -3,8 +3,9 @@ congress_website_primary_keys = [ 958,]
 congress_website_author_keys = [ "I105",]
 full_name = "Sy-Alvarado, \"Kuya\" Jose Antonio R."
 last_name = "Sy-Alvarado"
-first_name = "\"Kuya\""
-middle_name = "Jose Antonio R"
+first_name = "Jose Antonio"
+middle_name = "R"
+aliases = ["Kuya",]
 
 [[memberships]]
 type = "congress"

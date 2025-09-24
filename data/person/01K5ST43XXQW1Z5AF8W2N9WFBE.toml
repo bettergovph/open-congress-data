@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 72,]
 congress_website_author_keys = [ "K021",]
 full_name = "COJUANGCO, JAIME EDUARDO MARC D."
 last_name = "Cojuangco"
-first_name = "Jaime"
-middle_name = "Eduardo Marc D"
+first_name = "Jaime Eduardo Marc"
+middle_name = "D"
 
 [[memberships]]
 type = "congress"

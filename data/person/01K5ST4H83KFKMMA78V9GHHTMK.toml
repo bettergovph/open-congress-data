@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 318,]
 congress_website_author_keys = [ "K099",]
 full_name = "ZAMORA, YSABEL MARIA J."
 last_name = "Zamora"
-first_name = "Ysabel"
-middle_name = "Maria J"
+first_name = "Ysabel Maria"
+middle_name = "J"
 
 [[memberships]]
 type = "congress"

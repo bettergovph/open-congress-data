@@ -3,9 +3,9 @@ congress_website_primary_keys = [ 622,]
 congress_website_author_keys = [ "F045",]
 full_name = "Mangudadatu, Datu Pax S."
 last_name = "Mangudadatu"
-first_name = "Datu"
-middle_name = "Pax S"
-aliases = [ "Pax",]
+first_name = "Datu Pax"
+middle_name = "S"
+aliases = ["Pax"]
 
 [[memberships]]
 type = "congress"

@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 314,]
 congress_website_author_keys = [ "K097",]
 full_name = "YU, JEYZEL VICTORIA C."
 last_name = "Yu"
-first_name = "Jeyzel"
-middle_name = "Victoria C"
+first_name = "Jeyzel Victoria"
+middle_name = "C"
 
 [[memberships]]
 type = "congress"

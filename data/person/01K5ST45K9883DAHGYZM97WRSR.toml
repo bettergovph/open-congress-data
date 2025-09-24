@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 940,]
 congress_website_author_keys = [ "I083",]
 full_name = "ELAGO, SARAH JANE I."
 last_name = "Elago"
-first_name = "Sarah"
-middle_name = "Jane I"
+first_name = "Sarah Jane"
+middle_name = "I"
 
 [[memberships]]
 type = "congress"

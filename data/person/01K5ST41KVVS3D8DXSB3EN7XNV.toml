@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 33,]
 congress_website_author_keys = [ "C019",]
 full_name = "Barbers, Robert Ace S."
 last_name = "Barbers"
-first_name = "Robert"
-middle_name = "Ace S"
+first_name = "Robert Ace"
+middle_name = "S"
 
 [[memberships]]
 type = "congress"

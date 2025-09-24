@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 95,]
 congress_website_author_keys = [ "D025",]
 full_name = "Duavit, Michael John  R."
 last_name = "Duavit"
-first_name = "Michael"
-middle_name = "John R"
+first_name = "Michael John"
+middle_name = "R"
 
 [[memberships]]
 type = "congress"

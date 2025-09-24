@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 38,]
 congress_website_author_keys = [ "J086",]
 full_name = "BAUTISTA-LIM, CLAUDINE DIANA D."
 last_name = "Bautista-Lim"
-first_name = "Claudine"
-middle_name = "Diana D"
+first_name = "Claudine Diana"
+middle_name = "D"
 
 [[memberships]]
 type = "congress"

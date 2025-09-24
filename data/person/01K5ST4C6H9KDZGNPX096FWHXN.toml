@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 989,]
 congress_website_author_keys = [ "J061",]
 full_name = "Reyes, Allan Benedict S."
 last_name = "Reyes"
-first_name = "Allan"
-middle_name = "Benedict S"
+first_name = "Allan Benedict"
+middle_name = "S"
 
 [[memberships]]
 type = "congress"

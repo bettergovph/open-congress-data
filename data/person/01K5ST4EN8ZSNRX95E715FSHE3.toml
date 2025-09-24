@@ -3,9 +3,9 @@ congress_website_primary_keys = [ 579,]
 congress_website_author_keys = [ "E057",]
 full_name = "Susano, Mary Ann L."
 last_name = "Susano"
-first_name = "Mary"
-middle_name = "Ann L"
-aliases = [ "Annie",]
+first_name = "Mary Ann"
+middle_name = "L"
+aliases = ["Annie"]
 
 [[memberships]]
 type = "congress"

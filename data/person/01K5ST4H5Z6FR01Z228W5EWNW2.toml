@@ -4,8 +4,8 @@ congress_website_author_keys = [ "D076",]
 full_name = "Zamora, Manuel 'Way Kurat' E."
 last_name = "Zamora"
 first_name = "Manuel"
-middle_name = "'Way Kurat' E"
-aliases = [ "Way Kurat",]
+middle_name = "E"
+aliases = ["Way Kurat"]
 
 [[memberships]]
 type = "congress"

@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 1078,]
 congress_website_author_keys = [ "L049",]
 full_name = "LACSON, MA.NINA FRANCESCA P."
 last_name = "Lacson"
-first_name = "Ma.Nina"
-middle_name = "Francesca P"
+first_name = "Ma. Nina Francesca"
+middle_name = "P"
 
 [[memberships]]
 type = "congress"

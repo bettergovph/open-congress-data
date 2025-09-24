@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 276,]
 congress_website_author_keys = [ "K087",]
 full_name = "Teodoro, Marjorie Ann A."
 last_name = "Teodoro"
-first_name = "Marjorie"
-middle_name = "Ann A"
+first_name = "Marjorie Ann"
+middle_name = "A"
 
 [[memberships]]
 type = "congress"

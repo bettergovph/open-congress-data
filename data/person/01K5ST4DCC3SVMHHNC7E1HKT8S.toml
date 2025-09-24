@@ -3,9 +3,9 @@ congress_website_primary_keys = [ 466,]
 congress_website_author_keys = [ "C130",]
 full_name = "Rosales, Loretta Ann P."
 last_name = "Rosales"
-first_name = "Loretta"
-middle_name = "Ann P"
-aliases = [ "Etta",]
+first_name = "Loretta Ann"
+middle_name = "P"
+aliases = ["Etta"]
 
 [[memberships]]
 type = "congress"

@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 1068,]
 congress_website_author_keys = [ "L040",]
 full_name = "GONZALES, CHRISTOPHER SHEEN P."
 last_name = "Gonzales"
-first_name = "Christopher"
-middle_name = "Sheen P"
+first_name = "Christopher Sheen"
+middle_name = "P"
 
 [[memberships]]
 type = "congress"

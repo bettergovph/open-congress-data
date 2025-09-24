@@ -3,9 +3,9 @@ congress_website_primary_keys = [ 652,]
 congress_website_author_keys = [ "F085",]
 full_name = "Tan, Sharee Ann T."
 last_name = "Tan"
-first_name = "Sharee"
-middle_name = "Ann T"
-aliases = [ "Ann",]
+first_name = "Sharee Ann"
+middle_name = "T"
+aliases = ["Ann"]
 
 [[memberships]]
 type = "congress"

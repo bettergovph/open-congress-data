@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 272,]
 congress_website_author_keys = [ "K082",]
 full_name = "TAN, STEPHEN JAMES T."
 last_name = "Tan"
-first_name = "Stephen"
-middle_name = "James T"
+first_name = "Stephen James"
+middle_name = "T"
 
 [[memberships]]
 type = "congress"

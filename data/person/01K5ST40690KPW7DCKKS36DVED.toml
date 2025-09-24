@@ -4,8 +4,8 @@ congress_website_author_keys = [ "D092",]
 full_name = "Aguja, Mario 'Mayong' Joyo"
 last_name = "Aguja"
 first_name = "Mario"
-middle_name = "'Mayong' Joyo"
-aliases = [ "Mayong",]
+middle_name = "Joyo"
+aliases = ["Mayong"]
 
 [[memberships]]
 type = "congress"

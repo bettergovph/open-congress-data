@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 1063,]
 congress_website_author_keys = [ "L036",]
 full_name = "GARCIA, KAREN HOPE F."
 last_name = "Garcia"
-first_name = "Karen"
-middle_name = "Hope F"
+first_name = "Karen Hope"
+middle_name = "F"
 
 [[memberships]]
 type = "congress"

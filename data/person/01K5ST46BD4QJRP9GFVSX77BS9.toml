@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 779,]
 congress_website_author_keys = [ "G106",]
 full_name = "Ferriol, Abigail Faye C."
 last_name = "Ferriol"
-first_name = "Abigail"
-middle_name = "Faye C"
+first_name = "Abigail Faye"
+middle_name = "C"
 
 [[memberships]]
 type = "congress"

@@ -4,8 +4,8 @@ congress_website_author_keys = [ "E051",]
 full_name = "Petilla, Remedios 'Matin'  L."
 last_name = "Petilla"
 first_name = "Remedios"
-middle_name = "'Matin' L"
-aliases = [ "Matin",]
+middle_name = "L"
+aliases = ["Matin"]
 
 [[memberships]]
 type = "congress"

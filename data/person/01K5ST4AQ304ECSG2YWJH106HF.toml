@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 203,]
 congress_website_author_keys = [ "K057",]
 full_name = "Olaso, Khymer Adan T."
 last_name = "Olaso"
-first_name = "Khymer"
-middle_name = "Adan T"
+first_name = "Khymer Adan"
+middle_name = "T"
 
 [[memberships]]
 type = "congress"

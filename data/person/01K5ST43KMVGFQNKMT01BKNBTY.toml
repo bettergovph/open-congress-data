@@ -4,8 +4,8 @@ congress_website_author_keys = [ "G023",]
 full_name = "Celeste, Jesus 'Boying' F."
 last_name = "Celeste"
 first_name = "Jesus"
-middle_name = "'Boying' F"
-aliases = [ "Boying",]
+middle_name = "F"
+aliases = ["Boying"]
 
 [[memberships]]
 type = "congress"

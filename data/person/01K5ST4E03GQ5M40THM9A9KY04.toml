@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 925,]
 congress_website_author_keys = [ "I062",]
 full_name = "Sarmiento, Edgar Mary S."
 last_name = "Sarmiento"
-first_name = "Edgar"
-middle_name = "Mary S"
+first_name = "Edgar Mary"
+middle_name = "S"
 
 [[memberships]]
 type = "congress"

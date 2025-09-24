@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 1057,]
 congress_website_author_keys = [ "L030",]
 full_name = "DIMACUHA, BEVERLEY ROSE A."
 last_name = "Dimacuha"
-first_name = "Beverley"
-middle_name = "Rose A"
+first_name = "Beverley Rose"
+middle_name = "A"
 
 [[memberships]]
 type = "congress"

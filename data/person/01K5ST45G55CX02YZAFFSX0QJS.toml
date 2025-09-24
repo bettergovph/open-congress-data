@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 100,]
 congress_website_author_keys = [ "J029",]
 full_name = "DY, IAN PAUL L."
 last_name = "Dy"
-first_name = "Ian"
-middle_name = "Paul L"
+first_name = "Ian Paul"
+middle_name = "L"
 
 [[memberships]]
 type = "congress"

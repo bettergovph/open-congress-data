@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 316,]
 congress_website_author_keys = [ "K100",]
 full_name = "Zamora, Amparo Maria J."
 last_name = "Zamora"
-first_name = "Amparo"
-middle_name = "Maria J"
+first_name = "Amparo Maria"
+middle_name = "J"
 
 [[memberships]]
 type = "congress"

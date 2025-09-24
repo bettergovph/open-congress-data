@@ -3,9 +3,8 @@ congress_website_primary_keys = [ 550,]
 congress_website_author_keys = [ "E017",]
 full_name = "Hontiveros-Baraquel, Ana Theresia 'Risa'"
 last_name = "Hontiveros-Baraquel"
-first_name = "Ana"
-middle_name = "Theresia 'Risa'"
-aliases = [ "Risa",]
+first_name = "Ana Theresia"
+aliases = ["Risa"]
 
 [[memberships]]
 type = "congress"

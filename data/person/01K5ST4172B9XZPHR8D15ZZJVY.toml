@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 818,]
 congress_website_author_keys = [ "H015",]
 full_name = "Aumentado, Erico Aristotle C."
 last_name = "Aumentado"
-first_name = "Erico"
-middle_name = "Aristotle C"
+first_name = "Erico Aristotle"
+middle_name = "C"
 
 [[memberships]]
 type = "congress"

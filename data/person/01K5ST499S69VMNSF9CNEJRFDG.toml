@@ -4,8 +4,8 @@ congress_website_author_keys = [ "E040",]
 full_name = "Magsaysay, Eulogio 'Amang' R."
 last_name = "Magsaysay"
 first_name = "Eulogio"
-middle_name = "'Amang' R"
-aliases = [ "Amang",]
+middle_name = "R"
+aliases = ["Amang"]
 
 [[memberships]]
 type = "congress"

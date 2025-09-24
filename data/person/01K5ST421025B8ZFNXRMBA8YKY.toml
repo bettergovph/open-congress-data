@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 820,]
 congress_website_author_keys = [ "H017",]
 full_name = "Belmonte, Jose Christopher Y."
 last_name = "Belmonte"
-first_name = "Jose"
-middle_name = "Christopher Y"
+first_name = "Jose Christopher"
+middle_name = "Y"
 
 [[memberships]]
 type = "congress"

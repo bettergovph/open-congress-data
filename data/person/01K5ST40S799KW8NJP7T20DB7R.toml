@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 22,]
 congress_website_author_keys = [ "J009",]
 full_name = "ANGARA, ROMMEL RICO T."
 last_name = "Angara"
-first_name = "Rommel"
-middle_name = "Rico T"
+first_name = "Rommel Rico"
+middle_name = "T"
 
 [[memberships]]
 type = "congress"

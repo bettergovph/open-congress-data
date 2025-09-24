@@ -4,8 +4,8 @@ congress_website_author_keys = [ "C126",]
 full_name = "Magtubo, Renato 'Ka Rene' B."
 last_name = "Magtubo"
 first_name = "Renato"
-middle_name = "'Ka Rene' B"
-aliases = [ "Ka Rene",]
+middle_name = "B"
+aliases = ["Ka Rene"]
 
 [[memberships]]
 type = "congress"

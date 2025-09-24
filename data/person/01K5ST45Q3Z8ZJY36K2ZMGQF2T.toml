@@ -4,7 +4,8 @@ congress_website_author_keys = [ "K116",]
 full_name = "Enciso, Nicolas VIII C."
 last_name = "Enciso"
 first_name = "Nicolas"
-middle_name = "Viii C"
+middle_name = "C"
+name_suffix = "VIII"
 
 [[memberships]]
 type = "congress"

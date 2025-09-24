@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 315,]
 congress_website_author_keys = [ "K098",]
 full_name = "YULO, EMILIO BERNARDINO L."
 last_name = "Yulo"
-first_name = "Emilio"
-middle_name = "Bernardino L"
+first_name = "Emilio Bernardino"
+middle_name = "L"
 
 [[memberships]]
 type = "congress"

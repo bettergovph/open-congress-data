@@ -3,9 +3,9 @@ congress_website_primary_keys = [ 306, 772,]
 congress_website_author_keys = [ "G099", "J082",]
 full_name = "Villarica, Linabelle Ruth R."
 last_name = "Villarica"
-first_name = "Linabelle"
-middle_name = "Ruth R"
-aliases = [ "Lv",]
+first_name = "Linabelle Ruth"
+middle_name = "R"
+aliases = ["Lv"]
 
 [[memberships]]
 type = "congress"

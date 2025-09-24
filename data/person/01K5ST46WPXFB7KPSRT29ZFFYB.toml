@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 123,]
 congress_website_author_keys = [ "F083",]
 full_name = "Garcia, Pablo John F."
 last_name = "Garcia"
-first_name = "Pablo"
-middle_name = "John F"
+first_name = "Pablo John"
+middle_name = "F"
 
 [[memberships]]
 type = "congress"

@@ -4,8 +4,8 @@ congress_website_author_keys = [ "C085",]
 full_name = "Nieva, Ernesto 'Banzai' A."
 last_name = "Nieva"
 first_name = "Ernesto"
-middle_name = "'Banzai' A"
-aliases = [ "Banzai",]
+middle_name = "A"
+aliases = ["Banzai"]
 
 [[memberships]]
 type = "congress"

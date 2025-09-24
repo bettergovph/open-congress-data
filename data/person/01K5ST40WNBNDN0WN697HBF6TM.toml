@@ -4,8 +4,8 @@ congress_website_author_keys = [ "D035",]
 full_name = "Apostol, Trinidad 'Ebbie' G."
 last_name = "Apostol"
 first_name = "Trinidad"
-middle_name = "'Ebbie' G"
-aliases = [ "Ebbie",]
+middle_name = "G"
+aliases = ["Ebbie"]
 
 [[memberships]]
 type = "congress"

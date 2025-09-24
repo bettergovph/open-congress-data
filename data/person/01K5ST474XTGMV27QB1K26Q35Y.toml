@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 728,]
 congress_website_author_keys = [ "G046",]
 full_name = "Go, Ana Cristina S."
 last_name = "Go"
-first_name = "Ana"
-middle_name = "Cristina S"
+first_name = "Ana Cristina"
+middle_name = "S"
 
 [[memberships]]
 type = "congress"

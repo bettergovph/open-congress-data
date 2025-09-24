@@ -4,8 +4,8 @@ congress_website_author_keys = [ "G089",]
 full_name = "Tan, Milagrosa 'Mila' T."
 last_name = "Tan"
 first_name = "Milagrosa"
-middle_name = "'Mila' T"
-aliases = [ "Mila",]
+middle_name = "T"
+aliases = ["Mila"]
 
 [[memberships]]
 type = "congress"

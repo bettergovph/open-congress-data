@@ -4,8 +4,8 @@ congress_website_author_keys = [ "G062",]
 full_name = "Mendoza, Joselito 'Jonjon' R."
 last_name = "Mendoza"
 first_name = "Joselito"
-middle_name = "'Jonjon' R"
-aliases = [ "Jonjon",]
+middle_name = "R"
+aliases = ["Jonjon"]
 
 [[memberships]]
 type = "congress"

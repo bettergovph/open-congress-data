@@ -3,9 +3,9 @@ congress_website_primary_keys = [ 681,]
 congress_website_author_keys = [ "F116",]
 full_name = "Abayon, Daryl Grace J."
 last_name = "Abayon"
-first_name = "Daryl"
-middle_name = "Grace J"
-aliases = [ "Daryl",]
+first_name = "Daryl Grace"
+middle_name = "J"
+aliases = ["Daryl"]
 
 [[memberships]]
 type = "congress"

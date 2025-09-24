@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 148,]
 congress_website_author_keys = [ "K042",]
 full_name = "HERNANDEZ, CHARISSE ANNE C."
 last_name = "Hernandez"
-first_name = "Charisse"
-middle_name = "Anne C"
+first_name = "Charisse Anne"
+middle_name = "C"
 
 [[memberships]]
 type = "congress"

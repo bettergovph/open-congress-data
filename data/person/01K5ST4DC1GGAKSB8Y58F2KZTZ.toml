@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 855,]
 congress_website_author_keys = [ "H054",]
 full_name = "Roque, Rogelio Neil P."
 last_name = "Roque"
-first_name = "Rogelio"
-middle_name = "Neil P"
+first_name = "Rogelio Neil"
+middle_name = "P"
 
 [[memberships]]
 type = "congress"

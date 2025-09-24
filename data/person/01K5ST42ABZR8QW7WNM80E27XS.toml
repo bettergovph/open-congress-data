@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 974,]
 congress_website_author_keys = [ "J016",]
 full_name = "Biron, Braeden John Q."
 last_name = "Biron"
-first_name = "Braeden"
-middle_name = "John Q"
+first_name = "Braeden John"
+middle_name = "Q"
 
 [[memberships]]
 type = "congress"

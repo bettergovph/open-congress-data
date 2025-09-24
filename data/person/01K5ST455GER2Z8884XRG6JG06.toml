@@ -3,9 +3,9 @@ congress_website_primary_keys = [ 716,]
 congress_website_author_keys = [ "G033",]
 full_name = "Dimaporo, Fatima Aliah Q."
 last_name = "Dimaporo"
-first_name = "Fatima"
-middle_name = "Aliah Q"
-aliases = [ "Aliah",]
+first_name = "Fatima Aliah"
+middle_name = "Q"
+aliases = ["Aliah"]
 
 [[memberships]]
 type = "congress"

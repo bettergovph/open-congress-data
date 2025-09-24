@@ -3,9 +3,9 @@ congress_website_primary_keys = [ 746,]
 congress_website_author_keys = [ "G069",]
 full_name = "Paras, Jesus Emmanuel M."
 last_name = "Paras"
-first_name = "Jesus"
-middle_name = "Emmanuel M"
-aliases = [ "Jess",]
+first_name = "Jesus Emmanuel"
+middle_name = "M"
+aliases = ["Jess"]
 
 [[memberships]]
 type = "congress"

@@ -4,8 +4,8 @@ congress_website_author_keys = [ "F019",]
 full_name = "Climaco, Maria Isabelle 'Beng' G."
 last_name = "Climaco"
 first_name = "Maria"
-middle_name = "Isabelle 'Beng' G"
-aliases = [ "Beng",]
+middle_name = "Isabelle G"
+aliases = ["Beng"]
 
 [[memberships]]
 type = "congress"

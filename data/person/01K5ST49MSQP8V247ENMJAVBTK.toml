@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 182,]
 congress_website_author_keys = [ "K051",]
 full_name = "MARCOS, FERDINAND ALEXANDER A."
 last_name = "Marcos"
-first_name = "Ferdinand"
-middle_name = "Alexander A"
+first_name = "Ferdinand Alexander"
+middle_name = "A"
 
 [[memberships]]
 type = "congress"

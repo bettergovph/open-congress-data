@@ -4,8 +4,8 @@ congress_website_author_keys = [ "E024",]
 full_name = "Crisologo, Vincent 'Bingbong' P."
 last_name = "Crisologo"
 first_name = "Vincent"
-middle_name = "'Bingbong' P"
-aliases = [ "Bingbong",]
+middle_name = "P"
+aliases = ["Bingbong"]
 
 [[memberships]]
 type = "congress"

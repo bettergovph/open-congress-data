@@ -3,8 +3,8 @@ congress_website_primary_keys = [ 1089,]
 congress_website_author_keys = [ "L059",]
 full_name = "MACEDA, GISELLE MARY L."
 last_name = "Maceda"
-first_name = "Giselle"
-middle_name = "Mary L"
+first_name = "Giselle Mary"
+middle_name = "L"
 
 [[memberships]]
 type = "congress"
