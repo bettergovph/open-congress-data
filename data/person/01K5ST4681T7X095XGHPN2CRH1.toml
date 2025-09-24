@@ -3,9 +3,9 @@ congress_website_primary_keys = [ 110,]
 congress_website_author_keys = [ "J097",]
 full_name = "Fariñas, Rudys Caesar I G."
 last_name = "Fariñas"
-first_name = "Rudys"
-middle_name = "Caesar I G"
-aliases = [ ".",]
+first_name = "Rudys Caesar"
+middle_name = "G"
+name_suffix = "I"
 
 [[memberships]]
 type = "congress"

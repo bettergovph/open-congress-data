@@ -5,7 +5,6 @@ full_name = "Remulla, Jesus Crispin C."
 last_name = "Remulla"
 first_name = "Jesus"
 middle_name = "Crispin C"
-aliases = [ ".",]
 
 [[memberships]]
 type = "congress"

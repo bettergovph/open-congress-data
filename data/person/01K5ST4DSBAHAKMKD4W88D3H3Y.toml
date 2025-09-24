@@ -4,7 +4,6 @@ congress_website_author_keys = [ "K076",]
 full_name = "Salvame, Edgardo"
 last_name = "Salvame"
 first_name = "Edgardo"
-aliases = [ ".",]
 
 [[memberships]]
 type = "congress"
