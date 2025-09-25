@@ -1,8 +1,11 @@
 id = "01K5S6MAZ4YBST5GDJV827A0JC"
 senate_website_keys = [ "LLORE",]
+congress_website_primary_keys = [ 471,]
+congress_website_author_keys = [ "C407",]
 last_name = "Legarda"
-middle_name = "B"
-first_name = "Loren"
+middle_name = "Bautista"
+first_name = "Lorna Regina"
+aliases = ["Loren",]
 
 [[memberships]]
 type = "congress"
@@ -23,6 +26,11 @@ position = "senator"
 type = "congress"
 congress = 17
 position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
 
 [[memberships]]
 type = "congress"

@@ -1,8 +1,16 @@
 id = "01K5S6MAZ4YBST5GDJV827A0J0"
 senate_website_keys = [ "EJOSE", "EVICT",]
+congress_website_primary_keys = [ 721,]
+congress_website_author_keys = [ "G039",]
 last_name = "Ejercito"
 middle_name = "G"
 first_name = "Joseph Victor"
+aliases = [ "JV",]
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
 
 [[memberships]]
 type = "congress"

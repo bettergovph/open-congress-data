@@ -1,9 +1,15 @@
 id = "01K5ST486817T9AXR2F084QW07"
-congress_website_primary_keys = [ 1075,]
-congress_website_author_keys = [ "L099",]
+congress_website_primary_keys = [ 839, 1075,]
+congress_website_author_keys = [ "H036", "L099",]
 last_name = "Iway"
 first_name = "Emmanuel"
-middle_name = "L"
+middle_name = "Limkaichong"
+aliases = ["Manuel",]
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
 
 [[memberships]]
 type = "congress"

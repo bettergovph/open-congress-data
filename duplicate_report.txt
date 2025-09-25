@@ -3,849 +3,22 @@ POTENTIAL DUPLICATE PERSON RECORDS
 ================================================================================
 
 
-EXACT NAME MATCHES
-------------------
-
-Group 1 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0HR.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0HR
-  Full Name: Biazon, Rodolfo G.
-  Name Parts: First: Rodolfo, Middle: G, Last: Biazon
-  Chamber: Senate
-  Congresses: [13,14]
-
-  File: 01K5ST426VX8PVBW7YJ0ZBJT62.toml
-  ID: 01K5ST426VX8PVBW7YJ0ZBJT62
-  Full Name: Biazon, Rodolfo G.
-  Name Parts: First: Rodolfo, Middle: G, Last: Biazon
-  Chamber: House
-  Congresses: [15,16]
-
-
-Group 2 (2 records):
-  File: 01K5ST44T4FBNHACTZTJ7B5HCB.toml
-  ID: 01K5ST44T4FBNHACTZTJ7B5HCB
-  Full Name: DE LIMA, LEILA M.
-  Name Parts: First: Leila, Middle: M, Last: De Lima
-  Chamber: House
-  Congresses: [20]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0HW.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0HW
-  Full Name: De Lima, Leila M.
-  Name Parts: First: Leila, Middle: M, Last: De Lima
-  Chamber: Senate
-  Congresses: [17,18]
-
-
-Group 3 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0J0.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0J0
-  Full Name: Ejercito, Joseph Victor G.
-  Name Parts: First: Joseph Victor, Middle: G, Last: Ejercito
-  Chamber: Senate
-  Congresses: [16,17,19]
-
-  File: 01K5ST45JVRRPGCN3EFM1CH4SM.toml
-  ID: 01K5ST45JVRRPGCN3EFM1CH4SM
-  Full Name: Ejercito, Joseph Victor G.
-  Name Parts: First: Joseph, Middle: Victor G, Last: Ejercito
-  Aliases: Jv
-  Chamber: House
-  Congresses: [15]
-
-
-Group 4 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0J6.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0J6
-  Full Name: Gatchalian, Sherwin T.
-  Name Parts: First: Sherwin, Middle: T, Last: Gatchalian
-  Chamber: Senate
-  Congresses: [17,18,19,20]
-
-  File: 01K5ST471W8WV5MDQ5APQBESNK.toml
-  ID: 01K5ST471W8WV5MDQ5APQBESNK
-  Full Name: Gatchalian, Sherwin T.
-  Name Parts: First: Sherwin, Middle: T, Last: Gatchalian
-  Chamber: House
-  Congresses: [12,16,19]
-
-
-Group 5 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0JK.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0JK
-  Full Name: Marcoleta, Rodante D.
-  Name Parts: First: Rodante, Middle: D, Last: Marcoleta
-  Chamber: Senate
-  Congresses: [20]
-
-  File: 01K5ST49KT6T9FTQ4X4GHDYRRZ.toml
-  ID: 01K5ST49KT6T9FTQ4X4GHDYRRZ
-  Full Name: Marcoleta, Rodante D.
-  Name Parts: First: Rodante, Middle: D, Last: Marcoleta
-  Chamber: House
-  Congresses: [13,14,15,17,18,19]
-
-
-Group 6 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0JG.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0JG
-  Full Name: Marcos, Imee R.
-  Name Parts: First: Imee, Middle: R, Last: Marcos
-  Chamber: Senate
-  Congresses: [18,19,20]
-
-  File: 01K5ST49NPW7X4DDBGAQ7J5VK0.toml
-  ID: 01K5ST49NPW7X4DDBGAQ7J5VK0
-  Full Name: Marcos, Imee R.a
-  Name Parts: First: Imee, Middle: R, Last: Marcos
-  Chamber: House
-  Congresses: [11,12,13]
-
-
-Group 7 (2 records):
-  File: 01K5ST4BYMRS6S4J84RJKZRGY7.toml
-  ID: 01K5ST4BYMRS6S4J84RJKZRGY7
-  Full Name: Recto, Ralph G.
-  Name Parts: First: Ralph, Middle: G, Last: Recto
-  Chamber: House
-  Congresses: [9,10,11,16,19]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0JV.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0JV
-  Full Name: Recto, Ralph G.
-  Name Parts: First: Ralph, Middle: G, Last: Recto
-  Chamber: Senate
-  Congresses: [13,15,16,17,18]
-
-
-Group 8 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0K0.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K0
-  Full Name: Tulfo, Erwin T.
-  Name Parts: First: Erwin, Middle: T, Last: Tulfo
-  Chamber: Senate
-  Congresses: [20]
-
-  File: 01K5ST4FF2X3P9D2KFMNNVA7PV.toml
-  ID: 01K5ST4FF2X3P9D2KFMNNVA7PV
-  Full Name: Tulfo, Erwin T.
-  Name Parts: First: Erwin, Middle: T, Last: Tulfo
-  Chamber: House
-  Congresses: [19]
-
-
-Group 9 (2 records):
-  File: 01K5ST4GMSF7PY546KZCR1YS03.toml
-  ID: 01K5ST4GMSF7PY546KZCR1YS03
-  Full Name: Villar, Camille A.
-  Name Parts: First: Camille, Middle: A, Last: Villar
-  Chamber: House
-  Congresses: [18,19]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0K3.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K3
-  Full Name: Villar, Camille A.
-  Name Parts: First: Camille, Middle: A, Last: Villar
-  Chamber: Senate
-  Congresses: [20]
-
-
-Group 10 (2 records):
-  File: 01K5ST4GNB7GB6P4VE2Y7G1KKR.toml
-  ID: 01K5ST4GNB7GB6P4VE2Y7G1KKR
-  Full Name: Villar, Cynthia A.
-  Name Parts: First: Cynthia, Middle: A, Last: Villar
-  Aliases: Cyn
-  Chamber: House
-  Congresses: [12,13,14]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0K4.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K4
-  Full Name: Villar, Cynthia A.
-  Name Parts: First: Cynthia, Middle: A, Last: Villar
-  Chamber: Senate
-  Congresses: [16,17,18,19]
-
-
-Group 11 (2 records):
-  File: 01K5ST4GQDCMHPRF0HNE0H2KKJ.toml
-  ID: 01K5ST4GQDCMHPRF0HNE0H2KKJ
-  Full Name: Villar, Mark A.
-  Name Parts: First: Mark, Middle: A, Last: Villar
-  Chamber: House
-  Congresses: [15,16,17]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0K8.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K8
-  Full Name: Villar, Mark A.
-  Name Parts: First: Mark, Middle: A, Last: Villar
-  Chamber: Senate
-  Congresses: [19,20]
-
-
-Group 12 (2 records):
-  File: 01K5ST4HCY5N9130WESWJH9BSZ.toml
-  ID: 01K5ST4HCY5N9130WESWJH9BSZ
-  Full Name: Zubiri, Juan Miguel F.
-  Name Parts: First: Juan, Middle: Miguel F, Last: Zubiri
-  Aliases: Migs
-  Chamber: House
-  Congresses: [11,12,13]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0K9.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K9
-  Full Name: Zubiri, Juan Miguel F.
-  Name Parts: First: Juan Miguel, Middle: F, Last: Zubiri
-  Chamber: Senate
-  Congresses: [14,15,17,18,19,20]
-
-
-SIMILAR NAMES (85% match)
--------------------------
-
-Group 1 (2 records):
-  File: 01K5ST4GKWZ9WB1K8ND4KRTADW.toml
-  ID: 01K5ST4GKWZ9WB1K8ND4KRTADW
-  Full Name: Villanueva, Noel L.
-  Name Parts: First: Noel, Middle: L, Last: Villanueva
-  Chamber: House
-  Congresses: [16,17,18]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0K5.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K5
-  Full Name: Villanueva, Joel
-  Name Parts: First: Joel, Last: Villanueva
-  Chamber: Senate
-  Congresses: [17,18,19,20]
-
-
-Group 2 (5 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0JG.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0JG
-  Full Name: Marcos, Imee R.
-  Name Parts: First: Imee, Middle: R, Last: Marcos
-  Chamber: Senate
-  Congresses: [18,19,20]
-
-  File: 01K5ST49NPW7X4DDBGAQ7J5VK0.toml
-  ID: 01K5ST49NPW7X4DDBGAQ7J5VK0
-  Full Name: Marcos, Imee R.
-  Name Parts: First: Imee, Middle: R, Last: Marcos
-  Chamber: House
-  Congresses: [11,12,13]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0JG.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0JG
-  Full Name: Marcos, Imee R.
-  Name Parts: First: Imee, Middle: R, Last: Marcos
-  Chamber: Senate
-  Congresses: [18,19,20]
-
-  File: 01K5ST49NPW7X4DDBGAQ7J5VK0.toml
-  ID: 01K5ST49NPW7X4DDBGAQ7J5VK0
-  Full Name: Marcos, Imee R.
-  Name Parts: First: Imee, Middle: R, Last: Marcos
-  Chamber: House
-  Congresses: [11,12,13]
-
-  File: 01K5ST49PVG7ZFWJ1VN3G1QBA0.toml
-  ID: 01K5ST49PVG7ZFWJ1VN3G1QBA0
-  Full Name: Marcos, Imelda R.
-  Name Parts: First: Imelda, Middle: R, Last: Marcos
-  Chamber: House
-  Congresses: [10,15,16,17]
-
-
-Group 3 (2 records):
-  File: 01K5ST4AM6Z85HEJMMH5QMW1JA.toml
-  ID: 01K5ST4AM6Z85HEJMMH5QMW1JA
-  Full Name: NOLASCO, RAMON C.
-  Name Parts: First: Ramon, Middle: C, Last: Nolasco
-  Chamber: House
-  Congresses: [17,20]
-
-  File: 01K5ST4AM9GDTV7B0VW9N4FE8X.toml
-  ID: 01K5ST4AM9GDTV7B0VW9N4FE8X
-  Full Name: Nolasco, Ramon Jr. C.
-  Name Parts: First: Ramon, Middle: C, Last: Nolasco, Suffix: Jr
-  Chamber: House
-  Congresses: [18,19]
-
-
-Group 4 (2 records):
-  File: 01K5ST486817T9AXR2F084QW07.toml
-  ID: 01K5ST486817T9AXR2F084QW07
-  Full Name: IWAY, EMMANUEL L.
-  Name Parts: First: Emmanuel, Middle: L, Last: Iway
-  Chamber: House
-  Congresses: [20]
-
-  File: 01K5ST486AS7DNH71RNWGKCN36.toml
-  ID: 01K5ST486AS7DNH71RNWGKCN36
-  Full Name: IWAY, MANUEL M.
-  Name Parts: First: Manuel, Middle: M, Last: Iway
-  Chamber: House
-  Congresses: [16]
-
-
-Group 5 (2 records):
-  File: 01K5ST43V8Z14W6XSKGZV1CFTE.toml
-  ID: 01K5ST43V8Z14W6XSKGZV1CFTE
-  Full Name: Co, Christopher S.
-  Name Parts: First: Christopher, Middle: S, Last: Co
-  Chamber: House
-  Congresses: [15,16,17]
-
-  File: 01K5ST475ACSAZP5P8C8NKCPEZ.toml
-  ID: 01K5ST475ACSAZP5P8C8NKCPEZ
-  Full Name: GO, ED CHRISTOPHER S.
-  Name Parts: First: Ed Christopher, Middle: S, Last: Go
-  Chamber: House
-  Congresses: [18,19,20]
-
-
-Group 6 (4 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0J0.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0J0
-  Full Name: Ejercito, Joseph Victor G.
-  Name Parts: First: Joseph Victor, Middle: G, Last: Ejercito
-  Chamber: Senate
-  Congresses: [16,17,19]
-
-  File: 01K5ST45JVRRPGCN3EFM1CH4SM.toml
-  ID: 01K5ST45JVRRPGCN3EFM1CH4SM
-  Full Name: Ejercito, Joseph Victor G.
-  Name Parts: First: Joseph, Middle: Victor G, Last: Ejercito
-  Aliases: Jv
-  Chamber: House
-  Congresses: [15]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0J0.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0J0
-  Full Name: Ejercito, Joseph Victor G.
-  Name Parts: First: Joseph Victor, Middle: G, Last: Ejercito
-  Chamber: Senate
-  Congresses: [16,17,19]
-
-  File: 01K5ST45JVRRPGCN3EFM1CH4SM.toml
-  ID: 01K5ST45JVRRPGCN3EFM1CH4SM
-  Full Name: Ejercito, Joseph Victor G.
-  Name Parts: First: Joseph, Middle: Victor G, Last: Ejercito
-  Aliases: Jv
-  Chamber: House
-  Congresses: [15]
-
-
-Group 7 (4 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0HR.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0HR
-  Full Name: Biazon, Rodolfo G.
-  Name Parts: First: Rodolfo, Middle: G, Last: Biazon
-  Chamber: Senate
-  Congresses: [13,14]
-
-  File: 01K5ST426VX8PVBW7YJ0ZBJT62.toml
-  ID: 01K5ST426VX8PVBW7YJ0ZBJT62
-  Full Name: Biazon, Rodolfo G.
-  Name Parts: First: Rodolfo, Middle: G, Last: Biazon
-  Chamber: House
-  Congresses: [15,16]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0HR.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0HR
-  Full Name: Biazon, Rodolfo G.
-  Name Parts: First: Rodolfo, Middle: G, Last: Biazon
-  Chamber: Senate
-  Congresses: [13,14]
-
-  File: 01K5ST426VX8PVBW7YJ0ZBJT62.toml
-  ID: 01K5ST426VX8PVBW7YJ0ZBJT62
-  Full Name: Biazon, Rodolfo G.
-  Name Parts: First: Rodolfo, Middle: G, Last: Biazon
-  Chamber: House
-  Congresses: [15,16]
-
-
-Group 8 (4 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0JK.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0JK
-  Full Name: Marcoleta, Rodante D.
-  Name Parts: First: Rodante, Middle: D, Last: Marcoleta
-  Chamber: Senate
-  Congresses: [20]
-
-  File: 01K5ST49KT6T9FTQ4X4GHDYRRZ.toml
-  ID: 01K5ST49KT6T9FTQ4X4GHDYRRZ
-  Full Name: Marcoleta, Rodante D.
-  Name Parts: First: Rodante, Middle: D, Last: Marcoleta
-  Chamber: House
-  Congresses: [13,14,15,17,18,19]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0JK.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0JK
-  Full Name: Marcoleta, Rodante D.
-  Name Parts: First: Rodante, Middle: D, Last: Marcoleta
-  Chamber: Senate
-  Congresses: [20]
-
-  File: 01K5ST49KT6T9FTQ4X4GHDYRRZ.toml
-  ID: 01K5ST49KT6T9FTQ4X4GHDYRRZ
-  Full Name: Marcoleta, Rodante D.
-  Name Parts: First: Rodante, Middle: D, Last: Marcoleta
-  Chamber: House
-  Congresses: [13,14,15,17,18,19]
-
-
-Group 9 (4 records):
-  File: 01K5ST4HCY5N9130WESWJH9BSZ.toml
-  ID: 01K5ST4HCY5N9130WESWJH9BSZ
-  Full Name: Zubiri, Juan Miguel F.
-  Name Parts: First: Juan, Middle: Miguel F, Last: Zubiri
-  Aliases: Migs
-  Chamber: House
-  Congresses: [11,12,13]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0K9.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K9
-  Full Name: Zubiri, Juan Miguel F.
-  Name Parts: First: Juan Miguel, Middle: F, Last: Zubiri
-  Chamber: Senate
-  Congresses: [14,15,17,18,19,20]
-
-  File: 01K5ST4HCY5N9130WESWJH9BSZ.toml
-  ID: 01K5ST4HCY5N9130WESWJH9BSZ
-  Full Name: Zubiri, Juan Miguel F.
-  Name Parts: First: Juan, Middle: Miguel F, Last: Zubiri
-  Aliases: Migs
-  Chamber: House
-  Congresses: [11,12,13]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0K9.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K9
-  Full Name: Zubiri, Juan Miguel F.
-  Name Parts: First: Juan Miguel, Middle: F, Last: Zubiri
-  Chamber: Senate
-  Congresses: [14,15,17,18,19,20]
-
-
-Group 10 (4 records):
-  File: 01K5ST4BYMRS6S4J84RJKZRGY7.toml
-  ID: 01K5ST4BYMRS6S4J84RJKZRGY7
-  Full Name: Recto, Ralph G.
-  Name Parts: First: Ralph, Middle: G, Last: Recto
-  Chamber: House
-  Congresses: [9,10,11,16,19]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0JV.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0JV
-  Full Name: Recto, Ralph G.
-  Name Parts: First: Ralph, Middle: G, Last: Recto
-  Chamber: Senate
-  Congresses: [13,15,16,17,18]
-
-  File: 01K5ST4BYMRS6S4J84RJKZRGY7.toml
-  ID: 01K5ST4BYMRS6S4J84RJKZRGY7
-  Full Name: Recto, Ralph G.
-  Name Parts: First: Ralph, Middle: G, Last: Recto
-  Chamber: House
-  Congresses: [9,10,11,16,19]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0JV.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0JV
-  Full Name: Recto, Ralph G.
-  Name Parts: First: Ralph, Middle: G, Last: Recto
-  Chamber: Senate
-  Congresses: [13,15,16,17,18]
-
-
-Group 11 (4 records):
-  File: 01K5ST4GMSF7PY546KZCR1YS03.toml
-  ID: 01K5ST4GMSF7PY546KZCR1YS03
-  Full Name: Villar, Camille A.
-  Name Parts: First: Camille, Middle: A, Last: Villar
-  Chamber: House
-  Congresses: [18,19]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0K3.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K3
-  Full Name: Villar, Camille A.
-  Name Parts: First: Camille, Middle: A, Last: Villar
-  Chamber: Senate
-  Congresses: [20]
-
-  File: 01K5ST4GMSF7PY546KZCR1YS03.toml
-  ID: 01K5ST4GMSF7PY546KZCR1YS03
-  Full Name: Villar, Camille A.
-  Name Parts: First: Camille, Middle: A, Last: Villar
-  Chamber: House
-  Congresses: [18,19]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0K3.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K3
-  Full Name: Villar, Camille A.
-  Name Parts: First: Camille, Middle: A, Last: Villar
-  Chamber: Senate
-  Congresses: [20]
-
-
-Group 12 (2 records):
-  File: 01K5ST48P3D7S3JXBCVDJ7SE2C.toml
-  ID: 01K5ST48P3D7S3JXBCVDJ7SE2C
-  Full Name: Lazatin, Carmelo F.
-  Name Parts: First: Carmelo, Middle: F, Last: Lazatin
-  Aliases: Tarzan
-  Chamber: House
-  Congresses: [9,10,14,15]
-
-  File: 01K5ST48PNAWM22B36JP1DBMPV.toml
-  ID: 01K5ST48PNAWM22B36JP1DBMPV
-  Full Name: LAZATIN, CARMELO G. JR
-  Name Parts: First: Carmelo, Middle: G, Last: Lazatin, Suffix: Jr
-  Chamber: House
-  Congresses: [20]
-
-
-Group 13 (2 records):
-  File: 01K5ST40125YQW0W4J0WGWMKAZ.toml
-  ID: 01K5ST40125YQW0W4J0WGWMKAZ
-  Full Name: Acosta, Gil "Kabarangay" P.
-  Name Parts: First: Gil, Middle: P, Last: Acosta
-  Aliases: Kabarangay
-  Chamber: House
-  Congresses: [17]
-
-  File: 01K5ST400QRMM1D43YY9W57Q68.toml
-  ID: 01K5ST400QRMM1D43YY9W57Q68
-  Full Name: ACOSTA, GIL "KABARANGAYJR"
-  Name Parts: First: Gil, Last: Acosta
-  Aliases: Kabarangayjr
-  Chamber: House
-  Congresses: [18,20]
-
-
-Group 14 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0HS.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0HS
-  Full Name: Cayetano, Alan Peter "Companero" S.
-  Name Parts: First: Alan Peter, Middle: S, Last: Cayetano
-  Aliases: Companero
-  Chamber: Senate
-  Congresses: [14,15,16,17,19,20]
-
-  File: 01K5ST43HX88F56DXWDJQ1N5KN.toml
-  ID: 01K5ST43HX88F56DXWDJQ1N5KN
-  Full Name: Cayetano, Alan Peter "Compañero" S.
-  Name Parts: First: Alan Peter, Middle: S, Last: Cayetano
-  Aliases: Compañero
-  Chamber: House
-  Congresses: [18]
-
-
-Group 15 (2 records):
-  File: 01K5ST42W78Q5R4HR220WQNW7G.toml
-  ID: 01K5ST42W78Q5R4HR220WQNW7G
-  Full Name: Cagas, Mercedes C.
-  Name Parts: First: Mercedes, Middle: C, Last: Cagas
-  Chamber: House
-  Congresses: [16]
-
-  File: 01K5ST42W9RDSQATVJJPNV7Q2N.toml
-  ID: 01K5ST42W9RDSQATVJJPNV7Q2N
-  Full Name: Cagas, Mercedes "Didi" C.
-  Name Parts: First: Mercedes, Middle: C, Last: Cagas
-  Aliases: Didi
-  Chamber: House
-  Congresses: [17,18]
-
-
-Group 16 (2 records):
-  File: 01K5ST44ZG2EHF59D2ETW11P19.toml
-  ID: 01K5ST44ZG2EHF59D2ETW11P19
-  Full Name: Delos Santos, Edward C.
-  Name Parts: First: Edward, Middle: C, Last: Delos Santos
-  Chamber: House
-
-  File: 01K5ST44Y0PBAAH20KWEQ5FR6X.toml
-  ID: 01K5ST44Y0PBAAH20KWEQ5FR6X
-  Full Name: Delos Santos, Alfred C.
-  Name Parts: First: Alfred, Middle: C, Last: Delos Santos
-  Chamber: House
-  Congresses: [18,19]
-
-
-Group 17 (4 records):
-  File: 01K5ST4GQDCMHPRF0HNE0H2KKJ.toml
-  ID: 01K5ST4GQDCMHPRF0HNE0H2KKJ
-  Full Name: Villar, Mark A.
-  Name Parts: First: Mark, Middle: A, Last: Villar
-  Chamber: House
-  Congresses: [15,16,17]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0K8.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K8
-  Full Name: Villar, Mark A.
-  Name Parts: First: Mark, Middle: A, Last: Villar
-  Chamber: Senate
-  Congresses: [19,20]
-
-  File: 01K5ST4GQDCMHPRF0HNE0H2KKJ.toml
-  ID: 01K5ST4GQDCMHPRF0HNE0H2KKJ
-  Full Name: Villar, Mark A.
-  Name Parts: First: Mark, Middle: A, Last: Villar
-  Chamber: House
-  Congresses: [15,16,17]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0K8.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K8
-  Full Name: Villar, Mark A.
-  Name Parts: First: Mark, Middle: A, Last: Villar
-  Chamber: Senate
-  Congresses: [19,20]
-
-
-Group 18 (4 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0K0.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K0
-  Full Name: Tulfo, Erwin T.
-  Name Parts: First: Erwin, Middle: T, Last: Tulfo
-  Chamber: Senate
-  Congresses: [20]
-
-  File: 01K5ST4FF2X3P9D2KFMNNVA7PV.toml
-  ID: 01K5ST4FF2X3P9D2KFMNNVA7PV
-  Full Name: Tulfo, Erwin T.
-  Name Parts: First: Erwin, Middle: T, Last: Tulfo
-  Chamber: House
-  Congresses: [19]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0K0.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K0
-  Full Name: Tulfo, Erwin T.
-  Name Parts: First: Erwin, Middle: T, Last: Tulfo
-  Chamber: Senate
-  Congresses: [20]
-
-  File: 01K5ST4FF2X3P9D2KFMNNVA7PV.toml
-  ID: 01K5ST4FF2X3P9D2KFMNNVA7PV
-  Full Name: Tulfo, Erwin T.
-  Name Parts: First: Erwin, Middle: T, Last: Tulfo
-  Chamber: House
-  Congresses: [19]
-
-
-Group 19 (4 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0J6.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0J6
-  Full Name: Gatchalian, Sherwin T.
-  Name Parts: First: Sherwin, Middle: T, Last: Gatchalian
-  Chamber: Senate
-  Congresses: [17,18,19,20]
-
-  File: 01K5ST471W8WV5MDQ5APQBESNK.toml
-  ID: 01K5ST471W8WV5MDQ5APQBESNK
-  Full Name: Gatchalian, Sherwin T.
-  Name Parts: First: Sherwin, Middle: T, Last: Gatchalian
-  Chamber: House
-  Congresses: [12,16,19]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0J6.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0J6
-  Full Name: Gatchalian, Sherwin T.
-  Name Parts: First: Sherwin, Middle: T, Last: Gatchalian
-  Chamber: Senate
-  Congresses: [17,18,19,20]
-
-  File: 01K5ST471W8WV5MDQ5APQBESNK.toml
-  ID: 01K5ST471W8WV5MDQ5APQBESNK
-  Full Name: Gatchalian, Sherwin T.
-  Name Parts: First: Sherwin, Middle: T, Last: Gatchalian
-  Chamber: House
-  Congresses: [12,16,19]
-
-
-Group 20 (2 records):
-  File: 01K5ST4B1SH3CZ9RGMTJRWHP4K.toml
-  ID: 01K5ST4B1SH3CZ9RGMTJRWHP4K
-  Full Name: Pacquiao, Emmanuel D.
-  Name Parts: First: Emmanuel, Middle: D, Last: Pacquiao
-  Aliases: Manny
-  Chamber: House
-  Congresses: [15,16]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0JP.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0JP
-  Full Name: Pacquiao, Emmanuel "Manny" D.
-  Name Parts: First: Emmanuel, Middle: D, Last: Pacquiao
-  Aliases: Manny
-  Chamber: Senate
-  Congresses: [17,18]
-
-
-Group 21 (2 records):
-  File: 01K5ST44ZTMR2MMNEV3SMYG6PT.toml
-  ID: 01K5ST44ZTMR2MMNEV3SMYG6PT
-  Full Name: Del Rosario, Antonio A.
-  Name Parts: First: Antonio, Middle: A, Last: Del Rosario
-  Aliases: Tony
-  Chamber: House
-  Congresses: [14,15,16]
-
-  File: 01K5ST44ZHR04D68C00V9FFYWD.toml
-  ID: 01K5ST44ZHR04D68C00V9FFYWD
-  Full Name: Del Rosario, Anthony G.
-  Name Parts: First: Anthony, Middle: G, Last: Del Rosario
-  Chamber: House
-  Congresses: [15,16]
-
-
-Group 22 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0HY.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0HY
-  Full Name: Escudero, Francis "Chiz" G.
-  Name Parts: First: Francis, Middle: G, Last: Escudero
-  Aliases: Chiz
-  Chamber: Senate
-  Congresses: [14,15,16,17,19,20]
-
-  File: 01K5ST45Y665ESG2HMPPKD90P9.toml
-  ID: 01K5ST45Y665ESG2HMPPKD90P9
-  Full Name: Escudero, Francis G.
-  Name Parts: First: Francis, Middle: G, Last: Escudero
-  Aliases: Chiz
-  Chamber: House
-  Congresses: [11,12,13]
-
-
-Group 23 (4 records):
-  File: 01K5ST44T4FBNHACTZTJ7B5HCB.toml
-  ID: 01K5ST44T4FBNHACTZTJ7B5HCB
-  Full Name: DE LIMA, LEILA M.
-  Name Parts: First: Leila, Middle: M, Last: De Lima
-  Chamber: House
-  Congresses: [20]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0HW.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0HW
-  Full Name: De Lima, Leila M.
-  Name Parts: First: Leila, Middle: M, Last: De Lima
-  Chamber: Senate
-  Congresses: [17,18]
-
-  File: 01K5ST44T4FBNHACTZTJ7B5HCB.toml
-  ID: 01K5ST44T4FBNHACTZTJ7B5HCB
-  Full Name: DE LIMA, LEILA M.
-  Name Parts: First: Leila, Middle: M, Last: De Lima
-  Chamber: House
-  Congresses: [20]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0HW.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0HW
-  Full Name: De Lima, Leila M.
-  Name Parts: First: Leila, Middle: M, Last: De Lima
-  Chamber: Senate
-  Congresses: [17,18]
-
-
-Group 24 (2 records):
-  File: 01K5ST4H5VCYQ2CKQETMB5PNG8.toml
-  ID: 01K5ST4H5VCYQ2CKQETMB5PNG8
-  Full Name: Zamora, Ma. Carmen S.
-  Name Parts: First: Ma. Carmen, Middle: S, Last: Zamora
-  Aliases: Maricar
-  Chamber: House
-  Congresses: [15]
-
-  File: 01K5ST4H6JT7PJ8AX2KBZBJ3QE.toml
-  ID: 01K5ST4H6JT7PJ8AX2KBZBJ3QE
-  Full Name: ZAMORA, MARIA CARMEN S.
-  Name Parts: First: Maria, Middle: Carmen S, Last: Zamora
-  Chamber: House
-  Congresses: [16,17,19,20]
-
-
-Group 25 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0JC.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0JC
-  Full Name: Legarda, Loren B.
-  Name Parts: First: Loren, Middle: B, Last: Legarda
-  Chamber: Senate
-  Congresses: [14,15,16,17,19,20]
-
-  File: 01K5ST48T0SS1ZNVG0KZPAAVXE.toml
-  ID: 01K5ST48T0SS1ZNVG0KZPAAVXE
-  Full Name: Legarda, Loren
-  Name Parts: First: Loren, Last: Legarda
-  Chamber: House
-  Congresses: [18]
-
-
-Group 26 (4 records):
-  File: 01K5ST4GNB7GB6P4VE2Y7G1KKR.toml
-  ID: 01K5ST4GNB7GB6P4VE2Y7G1KKR
-  Full Name: Villar, Cynthia A.
-  Name Parts: First: Cynthia, Middle: A, Last: Villar
-  Aliases: Cyn
-  Chamber: House
-  Congresses: [12,13,14]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0K4.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K4
-  Full Name: Villar, Cynthia A.
-  Name Parts: First: Cynthia, Middle: A, Last: Villar
-  Chamber: Senate
-  Congresses: [16,17,18,19]
-
-  File: 01K5ST4GNB7GB6P4VE2Y7G1KKR.toml
-  ID: 01K5ST4GNB7GB6P4VE2Y7G1KKR
-  Full Name: Villar, Cynthia A.
-  Name Parts: First: Cynthia, Middle: A, Last: Villar
-  Aliases: Cyn
-  Chamber: House
-  Congresses: [12,13,14]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0K4.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K4
-  Full Name: Villar, Cynthia A.
-  Name Parts: First: Cynthia, Middle: A, Last: Villar
-  Chamber: Senate
-  Congresses: [16,17,18,19]
-
-
-Group 27 (2 records):
-  File: 01K5ST40R255443EXS4AC47BMY.toml
-  ID: 01K5ST40R255443EXS4AC47BMY
-  Full Name: Angara, Juan Edgardo M.
-  Name Parts: First: Juan, Middle: Edgardo M, Last: Angara
-  Aliases: Sonny
-  Chamber: House
-  Congresses: [13,14,15]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0HN.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0HN
-  Full Name: Angara, Juan Edgardo "Sonny" M.
-  Name Parts: First: Juan Edgardo, Middle: M, Last: Angara
-  Aliases: Sonny
-  Chamber: Senate
-  Congresses: [16,17,18,19]
-
-
 SAME LAST NAME, SIMILAR FIRST
 -----------------------------
 
 Group 1 (2 records):
   File: 01K5ST40125YQW0W4J0WGWMKAZ.toml
   ID: 01K5ST40125YQW0W4J0WGWMKAZ
-  Full Name: Acosta, Gil "Kabarangay" P.
-  Name Parts: First: Gil, Middle: P, Last: Acosta
+  Full Name: Gil Prestosa Acosta Sr
+  Name Parts: First: Gil, Middle: Prestosa, Last: Acosta, Suffix: Sr
   Aliases: Kabarangay
   Chamber: House
   Congresses: [17]
 
   File: 01K5ST400QRMM1D43YY9W57Q68.toml
   ID: 01K5ST400QRMM1D43YY9W57Q68
-  Full Name: ACOSTA, GIL "KABARANGAYJR"
-  Name Parts: First: Gil, Last: Acosta
+  Full Name: Gil Abesamis Acosta Jr
+  Name Parts: First: Gil, Middle: Abesamis, Last: Acosta, Suffix: Jr
   Aliases: Kabarangayjr
   Chamber: House
   Congresses: [18,20]
@@ -854,7 +27,7 @@ Group 1 (2 records):
 Group 2 (2 records):
   File: 01K5ST4094J9YJ4DSNP1E5XBHR.toml
   ID: 01K5ST4094J9YJ4DSNP1E5XBHR
-  Full Name: Albano, Rodolfo III T.
+  Full Name: Rodolfo T Albano III
   Name Parts: First: Rodolfo, Middle: T, Last: Albano, Suffix: III
   Aliases: Rod
   Chamber: House
@@ -862,7 +35,7 @@ Group 2 (2 records):
 
   File: 01K5ST408M6WPG37AWFK6KRTRZ.toml
   ID: 01K5ST408M6WPG37AWFK6KRTRZ
-  Full Name: Albano, Rodolfo B.
+  Full Name: Rodolfo B Albano
   Name Parts: First: Rodolfo, Middle: B, Last: Albano
   Chamber: House
   Congresses: [9,10,12,15,18]
@@ -871,107 +44,57 @@ Group 2 (2 records):
 Group 3 (2 records):
   File: 01K5ST40ZGF90TR5SGQ0JWFG5G.toml
   ID: 01K5ST40ZGF90TR5SGQ0JWFG5G
-  Full Name: ARBISON, MUNIR N., JR.
+  Full Name: Munir N Arbison Jr
   Name Parts: First: Munir, Middle: N, Last: Arbison, Suffix: Jr
   Chamber: House
   Congresses: [19,20]
 
   File: 01K5ST40Z7FYAASY9G4SP5QS9H.toml
   ID: 01K5ST40Z7FYAASY9G4SP5QS9H
-  Full Name: ARBISON, MUNIR M.
+  Full Name: Munir M Arbison
   Name Parts: First: Munir, Middle: M, Last: Arbison
   Chamber: House
   Congresses: [12,13,14,17,18,19,20]
 
 
 Group 4 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0HR.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0HR
-  Full Name: Biazon, Rodolfo G.
-  Name Parts: First: Rodolfo, Middle: G, Last: Biazon
-  Chamber: Senate
-  Congresses: [13,14]
-
-  File: 01K5ST426VX8PVBW7YJ0ZBJT62.toml
-  ID: 01K5ST426VX8PVBW7YJ0ZBJT62
-  Full Name: Biazon, Rodolfo G.
-  Name Parts: First: Rodolfo, Middle: G, Last: Biazon
-  Chamber: House
-  Congresses: [15,16]
-
-
-Group 5 (2 records):
   File: 01K5ST42W78Q5R4HR220WQNW7G.toml
   ID: 01K5ST42W78Q5R4HR220WQNW7G
-  Full Name: Cagas, Mercedes C.
+  Full Name: Mercedes C Cagas
   Name Parts: First: Mercedes, Middle: C, Last: Cagas
   Chamber: House
   Congresses: [16]
 
   File: 01K5ST42W9RDSQATVJJPNV7Q2N.toml
   ID: 01K5ST42W9RDSQATVJJPNV7Q2N
-  Full Name: Cagas, Mercedes "Didi" C.
+  Full Name: Mercedes C Cagas
   Name Parts: First: Mercedes, Middle: C, Last: Cagas
   Aliases: Didi
   Chamber: House
   Congresses: [17,18]
 
 
-Group 6 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0HS.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0HS
-  Full Name: Cayetano, Alan Peter "Companero" S.
-  Name Parts: First: Alan Peter, Middle: S, Last: Cayetano
-  Aliases: Companero
-  Chamber: Senate
-  Congresses: [14,15,16,17,19,20]
-
-  File: 01K5ST43HX88F56DXWDJQ1N5KN.toml
-  ID: 01K5ST43HX88F56DXWDJQ1N5KN
-  Full Name: Cayetano, Alan Peter "Compañero" S.
-  Name Parts: First: Alan Peter, Middle: S, Last: Cayetano
-  Aliases: Compañero
-  Chamber: House
-  Congresses: [18]
-
-
-Group 7 (2 records):
+Group 5 (2 records):
   File: 01K5ST44J3PDXKCEFJ09TAQZ16.toml
   ID: 01K5ST44J3PDXKCEFJ09TAQZ16
-  Full Name: DALOG, MAXIMO Y., JR.
+  Full Name: Maximo Y Dalog Jr
   Name Parts: First: Maximo, Middle: Y, Last: Dalog, Suffix: Jr
   Chamber: House
   Congresses: [18,19,20]
 
   File: 01K5ST44HSTJ5CJAC3X4GDW8NR.toml
   ID: 01K5ST44HSTJ5CJAC3X4GDW8NR
-  Full Name: Dalog, Maximo B.
+  Full Name: Maximo B Dalog
   Name Parts: First: Maximo, Middle: B, Last: Dalog
   Aliases: Max
   Chamber: House
   Congresses: [15,16,17]
 
 
-Group 8 (2 records):
-  File: 01K5ST44T4FBNHACTZTJ7B5HCB.toml
-  ID: 01K5ST44T4FBNHACTZTJ7B5HCB
-  Full Name: DE LIMA, LEILA M.
-  Name Parts: First: Leila, Middle: M, Last: De Lima
-  Chamber: House
-  Congresses: [20]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0HW.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0HW
-  Full Name: De Lima, Leila M.
-  Name Parts: First: Leila, Middle: M, Last: De Lima
-  Chamber: Senate
-  Congresses: [17,18]
-
-
-Group 9 (2 records):
+Group 6 (2 records):
   File: 01K5ST45BPCRXXCKDZMJV9W6PH.toml
   ID: 01K5ST45BPCRXXCKDZMJV9W6PH
-  Full Name: Dumpit, Tomas M.
+  Full Name: Tomas M Dumpit
   Name Parts: First: Tomas, Middle: M, Last: Dumpit
   Aliases: Tom
   Chamber: House
@@ -979,17 +102,17 @@ Group 9 (2 records):
 
   File: 01K5ST45BMBHNTJTQK6RH46A1H.toml
   ID: 01K5ST45BMBHNTJTQK6RH46A1H
-  Full Name: Dumpit, Thomas Jr. L.
+  Full Name: Thomas L Dumpit Jr
   Name Parts: First: Thomas, Middle: L, Last: Dumpit, Suffix: Jr
   Aliases: Butch
   Chamber: House
   Congresses: [14]
 
 
-Group 10 (2 records):
+Group 7 (2 records):
   File: 01K5ST45DXF4J5P315DR6MCTVE.toml
   ID: 01K5ST45DXF4J5P315DR6MCTVE
-  Full Name: Dy, Faustino "Inno" V A.
+  Full Name: Faustino Arcega Dy V
   Name Parts: First: Faustino, Middle: Arcega, Last: Dy, Suffix: V
   Aliases: Inno
   Chamber: House
@@ -997,35 +120,17 @@ Group 10 (2 records):
 
   File: 01K5ST45DRWT1W63MR1XHSTQ96.toml
   ID: 01K5ST45DRWT1W63MR1XHSTQ96
-  Full Name: DY, FAUSTINO "BOJIE" G. III
+  Full Name: Faustino G Dy III
   Name Parts: First: Faustino, Middle: G, Last: Dy, Suffix: III
   Aliases: Bojie
   Chamber: House
   Congresses: [12,13,14,20]
 
 
-Group 11 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0HY.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0HY
-  Full Name: Escudero, Francis "Chiz" G.
-  Name Parts: First: Francis, Middle: G, Last: Escudero
-  Aliases: Chiz
-  Chamber: Senate
-  Congresses: [14,15,16,17,19,20]
-
-  File: 01K5ST45Y665ESG2HMPPKD90P9.toml
-  ID: 01K5ST45Y665ESG2HMPPKD90P9
-  Full Name: Escudero, Francis G.
-  Name Parts: First: Francis, Middle: G, Last: Escudero
-  Aliases: Chiz
-  Chamber: House
-  Congresses: [11,12,13]
-
-
-Group 12 (2 records):
+Group 8 (2 records):
   File: 01K5ST46JBZ4MG310FQ3N2XNF0.toml
   ID: 01K5ST46JBZ4MG310FQ3N2XNF0
-  Full Name: Fua, Orlando  B.
+  Full Name: Orlando B Fua
   Name Parts: First: Orlando, Middle: B, Last: Fua
   Aliases: Orlan
   Chamber: House
@@ -1033,84 +138,50 @@ Group 12 (2 records):
 
   File: 01K5ST46JHSTACR37GTV82MGFF.toml
   ID: 01K5ST46JHSTACR37GTV82MGFF
-  Full Name: Fua, Orlando Jr. A.
+  Full Name: Orlando A Fua Jr
   Name Parts: First: Orlando, Middle: A, Last: Fua, Suffix: Jr
   Aliases: Shane
   Chamber: House
   Congresses: [11,12,13]
 
 
-Group 13 (2 records):
+Group 9 (2 records):
   File: 01K5S6MAZ4YBST5GDJV827A0J6.toml
   ID: 01K5S6MAZ4YBST5GDJV827A0J6
-  Full Name: Gatchalian, Sherwin T.
+  Full Name: Sherwin T Gatchalian
   Name Parts: First: Sherwin, Middle: T, Last: Gatchalian
-  Chamber: Senate
-  Congresses: [17,18,19,20]
+  Chamber: Senate, House
+  Congresses: [12,16,17,18,19,20]
 
   File: 01K5ST471W8WV5MDQ5APQBESNK.toml
   ID: 01K5ST471W8WV5MDQ5APQBESNK
-  Full Name: Gatchalian, Sherwin T.
+  Full Name: Sherwin T Gatchalian
   Name Parts: First: Sherwin, Middle: T, Last: Gatchalian
   Chamber: House
   Congresses: [12,16,19]
 
 
-Group 14 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0J7.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0J7
-  Full Name: Guingona III, Teofisto "Tg"
-  Name Parts: First: Teofisto, Last: Guingona, Suffix: III
-  Aliases: Tg
-  Chamber: Senate
-  Congresses: [15,16]
-
-  File: 01K5ST47N4KCN4NWB6X8D4WGE6.toml
-  ID: 01K5ST47N4KCN4NWB6X8D4WGE6
-  Full Name: Guingona, Teofisto  'TG' III  L.
-  Name Parts: First: Teofisto, Middle: L, Last: Guingona, Suffix: III
-  Aliases: Tg
-  Chamber: House
-  Congresses: [13,14,16]
-
-
-Group 15 (2 records):
-  File: 01K5ST486817T9AXR2F084QW07.toml
-  ID: 01K5ST486817T9AXR2F084QW07
-  Full Name: IWAY, EMMANUEL L.
-  Name Parts: First: Emmanuel, Middle: L, Last: Iway
-  Chamber: House
-  Congresses: [20]
-
-  File: 01K5ST486AS7DNH71RNWGKCN36.toml
-  ID: 01K5ST486AS7DNH71RNWGKCN36
-  Full Name: IWAY, MANUEL M.
-  Name Parts: First: Manuel, Middle: M, Last: Iway
-  Chamber: House
-  Congresses: [16]
-
-
-Group 16 (2 records):
+Group 10 (2 records):
   File: 01K5ST48J3CCA7HHRHY6TXK1P3.toml
   ID: 01K5ST48J3CCA7HHRHY6TXK1P3
-  Full Name: Lagman, Edcel C.
+  Full Name: Edcel C Lagman
   Name Parts: First: Edcel, Middle: C, Last: Lagman
   Chamber: House
   Congresses: [8,9,10,13,14,15,17,18,19]
 
   File: 01K5ST48JZY8Y0JF0C9TQKDC5X.toml
   ID: 01K5ST48JZY8Y0JF0C9TQKDC5X
-  Full Name: Lagman, Edcel "Grex" B.
+  Full Name: Edcel B Lagman
   Name Parts: First: Edcel, Middle: B, Last: Lagman
   Aliases: Grex
   Chamber: House
   Congresses: [16]
 
 
-Group 17 (3 records):
+Group 11 (3 records):
   File: 01K5ST48P3D7S3JXBCVDJ7SE2C.toml
   ID: 01K5ST48P3D7S3JXBCVDJ7SE2C
-  Full Name: Lazatin, Carmelo F.
+  Full Name: Carmelo F Lazatin
   Name Parts: First: Carmelo, Middle: F, Last: Lazatin
   Aliases: Tarzan
   Chamber: House
@@ -1118,158 +189,57 @@ Group 17 (3 records):
 
   File: 01K5ST48PNAWM22B36JP1DBMPV.toml
   ID: 01K5ST48PNAWM22B36JP1DBMPV
-  Full Name: LAZATIN, CARMELO G. JR
+  Full Name: Carmelo G Lazatin Jr
   Name Parts: First: Carmelo, Middle: G, Last: Lazatin, Suffix: Jr
   Chamber: House
   Congresses: [20]
 
   File: 01K5ST48PS1ENTVMM7F3ENVP82.toml
   ID: 01K5ST48PS1ENTVMM7F3ENVP82
-  Full Name: Lazatin, Carmelo "Jon" II B.
+  Full Name: Carmelo B Lazatin II
   Name Parts: First: Carmelo, Middle: B, Last: Lazatin, Suffix: II
   Aliases: Jon
   Chamber: House
   Congresses: [17,18,19]
 
 
-Group 18 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0JC.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0JC
-  Full Name: Legarda, Loren B.
-  Name Parts: First: Loren, Middle: B, Last: Legarda
-  Chamber: Senate
-  Congresses: [14,15,16,17,19,20]
-
-  File: 01K5ST48T0SS1ZNVG0KZPAAVXE.toml
-  ID: 01K5ST48T0SS1ZNVG0KZPAAVXE
-  Full Name: Legarda, Loren
-  Name Parts: First: Loren, Last: Legarda
-  Chamber: House
-  Congresses: [18]
-
-
-Group 19 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0JK.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0JK
-  Full Name: Marcoleta, Rodante D.
-  Name Parts: First: Rodante, Middle: D, Last: Marcoleta
-  Chamber: Senate
-  Congresses: [20]
-
-  File: 01K5ST49KT6T9FTQ4X4GHDYRRZ.toml
-  ID: 01K5ST49KT6T9FTQ4X4GHDYRRZ
-  Full Name: Marcoleta, Rodante D.
-  Name Parts: First: Rodante, Middle: D, Last: Marcoleta
-  Chamber: House
-  Congresses: [13,14,15,17,18,19]
-
-
-Group 20 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0JG.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0JG
-  Full Name: Marcos, Imee R.
-  Name Parts: First: Imee, Middle: R, Last: Marcos
-  Chamber: Senate
-  Congresses: [18,19,20]
-
-  File: 01K5ST49NPW7X4DDBGAQ7J5VK0.toml
-  ID: 01K5ST49NPW7X4DDBGAQ7J5VK0
-  Full Name: Marcos, Imee R.
-  Name Parts: First: Imee, Middle: R, Last: Marcos
-  Chamber: House
-  Congresses: [11,12,13]
-
-
-Group 21 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0JF.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0JF
-  Full Name: Marcos, Ferdinand "Bongbong" R.
-  Name Parts: First: Ferdinand, Middle: R, Last: Marcos
-  Aliases: Bongbong
-  Chamber: Senate
-  Congresses: [15,16]
-
-  File: 01K5ST49NHD1W6HXVR0BBYH00Y.toml
-  ID: 01K5ST49NHD1W6HXVR0BBYH00Y
-  Full Name: Marcos, Ferdinand Jr. R.
-  Name Parts: First: Ferdinand, Middle: R, Last: Marcos, Suffix: Jr
-  Aliases: Bongbong
-  Chamber: House
-  Congresses: [9,14]
-
-
-Group 22 (2 records):
-  File: 01K5ST4A4YX4NHXCEHQ5VGRKN0.toml
-  ID: 01K5ST4A4YX4NHXCEHQ5VGRKN0
-  Full Name: MERCADO, ROGER GAVIOLA
-  Name Parts: First: Roger, Middle: Gaviola, Last: Mercado
-  Chamber: House
-  Congresses: [9,10,13,14,18,20]
-
-  File: 01K5ST4A47XJ5CPAZ7H5HSCX20.toml
-  ID: 01K5ST4A47XJ5CPAZ7H5HSCX20
-  Full Name: Mercado, Roger G.
-  Name Parts: First: Roger, Middle: G, Last: Mercado
-  Aliases: Oging
-  Chamber: House
-  Congresses: [15,17]
-
-
-Group 23 (2 records):
+Group 12 (2 records):
   File: 01K5ST4AM6Z85HEJMMH5QMW1JA.toml
   ID: 01K5ST4AM6Z85HEJMMH5QMW1JA
-  Full Name: NOLASCO, RAMON C.
+  Full Name: Ramon C Nolasco
   Name Parts: First: Ramon, Middle: C, Last: Nolasco
   Chamber: House
   Congresses: [17,20]
 
   File: 01K5ST4AM9GDTV7B0VW9N4FE8X.toml
   ID: 01K5ST4AM9GDTV7B0VW9N4FE8X
-  Full Name: Nolasco, Ramon Jr. C.
+  Full Name: Ramon C Nolasco Jr
   Name Parts: First: Ramon, Middle: C, Last: Nolasco, Suffix: Jr
   Chamber: House
   Congresses: [18,19]
 
 
-Group 24 (2 records):
+Group 13 (2 records):
   File: 01K5ST4AMMYKSA6SG1540KH4DD.toml
   ID: 01K5ST4AMMYKSA6SG1540KH4DD
-  Full Name: Oaminal, Henry S.
+  Full Name: Henry S Oaminal
   Name Parts: First: Henry, Middle: S, Last: Oaminal
   Chamber: House
   Congresses: [16,17,18]
 
   File: 01K5ST4AMJCWQ4F0W2ZE5M8QZ4.toml
   ID: 01K5ST4AMJCWQ4F0W2ZE5M8QZ4
-  Full Name: OAMINAL, HENRY "INDY" F. JR.
+  Full Name: Henry F Oaminal Jr
   Name Parts: First: Henry, Middle: F, Last: Oaminal, Suffix: Jr
   Aliases: Indy
   Chamber: House
   Congresses: [20]
 
 
-Group 25 (2 records):
-  File: 01K5ST4B1SH3CZ9RGMTJRWHP4K.toml
-  ID: 01K5ST4B1SH3CZ9RGMTJRWHP4K
-  Full Name: Pacquiao, Emmanuel D.
-  Name Parts: First: Emmanuel, Middle: D, Last: Pacquiao
-  Aliases: Manny
-  Chamber: House
-  Congresses: [15,16]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0JP.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0JP
-  Full Name: Pacquiao, Emmanuel "Manny" D.
-  Name Parts: First: Emmanuel, Middle: D, Last: Pacquiao
-  Aliases: Manny
-  Chamber: Senate
-  Congresses: [17,18]
-
-
-Group 26 (2 records):
+Group 14 (2 records):
   File: 01K5ST4B6N023FAAEWEQC5M08Z.toml
   ID: 01K5ST4B6N023FAAEWEQC5M08Z
-  Full Name: Palma, Wilter "Sharky" II Wee
+  Full Name: Wilter Wee Palma II
   Name Parts: First: Wilter, Middle: Wee, Last: Palma, Suffix: II
   Aliases: Sharky
   Chamber: House
@@ -1277,375 +247,184 @@ Group 26 (2 records):
 
   File: 01K5ST4B74HEBZ1JHDNXRT0M4F.toml
   ID: 01K5ST4B74HEBZ1JHDNXRT0M4F
-  Full Name: Palma, Wilter Y.
+  Full Name: Wilter Y Palma
   Name Parts: First: Wilter, Middle: Y, Last: Palma
   Chamber: House
   Congresses: [19]
 
 
-Group 27 (2 records):
-  File: 01K5ST4BNHW380FHXXHPGZ426Z.toml
-  ID: 01K5ST4BNHW380FHXXHPGZ426Z
-  Full Name: Ponce Enrile, Salvacion "Sally" S.
-  Name Parts: First: Salvacion, Middle: S, Last: Ponce Enrile
-  Aliases: Sally
-  Chamber: House
-  Congresses: [16]
-
-  File: 01K5ST4BNF11G6BBHM67XSK6MZ.toml
-  ID: 01K5ST4BNF11G6BBHM67XSK6MZ
-  Full Name: Ponce Enrile, Salvacion
-  Name Parts: First: Salvacion, Last: Ponce Enrile
-  Aliases: Sally
-  Chamber: House
-  Congresses: [14]
-
-
-Group 28 (2 records):
-  File: 01K5ST4BYMRS6S4J84RJKZRGY7.toml
-  ID: 01K5ST4BYMRS6S4J84RJKZRGY7
-  Full Name: Recto, Ralph G.
-  Name Parts: First: Ralph, Middle: G, Last: Recto
-  Chamber: House
-  Congresses: [9,10,11,16,19]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0JV.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0JV
-  Full Name: Recto, Ralph G.
-  Name Parts: First: Ralph, Middle: G, Last: Recto
-  Chamber: Senate
-  Congresses: [13,15,16,17,18]
-
-
-Group 29 (2 records):
+Group 15 (2 records):
   File: 01K5ST4CYXGYZSESGANB64M2YH.toml
   ID: 01K5ST4CYXGYZSESGANB64M2YH
-  Full Name: Roman, Antonino P.
+  Full Name: Antonino P Roman
   Name Parts: First: Antonino, Middle: P, Last: Roman
   Aliases: Tony
   Chamber: House
 
   File: 01K5ST4CYNM9JEZM4X82FAW518.toml
   ID: 01K5ST4CYNM9JEZM4X82FAW518
-  Full Name: ROMAN, ANTONINO B., III
+  Full Name: Antonino B Roman III
   Name Parts: First: Antonino, Middle: B, Last: Roman, Suffix: III
   Chamber: House
   Congresses: [11,12,13,20]
 
 
-Group 30 (2 records):
+Group 16 (2 records):
   File: 01K5ST4E6321CDZ4TG3NCG7BEY.toml
   ID: 01K5ST4E6321CDZ4TG3NCG7BEY
-  Full Name: Singson, Eric D.
+  Full Name: Eric D Singson
   Name Parts: First: Eric, Middle: D, Last: Singson
   Chamber: House
   Congresses: [9,10,12,13,14,16,17]
 
   File: 01K5ST4E6T0ES7TSAP46VN8MHK.toml
   ID: 01K5ST4E6T0ES7TSAP46VN8MHK
-  Full Name: Singson, Eric Jr. G.
+  Full Name: Eric G Singson Jr
   Name Parts: First: Eric, Middle: G, Last: Singson, Suffix: Jr
   Aliases: Own
   Chamber: House
   Congresses: [15]
 
 
-Group 31 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0K0.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K0
-  Full Name: Tulfo, Erwin T.
-  Name Parts: First: Erwin, Middle: T, Last: Tulfo
-  Chamber: Senate
-  Congresses: [20]
-
-  File: 01K5ST4FF2X3P9D2KFMNNVA7PV.toml
-  ID: 01K5ST4FF2X3P9D2KFMNNVA7PV
-  Full Name: Tulfo, Erwin T.
-  Name Parts: First: Erwin, Middle: T, Last: Tulfo
-  Chamber: House
-  Congresses: [19]
-
-
-Group 32 (2 records):
-  File: 01K5ST4GMSF7PY546KZCR1YS03.toml
-  ID: 01K5ST4GMSF7PY546KZCR1YS03
-  Full Name: Villar, Camille A.
-  Name Parts: First: Camille, Middle: A, Last: Villar
-  Chamber: House
-  Congresses: [18,19]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0K3.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K3
-  Full Name: Villar, Camille A.
-  Name Parts: First: Camille, Middle: A, Last: Villar
-  Chamber: Senate
-  Congresses: [20]
-
-
-Group 33 (2 records):
-  File: 01K5ST4GQDCMHPRF0HNE0H2KKJ.toml
-  ID: 01K5ST4GQDCMHPRF0HNE0H2KKJ
-  Full Name: Villar, Mark A.
-  Name Parts: First: Mark, Middle: A, Last: Villar
-  Chamber: House
-  Congresses: [15,16,17]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0K8.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K8
-  Full Name: Villar, Mark A.
-  Name Parts: First: Mark, Middle: A, Last: Villar
-  Chamber: Senate
-  Congresses: [19,20]
-
-
-Group 34 (2 records):
-  File: 01K5ST4GNB7GB6P4VE2Y7G1KKR.toml
-  ID: 01K5ST4GNB7GB6P4VE2Y7G1KKR
-  Full Name: Villar, Cynthia A.
-  Name Parts: First: Cynthia, Middle: A, Last: Villar
-  Aliases: Cyn
-  Chamber: House
-  Congresses: [12,13,14]
-
-  File: 01K5S6MAZ4YBST5GDJV827A0K4.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K4
-  Full Name: Villar, Cynthia A.
-  Name Parts: First: Cynthia, Middle: A, Last: Villar
-  Chamber: Senate
-  Congresses: [16,17,18,19]
-
-
 CROSS-CHAMBER (Senate & House)
 ------------------------------
 
-Group 1 (2 records):
+Group 1 (18 records):
   File: 01K5S6MAZ4YBST5GDJV827A0JG.toml
   ID: 01K5S6MAZ4YBST5GDJV827A0JG
-  Full Name: Marcos, Imee R.
+  Full Name: Imee R Marcos
   Name Parts: First: Imee, Middle: R, Last: Marcos
-  Chamber: Senate
-  Congresses: [18,19,20]
+  Chamber: Senate, House
+  Congresses: [11,12,13,18,19,20]
 
-  File: 01K5ST49NPW7X4DDBGAQ7J5VK0.toml
-  ID: 01K5ST49NPW7X4DDBGAQ7J5VK0
-  Full Name: Marcos, Imee R.
-  Name Parts: First: Imee, Middle: R, Last: Marcos
-  Chamber: House
-  Congresses: [11,12,13]
-
-
-Group 2 (2 records):
   File: 01K5S6MAZ4YBST5GDJV827A0J0.toml
   ID: 01K5S6MAZ4YBST5GDJV827A0J0
-  Full Name: Ejercito, Joseph Victor G.
+  Full Name: Joseph Victor G Ejercito
   Name Parts: First: Joseph Victor, Middle: G, Last: Ejercito
-  Chamber: Senate
-  Congresses: [16,17,19]
+  Aliases: JV
+  Chamber: Senate, House
+  Congresses: [15,16,17,19]
 
-  File: 01K5ST45JVRRPGCN3EFM1CH4SM.toml
-  ID: 01K5ST45JVRRPGCN3EFM1CH4SM
-  Full Name: Ejercito, Joseph Victor G.
-  Name Parts: First: Joseph, Middle: Victor G, Last: Ejercito
-  Aliases: Jv
-  Chamber: House
-  Congresses: [15]
-
-
-Group 3 (2 records):
   File: 01K5S6MAZ4YBST5GDJV827A0HR.toml
   ID: 01K5S6MAZ4YBST5GDJV827A0HR
-  Full Name: Biazon, Rodolfo G.
+  Full Name: Rodolfo G Biazon
   Name Parts: First: Rodolfo, Middle: G, Last: Biazon
-  Chamber: Senate
-  Congresses: [13,14]
+  Chamber: Senate, House
+  Congresses: [13,14,15,16]
 
-  File: 01K5ST426VX8PVBW7YJ0ZBJT62.toml
-  ID: 01K5ST426VX8PVBW7YJ0ZBJT62
-  Full Name: Biazon, Rodolfo G.
-  Name Parts: First: Rodolfo, Middle: G, Last: Biazon
-  Chamber: House
-  Congresses: [15,16]
-
-
-Group 4 (2 records):
   File: 01K5S6MAZ4YBST5GDJV827A0JK.toml
   ID: 01K5S6MAZ4YBST5GDJV827A0JK
-  Full Name: Marcoleta, Rodante D.
+  Full Name: Rodante D Marcoleta
   Name Parts: First: Rodante, Middle: D, Last: Marcoleta
-  Chamber: Senate
-  Congresses: [20]
-
-  File: 01K5ST49KT6T9FTQ4X4GHDYRRZ.toml
-  ID: 01K5ST49KT6T9FTQ4X4GHDYRRZ
-  Full Name: Marcoleta, Rodante D.
-  Name Parts: First: Rodante, Middle: D, Last: Marcoleta
-  Chamber: House
-  Congresses: [13,14,15,17,18,19]
-
-
-Group 5 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0HS.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0HS
-  Full Name: Cayetano, Alan Peter "Companero" S.
-  Name Parts: First: Alan Peter, Middle: S, Last: Cayetano
-  Aliases: Companero
-  Chamber: Senate
-  Congresses: [14,15,16,17,19,20]
-
-  File: 01K5ST43HX88F56DXWDJQ1N5KN.toml
-  ID: 01K5ST43HX88F56DXWDJQ1N5KN
-  Full Name: Cayetano, Alan Peter "Compañero" S.
-  Name Parts: First: Alan Peter, Middle: S, Last: Cayetano
-  Aliases: Compañero
-  Chamber: House
-  Congresses: [18]
-
-
-Group 6 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0K0.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K0
-  Full Name: Tulfo, Erwin T.
-  Name Parts: First: Erwin, Middle: T, Last: Tulfo
-  Chamber: Senate
-  Congresses: [20]
-
-  File: 01K5ST4FF2X3P9D2KFMNNVA7PV.toml
-  ID: 01K5ST4FF2X3P9D2KFMNNVA7PV
-  Full Name: Tulfo, Erwin T.
-  Name Parts: First: Erwin, Middle: T, Last: Tulfo
-  Chamber: House
-  Congresses: [19]
-
-
-Group 7 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0J6.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0J6
-  Full Name: Gatchalian, Sherwin T.
-  Name Parts: First: Sherwin, Middle: T, Last: Gatchalian
-  Chamber: Senate
-  Congresses: [17,18,19,20]
-
-  File: 01K5ST471W8WV5MDQ5APQBESNK.toml
-  ID: 01K5ST471W8WV5MDQ5APQBESNK
-  Full Name: Gatchalian, Sherwin T.
-  Name Parts: First: Sherwin, Middle: T, Last: Gatchalian
-  Chamber: House
-  Congresses: [12,16,19]
-
-
-Group 8 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0JV.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0JV
-  Full Name: Recto, Ralph G.
-  Name Parts: First: Ralph, Middle: G, Last: Recto
-  Chamber: Senate
-  Congresses: [13,15,16,17,18]
-
-  File: 01K5ST4BYMRS6S4J84RJKZRGY7.toml
-  ID: 01K5ST4BYMRS6S4J84RJKZRGY7
-  Full Name: Recto, Ralph G.
-  Name Parts: First: Ralph, Middle: G, Last: Recto
-  Chamber: House
-  Congresses: [9,10,11,16,19]
-
-
-Group 9 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0JC.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0JC
-  Full Name: Legarda, Loren B.
-  Name Parts: First: Loren, Middle: B, Last: Legarda
-  Chamber: Senate
-  Congresses: [14,15,16,17,19,20]
-
-  File: 01K5ST48T0SS1ZNVG0KZPAAVXE.toml
-  ID: 01K5ST48T0SS1ZNVG0KZPAAVXE
-  Full Name: Legarda, Loren
-  Name Parts: First: Loren, Last: Legarda
-  Chamber: House
-  Congresses: [18]
-
-
-Group 10 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0K3.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K3
-  Full Name: Villar, Camille A.
-  Name Parts: First: Camille, Middle: A, Last: Villar
-  Chamber: Senate
-  Congresses: [20]
-
-  File: 01K5ST4GMSF7PY546KZCR1YS03.toml
-  ID: 01K5ST4GMSF7PY546KZCR1YS03
-  Full Name: Villar, Camille A.
-  Name Parts: First: Camille, Middle: A, Last: Villar
-  Chamber: House
-  Congresses: [18,19]
-
-
-Group 11 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0HW.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0HW
-  Full Name: De Lima, Leila M.
-  Name Parts: First: Leila, Middle: M, Last: De Lima
-  Chamber: Senate
-  Congresses: [17,18]
-
-  File: 01K5ST44T4FBNHACTZTJ7B5HCB.toml
-  ID: 01K5ST44T4FBNHACTZTJ7B5HCB
-  Full Name: DE LIMA, LEILA M.
-  Name Parts: First: Leila, Middle: M, Last: De Lima
-  Chamber: House
-  Congresses: [20]
-
-
-Group 12 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0K8.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K8
-  Full Name: Villar, Mark A.
-  Name Parts: First: Mark, Middle: A, Last: Villar
-  Chamber: Senate
-  Congresses: [19,20]
-
-  File: 01K5ST4GQDCMHPRF0HNE0H2KKJ.toml
-  ID: 01K5ST4GQDCMHPRF0HNE0H2KKJ
-  Full Name: Villar, Mark A.
-  Name Parts: First: Mark, Middle: A, Last: Villar
-  Chamber: House
-  Congresses: [15,16,17]
-
-
-Group 13 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0K4.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K4
-  Full Name: Villar, Cynthia A.
-  Name Parts: First: Cynthia, Middle: A, Last: Villar
-  Chamber: Senate
-  Congresses: [16,17,18,19]
-
-  File: 01K5ST4GNB7GB6P4VE2Y7G1KKR.toml
-  ID: 01K5ST4GNB7GB6P4VE2Y7G1KKR
-  Full Name: Villar, Cynthia A.
-  Name Parts: First: Cynthia, Middle: A, Last: Villar
-  Aliases: Cyn
-  Chamber: House
-  Congresses: [12,13,14]
-
-
-Group 14 (2 records):
-  File: 01K5S6MAZ4YBST5GDJV827A0K9.toml
-  ID: 01K5S6MAZ4YBST5GDJV827A0K9
-  Full Name: Zubiri, Juan Miguel F.
-  Name Parts: First: Juan Miguel, Middle: F, Last: Zubiri
-  Chamber: Senate
-  Congresses: [14,15,17,18,19,20]
+  Chamber: Senate, House
+  Congresses: [13,14,15,17,18,19,20]
 
   File: 01K5ST4HCY5N9130WESWJH9BSZ.toml
   ID: 01K5ST4HCY5N9130WESWJH9BSZ
-  Full Name: Zubiri, Juan Miguel F.
-  Name Parts: First: Juan, Middle: Miguel F, Last: Zubiri
+  Full Name: Juan Miguel F Zubiri
+  Name Parts: First: Juan Miguel, Middle: F, Last: Zubiri
   Aliases: Migs
-  Chamber: House
-  Congresses: [11,12,13]
+  Chamber: Senate, House
+  Congresses: [11,12,13,14,15,17,18,19,20]
+
+  File: 01K5ST4BYMRS6S4J84RJKZRGY7.toml
+  ID: 01K5ST4BYMRS6S4J84RJKZRGY7
+  Full Name: Ralph G Recto
+  Name Parts: First: Ralph, Middle: G, Last: Recto
+  Chamber: Senate, House
+  Congresses: [9,10,11,13,15,16,17,18,19]
+
+  File: 01K5ST4GMSF7PY546KZCR1YS03.toml
+  ID: 01K5ST4GMSF7PY546KZCR1YS03
+  Full Name: Camille A Villar
+  Name Parts: First: Camille, Middle: A, Last: Villar
+  Chamber: Senate, House
+  Congresses: [18,19,20]
+
+  File: 01K5S6MAZ4YBST5GDJV827A0HS.toml
+  ID: 01K5S6MAZ4YBST5GDJV827A0HS
+  Full Name: Alan Peter S Cayetano
+  Name Parts: First: Alan Peter, Middle: S, Last: Cayetano
+  Aliases: Companero, Compañero
+  Chamber: Senate, House
+  Congresses: [14,15,16,17,18,19,20]
+
+  File: 01K5ST4GQDCMHPRF0HNE0H2KKJ.toml
+  ID: 01K5ST4GQDCMHPRF0HNE0H2KKJ
+  Full Name: Mark A Villar
+  Name Parts: First: Mark, Middle: A, Last: Villar
+  Chamber: Senate, House
+  Congresses: [15,16,17,19,20]
+
+  File: 01K5S6MAZ4YBST5GDJV827A0JF.toml
+  ID: 01K5S6MAZ4YBST5GDJV827A0JF
+  Full Name: Ferdinand R Marcos Jr
+  Name Parts: First: Ferdinand, Middle: R, Last: Marcos, Suffix: Jr
+  Aliases: Bongbong
+  Chamber: Senate, House
+  Congresses: [9,14,15,16]
+
+  File: 01K5S6MAZ4YBST5GDJV827A0K0.toml
+  ID: 01K5S6MAZ4YBST5GDJV827A0K0
+  Full Name: Erwin T Tulfo
+  Name Parts: First: Erwin, Middle: T, Last: Tulfo
+  Chamber: Senate, House
+  Congresses: [19,20]
+
+  File: 01K5S6MAZ4YBST5GDJV827A0J6.toml
+  ID: 01K5S6MAZ4YBST5GDJV827A0J6
+  Full Name: Sherwin T Gatchalian
+  Name Parts: First: Sherwin, Middle: T, Last: Gatchalian
+  Chamber: Senate, House
+  Congresses: [12,16,17,18,19,20]
+
+  File: 01K5ST4B1SH3CZ9RGMTJRWHP4K.toml
+  ID: 01K5ST4B1SH3CZ9RGMTJRWHP4K
+  Full Name: Emmanuel Dapidran Pacquiao Sr
+  Name Parts: First: Emmanuel, Middle: Dapidran, Last: Pacquiao, Suffix: Sr
+  Aliases: Manny, PacMan
+  Chamber: Senate, House
+  Congresses: [15,16,17,18]
+
+  File: 01K5S6MAZ4YBST5GDJV827A0HY.toml
+  ID: 01K5S6MAZ4YBST5GDJV827A0HY
+  Full Name: Francis G Escudero
+  Name Parts: First: Francis, Middle: G, Last: Escudero
+  Aliases: Chiz
+  Chamber: Senate, House
+  Congresses: [11,12,13,14,15,16,17,19,20]
+
+  File: 01K5S6MAZ4YBST5GDJV827A0J7.toml
+  ID: 01K5S6MAZ4YBST5GDJV827A0J7
+  Full Name: Teofisto L Guingona III
+  Name Parts: First: Teofisto, Middle: L, Last: Guingona, Suffix: III
+  Aliases: TG
+  Chamber: Senate, House
+  Congresses: [13,14,15,16]
+
+  File: 01K5ST44T4FBNHACTZTJ7B5HCB.toml
+  ID: 01K5ST44T4FBNHACTZTJ7B5HCB
+  Full Name: Leila M De Lima
+  Name Parts: First: Leila, Middle: M, Last: De Lima
+  Chamber: Senate, House
+  Congresses: [17,18,20]
+
+  File: 01K5S6MAZ4YBST5GDJV827A0JC.toml
+  ID: 01K5S6MAZ4YBST5GDJV827A0JC
+  Full Name: Lorna Regina Bautista Legarda
+  Name Parts: First: Lorna Regina, Middle: Bautista, Last: Legarda
+  Aliases: Loren
+  Chamber: Senate, House
+  Congresses: [14,15,16,17,18,19,20]
+
+  File: 01K5ST4GNB7GB6P4VE2Y7G1KKR.toml
+  ID: 01K5ST4GNB7GB6P4VE2Y7G1KKR
+  Full Name: Cynthia A Villar
+  Name Parts: First: Cynthia, Middle: A, Last: Villar
+  Aliases: Cyn
+  Chamber: Senate, House
+  Congresses: [12,13,14,16,17,18,19]
 
 ================================================================================
-SUMMARY: Found 87 potential duplicate groups
+SUMMARY: Found 17 potential duplicate groups
 ================================================================================

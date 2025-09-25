@@ -1,8 +1,15 @@
 id = "01K5S6MAZ4YBST5GDJV827A0K0"
 senate_website_keys = [ "TERWI",]
+congress_website_primary_keys = [ 282,]
+congress_website_author_keys = [ "K140",]
 last_name = "Tulfo"
 middle_name = "T"
 first_name = "Erwin"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
 
 [[memberships]]
 type = "congress"

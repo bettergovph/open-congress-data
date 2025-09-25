@@ -1,9 +1,10 @@
 id = "01K5ST4HCY5N9130WESWJH9BSZ"
+senate_website_keys = [ "ZJMIG", "ZMIGU",]
 congress_website_primary_keys = [ 461,]
 congress_website_author_keys = [ "C122",]
 last_name = "Zubiri"
-first_name = "Juan"
-middle_name = "Miguel F"
+first_name = "Juan Miguel"
+middle_name = "F"
 aliases = [ "Migs",]
 
 [[memberships]]
@@ -20,3 +21,33 @@ position = "representative"
 type = "congress"
 congress = 13
 position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "senator"

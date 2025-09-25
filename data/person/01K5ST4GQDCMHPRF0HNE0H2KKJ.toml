@@ -1,6 +1,7 @@
 id = "01K5ST4GQDCMHPRF0HNE0H2KKJ"
 congress_website_primary_keys = [ 771,]
 congress_website_author_keys = [ "G098",]
+senate_website_keys = [ "VMARK",]
 last_name = "Villar"
 first_name = "Mark"
 middle_name = "A"
@@ -19,3 +20,13 @@ position = "representative"
 type = "congress"
 congress = 17
 position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 20
+position = "senator"

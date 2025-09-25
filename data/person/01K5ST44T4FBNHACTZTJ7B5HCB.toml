@@ -1,9 +1,20 @@
 id = "01K5ST44T4FBNHACTZTJ7B5HCB"
 congress_website_primary_keys = [ 1055,]
 congress_website_author_keys = [ "I401",]
+senate_website_keys = [ "DLEIL",]
 last_name = "De Lima"
 first_name = "Leila"
 middle_name = "M"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "senator"
 
 [[memberships]]
 type = "congress"

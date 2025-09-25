@@ -1,8 +1,40 @@
 id = "01K5S6MAZ4YBST5GDJV827A0JK"
 senate_website_keys = [ "MRODA",]
+congress_website_primary_keys = [ 181,]
+congress_website_author_keys = [ "E046",]
 last_name = "Marcoleta"
 middle_name = "D"
 first_name = "Rodante"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
 
 [[memberships]]
 type = "congress"

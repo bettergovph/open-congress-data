@@ -3,6 +3,8 @@ congress_website_primary_keys = [ 969,]
 congress_website_author_keys = [ "J004",]
 last_name = "Acosta"
 first_name = "Gil"
+middle_name = "Abesamis"
+name_suffix = "Jr"
 aliases = [ "Kabarangayjr",]
 
 [[memberships]]

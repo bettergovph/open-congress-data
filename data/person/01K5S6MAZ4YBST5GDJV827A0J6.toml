@@ -1,8 +1,20 @@
 id = "01K5S6MAZ4YBST5GDJV827A0J6"
 senate_website_keys = [ "GSHER",]
+congress_website_primary_keys = [ 493,]
+congress_website_author_keys = [ "D034",]
 last_name = "Gatchalian"
-middle_name = "T"
 first_name = "Sherwin"
+middle_name = "T"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
 
 [[memberships]]
 type = "congress"
@@ -18,6 +30,12 @@ position = "senator"
 type = "congress"
 congress = 19
 position = "senator"
+
+# TODO(njncalub): Verify
+[[memberships]]
+type = "congress"
+congress = 19
+position = "representative"
 
 [[memberships]]
 type = "congress"

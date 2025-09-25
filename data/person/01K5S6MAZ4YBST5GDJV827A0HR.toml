@@ -1,8 +1,10 @@
 id = "01K5S6MAZ4YBST5GDJV827A0HR"
 senate_website_keys = [ "BRODO",]
+congress_website_primary_keys = [ 470,]
+congress_website_author_keys = [ "C403",]
 last_name = "Biazon"
-middle_name = "G"
 first_name = "Rodolfo"
+middle_name = "G"
 
 [[memberships]]
 type = "congress"
@@ -13,3 +15,13 @@ position = "senator"
 type = "congress"
 congress = 14
 position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

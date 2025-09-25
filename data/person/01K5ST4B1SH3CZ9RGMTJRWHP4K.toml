@@ -1,10 +1,12 @@
 id = "01K5ST4B1SH3CZ9RGMTJRWHP4K"
+senate_website_keys = [ "PEMMA",]
 congress_website_primary_keys = [ 740,]
 congress_website_author_keys = [ "G063",]
 last_name = "Pacquiao"
 first_name = "Emmanuel"
-middle_name = "D"
-aliases = [ "Manny",]
+middle_name = "Dapidran"
+name_suffix = "Sr"
+aliases = [ "Manny","PacMan"]
 
 [[memberships]]
 type = "congress"
@@ -15,3 +17,13 @@ position = "representative"
 type = "congress"
 congress = 16
 position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "senator"

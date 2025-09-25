@@ -1,6 +1,7 @@
 id = "01K5ST4BYMRS6S4J84RJKZRGY7"
 congress_website_primary_keys = [ 226,]
 congress_website_author_keys = [ "A069",]
+senate_website_keys = [ "RRALP",]
 last_name = "Recto"
 first_name = "Ralph"
 middle_name = "G"
@@ -22,8 +23,34 @@ position = "representative"
 
 [[memberships]]
 type = "congress"
+congress = 13
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "senator"
+
+# TODO(njncalub): To verify
+[[memberships]]
+type = "congress"
 congress = 16
 position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "senator"
 
 [[memberships]]
 type = "congress"

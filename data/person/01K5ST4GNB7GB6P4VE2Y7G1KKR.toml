@@ -1,6 +1,7 @@
 id = "01K5ST4GNB7GB6P4VE2Y7G1KKR"
 congress_website_primary_keys = [ 516,]
 congress_website_author_keys = [ "D071",]
+senate_website_keys = [ "VCYNT",]
 last_name = "Villar"
 first_name = "Cynthia"
 middle_name = "A"
@@ -20,3 +21,23 @@ position = "representative"
 type = "congress"
 congress = 14
 position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 19
+position = "senator"

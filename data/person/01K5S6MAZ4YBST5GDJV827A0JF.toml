@@ -1,9 +1,22 @@
 id = "01K5S6MAZ4YBST5GDJV827A0JF"
 senate_website_keys = [ "MFERD",]
-aliases = [ "Bongbong",]
+congress_website_primary_keys = [ 376,]
+congress_website_author_keys = [ "A056",]
 last_name = "Marcos"
 middle_name = "R"
 first_name = "Ferdinand"
+name_suffix = "Jr"
+aliases = [ "Bongbong",]
+
+[[memberships]]
+type = "congress"
+congress = 9
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
 
 [[memberships]]
 type = "congress"

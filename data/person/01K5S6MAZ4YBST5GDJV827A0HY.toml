@@ -1,9 +1,26 @@
 id = "01K5S6MAZ4YBST5GDJV827A0HY"
 senate_website_keys = [ "EFRAN",]
-aliases = [ "Chiz",]
+congress_website_primary_keys = [ 420,]
+congress_website_author_keys = [ "C043",]
 last_name = "Escudero"
 middle_name = "G"
 first_name = "Francis"
+aliases = [ "Chiz",]
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
 
 [[memberships]]
 type = "congress"

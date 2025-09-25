@@ -1,9 +1,22 @@
 id = "01K5S6MAZ4YBST5GDJV827A0J7"
 senate_website_keys = [ "GTEOF",]
-aliases = [ "Tg",]
-name_suffix = "III"
+congress_website_primary_keys = [ 564,]
+congress_website_author_keys = [ "E035",]
 last_name = "Guingona"
 first_name = "Teofisto"
+middle_name = "L"
+name_suffix = "III"
+aliases = [ "TG",]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
 
 [[memberships]]
 type = "congress"
@@ -14,3 +27,9 @@ position = "senator"
 type = "congress"
 congress = 16
 position = "senator"
+
+# TODO(njncalub): Verify
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"

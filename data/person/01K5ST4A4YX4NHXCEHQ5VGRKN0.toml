@@ -1,9 +1,10 @@
 id = "01K5ST4A4YX4NHXCEHQ5VGRKN0"
-congress_website_primary_keys = [ 344,]
-congress_website_author_keys = [ "0118",]
+congress_website_primary_keys = [ 325, 344,]
+congress_website_author_keys = [ "0118", "0018",]
 last_name = "Mercado"
 first_name = "Roger"
 middle_name = "Gaviola"
+aliases = [ "Oging",]
 
 [[memberships]]
 type = "congress"
@@ -23,6 +24,16 @@ position = "representative"
 [[memberships]]
 type = "congress"
 congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
 position = "representative"
 
 [[memberships]]
