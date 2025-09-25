@@ -186,8 +186,6 @@ class Neo4jSyncer:
 
                     if idx % batch_size == 0:
                         logger.info(f"Progress: {idx}/{total_files} committees synced")
-                        # Force a commit every batch
-                        session.commit()
 
                 except Exception as e:
                     logger.error(f"Failed to sync {file_path.name}: {e}")
@@ -217,9 +215,9 @@ class Neo4jSyncer:
                     with open(file_path, "rb") as f:
                         data = tomli.load(f)
 
-                    # Add all fields from TOML except 'congresses' (used only for relationships)
+                    # Add all fields from TOML except 'memberships' and 'congresses' (used only for relationships)
                     # This includes senate_website_keys array, aliases, and all other fields automatically
-                    params = {k: v for k, v in data.items() if k != "congresses"}
+                    params = {k: v for k, v in data.items() if k not in ["memberships", "congresses"]}
 
                     # Build SET clause dynamically for all fields
                     set_clauses = [
@@ -236,27 +234,49 @@ class Neo4jSyncer:
 
                     session.run(query, **params)
 
-                    # Create relationships to congresses
-                    for congress_num in data.get("congresses", []):
-                        if congress_num in congress_mapping:
-                            rel_query = """
-                            MATCH (p:Person {id: $person_id})
-                            MATCH (c:Congress {id: $congress_id})
-                            MERGE (p)-[:SERVED_IN]->(c)
-                            """
-                            session.run(
-                                rel_query,
-                                person_id=data["id"],
-                                congress_id=congress_mapping[congress_num],
-                            )
+                    # Handle new memberships structure
+                    memberships = data.get("memberships", [])
+                    if memberships:
+                        for membership in memberships:
+                            # Get congress number from membership
+                            congress_num = membership.get("congress")
+                            if congress_num and congress_num in congress_mapping:
+                                # Create relationship with membership properties
+                                rel_query = """
+                                MATCH (p:Person {id: $person_id})
+                                MATCH (c:Congress {id: $congress_id})
+                                MERGE (p)-[r:SERVED_IN]->(c)
+                                SET r.position = $position,
+                                    r.type = $type
+                                """
+                                session.run(
+                                    rel_query,
+                                    person_id=data["id"],
+                                    congress_id=congress_mapping[congress_num],
+                                    position=membership.get("position", ""),
+                                    type=membership.get("type", "congress")
+                                )
+
+                    # Fallback: handle old congresses array if it still exists
+                    elif "congresses" in data:
+                        for congress_num in data.get("congresses", []):
+                            if congress_num in congress_mapping:
+                                rel_query = """
+                                MATCH (p:Person {id: $person_id})
+                                MATCH (c:Congress {id: $congress_id})
+                                MERGE (p)-[:SERVED_IN]->(c)
+                                """
+                                session.run(
+                                    rel_query,
+                                    person_id=data["id"],
+                                    congress_id=congress_mapping[congress_num],
+                                )
 
                     # Clear data from memory after processing
                     del data
 
                     if idx % batch_size == 0:
                         logger.info(f"Progress: {idx}/{total_files} people synced")
-                        # Force a commit every batch
-                        session.commit()
 
                 except Exception as e:
                     logger.error(f"Failed to sync {file_path.name}: {e}")
@@ -304,6 +324,21 @@ class Neo4jSyncer:
                     f"MATCH ()-[r:{rel_type}]->() RETURN count(r) as count"
                 )
                 stats[rel_type] = result.single()["count"]
+
+            # Count senators vs representatives (using the new structure)
+            result = session.run("""
+                MATCH ()-[r:SERVED_IN]->()
+                WHERE r.position = 'senator'
+                RETURN count(DISTINCT r) as count
+            """)
+            stats["senator_terms"] = result.single()["count"]
+
+            result = session.run("""
+                MATCH ()-[r:SERVED_IN]->()
+                WHERE r.position = 'representative'
+                RETURN count(DISTINCT r) as count
+            """)
+            stats["representative_terms"] = result.single()["count"]
 
             return stats
 
@@ -373,6 +408,8 @@ def main():
         logger.info(f"People: {stats['Person']}")
         logger.info(f"Committee-Congress relationships: {stats['BELONGS_TO']}")
         logger.info(f"Person-Congress relationships: {stats['SERVED_IN']}")
+        logger.info(f"  - Senator terms: {stats.get('senator_terms', 0)}")
+        logger.info(f"  - Representative terms: {stats.get('representative_terms', 0)}")
 
     except Exception as e:
         logger.error(f"Sync failed: {e}")

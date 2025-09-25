@@ -1,3 +1,6 @@
 neo4j==5.14.0
 python-dotenv==1.0.0
-tomli==2.0.1
+pyyaml==6.0.1
+tomlkit==0.13.3
+pandas==2.1.4
+rapidfuzz==3.6.1
