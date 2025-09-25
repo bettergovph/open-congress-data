@@ -1,25 +1,15 @@
-id = "01K5S6MAZ4YBST5GDJV827A0K4"
-senate_website_keys = [ "VCYNT",]
-last_name = "Villar"
-middle_name = "A"
-first_name = "Cynthia"
-
-[[memberships]]
-type = "congress"
-congress = 16
-position = "senator"
-
-[[memberships]]
-type = "congress"
-congress = 17
-position = "senator"
-
-[[memberships]]
-type = "congress"
-congress = 18
-position = "senator"
+id = "01K5S6MAZ4YBST5GDJV827A0JS"
+senate_website_keys = [ "PROBI",]
+last_name = "Padilla"
+middle_initial = "C"
+first_name = "Robinhood"
 
 [[memberships]]
 type = "congress"
 congress = 19
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 20
 position = "senator"

@@ -3,7 +3,7 @@ congress_website_primary_keys = [ 804,]
 congress_website_author_keys = [ "H001",]
 last_name = "Abaya"
 first_name = "Francis"
-middle_name = "Gerald A"
+middle_initial = "Gerald A"
 
 [[memberships]]
 type = "congress"

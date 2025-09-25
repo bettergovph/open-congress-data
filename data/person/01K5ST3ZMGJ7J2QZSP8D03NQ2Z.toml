@@ -3,7 +3,7 @@ congress_website_primary_keys = [ 537,]
 congress_website_author_keys = [ "E002",]
 last_name = "Abalos"
 first_name = "Benjamin"
-middle_name = "D"
+middle_initial = "D"
 aliases = [ "Benhur",]
 name_suffix = "Jr"
 

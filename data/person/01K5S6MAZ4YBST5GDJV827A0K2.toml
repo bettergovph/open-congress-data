@@ -1,12 +1,32 @@
-id = "01K5S6MAZ4YBST5GDJV827A0K2"
-senate_website_keys = [ "TRAFF",]
-last_name = "Tulfo"
-middle_name = "T"
-first_name = "Raffy"
+id = "01K5S6MAZ4YBST5GDJV827A0JQ"
+senate_website_keys = [ "PFRAN",]
+last_name = "Pangilinan"
+middle_initial = "N"
+first_name = "Francis"
 
 [[memberships]]
 type = "congress"
-congress = 19
+congress = 13
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 18
 position = "senator"
 
 [[memberships]]

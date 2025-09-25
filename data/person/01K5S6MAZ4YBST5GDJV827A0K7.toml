@@ -1,9 +1,8 @@
-id = "01K5S6MAZ4YBST5GDJV827A0K7"
-senate_website_keys = [ "VMANU",]
-name_suffix = "Jr"
-last_name = "Villar"
-middle_name = "B"
-first_name = "Manuel"
+id = "01K5S6MAZ4YBST5GDJV827A0JV"
+senate_website_keys = [ "RRALP",]
+last_name = "Recto"
+middle_initial = "G"
+first_name = "Ralph"
 
 [[memberships]]
 type = "congress"
@@ -12,5 +11,20 @@ position = "senator"
 
 [[memberships]]
 type = "congress"
-congress = 14
+congress = 15
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 18
 position = "senator"

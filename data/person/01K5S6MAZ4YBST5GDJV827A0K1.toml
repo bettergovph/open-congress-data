@@ -1,16 +1,16 @@
-id = "01K5S6MAZ4YBST5GDJV827A0K1"
-senate_website_keys = [ "TFRAN",]
-aliases = [ "Tol",]
-last_name = "Tolentino"
-middle_name = "N"
-first_name = "Francis"
+id = "01K5S6MAZ4YBST5GDJV827A0JP"
+senate_website_keys = [ "PEMMA",]
+aliases = [ "Manny",]
+last_name = "Pacquiao"
+middle_initial = "D"
+first_name = "Emmanuel"
 
 [[memberships]]
 type = "congress"
-congress = 18
+congress = 17
 position = "senator"
 
 [[memberships]]
 type = "congress"
-congress = 19
+congress = 18
 position = "senator"

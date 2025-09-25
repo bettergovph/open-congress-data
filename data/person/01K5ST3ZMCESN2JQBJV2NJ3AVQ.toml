@@ -3,7 +3,7 @@ congress_website_primary_keys = [ 536,]
 congress_website_author_keys = [ "E001",]
 last_name = "Abad"
 first_name = "Henedina"
-middle_name = "R"
+middle_initial = "R"
 aliases = [ "Dina",]
 
 [[memberships]]

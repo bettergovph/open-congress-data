@@ -1,15 +1,36 @@
-id = "01K5S6MAZ4YBST5GDJV827A0K8"
-senate_website_keys = [ "VMARK",]
-last_name = "Villar"
-middle_name = "A"
-first_name = "Mark"
+id = "01K5S6MAZ4YBST5GDJV827A0JW"
+senate_website_keys = [ "RRAMO",]
+name_suffix = "Jr"
+last_name = "Revilla"
+middle_initial = "A"
+first_name = "Ramon"
 
 [[memberships]]
 type = "congress"
-congress = 19
+congress = 13
 position = "senator"
 
 [[memberships]]
 type = "congress"
-congress = 20
+congress = 14
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 16
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 19
 position = "senator"

@@ -3,7 +3,7 @@ congress_website_primary_keys = [ 2,]
 congress_website_author_keys = [ "K106",]
 last_name = "Abalos"
 first_name = "Jc"
-middle_name = "M"
+middle_initial = "M"
 
 [[memberships]]
 type = "congress"

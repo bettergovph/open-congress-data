@@ -1,10 +1,25 @@
-id = "01K5S6MAZ4YBST5GDJV827A0K3"
-senate_website_keys = [ "VCAMI",]
-last_name = "Villar"
-middle_name = "A"
-first_name = "Camille"
+id = "01K5S6MAZ4YBST5GDJV827A0JR"
+senate_website_keys = [ "PGRAC",]
+last_name = "Poe"
+middle_initial = "L"
+first_name = "Grace"
 
 [[memberships]]
 type = "congress"
-congress = 20
+congress = 16
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 18
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 19
 position = "senator"
