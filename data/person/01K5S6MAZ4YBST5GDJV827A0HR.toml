@@ -4,7 +4,8 @@ congress_website_primary_keys = [ 470,]
 congress_website_author_keys = [ "C403",]
 last_name = "Biazon"
 first_name = "Rodolfo"
-middle_name = "G"
+middle_name = "Gaspar"
+aliases = ["Pong",]
 
 [[memberships]]
 type = "congress"

@@ -1,8 +1,9 @@
 id = "01K5S6MAZ4YBST5GDJV827A0JQ"
 senate_website_keys = [ "PFRAN",]
 last_name = "Pangilinan"
-middle_name = "N"
+middle_name = "Nepomuceno"
 first_name = "Francis"
+aliases = ["Kiko",]
 
 [[memberships]]
 type = "congress"
