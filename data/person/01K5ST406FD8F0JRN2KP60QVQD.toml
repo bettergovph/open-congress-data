@@ -4,7 +4,7 @@ congress_website_author_keys = [ "F003",]
 last_name = "Agyao"
 first_name = "Manuel"
 middle_name = "S"
-aliases = [ "Manny/Lao-Ing",]
+aliases = [ "Manny","Lao-Ing",]
 
 [[memberships]]
 type = "congress"
