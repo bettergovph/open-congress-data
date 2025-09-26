@@ -1,9 +1,27 @@
 id = "01K5S6MAZ4YBST5GDJV827A0HN"
 senate_website_keys = [ "ASONN",]
-aliases = [ "Sonny",]
+congress_website_primary_keys = [ 545,]
+congress_website_author_keys = [ "E011",]
+
 last_name = "Angara"
-middle_name = "Manalang"
 first_name = "Juan Edgardo"
+middle_name = "Manalang"
+aliases = [ "Sonny",]
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 14
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 15
+position = "representative"
 
 [[memberships]]
 type = "congress"

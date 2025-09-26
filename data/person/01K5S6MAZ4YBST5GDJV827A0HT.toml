@@ -1,8 +1,11 @@
 id = "01K5S6MAZ4YBST5GDJV827A0HT"
 senate_website_keys = [ "CPIAS",]
+congress_website_primary_keys = [ 586,]
+congress_website_author_keys = [ "E401",]
 last_name = "Cayetano"
 middle_name = "Schramm"
-first_name = "Companera Pia"
+first_name = "Pilar Juliana"
+aliases = [ "Pia","Compañera","Companera",]
 
 [[memberships]]
 type = "congress"
@@ -23,6 +26,17 @@ position = "senator"
 type = "congress"
 congress = 16
 position = "senator"
+
+# TODO(njncalub): Please verify
+[[memberships]]
+type = "congress"
+congress = 16
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 17
+position = "representative"
 
 [[memberships]]
 type = "congress"
