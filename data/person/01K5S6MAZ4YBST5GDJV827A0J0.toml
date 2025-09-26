@@ -3,7 +3,7 @@ senate_website_keys = [ "EJOSE", "EVICT",]
 congress_website_primary_keys = [ 721,]
 congress_website_author_keys = [ "G039",]
 last_name = "Ejercito"
-middle_name = "G"
+middle_name = "Gomez"
 first_name = "Joseph Victor"
 aliases = [ "JV",]
 

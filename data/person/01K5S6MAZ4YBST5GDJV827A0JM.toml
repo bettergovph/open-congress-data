@@ -2,8 +2,9 @@ id = "01K5S6MAZ4YBST5GDJV827A0JM"
 senate_website_keys = [ "OSERG",]
 name_suffix = "III"
 last_name = "Osmena"
-middle_name = "R"
+middle_name = "Rama"
 first_name = "Sergio"
+aliases = ["Serge",]
 
 [[memberships]]
 type = "congress"

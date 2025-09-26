@@ -2,8 +2,9 @@ id = "01K5S6MAZ4YBST5GDJV827A0J9"
 senate_website_keys = [ "HGREG",]
 name_suffix = "II"
 last_name = "Honasan"
-middle_name = "B"
+middle_name = "Ballesteros"
 first_name = "Gregorio"
+aliases = ["Gringo",]
 
 [[memberships]]
 type = "congress"

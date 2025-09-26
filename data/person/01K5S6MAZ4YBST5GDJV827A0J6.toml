@@ -4,7 +4,8 @@ congress_website_primary_keys = [ 493,]
 congress_website_author_keys = [ "D034",]
 last_name = "Gatchalian"
 first_name = "Sherwin"
-middle_name = "T"
+middle_name = "Ting"
+aliases = ["Win",]
 
 [[memberships]]
 type = "congress"

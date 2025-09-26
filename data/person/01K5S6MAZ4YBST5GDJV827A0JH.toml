@@ -1,7 +1,9 @@
 id = "01K5S6MAZ4YBST5GDJV827A0JH"
 senate_website_keys = [ "MJAMB",]
 last_name = "Madrigal"
+middle_name = "Abad Santos"
 first_name = "M. A."
+aliases = ["Jamby", ]
 
 [[memberships]]
 type = "congress"

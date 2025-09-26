@@ -3,6 +3,7 @@ senate_website_keys = [ "APAOL",]
 aliases = [ "Bam",]
 name_suffix = "IV"
 last_name = "Aquino"
+middle_name = "Aguirre"
 first_name = "Paolo Benigno"
 
 [[memberships]]
