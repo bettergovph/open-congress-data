@@ -16,7 +16,7 @@ import sys
 import logging
 from pathlib import Path
 from typing import Dict
-import tomli
+import tomlkit
 from neo4j import GraphDatabase
 from neo4j.exceptions import Neo4jError
 from dotenv import load_dotenv
@@ -106,8 +106,8 @@ class Neo4jSyncer:
 
             for idx, file_path in enumerate(congress_files, 1):
                 try:
-                    with open(file_path, "rb") as f:
-                        data = tomli.load(f)
+                    with open(file_path, "r", encoding="utf-8") as f:
+                        data = tomlkit.load(f)
 
                     congress_mapping[data["congress_number"]] = data["id"]
 
@@ -157,8 +157,8 @@ class Neo4jSyncer:
                             f"Processing committee {idx}/{total_files}: {file_path.name}"
                         )
 
-                    with open(file_path, "rb") as f:
-                        data = tomli.load(f)
+                    with open(file_path, "r", encoding="utf-8") as f:
+                        data = tomlkit.load(f)
 
                     # Add all fields from TOML except 'congresses' (used only for relationships)
                     # This includes senate_website_keys array automatically
@@ -224,8 +224,8 @@ class Neo4jSyncer:
                             f"Processing person {idx}/{total_files}: {file_path.name}"
                         )
 
-                    with open(file_path, "rb") as f:
-                        data = tomli.load(f)
+                    with open(file_path, "r", encoding="utf-8") as f:
+                        data = tomlkit.load(f)
 
                     # Add all fields from TOML except 'memberships' and 'congresses' (used only for relationships)
                     # This includes senate_website_keys array, aliases, and all other fields automatically
