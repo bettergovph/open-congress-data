@@ -2,8 +2,8 @@ id = "01K5ST4E3ZMT45G80A9T3S3RGB"
 congress_website_primary_keys = [ 761,]
 congress_website_author_keys = [ "G086",]
 last_name = "Sema"
-first_name = "Bai"
-middle_name = "Sandra A"
+first_name = "Bai Sandra"
+middle_name = "A"
 
 [[memberships]]
 type = "congress"

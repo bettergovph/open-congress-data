@@ -2,8 +2,8 @@ id = "01K5ST49FPH7AKFXHJ0RKH0055"
 congress_website_primary_keys = [ 177,]
 congress_website_author_keys = [ "I040",]
 last_name = "Mangaoang"
-first_name = "Allen"
-middle_name = "Jesse C"
+first_name = "Allen Jesse"
+middle_name = "C"
 
 [[memberships]]
 type = "congress"

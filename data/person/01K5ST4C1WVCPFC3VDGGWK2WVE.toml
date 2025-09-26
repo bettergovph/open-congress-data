@@ -2,8 +2,8 @@ id = "01K5ST4C1WVCPFC3VDGGWK2WVE"
 congress_website_primary_keys = [ 229,]
 congress_website_author_keys = [ "E053",]
 last_name = "Remulla"
-first_name = "Jesus"
-middle_name = "Crispin C"
+first_name = "Jesus Crispin"
+middle_name = "C"
 
 [[memberships]]
 type = "congress"

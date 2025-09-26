@@ -2,8 +2,8 @@ id = "01K5ST406XJDH929E9148CH1V9"
 congress_website_primary_keys = [ 11,]
 congress_website_author_keys = [ "K005",]
 last_name = "Alba"
-first_name = "Jose"
-middle_name = "Manuel F"
+first_name = "Jose Manuel"
+middle_name = "F"
 
 [[memberships]]
 type = "congress"

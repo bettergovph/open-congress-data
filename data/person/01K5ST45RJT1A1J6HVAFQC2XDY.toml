@@ -2,8 +2,8 @@ id = "01K5ST45RJT1A1J6HVAFQC2XDY"
 congress_website_primary_keys = [ 904,]
 congress_website_author_keys = [ "I023",]
 last_name = "Enverga"
-first_name = "Anna"
-middle_name = "Katrina M"
+first_name = "Anna Katrina"
+middle_name = "M"
 
 [[memberships]]
 type = "congress"

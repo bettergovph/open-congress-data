@@ -2,8 +2,8 @@ id = "01K5ST4057Z8YCR84TQPBSSJG1"
 congress_website_primary_keys = [ 998,]
 congress_website_author_keys = [ "J084",]
 last_name = "Aglipay"
-first_name = "Michael"
-middle_name = "Edgar Y"
+first_name = "Michael Edgar"
+middle_name = "Y"
 
 [[memberships]]
 type = "congress"

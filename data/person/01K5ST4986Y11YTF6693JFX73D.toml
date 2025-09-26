@@ -2,8 +2,8 @@ id = "01K5ST4986Y11YTF6693JFX73D"
 congress_website_primary_keys = [ 174,]
 congress_website_author_keys = [ "A054",]
 last_name = "Madrona"
-first_name = "Eleandro"
-middle_name = "Jesus F"
+first_name = "Eleandro Jesus"
+middle_name = "F"
 
 [[memberships]]
 type = "congress"

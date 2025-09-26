@@ -2,8 +2,8 @@ id = "01K5ST455R5VB3P9APZF0Z5PEC"
 congress_website_primary_keys = [ 91,]
 congress_website_author_keys = [ "I022",]
 last_name = "Dimaporo"
-first_name = "Mohamad"
-middle_name = "Khalid Q"
+first_name = "Mohamad Khalid"
+middle_name = "Q"
 
 [[memberships]]
 type = "congress"

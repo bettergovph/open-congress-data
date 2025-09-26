@@ -2,8 +2,8 @@ id = "01K5ST4CBECQCGTKA8JN7QRZQW"
 congress_website_primary_keys = [ 789,]
 congress_website_author_keys = [ "G116",]
 last_name = "Rivera"
-first_name = "Michael"
-middle_name = "Angelo C"
+first_name = "Michael Angelo"
+middle_name = "C"
 
 [[memberships]]
 type = "congress"

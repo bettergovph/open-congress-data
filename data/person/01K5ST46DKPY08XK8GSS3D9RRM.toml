@@ -2,8 +2,8 @@ id = "01K5ST46DKPY08XK8GSS3D9RRM"
 congress_website_primary_keys = [ 114,]
 congress_website_author_keys = [ "J033",]
 last_name = "Flores"
-first_name = "Jonathan"
-middle_name = "Keith T"
+first_name = "Jonathan Keith"
+middle_name = "T"
 
 [[memberships]]
 type = "congress"

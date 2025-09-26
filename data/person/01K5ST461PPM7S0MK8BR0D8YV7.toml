@@ -2,8 +2,8 @@ id = "01K5ST461PPM7S0MK8BR0D8YV7"
 congress_website_primary_keys = [ 978,]
 congress_website_author_keys = [ "J031",]
 last_name = "Espino"
-first_name = "Jumel"
-middle_name = "Anthony I"
+first_name = "Jumel Anthony"
+middle_name = "I"
 
 [[memberships]]
 type = "congress"

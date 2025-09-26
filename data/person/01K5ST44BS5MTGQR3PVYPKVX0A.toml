@@ -2,8 +2,8 @@ id = "01K5ST44BS5MTGQR3PVYPKVX0A"
 congress_website_primary_keys = [ 883,]
 congress_website_author_keys = [ "H083",]
 last_name = "Cueva"
-first_name = "Leo"
-middle_name = "Rafael M"
+first_name = "Leo Rafael"
+middle_name = "M"
 
 [[memberships]]
 type = "congress"

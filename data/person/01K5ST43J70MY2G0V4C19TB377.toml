@@ -2,8 +2,8 @@ id = "01K5ST43J70MY2G0V4C19TB377"
 congress_website_primary_keys = [ 414,]
 congress_website_author_keys = [ "C031",]
 last_name = "Cayetano"
-first_name = "Alan"
-middle_name = "Peter S"
+first_name = "Alan Peter"
+middle_name = "S"
 
 [[memberships]]
 type = "congress"

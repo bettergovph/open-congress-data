@@ -2,8 +2,8 @@ id = "01K5ST4BSEBNZJFCYYNVMB84V6"
 congress_website_primary_keys = [ 224,]
 congress_website_author_keys = [ "J058",]
 last_name = "Quimbo"
-first_name = "Stella"
-middle_name = "Luz A"
+first_name = "Stella Luz"
+middle_name = "A"
 
 [[memberships]]
 type = "congress"

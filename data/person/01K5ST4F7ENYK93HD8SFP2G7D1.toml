@@ -2,8 +2,8 @@ id = "01K5ST4F7ENYK93HD8SFP2G7D1"
 congress_website_primary_keys = [ 995,]
 congress_website_author_keys = [ "J074",]
 last_name = "Tiangco"
-first_name = "John"
-middle_name = "Reynald M"
+first_name = "John Reynald"
+middle_name = "M"
 
 [[memberships]]
 type = "congress"

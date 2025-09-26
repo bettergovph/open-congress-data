@@ -2,8 +2,8 @@ id = "01K5ST4H6JT7PJ8AX2KBZBJ3QE"
 congress_website_primary_keys = [ 317,]
 congress_website_author_keys = [ "H084",]
 last_name = "Zamora"
-first_name = "Maria"
-middle_name = "Carmen S"
+first_name = "Maria Carmen"
+middle_name = "S"
 
 [[memberships]]
 type = "congress"

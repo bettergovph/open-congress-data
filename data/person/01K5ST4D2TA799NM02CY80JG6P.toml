@@ -2,8 +2,8 @@ id = "01K5ST4D2TA799NM02CY80JG6P"
 congress_website_primary_keys = [ 240,]
 congress_website_author_keys = [ "F061",]
 last_name = "Romualdez"
-first_name = "Ferdinand"
-middle_name = "Martin G"
+first_name = "Ferdinand Martin"
+middle_name = "G"
 
 [[memberships]]
 type = "congress"

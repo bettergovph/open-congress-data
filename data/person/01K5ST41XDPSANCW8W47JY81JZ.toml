@@ -2,8 +2,8 @@ id = "01K5ST41XDPSANCW8W47JY81JZ"
 congress_website_primary_keys = [ 1037,]
 congress_website_author_keys = [ "L010",]
 last_name = "Bautista"
-first_name = "Johanne"
-middle_name = "Monich G"
+first_name = "Johanne Monich"
+middle_name = "G"
 
 [[memberships]]
 type = "congress"

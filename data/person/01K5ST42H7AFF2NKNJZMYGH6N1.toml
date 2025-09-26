@@ -2,8 +2,8 @@ id = "01K5ST42H7AFF2NKNJZMYGH6N1"
 congress_website_primary_keys = [ 822,]
 congress_website_author_keys = [ "H019",]
 last_name = "Bravo"
-first_name = "Maria"
-middle_name = "Vida Espinosa"
+first_name = "Maria Vida Espinosa"
+middle_name = ""
 
 [[memberships]]
 type = "congress"

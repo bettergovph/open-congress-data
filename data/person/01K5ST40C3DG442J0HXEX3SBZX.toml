@@ -2,8 +2,8 @@ id = "01K5ST40C3DG442J0HXEX3SBZX"
 congress_website_primary_keys = [ 13,]
 congress_website_author_keys = [ "K006",]
 last_name = "Almario"
-first_name = "Cheeno"
-middle_name = "Miguel D"
+first_name = "Cheeno Miguel"
+middle_name = "D"
 
 [[memberships]]
 type = "congress"

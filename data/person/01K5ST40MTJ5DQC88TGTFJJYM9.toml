@@ -2,8 +2,8 @@ id = "01K5ST40MTJ5DQC88TGTFJJYM9"
 congress_website_primary_keys = [ 20,]
 congress_website_author_keys = [ "K010",]
 last_name = "Amatong"
-first_name = "Adrian"
-middle_name = "Michael A"
+first_name = "Adrian Michael"
+middle_name = "A"
 
 [[memberships]]
 type = "congress"

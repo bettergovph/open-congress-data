@@ -2,8 +2,8 @@ id = "01K5ST46A8J0N2GX78KTB3Y64D"
 congress_website_primary_keys = [ 113,]
 congress_website_author_keys = [ "I027",]
 last_name = "Ferrer"
-first_name = "Juliet"
-middle_name = "Marie De Leon"
+first_name = "Juliet Marie"
+middle_name = "De Leon"
 
 [[memberships]]
 type = "congress"

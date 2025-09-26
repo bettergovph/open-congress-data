@@ -2,8 +2,8 @@ id = "01K5ST45HQQCSEHKX5VQ24KQJN"
 congress_website_primary_keys = [ 101,]
 congress_website_author_keys = [ "J030",]
 last_name = "Ecleo"
-first_name = "Alan"
-middle_name = "1 B"
+first_name = "Alan 1"
+middle_name = "B"
 
 [[memberships]]
 type = "congress"

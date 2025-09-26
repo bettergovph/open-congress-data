@@ -2,8 +2,8 @@ id = "01K5ST4AFC0FTXPCBX8EAE38ZV"
 congress_website_primary_keys = [ 889,]
 congress_website_author_keys = [ "H090",]
 last_name = "Noel"
-first_name = "Victoria"
-middle_name = "Isabel G"
+first_name = "Victoria Isabel"
+middle_name = "G"
 
 [[memberships]]
 type = "congress"

@@ -2,8 +2,8 @@ id = "01K5ST4F1DC6GDFMQYDW92TH9C"
 congress_website_primary_keys = [ 1,]
 congress_website_author_keys = [ "K084",]
 last_name = "Tan"
-first_name = "Reynolds"
-middle_name = "Michael T"
+first_name = "Reynolds Michael"
+middle_name = "T"
 
 [[memberships]]
 type = "congress"

@@ -2,8 +2,8 @@ id = "01K5ST433EAJKVHNG8GRWA0TKT"
 congress_website_primary_keys = [ 61,]
 congress_website_author_keys = [ "J020",]
 last_name = "Cari"
-first_name = "Carl"
-middle_name = "Nicolas C"
+first_name = "Carl Nicolas"
+middle_name = "C"
 
 [[memberships]]
 type = "congress"

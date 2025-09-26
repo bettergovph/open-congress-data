@@ -2,8 +2,8 @@ id = "01K5ST46VXD8QNDK102WWVCP9E"
 congress_website_primary_keys = [ 122,]
 congress_website_author_keys = [ "K037",]
 last_name = "Garcia"
-first_name = "Maria"
-middle_name = "Angela S"
+first_name = "Maria Angela"
+middle_name = "S"
 
 [[memberships]]
 type = "congress"

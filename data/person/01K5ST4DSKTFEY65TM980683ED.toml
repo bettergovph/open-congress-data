@@ -2,8 +2,8 @@ id = "01K5ST4DSKTFEY65TM980683ED"
 congress_website_primary_keys = [ 758,]
 congress_website_author_keys = [ "G083",]
 last_name = "Sambar"
-first_name = "Mark"
-middle_name = "Aeron H"
+first_name = "Mark Aeron"
+middle_name = "H"
 
 [[memberships]]
 type = "congress"

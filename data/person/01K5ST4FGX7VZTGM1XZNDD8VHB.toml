@@ -2,8 +2,8 @@ id = "01K5ST4FGX7VZTGM1XZNDD8VHB"
 congress_website_primary_keys = [ 1118,]
 congress_website_author_keys = [ "L084",]
 last_name = "Tupas"
-first_name = "Binky"
-middle_name = "April M"
+first_name = "Binky April"
+middle_name = "M"
 
 [[memberships]]
 type = "congress"

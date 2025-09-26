@@ -2,8 +2,8 @@ id = "01K5ST444K12C8JW790YTFRT4H"
 congress_website_primary_keys = [ 1051,]
 congress_website_author_keys = [ "L025",]
 last_name = "Cruz"
-first_name = "Agatha"
-middle_name = "Paula Aguilar"
+first_name = "Agatha Paula"
+middle_name = "Aguilar"
 
 [[memberships]]
 type = "congress"
