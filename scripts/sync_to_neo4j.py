@@ -4,6 +4,11 @@ Sync Philippine Congress data from TOML files to Neo4j database.
 
 This script reads TOML files containing congress, committee, and person data
 and syncs them to a Neo4j database with appropriate relationships.
+
+Usage:
+    python sync_to_neo4j.py                # Sync data without clearing
+    python sync_to_neo4j.py --clear        # Clear database first (will prompt for confirmation)
+    python sync_to_neo4j.py --clear --yes  # Clear database first (skip confirmation - for CI/CD)
 """
 
 import os
@@ -40,7 +45,7 @@ class Neo4jSyncer:
         if self.driver:
             self.driver.close()
 
-    def clear_database(self):
+    def clear_database(self, skip_confirmation=False):
         """Clear specific node types and their relationships from the database."""
         # Define which node labels to clear - easy to update this list
         node_labels_to_clear = ["Congress", "Committee", "Person"]
@@ -62,9 +67,16 @@ class Neo4jSyncer:
                     logger.info(
                         f"Will delete nodes with labels: {', '.join(node_labels_to_clear)}"
                     )
-                    response = input(
-                        f"This will delete {node_count} nodes and their relationships. Continue? (yes/no): "
-                    )
+
+                    # Skip confirmation if flag is set (for CI/CD)
+                    if skip_confirmation:
+                        logger.info(f"Auto-confirming deletion of {node_count} nodes (--yes flag provided)")
+                        response = "yes"
+                    else:
+                        response = input(
+                            f"This will delete {node_count} nodes and their relationships. Continue? (yes/no): "
+                        )
+
                     if response.lower() == "yes":
                         # Delete only specific node types and their relationships
                         delete_query = (
@@ -377,9 +389,13 @@ def main():
     try:
         syncer = Neo4jSyncer(neo4j_uri, neo4j_username, neo4j_password)
 
+        # Parse command line arguments
+        clear_db = "--clear" in sys.argv
+        skip_confirmation = "--yes" in sys.argv
+
         # Optional: Clear database
-        if len(sys.argv) > 1 and sys.argv[1] == "--clear":
-            syncer.clear_database()
+        if clear_db:
+            syncer.clear_database(skip_confirmation=skip_confirmation)
 
         # Create indexes first for better performance
         logger.info("Creating database indexes...")
