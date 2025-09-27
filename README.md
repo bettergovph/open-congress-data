@@ -30,45 +30,76 @@ All data files are organized in the `data/` directory with subdirectories for
 each entity type:
 
 - `data/congress/` - Philippine Congress entities (8th through 20th)
+- `data/group/chamber/` - Chamber entities (Senate and House of Representatives)
 - `data/committee/` - Senate committee entities
-- `data/person/` - Senator and official entities
+- `data/person/` - Senator and representative entities
 
 The following graph shows the current entities and their relationships in the
 dataset:
 
 ```mermaid
-graph LR
+graph TD
     %% Node definitions with styling
     Congress["🏛️ Congress<br/>━━━━━━━<br/>• id<br/>• congress_number<br/>• congress_website_key<br/>• name<br/>• ordinal<br/>• year_range<br/>• start_date<br/>• end_date"]
 
+    Chamber["🏢 Chamber (Group)<br/>━━━━━━━<br/>• id<br/>• name<br/>• type: 'chamber'<br/>• subtype: 'senate' | 'house'<br/>• congress"]
+
     Committee["📋 Committee<br/>━━━━━━━<br/>• id<br/>• name<br/>• type<br/>• senate_website_keys[]"]
 
-    Person["👤 Person<br/>━━━━━━━<br/>• id<br/>• full_name<br/>• first_name<br/>• last_name<br/>• middle_initial<br/>• senate_website_keys[]<br/>• aliases[]"]
+    Person["👤 Person<br/>━━━━━━━<br/>• id<br/>• first_name<br/>• last_name<br/>• middle_name<br/>• senate_website_keys[]<br/>• aliases[]<br/>• memberships[]"]
 
     %% Relationships
+    Chamber -->|BELONGS_TO| Congress
     Committee -->|BELONGS_TO| Congress
-    Person -->|SERVED_IN| Congress
+    Person -->|MEMBER_OF| Chamber
 
     %% Styling
     classDef congressNode fill:#4a90e2,stroke:#2c5aa0,stroke-width:2px,color:#fff
+    classDef chamberNode fill:#9c27b0,stroke:#6a1b9a,stroke-width:2px,color:#fff
     classDef committeeNode fill:#7cb342,stroke:#558b2f,stroke-width:2px,color:#fff
     classDef personNode fill:#ff7043,stroke:#d84315,stroke-width:2px,color:#fff
 
     class Congress congressNode
+    class Chamber chamberNode
     class Committee committeeNode
     class Person personNode
 ```
 
 ### Entity Details
 
-- **Congress**: Central entity representing each Philippine Congress (8th
-  through 20th)
+- **Congress**: Central entity representing each Philippine Congress (8th through 20th)
+- **Chamber (Group)**: Represents Senate or House of Representatives for a specific Congress
 - **Committee**: Senate committees that operate within specific congresses
-- **Person**: Senators and officials who serve in various congresses
+- **Person**: Senators and representatives who serve in various congresses
 
-Relationships to Congress nodes are established through the BELONGS_TO (for
-Committees) and SERVED_IN (for People) edges, based on the `congresses` field in
-the source TOML files.
+### Relationship Hierarchy
+
+The data follows a hierarchical structure:
+
+1. **Congress** is the top-level entity
+2. **Chambers** (Senate/House) belong to specific Congresses
+3. **Committees** belong to specific Congresses
+4. **People** are members of Chambers (not directly connected to Congress)
+
+This structure accurately represents the bicameral nature of the Philippine Congress, where individuals serve as members of either the Senate or the House of Representatives for specific Congress sessions.
+
+### Person Membership Structure
+
+Person entities contain a `memberships` array that defines their chamber affiliations:
+
+```toml
+[[memberships]]
+type = "chamber"
+congress = 15
+subtype = "house"  # Person was a House member in 15th Congress
+
+[[memberships]]
+type = "chamber"
+congress = 16
+subtype = "senate"  # Person was a Senator in 16th Congress
+```
+
+This allows tracking of politicians who may have served in different chambers across different congresses (e.g., moving from House to Senate).
 
 ## Impostor Syndrome Disclaimer
 
