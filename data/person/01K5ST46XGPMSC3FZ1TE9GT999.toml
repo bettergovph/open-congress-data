@@ -7,16 +7,16 @@ middle_name = "P"
 aliases = [ "Pabling",]
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 9
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 14
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 15
-position = "representative"
+subtype = "house"

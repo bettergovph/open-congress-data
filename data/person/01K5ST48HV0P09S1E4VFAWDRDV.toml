@@ -6,16 +6,16 @@ first_name = "Monique Yazmin Maria"
 middle_name = "Q"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 15
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 16
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

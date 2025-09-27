@@ -6,6 +6,6 @@ middle_name = "Banzon"
 first_name = "Ramon"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 13
-position = "senator"
+subtype = "senate"

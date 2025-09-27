@@ -5,11 +5,11 @@ last_name = "Ongchuan"
 first_name = "Edwin"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 17
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

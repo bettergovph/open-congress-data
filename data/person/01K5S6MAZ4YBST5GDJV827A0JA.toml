@@ -4,6 +4,6 @@ last_name = "Ejercito"
 first_name = "Jv"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "senator"
+subtype = "senate"

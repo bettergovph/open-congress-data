@@ -9,21 +9,21 @@ name_suffix = "Jr"
 aliases = [ "Bongbong",]
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 9
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 14
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 15
-position = "senator"
+subtype = "senate"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 16
-position = "senator"
+subtype = "senate"

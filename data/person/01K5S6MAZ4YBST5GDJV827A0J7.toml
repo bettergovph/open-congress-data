@@ -9,27 +9,27 @@ name_suffix = "III"
 aliases = [ "TG",]
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 13
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 14
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 15
-position = "senator"
+subtype = "senate"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 16
-position = "senator"
+subtype = "senate"
 
 # TODO(njncalub): Verify
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 16
-position = "representative"
+subtype = "house"

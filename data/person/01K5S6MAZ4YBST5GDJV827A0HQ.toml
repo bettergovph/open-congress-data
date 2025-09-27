@@ -5,21 +5,21 @@ middle_name = "Sombillo"
 first_name = "Maria Lourdes Nancy"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 16
-position = "senator"
+subtype = "senate"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 17
-position = "senator"
+subtype = "senate"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 18
-position = "senator"
+subtype = "senate"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 19
-position = "senator"
+subtype = "senate"

@@ -5,11 +5,11 @@ last_name = "Umali"
 first_name = "Oyie"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 12
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 13
-position = "representative"
+subtype = "house"

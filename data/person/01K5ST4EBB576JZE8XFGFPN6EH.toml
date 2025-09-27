@@ -5,6 +5,6 @@ last_name = "Soriano"
 first_name = "Jeffrey"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 19
-position = "representative"
+subtype = "house"

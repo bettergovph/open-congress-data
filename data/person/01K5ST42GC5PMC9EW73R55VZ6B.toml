@@ -6,11 +6,11 @@ first_name = "Hernani"
 middle_name = "A"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 10
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 11
-position = "representative"
+subtype = "house"

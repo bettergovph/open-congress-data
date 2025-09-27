@@ -6,6 +6,6 @@ first_name = "Jerry"
 middle_name = "Evangelista"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

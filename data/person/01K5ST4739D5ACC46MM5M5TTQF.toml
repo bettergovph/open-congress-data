@@ -8,16 +8,16 @@ name_suffix = "Jr"
 professional_designations = [ "MD", "FPSO-HNS",]
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 18
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 19
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

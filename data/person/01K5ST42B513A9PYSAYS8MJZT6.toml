@@ -6,6 +6,6 @@ first_name = "Jorge Daniel"
 middle_name = "S"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

@@ -7,21 +7,21 @@ aliases = [ "Nellie",]
 name_suffix = "V"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 12
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 13
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 14
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 17
-position = "representative"
+subtype = "house"

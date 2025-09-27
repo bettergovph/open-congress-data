@@ -6,6 +6,6 @@ first_name = "Resurreccion"
 middle_name = "M"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 18
-position = "representative"
+subtype = "house"

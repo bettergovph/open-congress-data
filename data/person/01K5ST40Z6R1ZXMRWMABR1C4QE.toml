@@ -6,6 +6,6 @@ first_name = "Maryam"
 middle_name = "Napii"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 16
-position = "representative"
+subtype = "house"

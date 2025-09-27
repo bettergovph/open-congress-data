@@ -6,6 +6,6 @@ first_name = "Gerald Cloyd Alexis"
 middle_name = "V"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

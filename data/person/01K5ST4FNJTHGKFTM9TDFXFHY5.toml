@@ -6,6 +6,6 @@ first_name = "Ma. Victoria"
 middle_name = "V"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 18
-position = "representative"
+subtype = "house"

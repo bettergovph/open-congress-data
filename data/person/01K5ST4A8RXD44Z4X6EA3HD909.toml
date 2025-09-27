@@ -7,6 +7,6 @@ middle_name = "G"
 aliases = ["Ted", ]
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 17
-position = "representative"
+subtype = "house"

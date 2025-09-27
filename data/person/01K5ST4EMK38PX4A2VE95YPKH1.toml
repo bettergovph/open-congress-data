@@ -6,16 +6,16 @@ first_name = "Rolex"
 middle_name = "T"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 11
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 12
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 13
-position = "representative"
+subtype = "house"

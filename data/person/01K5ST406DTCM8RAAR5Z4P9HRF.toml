@@ -7,6 +7,6 @@ middle_name = "B"
 professional_designations = [ "MD",]
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

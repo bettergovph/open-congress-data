@@ -6,6 +6,6 @@ first_name = "Joseph Kim"
 middle_name = "C"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

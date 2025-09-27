@@ -6,16 +6,16 @@ first_name = "Carmencita"
 middle_name = "O"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 9
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 10
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 14
-position = "representative"
+subtype = "house"

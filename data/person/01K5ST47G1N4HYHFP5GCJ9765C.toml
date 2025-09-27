@@ -7,6 +7,6 @@ middle_name = "M"
 aliases = ["Mica"]
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

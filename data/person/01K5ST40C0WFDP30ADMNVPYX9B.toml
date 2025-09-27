@@ -7,6 +7,6 @@ middle_name = "M"
 name_suffix = "Jr"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 16
-position = "representative"
+subtype = "house"

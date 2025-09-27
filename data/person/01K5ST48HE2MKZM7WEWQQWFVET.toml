@@ -8,6 +8,6 @@ aliases = ["Karen"]
 name_prefix = "Atty"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

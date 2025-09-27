@@ -6,6 +6,6 @@ first_name = "Niko Raul"
 middle_name = "Sj"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

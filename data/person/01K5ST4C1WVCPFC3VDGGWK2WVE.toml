@@ -6,21 +6,21 @@ first_name = "Jesus Crispin"
 middle_name = "C"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 13
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 14
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 15
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 18
-position = "representative"
+subtype = "house"

@@ -6,11 +6,11 @@ first_name = "Terry"
 middle_name = "L"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 16
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

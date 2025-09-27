@@ -6,6 +6,6 @@ first_name = "Argel Joseph"
 middle_name = "T"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 18
-position = "representative"
+subtype = "house"

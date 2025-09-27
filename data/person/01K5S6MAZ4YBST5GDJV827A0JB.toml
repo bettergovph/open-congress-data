@@ -6,6 +6,6 @@ first_name = "Alfredo"
 aliases = ["Fred",]
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 13
-position = "senator"
+subtype = "senate"

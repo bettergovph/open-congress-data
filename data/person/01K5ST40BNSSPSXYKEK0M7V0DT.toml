@@ -6,6 +6,6 @@ first_name = "Samantha Louise Vargas"
 middle_name = ""
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 18
-position = "representative"
+subtype = "house"

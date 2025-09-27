@@ -6,6 +6,6 @@ first_name = "Ryan Luis"
 middle_name = "V"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 15
-position = "representative"
+subtype = "house"

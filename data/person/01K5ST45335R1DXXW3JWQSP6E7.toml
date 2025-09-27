@@ -6,6 +6,6 @@ first_name = "Eugene Michael"
 middle_name = "B"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 17
-position = "representative"
+subtype = "house"

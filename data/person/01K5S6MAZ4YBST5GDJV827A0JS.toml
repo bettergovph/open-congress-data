@@ -5,11 +5,11 @@ middle_name = "Cariño"
 first_name = "Robinhood"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 19
-position = "senator"
+subtype = "senate"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "senator"
+subtype = "senate"

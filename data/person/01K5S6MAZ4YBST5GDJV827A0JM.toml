@@ -7,16 +7,16 @@ first_name = "Sergio"
 aliases = ["Serge",]
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 13
-position = "senator"
+subtype = "senate"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 15
-position = "senator"
+subtype = "senate"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 16
-position = "senator"
+subtype = "senate"

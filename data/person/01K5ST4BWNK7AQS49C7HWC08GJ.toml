@@ -5,21 +5,21 @@ last_name = "Ramirez-Sato"
 first_name = "Josephine"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 12
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 16
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 17
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 18
-position = "representative"
+subtype = "house"

@@ -6,6 +6,6 @@ first_name = "Harold James"
 middle_name = "Tapangan"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

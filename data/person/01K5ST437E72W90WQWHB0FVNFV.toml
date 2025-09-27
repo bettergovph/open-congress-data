@@ -6,6 +6,6 @@ first_name = "Precious"
 middle_name = "Hipolito"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 18
-position = "representative"
+subtype = "house"

@@ -6,21 +6,21 @@ first_name = "Oscar"
 middle_name = "S"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 10
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 11
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 12
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 16
-position = "representative"
+subtype = "house"

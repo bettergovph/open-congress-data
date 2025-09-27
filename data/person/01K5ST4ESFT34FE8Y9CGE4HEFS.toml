@@ -6,6 +6,6 @@ first_name = "Rowena Niña"
 middle_name = "O"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 18
-position = "representative"
+subtype = "house"

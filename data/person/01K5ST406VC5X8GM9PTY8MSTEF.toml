@@ -6,6 +6,6 @@ first_name = "Ustadz Yusop"
 middle_name = "T"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

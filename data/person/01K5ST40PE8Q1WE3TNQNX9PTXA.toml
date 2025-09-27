@@ -5,6 +5,6 @@ last_name = "Andaya"
 first_name = "Marissa"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 18
-position = "representative"
+subtype = "house"

@@ -7,26 +7,26 @@ first_name = "Vicente"
 aliases = ["Tito"]
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 15
-position = "senator"
+subtype = "senate"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 16
-position = "senator"
+subtype = "senate"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 17
-position = "senator"
+subtype = "senate"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 18
-position = "senator"
+subtype = "senate"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "senator"
+subtype = "senate"

@@ -6,6 +6,6 @@ first_name = "Godofredo"
 middle_name = "N"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 18
-position = "representative"
+subtype = "house"

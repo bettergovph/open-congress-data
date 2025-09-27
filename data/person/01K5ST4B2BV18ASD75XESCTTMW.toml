@@ -6,6 +6,6 @@ first_name = "Jan"
 aliases = [ "Atty. Jp",]
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

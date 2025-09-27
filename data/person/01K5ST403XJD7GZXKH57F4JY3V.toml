@@ -6,6 +6,6 @@ first_name = "Maria Jamina Katherine"
 middle_name = "B"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 19
-position = "representative"
+subtype = "house"

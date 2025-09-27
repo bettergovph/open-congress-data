@@ -6,6 +6,6 @@ first_name = "Agatha Paula"
 middle_name = "Aguilar"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

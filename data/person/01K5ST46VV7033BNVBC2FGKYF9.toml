@@ -6,6 +6,6 @@ first_name = "Karen Hope"
 middle_name = "F"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

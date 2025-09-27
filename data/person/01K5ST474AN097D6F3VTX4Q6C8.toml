@@ -5,6 +5,6 @@ last_name = "Gerona-Robredo"
 first_name = "Leni"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 16
-position = "representative"
+subtype = "house"

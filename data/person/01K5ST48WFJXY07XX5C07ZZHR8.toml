@@ -5,6 +5,6 @@ last_name = "Lim"
 first_name = "Aloy"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 18
-position = "representative"
+subtype = "house"

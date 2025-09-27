@@ -8,6 +8,6 @@ aliases = [ "Rey",]
 professional_designations = [ "MD",]
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 13
-position = "representative"
+subtype = "house"

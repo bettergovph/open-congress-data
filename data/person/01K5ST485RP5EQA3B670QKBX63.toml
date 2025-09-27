@@ -7,16 +7,16 @@ middle_name = "R"
 aliases = [ "Carling",]
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 9
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 10
-position = "representative"
+subtype = "house"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 12
-position = "representative"
+subtype = "house"

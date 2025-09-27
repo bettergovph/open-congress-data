@@ -7,6 +7,6 @@ middle_name = "Q"
 aliases = ["Ahong"]
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

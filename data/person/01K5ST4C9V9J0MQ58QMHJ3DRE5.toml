@@ -6,6 +6,6 @@ first_name = "Regina"
 middle_name = "Ongsiako"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 16
-position = "representative"
+subtype = "house"

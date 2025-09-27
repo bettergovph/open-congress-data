@@ -6,6 +6,6 @@ first_name = "Carlos"
 middle_name = "Andes"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

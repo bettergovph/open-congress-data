@@ -5,6 +5,6 @@ last_name = "Degamo"
 first_name = "Janice"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

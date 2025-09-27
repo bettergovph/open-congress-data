@@ -7,16 +7,16 @@ first_name = "Ceferino"
 aliases = ["Joker",]
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 13
-position = "senator"
+subtype = "senate"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 14
-position = "senator"
+subtype = "senate"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 15
-position = "senator"
+subtype = "senate"

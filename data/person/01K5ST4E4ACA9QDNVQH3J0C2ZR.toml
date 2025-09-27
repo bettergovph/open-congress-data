@@ -6,6 +6,6 @@ first_name = "Sun"
 middle_name = "Judal"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

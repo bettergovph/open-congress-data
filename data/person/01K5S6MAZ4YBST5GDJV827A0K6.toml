@@ -5,6 +5,6 @@ middle_name = "Bamba"
 first_name = "Manny"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 15
-position = "senator"
+subtype = "senate"

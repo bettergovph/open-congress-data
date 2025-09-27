@@ -8,6 +8,6 @@ aliases = [ "Bonito",]
 name_suffix = "Jr"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 18
-position = "representative"
+subtype = "house"

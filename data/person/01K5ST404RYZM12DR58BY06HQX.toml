@@ -6,6 +6,6 @@ first_name = "Ma. Lourdes"
 middle_name = "R"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 17
-position = "representative"
+subtype = "house"

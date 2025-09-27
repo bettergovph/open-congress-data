@@ -6,6 +6,6 @@ first_name = "Harris Christopher"
 middle_name = "M"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 19
-position = "representative"
+subtype = "house"

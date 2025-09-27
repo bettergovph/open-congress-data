@@ -6,6 +6,6 @@ first_name = "Omar Vincent"
 middle_name = "Sangkola"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

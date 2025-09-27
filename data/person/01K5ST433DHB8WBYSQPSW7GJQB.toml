@@ -6,6 +6,6 @@ first_name = "Ducielle Marie"
 middle_name = "S"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 18
-position = "representative"
+subtype = "house"

@@ -6,6 +6,6 @@ first_name = "Vincenzo Renato Luigi"
 middle_name = "R"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

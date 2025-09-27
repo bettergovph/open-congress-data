@@ -6,6 +6,6 @@ first_name = "Alyssa Sheena"
 middle_name = "P"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 18
-position = "representative"
+subtype = "house"

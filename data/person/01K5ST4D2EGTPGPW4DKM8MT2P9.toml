@@ -6,6 +6,6 @@ first_name = "Andrew Julian"
 middle_name = "K"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

@@ -6,6 +6,6 @@ first_name = "Lorna"
 middle_name = "Q"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 16
-position = "representative"
+subtype = "house"

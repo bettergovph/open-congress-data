@@ -6,6 +6,6 @@ first_name = "Franz Vincent"
 middle_name = "F"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

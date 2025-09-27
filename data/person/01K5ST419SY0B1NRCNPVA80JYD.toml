@@ -5,6 +5,6 @@ last_name = "Austria Barzaga"
 first_name = "Jennifer"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 17
-position = "representative"
+subtype = "house"

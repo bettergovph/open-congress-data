@@ -6,6 +6,6 @@ first_name = "King George Leandro Antonio"
 middle_name = "V"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

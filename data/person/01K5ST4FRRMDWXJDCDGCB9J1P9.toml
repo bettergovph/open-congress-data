@@ -6,6 +6,6 @@ first_name = "De Carlo"
 middle_name = "L"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

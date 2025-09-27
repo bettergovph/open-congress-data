@@ -5,16 +5,16 @@ last_name = "Dela Rosa"
 first_name = "Ronald"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 18
-position = "senator"
+subtype = "senate"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 19
-position = "senator"
+subtype = "senate"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "senator"
+subtype = "senate"

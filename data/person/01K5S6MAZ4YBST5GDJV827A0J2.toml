@@ -6,6 +6,6 @@ middle_name = "Pimentel"
 first_name = "Luisa"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 13
-position = "senator"
+subtype = "senate"

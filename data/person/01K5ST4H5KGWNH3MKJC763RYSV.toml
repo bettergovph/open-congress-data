@@ -6,6 +6,6 @@ first_name = "Amparo Maria"
 middle_name = "J"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 19
-position = "representative"
+subtype = "house"

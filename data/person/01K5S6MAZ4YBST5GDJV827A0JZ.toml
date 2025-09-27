@@ -7,21 +7,21 @@ middle_name = "Fuentes"
 first_name = "Antonio"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 14
-position = "senator"
+subtype = "senate"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 15
-position = "senator"
+subtype = "senate"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 16
-position = "senator"
+subtype = "senate"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 17
-position = "senator"
+subtype = "senate"

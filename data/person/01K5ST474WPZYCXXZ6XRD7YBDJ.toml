@@ -6,6 +6,6 @@ first_name = "Maria Kristina Jihan"
 middle_name = "B"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 20
-position = "representative"
+subtype = "house"

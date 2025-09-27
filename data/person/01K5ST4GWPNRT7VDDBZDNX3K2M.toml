@@ -6,6 +6,6 @@ first_name = "Christian Tell"
 middle_name = "A"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 19
-position = "representative"
+subtype = "house"

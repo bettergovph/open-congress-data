@@ -6,6 +6,6 @@ first_name = "Marvin"
 middle_name = "D"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 19
-position = "representative"
+subtype = "house"

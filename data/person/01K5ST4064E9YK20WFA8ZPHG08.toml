@@ -6,6 +6,6 @@ first_name = "Naealla"
 middle_name = "Bainto"
 
 [[memberships]]
-type = "congress"
+type = "chamber"
 congress = 18
-position = "representative"
+subtype = "house"
