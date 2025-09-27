@@ -1,9 +1,0 @@
-id = "01K5S6MAZ4YBST5GDJV827A0HP"
-senate_website_keys = [ "BAQUI",]
-last_name = "Aquino"
-first_name = "Bam"
-
-[[memberships]]
-type = "congress"
-congress = 20
-position = "senator"

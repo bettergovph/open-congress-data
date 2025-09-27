@@ -1,10 +1,27 @@
 id = "01K5S6MAZ4YBST5GDJV827A0HH"
 senate_website_keys = [ "ABENI",]
-name_suffix = "III"
+congress_website_primary_keys = [ 403,]
+congress_website_author_keys = [ "C014",]
 last_name = "Aquino"
-middle_name = "Simeon"
-first_name = "Benigno"
+first_name = "Benigno Simeon"
+middle_name = "Cojuangco"
+name_suffix = "III"
 aliases = ["Noynoy", "PNoy",]
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
 
 [[memberships]]
 type = "congress"

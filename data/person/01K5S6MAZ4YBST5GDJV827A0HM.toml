@@ -1,10 +1,10 @@
 id = "01K5S6MAZ4YBST5GDJV827A0HM"
-senate_website_keys = [ "APAOL",]
-aliases = [ "Bam",]
-name_suffix = "IV"
+senate_website_keys = [ "APAOL","BAQUI",]
 last_name = "Aquino"
-middle_name = "Aguirre"
 first_name = "Paolo Benigno"
+middle_name = "Aguirre"
+name_suffix = "IV"
+aliases = [ "Bam",]
 
 [[memberships]]
 type = "congress"
@@ -14,4 +14,9 @@ position = "senator"
 [[memberships]]
 type = "congress"
 congress = 17
+position = "senator"
+
+[[memberships]]
+type = "congress"
+congress = 20
 position = "senator"
