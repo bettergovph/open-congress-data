@@ -1,11 +1,26 @@
 id = "01K5S6MAZ4YBST5GDJV827A0HS"
 senate_website_keys = [ "CALAN",]
-congress_website_primary_keys = [ 689,]
-congress_website_author_keys = [ "F402",]
-aliases = [ "Companero", "Compañero",]
+congress_website_primary_keys = [ 689,414,]
+congress_website_author_keys = [ "F402","C031",]
 last_name = "Cayetano"
-middle_name = "Schramm"
 first_name = "Alan Peter"
+middle_name = "Schramm"
+aliases = [ "Companero", "Compañero",]
+
+[[memberships]]
+type = "congress"
+congress = 11
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 12
+position = "representative"
+
+[[memberships]]
+type = "congress"
+congress = 13
+position = "representative"
 
 [[memberships]]
 type = "congress"
