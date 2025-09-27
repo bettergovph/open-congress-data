@@ -3,7 +3,8 @@ congress_website_primary_keys = [ 97,]
 congress_website_author_keys = [ "J026",]
 last_name = "Duterte"
 first_name = "Paolo"
-middle_name = "Z"
+middle_name = "Zimmerman"
+aliases = [ "Pulong",]
 
 [[memberships]]
 type = "congress"

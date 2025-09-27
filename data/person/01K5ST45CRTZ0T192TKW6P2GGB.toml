@@ -3,7 +3,7 @@ congress_website_primary_keys = [ 1060,]
 congress_website_author_keys = [ "L033",]
 last_name = "Duterte"
 first_name = "Harold James"
-middle_name = "T"
+middle_name = "Tapangan"
 
 [[memberships]]
 type = "congress"
