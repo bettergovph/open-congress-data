@@ -1,0 +1,119 @@
+# GitHub Labels Configuration
+# This file defines labels for issues and pull requests
+# Can be synced using GitHub Actions or label sync tools
+
+# Data Quality Labels
+- name: data-quality
+  color: "FFA500"
+  description: "Issues related to data accuracy, completeness, or consistency"
+
+- name: needs-verification
+  color: "FFEB3B"
+  description: "Requires verification from official sources"
+
+- name: duplicate-data
+  color: "FFD700"
+  description: "Duplicate person or entity entries"
+
+- name: missing-data
+  color: "FF9800"
+  description: "Missing persons, entities, or required fields"
+
+- name: incorrect-data
+  color: "FF5722"
+  description: "Incorrect information that needs correction"
+
+# Issue Types
+- name: bug
+  color: "d73a4a"
+  description: "Something isn't working"
+
+- name: enhancement
+  color: "a2eeef"
+  description: "New feature or request"
+
+- name: documentation
+  color: "0075ca"
+  description: "Improvements or additions to documentation"
+
+# Entity Types
+- name: entity:person
+  color: "D4C5F9"
+  description: "Related to Person entities"
+
+- name: entity:congress
+  color: "C5DEF5"
+  description: "Related to Congress entities"
+
+- name: entity:committee
+  color: "BFD4F2"
+  description: "Related to Committee entities"
+
+- name: entity:chamber
+  color: "B2DFDB"
+  description: "Related to Chamber (Group) entities"
+
+# Priority Labels
+- name: priority:high
+  color: "B60205"
+  description: "High priority issue"
+
+- name: priority:medium
+  color: "FFA500"
+  description: "Medium priority issue"
+
+- name: priority:low
+  color: "0E8A16"
+  description: "Low priority issue"
+
+# Status Labels
+- name: verified
+  color: "0E8A16"
+  description: "Data has been verified from official sources"
+
+- name: in-progress
+  color: "1D76DB"
+  description: "Work in progress"
+
+- name: blocked
+  color: "D93F0B"
+  description: "Blocked by another issue or external factor"
+
+- name: ready-for-review
+  color: "7057FF"
+  description: "Ready for review"
+
+# Contribution Labels
+- name: good-first-issue
+  color: "7057ff"
+  description: "Good for newcomers"
+
+- name: help-wanted
+  color: "008672"
+  description: "Extra attention is needed"
+
+# Source Labels
+- name: source:senate
+  color: "E4E669"
+  description: "Data from Senate website"
+
+- name: source:house
+  color: "D4E157"
+  description: "Data from House of Representatives"
+
+- name: source:official
+  color: "C0E000"
+  description: "Data from official government documents"
+
+# Other Labels
+- name: wontfix
+  color: "ffffff"
+  description: "This will not be worked on"
+
+- name: question
+  color: "d876e3"
+  description: "Further information is requested"
+
+- name: invalid
+  color: "e4e669"
+  description: "This doesn't seem right"

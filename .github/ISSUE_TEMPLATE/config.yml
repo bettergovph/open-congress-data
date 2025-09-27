@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Questions & Discussions
+    url: https://github.com/bettergovph/open-congress-data/discussions
+    about: Ask questions and discuss ideas with the community
+  - name: Contributing Guide
+    url: https://github.com/bettergovph/open-congress-data/blob/main/CONTRIBUTING.md
+    about: Learn how to contribute to this project
