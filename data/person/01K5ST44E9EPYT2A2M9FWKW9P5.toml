@@ -3,7 +3,7 @@ congress_website_primary_keys = [ 81,]
 congress_website_author_keys = [ "J093",]
 last_name = "Dagooc"
 first_name = "Sergio"
-middle_name = "C"
+middle_name = "Cabajes"
 
 [[memberships]]
 type = "chamber"
