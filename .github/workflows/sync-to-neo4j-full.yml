@@ -1,4 +1,4 @@
-name: Sync to Neo4j
+name: Full Sync to Neo4j (with Clear)
 
 on:
   push:
@@ -38,9 +38,9 @@ jobs:
         NEO4J_USERNAME: ${{ secrets.NEO4J_USERNAME }}
         NEO4J_PASSWORD: ${{ secrets.NEO4J_PASSWORD }}
       run: |
-        echo "Starting Neo4j sync..."
-        python3 scripts/sync_to_neo4j.py --clear --yes
-        echo "Neo4j sync completed successfully"
+        echo "Starting full Neo4j sync with database clear..."
+        python3 scripts/sync_to_neo4j_optimized.py --clear --yes
+        echo "Full sync completed successfully"
 
     - name: Report sync status
       if: always()
