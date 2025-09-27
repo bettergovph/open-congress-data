@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
 """
-Sync Philippine Congress data from TOML files to Neo4j database.
+Optimized sync script for Philippine Congress data to Neo4j database.
 
-This script reads TOML files containing congress, committee, and person data
-and syncs them to a Neo4j database with appropriate relationships.
+This version uses batch operations and transactions for much faster syncing.
+Performance improvements:
+- Batch UNWIND operations for multiple nodes at once
+- Single transaction per batch instead of per node
+- Reduced network round trips
 
 Usage:
     python sync_to_neo4j.py                # Sync data without clearing
@@ -14,8 +17,9 @@ Usage:
 import os
 import sys
 import logging
+import time
 from pathlib import Path
-from typing import Dict
+from typing import Dict, List
 import tomlkit
 from neo4j import GraphDatabase
 from neo4j.exceptions import Neo4jError
@@ -27,8 +31,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-class Neo4jSyncer:
-    """Handle syncing data to Neo4j database."""
+class Neo4jSyncerOptimized:
+    """Optimized handler for syncing data to Neo4j database using batch operations."""
 
     def __init__(self, uri: str, username: str, password: str):
         """Initialize Neo4j connection."""
@@ -47,8 +51,7 @@ class Neo4jSyncer:
 
     def clear_database(self, skip_confirmation=False):
         """Clear specific node types and their relationships from the database."""
-        # Define which node labels to clear - easy to update this list
-        node_labels_to_clear = ["Congress", "Committee", "Person"]
+        node_labels_to_clear = ["Congress", "Committee", "Person", "Group"]
 
         with self.driver.session() as session:
             try:
@@ -63,12 +66,10 @@ class Neo4jSyncer:
                 node_count = result.single()["count"]
 
                 if node_count > 0:
-                    # Show which types will be deleted
                     logger.info(
                         f"Will delete nodes with labels: {', '.join(node_labels_to_clear)}"
                     )
 
-                    # Skip confirmation if flag is set (for CI/CD)
                     if skip_confirmation:
                         logger.info(f"Auto-confirming deletion of {node_count} nodes (--yes flag provided)")
                         response = "yes"
@@ -78,7 +79,6 @@ class Neo4jSyncer:
                         )
 
                     if response.lower() == "yes":
-                        # Delete only specific node types and their relationships
                         delete_query = (
                             f"MATCH (n) WHERE {label_conditions} DETACH DELETE n"
                         )
@@ -96,205 +96,231 @@ class Neo4jSyncer:
                 logger.error(f"Failed to clear database: {e}")
                 raise
 
-    def sync_congresses(self, congresses_dir: Path) -> Dict[int, str]:
-        """Sync congress data to Neo4j and return congress number to ID mapping."""
+    def sync_congresses_batch(self, congresses_dir: Path) -> Dict[int, str]:
+        """Sync congress data to Neo4j using batch operations."""
         congress_mapping = {}
+        congress_batch = []
 
-        with self.driver.session() as session:
-            congress_files = sorted(congresses_dir.glob("*.toml"))
-            logger.info(f"Found {len(congress_files)} congress files")
+        congress_files = sorted(congresses_dir.glob("*.toml"))
+        logger.info(f"Found {len(congress_files)} congress files")
 
-            for idx, file_path in enumerate(congress_files, 1):
-                try:
-                    with open(file_path, "r", encoding="utf-8") as f:
-                        data = tomlkit.load(f)
-
+        # Load all congress data
+        for file_path in congress_files:
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    data = tomlkit.load(f)
                     congress_mapping[data["congress_number"]] = data["id"]
+                    congress_batch.append(dict(data))
+            except Exception as e:
+                logger.error(f"Failed to load {file_path}: {e}")
 
-                    # Build SET clause dynamically to handle optional fields
-                    set_clauses = []
-                    params = {"id": data["id"]}
-
-                    # Add all available fields
-                    for field in data.keys():
-                        if field != "id":
-                            set_clauses.append(f"c.{field} = ${field}")
-                            params[field] = data[field]
-
-                    query = f"""
-                    MERGE (c:Congress {{id: $id}})
-                    SET {', '.join(set_clauses)}
-                    """
-
-                    session.run(query, **params)
-                    logger.info(
-                        f"[{idx}/{len(congress_files)}] Synced congress: {data['name']}"
-                    )
-
-                except Exception as e:
-                    logger.error(f"Failed to sync {file_path}: {e}")
-
-            logger.info(f"Successfully synced {len(congress_mapping)} congresses")
+        # Batch insert all congresses in a single transaction
+        if congress_batch:
+            with self.driver.session() as session:
+                query = """
+                UNWIND $batch AS congress
+                MERGE (c:Congress {id: congress.id})
+                SET c = congress
+                """
+                session.run(query, batch=congress_batch)
+                logger.info(f"Successfully synced {len(congress_batch)} congresses in batch")
 
         return congress_mapping
 
-    def sync_committees(self, committees_dir: Path, congress_mapping: Dict[int, str]):
-        """Sync committee data to Neo4j with relationships to congresses."""
-        # Get file list first
+    def sync_chambers_batch(self, chambers_dir: Path, congress_mapping: Dict[int, str]):
+        """Sync chamber (Group) data to Neo4j using batch operations."""
+        chamber_files = list(chambers_dir.glob("*.toml"))
+        # Filter out the mapping files
+        chamber_files = [f for f in chamber_files if not f.name.startswith('.')]
+        total_files = len(chamber_files)
+        logger.info(f"Found {total_files} chamber files")
+
+        chambers_batch = []
+        relationships_batch = []
+
+        for file_path in sorted(chamber_files):
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    data = tomlkit.load(f)
+
+                    # Add Group label to chamber data
+                    chamber_data = dict(data)
+                    chambers_batch.append(chamber_data)
+
+                    # Create relationship to congress
+                    if data.get("congress") and data["congress"] in congress_mapping:
+                        relationships_batch.append({
+                            "chamber_id": data["id"],
+                            "congress_id": congress_mapping[data["congress"]]
+                        })
+
+            except Exception as e:
+                logger.error(f"Failed to load {file_path}: {e}")
+
+        # Batch insert all chambers in a single transaction
+        if chambers_batch:
+            with self.driver.session() as session:
+                # Create Group nodes with chamber data
+                chamber_query = """
+                UNWIND $batch AS chamber
+                MERGE (g:Group {id: chamber.id})
+                SET g = chamber
+                """
+                session.run(chamber_query, batch=chambers_batch)
+                logger.info(f"Successfully synced {len(chambers_batch)} chambers")
+
+                # Create relationships to Congress
+                if relationships_batch:
+                    relationship_query = """
+                    UNWIND $batch AS rel
+                    MATCH (g:Group {id: rel.chamber_id})
+                    MATCH (c:Congress {id: rel.congress_id})
+                    MERGE (g)-[:BELONGS_TO]->(c)
+                    """
+                    session.run(relationship_query, batch=relationships_batch)
+                    logger.info(f"Created {len(relationships_batch)} chamber-congress relationships")
+
+    def sync_committees_batch(self, committees_dir: Path, congress_mapping: Dict[int, str]):
+        """Sync committee data to Neo4j using batch operations."""
         committee_files = list(committees_dir.glob("*.toml"))
         total_files = len(committee_files)
         logger.info(f"Found {total_files} committee files")
 
-        # Process in batches to avoid keeping everything in memory
-        batch_size = 10
+        batch_size = 50  # Process 50 committees at a time
+        committees_batch = []
+        relationships_batch = []
 
-        with self.driver.session() as session:
-            for idx, file_path in enumerate(sorted(committee_files), 1):
-                try:
-                    # Log which file we're processing
-                    if idx % 5 == 1 or idx == 1:
-                        logger.info(
-                            f"Processing committee {idx}/{total_files}: {file_path.name}"
-                        )
+        for idx, file_path in enumerate(sorted(committee_files), 1):
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    data = tomlkit.load(f)
 
-                    with open(file_path, "r", encoding="utf-8") as f:
-                        data = tomlkit.load(f)
+                    # Prepare committee data (exclude congresses field)
+                    committee_data = {k: v for k, v in data.items() if k != "congresses"}
+                    committees_batch.append(committee_data)
 
-                    # Add all fields from TOML except 'congresses' (used only for relationships)
-                    # This includes senate_website_keys array automatically
-                    params = {k: v for k, v in data.items() if k != "congresses"}
-
-                    # Build SET clause dynamically for all fields
-                    set_clauses = [
-                        f"c.{field} = ${field}"
-                        for field in params.keys()
-                        if field != "id"
-                    ]
-
-                    # Create committee node with all properties
-                    query = f"""
-                    MERGE (c:Committee {{id: $id}})
-                    SET {', '.join(set_clauses)}
-                    """
-
-                    session.run(query, **params)
-
-                    # Create relationships to congresses
+                    # Prepare relationship data
                     for congress_num in data.get("congresses", []):
                         if congress_num in congress_mapping:
-                            rel_query = """
-                            MATCH (com:Committee {id: $committee_id})
-                            MATCH (con:Congress {id: $congress_id})
-                            MERGE (com)-[:BELONGS_TO]->(con)
-                            """
-                            session.run(
-                                rel_query,
-                                committee_id=data["id"],
-                                congress_id=congress_mapping[congress_num],
-                            )
+                            relationships_batch.append({
+                                "committee_id": data["id"],
+                                "congress_id": congress_mapping[congress_num]
+                            })
 
-                    # Clear data from memory after processing
-                    del data
+                # Process batch when it reaches the size limit or at the end
+                if len(committees_batch) >= batch_size or idx == total_files:
+                    self._process_committee_batch(committees_batch, relationships_batch)
 
-                    if idx % batch_size == 0:
-                        logger.info(f"Progress: {idx}/{total_files} committees synced")
+                    logger.info(f"Progress: {idx}/{total_files} committees synced")
+                    committees_batch = []
+                    relationships_batch = []
 
-                except Exception as e:
-                    logger.error(f"Failed to sync {file_path.name}: {e}")
-                    continue
+            except Exception as e:
+                logger.error(f"Failed to process {file_path.name}: {e}")
 
-            logger.info(f"Successfully synced committees")
+    def _process_committee_batch(self, committees_batch: List[dict], relationships_batch: List[dict]):
+        """Process a batch of committees and their relationships."""
+        if not committees_batch:
+            return
 
-    def sync_people(self, people_dir: Path, congress_mapping: Dict[int, str]):
-        """Sync person data to Neo4j with relationships to congresses."""
-        # Get file list first
+        with self.driver.session() as session:
+            # Batch create/update committees
+            committee_query = """
+            UNWIND $batch AS committee
+            MERGE (c:Committee {id: committee.id})
+            SET c = committee
+            """
+            session.run(committee_query, batch=committees_batch)
+
+            # Batch create relationships
+            if relationships_batch:
+                relationship_query = """
+                UNWIND $batch AS rel
+                MATCH (com:Committee {id: rel.committee_id})
+                MATCH (con:Congress {id: rel.congress_id})
+                MERGE (com)-[:BELONGS_TO]->(con)
+                """
+                session.run(relationship_query, batch=relationships_batch)
+
+    def sync_people_batch(self, people_dir: Path, congress_mapping: Dict[int, str]):
+        """Sync person data to Neo4j using batch operations."""
         people_files = list(people_dir.glob("*.toml"))
         total_files = len(people_files)
         logger.info(f"Found {total_files} people files")
 
-        # Process in batches to avoid keeping everything in memory
-        batch_size = 10
+        batch_size = 50  # Process 50 people at a time
+        people_batch = []
+        relationships_batch = []
+        start_time = time.time()
+
+        for idx, file_path in enumerate(sorted(people_files), 1):
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    data = tomlkit.load(f)
+
+                    # Prepare person data (exclude memberships and congresses)
+                    person_data = {k: v for k, v in data.items() if k not in ["memberships", "congresses"]}
+                    people_batch.append(person_data)
+
+                    # Handle memberships structure - only create chamber relationships
+                    memberships = data.get("memberships", [])
+                    for membership in memberships:
+                        # For chamber memberships, create relationship to the chamber Group node
+                        if membership.get("type") == "chamber":
+                            congress_num = membership.get("congress")
+                            subtype = membership.get("subtype")  # 'house' or 'senate'
+
+                            if congress_num and subtype:
+                                relationships_batch.append({
+                                    "person_id": data["id"],
+                                    "congress": congress_num,
+                                    "subtype": subtype,
+                                    "type": "chamber",
+                                    "position": membership.get("position", "")
+                                })
+
+                # Process batch when it reaches the size limit or at the end
+                if len(people_batch) >= batch_size or idx == total_files:
+                    self._process_people_batch(people_batch, relationships_batch)
+
+                    elapsed = time.time() - start_time
+                    rate = idx / elapsed
+                    eta = (total_files - idx) / rate if rate > 0 else 0
+
+                    logger.info(f"Progress: {idx}/{total_files} people synced ({rate:.1f} people/sec, ETA: {eta:.0f}s)")
+                    people_batch = []
+                    relationships_batch = []
+
+            except Exception as e:
+                logger.error(f"Failed to process {file_path.name}: {e}")
+
+        total_time = time.time() - start_time
+        logger.info(f"Successfully synced people in {total_time:.1f} seconds")
+
+    def _process_people_batch(self, people_batch: List[dict], relationships_batch: List[dict]):
+        """Process a batch of people and their relationships."""
+        if not people_batch:
+            return
 
         with self.driver.session() as session:
-            for idx, file_path in enumerate(sorted(people_files), 1):
-                try:
-                    # Log which file we're processing
-                    if idx % 5 == 1 or idx == 1:
-                        logger.info(
-                            f"Processing person {idx}/{total_files}: {file_path.name}"
-                        )
+            # Batch create/update people
+            people_query = """
+            UNWIND $batch AS person
+            MERGE (p:Person {id: person.id})
+            SET p = person
+            """
+            session.run(people_query, batch=people_batch)
 
-                    with open(file_path, "r", encoding="utf-8") as f:
-                        data = tomlkit.load(f)
-
-                    # Add all fields from TOML except 'memberships' and 'congresses' (used only for relationships)
-                    # This includes senate_website_keys array, aliases, and all other fields automatically
-                    params = {k: v for k, v in data.items() if k not in ["memberships", "congresses"]}
-
-                    # Build SET clause dynamically for all fields
-                    set_clauses = [
-                        f"p.{field} = ${field}"
-                        for field in params.keys()
-                        if field != "id"
-                    ]
-
-                    # Create person node with all properties
-                    query = f"""
-                    MERGE (p:Person {{id: $id}})
-                    SET {', '.join(set_clauses)}
-                    """
-
-                    session.run(query, **params)
-
-                    # Handle new memberships structure
-                    memberships = data.get("memberships", [])
-                    if memberships:
-                        for membership in memberships:
-                            # Get congress number from membership
-                            congress_num = membership.get("congress")
-                            if congress_num and congress_num in congress_mapping:
-                                # Create relationship with membership properties
-                                rel_query = """
-                                MATCH (p:Person {id: $person_id})
-                                MATCH (c:Congress {id: $congress_id})
-                                MERGE (p)-[r:SERVED_IN]->(c)
-                                SET r.position = $position,
-                                    r.type = $type
-                                """
-                                session.run(
-                                    rel_query,
-                                    person_id=data["id"],
-                                    congress_id=congress_mapping[congress_num],
-                                    position=membership.get("position", ""),
-                                    type=membership.get("type", "congress")
-                                )
-
-                    # Fallback: handle old congresses array if it still exists
-                    elif "congresses" in data:
-                        for congress_num in data.get("congresses", []):
-                            if congress_num in congress_mapping:
-                                rel_query = """
-                                MATCH (p:Person {id: $person_id})
-                                MATCH (c:Congress {id: $congress_id})
-                                MERGE (p)-[:SERVED_IN]->(c)
-                                """
-                                session.run(
-                                    rel_query,
-                                    person_id=data["id"],
-                                    congress_id=congress_mapping[congress_num],
-                                )
-
-                    # Clear data from memory after processing
-                    del data
-
-                    if idx % batch_size == 0:
-                        logger.info(f"Progress: {idx}/{total_files} people synced")
-
-                except Exception as e:
-                    logger.error(f"Failed to sync {file_path.name}: {e}")
-                    continue
-
-            logger.info(f"Successfully synced people")
+            # Create chamber relationships (Person -> Group)
+            if relationships_batch:
+                chamber_query = """
+                UNWIND $batch AS rel
+                MATCH (p:Person {id: rel.person_id})
+                MATCH (g:Group {type: 'chamber', congress: rel.congress, subtype: rel.subtype})
+                MERGE (p)-[r:MEMBER_OF]->(g)
+                SET r.position = rel.position
+                """
+                session.run(chamber_query, batch=relationships_batch)
 
     def create_indexes(self):
         """Create indexes for better query performance."""
@@ -307,10 +333,10 @@ class Neo4jSyncer:
                 "CREATE INDEX IF NOT EXISTS FOR (p:Person) ON (p.id)",
                 "CREATE INDEX IF NOT EXISTS FOR (p:Person) ON (p.full_name)",
                 "CREATE INDEX IF NOT EXISTS FOR (p:Person) ON (p.last_name)",
+                "CREATE INDEX IF NOT EXISTS FOR (g:Group) ON (g.id)",
+                "CREATE INDEX IF NOT EXISTS FOR (g:Group) ON (g.type)",
+                "CREATE INDEX IF NOT EXISTS FOR (g:Group) ON (g.congress)",
             ]
-            # Note: We don't create indexes on senate_website_keys arrays
-            # To search for a specific key in the array, use:
-            # MATCH (p:Person) WHERE "ABENI" IN p.senate_website_keys
 
             for index_query in indexes:
                 try:
@@ -326,38 +352,39 @@ class Neo4jSyncer:
             stats = {}
 
             # Count nodes
-            for label in ["Congress", "Committee", "Person"]:
+            for label in ["Congress", "Committee", "Person", "Group"]:
                 result = session.run(f"MATCH (n:{label}) RETURN count(n) as count")
                 stats[label] = result.single()["count"]
 
+            # Count chamber nodes specifically
+            result = session.run("MATCH (g:Group {type: 'chamber'}) RETURN count(g) as count")
+            stats["Chamber"] = result.single()["count"]
+
             # Count relationships
-            for rel_type in ["BELONGS_TO", "SERVED_IN"]:
+            for rel_type in ["BELONGS_TO", "MEMBER_OF"]:
                 result = session.run(
                     f"MATCH ()-[r:{rel_type}]->() RETURN count(r) as count"
                 )
                 stats[rel_type] = result.single()["count"]
 
-            # Count senators vs representatives (using the new structure)
+            # Count chamber memberships by type
             result = session.run("""
-                MATCH ()-[r:SERVED_IN]->()
-                WHERE r.position = 'senator'
+                MATCH (p:Person)-[r:MEMBER_OF]->(g:Group {type: 'chamber', subtype: 'senate'})
                 RETURN count(DISTINCT r) as count
             """)
-            stats["senator_terms"] = result.single()["count"]
+            stats["senate_memberships"] = result.single()["count"]
 
             result = session.run("""
-                MATCH ()-[r:SERVED_IN]->()
-                WHERE r.position = 'representative'
+                MATCH (p:Person)-[r:MEMBER_OF]->(g:Group {type: 'chamber', subtype: 'house'})
                 RETURN count(DISTINCT r) as count
             """)
-            stats["representative_terms"] = result.single()["count"]
+            stats["house_memberships"] = result.single()["count"]
 
             return stats
 
 
 def main():
     """Main execution function."""
-    # Load environment variables
     load_dotenv()
 
     # Get configuration
@@ -377,6 +404,7 @@ def main():
     congresses_dir = project_root / "data" / "congress"
     committees_dir = project_root / "data" / "committee"
     people_dir = project_root / "data" / "person"
+    chambers_dir = project_root / "data" / "group" / "chamber"
 
     # Verify directories exist
     for dir_path in [congresses_dir, committees_dir, people_dir]:
@@ -384,10 +412,15 @@ def main():
             logger.error(f"Directory not found: {dir_path}")
             sys.exit(1)
 
+    # Chambers directory is optional for now (during migration)
+    if not chambers_dir.exists():
+        logger.warning(f"Chambers directory not found: {chambers_dir}. Skipping chamber sync.")
+        chambers_dir = None
+
     # Initialize syncer
     syncer = None
     try:
-        syncer = Neo4jSyncer(neo4j_uri, neo4j_username, neo4j_password)
+        syncer = Neo4jSyncerOptimized(neo4j_uri, neo4j_username, neo4j_password)
 
         # Parse command line arguments
         clear_db = "--clear" in sys.argv
@@ -401,31 +434,51 @@ def main():
         logger.info("Creating database indexes...")
         syncer.create_indexes()
 
-        # Sync data in order
-        logger.info("Starting data sync...")
+        # Track total time
+        total_start = time.time()
+
+        # Sync data in order using batch operations
+        logger.info("Starting optimized data sync...")
 
         # 1. Sync Congresses first (they're referenced by committees and people)
         logger.info("Syncing congresses...")
-        congress_mapping = syncer.sync_congresses(congresses_dir)
+        congress_start = time.time()
+        congress_mapping = syncer.sync_congresses_batch(congresses_dir)
+        logger.info(f"Congress sync completed in {time.time() - congress_start:.1f}s")
 
-        # 2. Sync Committees
+        # 2. Sync Chambers (Group nodes) if directory exists
+        if chambers_dir:
+            logger.info("Syncing chambers...")
+            chamber_start = time.time()
+            syncer.sync_chambers_batch(chambers_dir, congress_mapping)
+            logger.info(f"Chamber sync completed in {time.time() - chamber_start:.1f}s")
+
+        # 3. Sync Committees
         logger.info("Syncing committees...")
-        syncer.sync_committees(committees_dir, congress_mapping)
+        committee_start = time.time()
+        syncer.sync_committees_batch(committees_dir, congress_mapping)
+        logger.info(f"Committee sync completed in {time.time() - committee_start:.1f}s")
 
-        # 3. Sync People
+        # 4. Sync People
         logger.info("Syncing people...")
-        syncer.sync_people(people_dir, congress_mapping)
+        people_start = time.time()
+        syncer.sync_people_batch(people_dir, congress_mapping)
+        logger.info(f"People sync completed in {time.time() - people_start:.1f}s")
 
         # Display statistics
         stats = syncer.get_statistics()
+        total_time = time.time() - total_start
+
         logger.info("\n=== Sync Complete ===")
+        logger.info(f"Total sync time: {total_time:.1f} seconds")
         logger.info(f"Congresses: {stats['Congress']}")
+        logger.info(f"Chambers (Group): {stats.get('Chamber', 0)}")
         logger.info(f"Committees: {stats['Committee']}")
         logger.info(f"People: {stats['Person']}")
-        logger.info(f"Committee-Congress relationships: {stats['BELONGS_TO']}")
-        logger.info(f"Person-Congress relationships: {stats['SERVED_IN']}")
-        logger.info(f"  - Senator terms: {stats.get('senator_terms', 0)}")
-        logger.info(f"  - Representative terms: {stats.get('representative_terms', 0)}")
+        logger.info(f"BELONGS_TO relationships: {stats['BELONGS_TO']}")
+        logger.info(f"MEMBER_OF relationships: {stats.get('MEMBER_OF', 0)}")
+        logger.info(f"  - Senate memberships: {stats.get('senate_memberships', 0)}")
+        logger.info(f"  - House memberships: {stats.get('house_memberships', 0)}")
 
     except Exception as e:
         logger.error(f"Sync failed: {e}")

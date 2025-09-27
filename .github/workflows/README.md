@@ -1,17 +1,12 @@
 # GitHub Actions Configuration
 
-## Neo4j Sync Workflows
+## Neo4j Sync Workflow
 
-There are two workflows for syncing data to Neo4j:
+There is one workflow for syncing data to Neo4j:
 
-### 1. Incremental Sync (`sync-to-neo4j-incremental.yml`)
-- **Triggers**: Manual trigger only via GitHub Actions UI
-- **Purpose**: Fast incremental updates without downtime
-- **Behavior**: Updates/adds new data using MERGE operations (no clearing)
-
-### 2. Full Sync with Clear (`sync-to-neo4j-full.yml`)
-- **Triggers**: Manual trigger only via GitHub Actions UI
-- **Purpose**: Complete database rebuild when needed
+### Full Sync (`sync-to-neo4j.yml`)
+- **Triggers**: Push to main branch or manual trigger via GitHub Actions UI
+- **Purpose**: Complete database rebuild with latest data
 - **Behavior**: Clears all existing data and rebuilds from scratch
 
 ### Required GitHub Secrets
@@ -28,45 +23,32 @@ To enable the Neo4j sync workflow, you need to configure the following secrets i
 | `NEO4J_USERNAME` | Neo4j database username | `neo4j` |
 | `NEO4J_PASSWORD` | Neo4j database password | Your secure password |
 
-### When to Use Each Workflow
+### When the Workflow Runs
 
-**Incremental Sync**:
-- Regular updates when adding/modifying people, committees, or congress data
-- Quick updates with no downtime
-- Preserves any manually added data in Neo4j
-- Run after pushing changes to main branch
+**Automatic Triggers**:
+- On every push to the main branch
+- Ensures database always reflects the latest data
 
-**Full Sync**:
-- After major structural changes to the data model
-- When you need to remove deleted entities from the database
-- To ensure complete data consistency
-- When troubleshooting data issues
+**Manual Trigger**:
+- Can be triggered manually from GitHub Actions UI
+- Useful for testing or immediate updates
 
-### What Each Workflow Does
+### What the Workflow Does
 
-**Incremental Sync**:
 1. Checks out the latest code
 2. Sets up Python 3.12 environment
 3. Installs required dependencies from `requirements.txt`
-4. Runs `python3 scripts/sync_to_neo4j.py` to:
-   - Update existing nodes with MERGE operations
-   - Add new nodes from TOML files
-   - Create/verify database indexes
-
-**Full Sync**:
-1. Same setup as incremental
-2. Runs `python3 scripts/sync_to_neo4j.py --clear --yes` to:
-   - Clear ALL existing Congress, Committee, and Person nodes
+4. Runs `python3 scripts/sync_to_neo4j.py --clear --yes` to:
+   - Clear ALL existing Congress, Committee, Person, and Group nodes
    - Rebuild database from scratch with fresh data
    - Recreate all indexes
+   - Create proper relationships between entities
 
 ### Manual Trigger
 
-To run either workflow:
+To run the workflow manually:
 1. Go to Actions tab in your repository
-2. Select the desired workflow:
-   - "Incremental Sync to Neo4j" for updates without clearing
-   - "Full Sync to Neo4j (with Clear)" for complete rebuild
+2. Select "Full Sync to Neo4j (with Clear)"
 3. Click "Run workflow"
 4. Select the branch and click "Run workflow"
 
