@@ -2,8 +2,10 @@ id = "01K5ST3ZMKVXZKBCWK4MKFBZFN"
 congress_website_primary_keys = [ 2,]
 congress_website_author_keys = [ "K106",]
 last_name = "Abalos"
-first_name = "Jc"
-middle_name = "M"
+first_name = "Jonathan Clement"
+middle_name = "Miranda"
+name_suffix = "II"
+aliases = ["JC",]
 
 [[memberships]]
 type = "chamber"

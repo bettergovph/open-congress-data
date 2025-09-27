@@ -2,8 +2,9 @@ id = "01K5ST43N2DT17KMRYDCVH6J19"
 congress_website_primary_keys = [ 65,]
 congress_website_author_keys = [ "K019",]
 last_name = "Chan"
-first_name = "Ma. Cynthia"
-middle_name = "K"
+first_name = "Maria Cynthia"
+middle_name = "King"
+aliases = [ "Cindi",]
 
 [[memberships]]
 type = "chamber"

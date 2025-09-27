@@ -3,7 +3,8 @@ congress_website_primary_keys = [ 70,]
 congress_website_author_keys = [ "J091",]
 last_name = "Co"
 first_name = "Elizaldy"
-middle_name = "S"
+middle_name = "Salcedo"
+aliases = ["Zaldy",]
 
 [[memberships]]
 type = "chamber"

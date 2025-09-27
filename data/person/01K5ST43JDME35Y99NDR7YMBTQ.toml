@@ -2,8 +2,8 @@ id = "01K5ST43JDME35Y99NDR7YMBTQ"
 congress_website_primary_keys = [ 825,]
 congress_website_author_keys = [ "H022",]
 last_name = "Cayetano"
-first_name = "Lino"
-middle_name = "S"
+first_name = "Lino Edgardo"
+middle_name = "Schramm"
 
 [[memberships]]
 type = "chamber"
