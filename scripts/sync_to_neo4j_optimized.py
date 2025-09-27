@@ -51,7 +51,7 @@ class Neo4jSyncerOptimized:
 
     def clear_database(self, skip_confirmation=False):
         """Clear specific node types and their relationships from the database."""
-        node_labels_to_clear = ["Congress", "Committee", "Person"]
+        node_labels_to_clear = ["Congress", "Committee", "Person", "Group"]
 
         with self.driver.session() as session:
             try:
@@ -126,6 +126,59 @@ class Neo4jSyncerOptimized:
                 logger.info(f"Successfully synced {len(congress_batch)} congresses in batch")
 
         return congress_mapping
+
+    def sync_chambers_batch(self, chambers_dir: Path, congress_mapping: Dict[int, str]):
+        """Sync chamber (Group) data to Neo4j using batch operations."""
+        chamber_files = list(chambers_dir.glob("*.toml"))
+        # Filter out the mapping files
+        chamber_files = [f for f in chamber_files if not f.name.startswith('.')]
+        total_files = len(chamber_files)
+        logger.info(f"Found {total_files} chamber files")
+
+        chambers_batch = []
+        relationships_batch = []
+
+        for file_path in sorted(chamber_files):
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    data = tomlkit.load(f)
+
+                    # Add Group label to chamber data
+                    chamber_data = dict(data)
+                    chambers_batch.append(chamber_data)
+
+                    # Create relationship to congress
+                    if data.get("congress") and data["congress"] in congress_mapping:
+                        relationships_batch.append({
+                            "chamber_id": data["id"],
+                            "congress_id": congress_mapping[data["congress"]]
+                        })
+
+            except Exception as e:
+                logger.error(f"Failed to load {file_path}: {e}")
+
+        # Batch insert all chambers in a single transaction
+        if chambers_batch:
+            with self.driver.session() as session:
+                # Create Group nodes with chamber data
+                chamber_query = """
+                UNWIND $batch AS chamber
+                MERGE (g:Group {id: chamber.id})
+                SET g = chamber
+                """
+                session.run(chamber_query, batch=chambers_batch)
+                logger.info(f"Successfully synced {len(chambers_batch)} chambers")
+
+                # Create relationships to Congress
+                if relationships_batch:
+                    relationship_query = """
+                    UNWIND $batch AS rel
+                    MATCH (g:Group {id: rel.chamber_id})
+                    MATCH (c:Congress {id: rel.congress_id})
+                    MERGE (g)-[:BELONGS_TO]->(c)
+                    """
+                    session.run(relationship_query, batch=relationships_batch)
+                    logger.info(f"Created {len(relationships_batch)} chamber-congress relationships")
 
     def sync_committees_batch(self, committees_dir: Path, congress_mapping: Dict[int, str]):
         """Sync committee data to Neo4j using batch operations."""
@@ -287,6 +340,9 @@ class Neo4jSyncerOptimized:
                 "CREATE INDEX IF NOT EXISTS FOR (p:Person) ON (p.id)",
                 "CREATE INDEX IF NOT EXISTS FOR (p:Person) ON (p.full_name)",
                 "CREATE INDEX IF NOT EXISTS FOR (p:Person) ON (p.last_name)",
+                "CREATE INDEX IF NOT EXISTS FOR (g:Group) ON (g.id)",
+                "CREATE INDEX IF NOT EXISTS FOR (g:Group) ON (g.type)",
+                "CREATE INDEX IF NOT EXISTS FOR (g:Group) ON (g.congress)",
             ]
 
             for index_query in indexes:
@@ -303,9 +359,13 @@ class Neo4jSyncerOptimized:
             stats = {}
 
             # Count nodes
-            for label in ["Congress", "Committee", "Person"]:
+            for label in ["Congress", "Committee", "Person", "Group"]:
                 result = session.run(f"MATCH (n:{label}) RETURN count(n) as count")
                 stats[label] = result.single()["count"]
+
+            # Count chamber nodes specifically
+            result = session.run("MATCH (g:Group {type: 'chamber'}) RETURN count(g) as count")
+            stats["Chamber"] = result.single()["count"]
 
             # Count relationships
             for rel_type in ["BELONGS_TO", "SERVED_IN"]:
@@ -353,12 +413,18 @@ def main():
     congresses_dir = project_root / "data" / "congress"
     committees_dir = project_root / "data" / "committee"
     people_dir = project_root / "data" / "person"
+    chambers_dir = project_root / "data" / "group" / "chamber"
 
     # Verify directories exist
     for dir_path in [congresses_dir, committees_dir, people_dir]:
         if not dir_path.exists():
             logger.error(f"Directory not found: {dir_path}")
             sys.exit(1)
+
+    # Chambers directory is optional for now (during migration)
+    if not chambers_dir.exists():
+        logger.warning(f"Chambers directory not found: {chambers_dir}. Skipping chamber sync.")
+        chambers_dir = None
 
     # Initialize syncer
     syncer = None
@@ -389,13 +455,20 @@ def main():
         congress_mapping = syncer.sync_congresses_batch(congresses_dir)
         logger.info(f"Congress sync completed in {time.time() - congress_start:.1f}s")
 
-        # 2. Sync Committees
+        # 2. Sync Chambers (Group nodes) if directory exists
+        if chambers_dir:
+            logger.info("Syncing chambers...")
+            chamber_start = time.time()
+            syncer.sync_chambers_batch(chambers_dir, congress_mapping)
+            logger.info(f"Chamber sync completed in {time.time() - chamber_start:.1f}s")
+
+        # 3. Sync Committees
         logger.info("Syncing committees...")
         committee_start = time.time()
         syncer.sync_committees_batch(committees_dir, congress_mapping)
         logger.info(f"Committee sync completed in {time.time() - committee_start:.1f}s")
 
-        # 3. Sync People
+        # 4. Sync People
         logger.info("Syncing people...")
         people_start = time.time()
         syncer.sync_people_batch(people_dir, congress_mapping)
@@ -408,10 +481,11 @@ def main():
         logger.info("\n=== Sync Complete ===")
         logger.info(f"Total sync time: {total_time:.1f} seconds")
         logger.info(f"Congresses: {stats['Congress']}")
+        logger.info(f"Chambers (Group): {stats.get('Chamber', 0)}")
         logger.info(f"Committees: {stats['Committee']}")
         logger.info(f"People: {stats['Person']}")
-        logger.info(f"Committee-Congress relationships: {stats['BELONGS_TO']}")
-        logger.info(f"Person-Congress relationships: {stats['SERVED_IN']}")
+        logger.info(f"BELONGS_TO relationships: {stats['BELONGS_TO']}")
+        logger.info(f"SERVED_IN relationships: {stats['SERVED_IN']}")
         logger.info(f"  - Senator terms: {stats.get('senator_terms', 0)}")
         logger.info(f"  - Representative terms: {stats.get('representative_terms', 0)}")
 
