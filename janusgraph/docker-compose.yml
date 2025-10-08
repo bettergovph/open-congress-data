@@ -1,0 +1,35 @@
+services:
+  janusgraph:
+    image: janusgraph/janusgraph:latest
+    container_name: janusgraph
+    ports:
+      - "8182:8182"
+    volumes:
+      - janusgraph-data:/var/lib/janusgraph
+      - ./init-schema.groovy:/opt/janusgraph/scripts/init-schema.groovy:ro
+    environment:
+      - JAVA_OPTIONS=-Xms512m -Xmx2g
+    deploy:
+      resources:
+        limits:
+          memory: 3G
+    healthcheck:
+      test: ["CMD", "bin/gremlin.sh", "-e", "scripts/remote-connect.groovy"]
+      interval: 10s
+      timeout: 30s
+      retries: 3
+
+  janusgraph-visualizer:
+    image: janusgraph/janusgraph-visualizer:latest
+    container_name: janusgraph-visualizer
+    ports:
+      - "3000:3000"
+      - "3001:3001"
+    depends_on:
+      janusgraph:
+        condition: service_healthy
+    environment:
+      - GREMLIN_HOST=janusgraph
+
+volumes:
+  janusgraph-data:

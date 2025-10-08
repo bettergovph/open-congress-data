@@ -114,16 +114,18 @@ This allows tracking of politicians who may have served in different chambers ac
 
 ## Database Synchronization
 
-The repository includes a Neo4j sync script (`scripts/sync_to_neo4j.py`) that imports all data into a graph database for advanced querying and analysis.
+The repository includes sync scripts that import all data into graph databases for advanced querying and analysis.
 
-### Prerequisites
+### Neo4j (Traditional Graph Database)
 
+The repository includes a Neo4j sync script (`scripts/sync_to_neo4j.py`) for traditional graph database deployments.
+
+**Prerequisites:**
 1. Neo4j database instance (local or remote)
 2. Python 3.7+
 3. Required Python packages: `neo4j`, `tomlkit`, `pyyaml`, `python-dotenv`
 
-### Setup
-
+**Setup:**
 1. Create a `.env` file with your Neo4j credentials:
 ```env
 NEO4J_URI=bolt://localhost:7687
@@ -133,11 +135,10 @@ NEO4J_PASSWORD=your_password
 
 2. Install dependencies:
 ```bash
-pip install neo4j tomlkit pyyaml python-dotenv
+pip install -r requirements.txt
 ```
 
-### Running the Sync
-
+**Running the Sync:**
 ```bash
 # Normal sync (updates existing data)
 python scripts/sync_to_neo4j.py
@@ -149,15 +150,56 @@ python scripts/sync_to_neo4j.py --clear
 python scripts/sync_to_neo4j.py --clear --yes
 ```
 
-The sync script uses several optimizations for fast import:
-- **Large batch operations** (1000 documents per batch)
+For detailed Neo4j schema documentation, see [DATABASE.md](DATABASE.md).
+
+### JanusGraph (Distributed Graph Database)
+
+**✨ Recommended for scalability** - JanusGraph provides horizontal scaling and better performance for large datasets.
+
+The repository includes a JanusGraph implementation in the `janusgraph/` directory with:
+- Docker Compose setup with ScyllaDB backend and Elasticsearch
+- Python sync script using Gremlin query language
+- Full documentation and examples
+
+**Quick Start:**
+```bash
+# Start JanusGraph with Docker Compose
+cd janusgraph
+docker-compose up -d
+
+# Wait for services to be healthy (about 60 seconds)
+docker-compose ps
+
+# Install dependencies (from project root)
+cd ..
+pip install -r requirements.txt
+
+# Run sync
+python scripts/sync_to_janusgraph.py
+
+# Stop services when done
+cd janusgraph
+docker-compose down
+```
+
+**Why JanusGraph?**
+- **Horizontal Scalability**: Distributed architecture supports massive datasets
+- **Multiple Storage Backends**: ScyllaDB, Cassandra, HBase, or BerkeleyDB
+- **Open Source**: No licensing restrictions
+- **Industry Standard**: TinkerPop/Gremlin query language
+- **Full-text Search**: Elasticsearch integration included
+
+For detailed JanusGraph schema documentation and Gremlin query examples, see [janusgraph/DATABASE.md](janusgraph/DATABASE.md) or check the [janusgraph/README.md](janusgraph/README.md) for a complete guide.
+
+### Performance Optimizations
+
+Both sync scripts use several optimizations for fast import:
+- **Large batch operations** (configurable batch size)
 - **Progress tracking** during file loading to monitor sync status
 - **Optimized relationship creation** with grouped queries
 - **Automatic indexing** for optimal query performance
 
 These optimizations significantly reduce sync time for database operations.
-
-For detailed database schema documentation, see [DATABASE.md](DATABASE.md).
 
 ## Impostor Syndrome Disclaimer
 
