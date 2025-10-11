@@ -1,0 +1,11 @@
+id = "01K7A5ZPAHP2789JD47WNPW2DR"
+type = "issuance"
+subtype = "EO"
+name = "EO-371"
+
+[meta]
+date_filed = "1950-11-20"
+lawphil_title = "Amending Executive Order No. 348, Dated September 29, 1950, So as to Change the Name of the Philippine Information Service to Philippine Information Council"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_371_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_371_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

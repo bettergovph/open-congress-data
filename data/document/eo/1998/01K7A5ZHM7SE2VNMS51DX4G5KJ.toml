@@ -1,0 +1,11 @@
+id = "01K7A5ZHM7SE2VNMS51DX4G5KJ"
+type = "issuance"
+subtype = "EO"
+name = "EO-019"
+
+[meta]
+date_filed = "1998-08-27"
+lawphil_title = "Amending Executive Order No. 38 dated 07 January 1947 entitled ï¿½Providing for the Coat of Arms, Seal and Flag of the President and Vice President of the Philippinesï¿½, as amended"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1998/eo_19_1998.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1998/pdf/eo_19_1998.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

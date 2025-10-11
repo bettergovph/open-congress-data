@@ -1,0 +1,11 @@
+id = "01K7A5ZMYPX2Z6QMC22XRRB0PA"
+type = "issuance"
+subtype = "EO"
+name = "EO-151"
+
+[meta]
+date_filed = "1965-04-04"
+lawphil_title = "Revising Executive Order No. 26 Dated December 11, 1962, Entitled ï¿½Reorganizing the Lighthouse Boardï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1965/eo_151_1965.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1965/pdf/eo_151_1965.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

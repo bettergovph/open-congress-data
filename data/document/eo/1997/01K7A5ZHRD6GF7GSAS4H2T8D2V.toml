@@ -1,0 +1,11 @@
+id = "01K7A5ZHRD6GF7GSAS4H2T8D2V"
+type = "issuance"
+subtype = "EO"
+name = "EO-412"
+
+[meta]
+date_filed = "1997-05-06"
+lawphil_title = "Amending Executive Order No. 84, series of 1993, by reconstituting the composition of the Tagaytay-Taal Presidential Commission"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1997/eo_412_1997.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1997/pdf/eo_412_1997.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

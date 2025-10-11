@@ -1,0 +1,11 @@
+id = "01K7A5ZMQSXNYEYH3X5G4DS110"
+type = "issuance"
+subtype = "EO"
+name = "EO-067"
+
+[meta]
+date_filed = "1967-05-28"
+lawphil_title = "Establishing a Uniform Crime reporting system"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1967/eo_67_1967.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1967/pdf/eo_67_1967.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

@@ -1,0 +1,11 @@
+id = "01K7A5ZP127T4FGGHXR5HC4TGQ"
+type = "issuance"
+subtype = "EO"
+name = "EO-562"
+
+[meta]
+date_filed = "1953-02-03"
+lawphil_title = "Fixing the Ceiling Price of Commodity, Amending Executive Order Numbered Four Hundred and Forty, and for Other Purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1953/eo_562_1953.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1953/pdf/eo_562_1953.pdf"]
+lawphil_tenure = "Elpidio Quirino"

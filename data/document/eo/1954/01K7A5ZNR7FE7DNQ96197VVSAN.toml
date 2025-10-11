@@ -1,0 +1,11 @@
+id = "01K7A5ZNR7FE7DNQ96197VVSAN"
+type = "issuance"
+subtype = "EO"
+name = "EO-080"
+
+[meta]
+date_filed = "1954-11-02"
+lawphil_title = "Further Amending Executive Order No. 22, Dated April 5 1954 as Amended By Executive Order No. 66, Dated September 23, 1954"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1954/eo_80_1954.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1954/pdf/eo_80_1954.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

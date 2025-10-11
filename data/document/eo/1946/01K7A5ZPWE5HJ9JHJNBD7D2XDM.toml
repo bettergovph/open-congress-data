@@ -1,0 +1,11 @@
+id = "01K7A5ZPWE5HJ9JHJNBD7D2XDM"
+type = "issuance"
+subtype = "EO"
+name = "EO-010"
+
+[meta]
+date_filed = "1946-07-31"
+lawphil_title = "Fixing the Allowances of the Flight Personnel of the Philippine Army Air Force, Restoring the Longevity Pay for the Philippine Army, and for Other Purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1946/eo_10_1946.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1946/pdf/eo_10_1946.pdf"]
+lawphil_tenure = "Manuel Roxas"

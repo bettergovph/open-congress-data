@@ -1,0 +1,11 @@
+id = "01K7A5ZQ951HVFRWYW9MBNT0DB"
+type = "issuance"
+subtype = "EO"
+name = "EO-284"
+
+[meta]
+date_filed = "1940-06-22"
+lawphil_title = "Ordering the Hospitalization of Accused Persons Needing Such Hospitalization in the Bilibid Prison Hospital."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1940/eo_284_1940.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1940/pdf/eo_284_1940.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

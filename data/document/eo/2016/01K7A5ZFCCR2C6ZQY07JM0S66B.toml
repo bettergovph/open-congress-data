@@ -1,0 +1,11 @@
+id = "01K7A5ZFCCR2C6ZQY07JM0S66B"
+type = "issuance"
+subtype = "EO"
+name = "EO-001"
+
+[meta]
+date_filed = "2016-06-30"
+lawphil_title = "Reengineering the Office of the President Towards Greater Responsiveness to the Attainment of Development Goals"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2016/eo_1_2016.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2016/pdf/eo_1_2016.pdf"]
+lawphil_tenure = "Rodrigo Duterte"

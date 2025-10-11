@@ -1,0 +1,10 @@
+id = "01K7A5ZF9YJZ40RCNJNSA4GRZM"
+type = "issuance"
+subtype = "EO"
+name = "EO-052"
+
+[meta]
+date_filed = "2018-05-08"
+lawphil_title = "Creating the Program Management Office for Earthquake Resiliency of the Greater Metro Manila Area"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2018/eo_52_2018.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2018/pdf/eo_52_2018.pdf"]

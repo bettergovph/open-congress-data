@@ -1,0 +1,11 @@
+id = "01K7A5ZHA885ZFG9PKZ7EFGTKX"
+type = "issuance"
+subtype = "EO"
+name = "EO-232"
+
+[meta]
+date_filed = "2000-04-23"
+lawphil_title = "Amending Executive Order No. 462, Series of 1997, Enabling Private Sector Participation in the Exploration, Development, Utilization and Commercialization of Ocean, Solar and Wind Energy Resources for Power Generation and Other Energy Uses"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2000/eo_232_2000.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2000/pdf/eo_232_2000.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

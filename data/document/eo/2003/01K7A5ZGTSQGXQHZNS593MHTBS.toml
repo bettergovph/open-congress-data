@@ -1,0 +1,11 @@
+id = "01K7A5ZGTSQGXQHZNS593MHTBS"
+type = "issuance"
+subtype = "EO"
+name = "EO-225"
+
+[meta]
+date_filed = "2003-07-11"
+lawphil_title = "Amending Executive Order No. 73 Dated February 24, 2002 Entitled \"Authorizing the Establishment of the Edsa Freedom Center Inside Camp General Emilio Aguinaldo, Quezon City\""
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2003/eo_225_2003.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2003/pdf/eo_225_2003.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

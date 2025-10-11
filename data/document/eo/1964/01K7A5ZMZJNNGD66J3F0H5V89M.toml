@@ -1,0 +1,11 @@
+id = "01K7A5ZMZJNNGD66J3F0H5V89M"
+type = "issuance"
+subtype = "EO"
+name = "EO-134"
+
+[meta]
+date_filed = "1964-12-17"
+lawphil_title = "Creating the Philippine National Volunteer Service Committee"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1964/eo_134_1964.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1964/pdf/eo_134_1964.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

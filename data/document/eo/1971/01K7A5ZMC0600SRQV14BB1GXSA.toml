@@ -1,0 +1,11 @@
+id = "01K7A5ZMC0600SRQV14BB1GXSA"
+type = "issuance"
+subtype = "EO"
+name = "EO-301"
+
+[meta]
+date_filed = "1971-03-12"
+lawphil_title = "Further Amending Executive Order No. 155 Dated October 28, 1968, as Amended By Executive Order No. 288 Dated February 6, 1971, Which Created the Gomez, Burgos, Zamora Centennial Commission."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1971/eo_301_1971.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1971/pdf/eo_301_1971.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

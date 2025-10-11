@@ -1,0 +1,11 @@
+id = "01K7A5ZPBGQTFEMV8RD8PPN4YD"
+type = "issuance"
+subtype = "EO"
+name = "EO-350"
+
+[meta]
+date_filed = "1950-10-03"
+lawphil_title = "Creating the Price Stabilization Corporation and Dissolving the Philippine Relief and Trade Rehabilitation Administration and the National Rice and Corn Corporation"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_350_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_350_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

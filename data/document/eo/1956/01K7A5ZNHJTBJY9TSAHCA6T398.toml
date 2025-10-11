@@ -1,0 +1,11 @@
+id = "01K7A5ZNHJTBJY9TSAHCA6T398"
+type = "issuance"
+subtype = "EO"
+name = "EO-218"
+
+[meta]
+date_filed = "1956-12-10"
+lawphil_title = "Providing for the Implementing Details for Reorganization Plan No. 20-A Relative to Labor"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1956/eo_218_1956.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1956/pdf/eo_218_1956.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

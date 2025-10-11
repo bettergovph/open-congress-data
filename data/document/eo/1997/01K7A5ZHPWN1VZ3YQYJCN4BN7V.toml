@@ -1,0 +1,11 @@
+id = "01K7A5ZHPWN1VZ3YQYJCN4BN7V"
+type = "issuance"
+subtype = "EO"
+name = "EO-449"
+
+[meta]
+date_filed = "1997-10-17"
+lawphil_title = "Realigning the organization of the Bureau of Treasury"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1997/eo_449_1997.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1997/pdf/eo_449_1997.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

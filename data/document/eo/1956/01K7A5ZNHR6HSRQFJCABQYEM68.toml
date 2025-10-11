@@ -1,0 +1,11 @@
+id = "01K7A5ZNHR6HSRQFJCABQYEM68"
+type = "issuance"
+subtype = "EO"
+name = "EO-214"
+
+[meta]
+date_filed = "1956-11-15"
+lawphil_title = "Creating the Municipality of Carmen in the Province of Cotabato"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1956/eo_214_1956.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1956/pdf/eo_214_1956.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

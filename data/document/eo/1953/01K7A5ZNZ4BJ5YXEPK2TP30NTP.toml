@@ -1,0 +1,11 @@
+id = "01K7A5ZNZ4BJ5YXEPK2TP30NTP"
+type = "issuance"
+subtype = "EO"
+name = "EO-601"
+
+[meta]
+date_filed = "1953-06-26"
+lawphil_title = "Prescribing Rules and Regulations for the Appointment of Reserve Officers in the Regular Force, Armed Forces of the Philippines."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1953/eo_601_1953.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1953/pdf/eo_601_1953.pdf"]
+lawphil_tenure = "Elpidio Quirino"

@@ -1,0 +1,11 @@
+id = "01K7A5ZP6MVKATG0YSWK6V7E9T"
+type = "issuance"
+subtype = "EO"
+name = "EO-447"
+
+[meta]
+date_filed = "1951-06-09"
+lawphil_title = "Fixing the Ceiling Prices of Imported Foodstuff, Repealing All Other Executive Orders Fixing Ceiling Prices of the Same and for Other Purposes."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1951/eo_447_1951.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1951/pdf/eo_447_1951.pdf"]
+lawphil_tenure = "Elpidio Quirino"

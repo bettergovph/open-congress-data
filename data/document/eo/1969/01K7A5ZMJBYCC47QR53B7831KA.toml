@@ -1,0 +1,11 @@
+id = "01K7A5ZMJBYCC47QR53B7831KA"
+type = "issuance"
+subtype = "EO"
+name = "EO-182"
+
+[meta]
+date_filed = "1969-04-29"
+lawphil_title = "Amending Executive Order No. 87 Dated September 22, 1967, By Extending the Periods for Compliance With the Requisite Conditions for the Issuance of Patents or Certificates of Title as Well as the Technical Survey of Farm Lot Claims to September 22, 1971, and April 30, 1970, Respectively"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1969/eo_182_1969.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1969/pdf/eo_182_1969.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

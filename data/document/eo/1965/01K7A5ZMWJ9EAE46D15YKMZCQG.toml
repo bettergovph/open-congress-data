@@ -1,0 +1,11 @@
+id = "01K7A5ZMWJ9EAE46D15YKMZCQG"
+type = "issuance"
+subtype = "EO"
+name = "EO-195"
+
+[meta]
+date_filed = "1965-11-06"
+lawphil_title = "Changing the Par Value of the Peso From Us$0.50 to Us$0.2564103 (U.S. Dollar of the Weight and Fineness in Effect on July 1, 1944)"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1965/eo_195_1965.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1965/pdf/eo_195_1965.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

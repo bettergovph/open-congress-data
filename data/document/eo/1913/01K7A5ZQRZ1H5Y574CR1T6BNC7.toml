@@ -1,0 +1,11 @@
+id = "01K7A5ZQRZ1H5Y574CR1T6BNC7"
+type = "issuance"
+subtype = "EO"
+name = "EO-083"
+
+[meta]
+date_filed = "1913-10-02"
+lawphil_title = "Signed on October 2, 1913: Executive Order No. 83."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1913/eo_83_1913.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1913/pdf/eo_83_1913.pdf"]
+lawphil_tenure = "Newton W. Gilbert"

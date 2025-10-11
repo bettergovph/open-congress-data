@@ -1,0 +1,11 @@
+id = "01K7A5ZHTT7ZEHC9GD29MAP6MJ"
+type = "issuance"
+subtype = "EO"
+name = "EO-360"
+
+[meta]
+date_filed = "1996-08-16"
+lawphil_title = "Amending Executive Order No. 192, series of 1994, authorizing the establishment of the Clark International Airport Corporation to operate and manage the Clark Aviation Complex"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1996/eo_360_1996.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1996/pdf/eo_360_1996.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

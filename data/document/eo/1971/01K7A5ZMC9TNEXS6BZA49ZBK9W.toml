@@ -1,0 +1,11 @@
+id = "01K7A5ZMC9TNEXS6BZA49ZBK9W"
+type = "issuance"
+subtype = "EO"
+name = "EO-298"
+
+[meta]
+date_filed = "1971-03-04"
+lawphil_title = "Amending Executive Order No. 251 Dated July 31, 1970, Creating the Presidential Action Committee on Land Problems"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1971/eo_298_1971.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1971/pdf/eo_298_1971.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

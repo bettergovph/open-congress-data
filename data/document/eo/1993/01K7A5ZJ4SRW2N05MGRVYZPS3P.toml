@@ -1,0 +1,11 @@
+id = "01K7A5ZJ4SRW2N05MGRVYZPS3P"
+type = "issuance"
+subtype = "EO"
+name = "EO-132"
+
+[meta]
+date_filed = "1993-10-26"
+lawphil_title = "Approving the streamlining of the Bureau of Internal Revenue"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1993/eo_132_1993.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1993/pdf/eo_132_1993.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

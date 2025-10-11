@@ -1,0 +1,11 @@
+id = "01K7A5ZG8KNN5P58Y76P283NFT"
+type = "issuance"
+subtype = "EO"
+name = "EO-400-A"
+
+[meta]
+date_filed = "2006-09-06"
+lawphil_title = "Amending Executive Order No. 400, S. of 2005, Regulating the Assignment and Issuance of Low-Numbered (Protocol) License Plates to Motor Vehicles Used By Officials of the Republic of the Philippines"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2006/eo_400-a_2006.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2006/pdf/eo_400-a_2006.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

@@ -1,0 +1,11 @@
+id = "01K7A5ZHZY1SV8W61YN4HE817V"
+type = "issuance"
+subtype = "EO"
+name = "EO-249"
+
+[meta]
+date_filed = "1995-05-29"
+lawphil_title = "Granting permanent resident status to certain Vietnamese citizens and Filipino-Vietnamese children pursuant to Section 47 of the Immigration Act of 1940"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1995/eo_249_1995.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1995/pdf/eo_249_1995.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

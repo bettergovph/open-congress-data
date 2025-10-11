@@ -1,0 +1,11 @@
+id = "01K7A5ZGK4GVXPKCZM4PS5TFGT"
+type = "issuance"
+subtype = "EO"
+name = "EO-350"
+
+[meta]
+date_filed = "2004-07-30"
+lawphil_title = "Transferring the Board of Liquidators (BOL) From the Office of the President to the Department of Finance"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2004/eo_350_2004.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2004/pdf/eo_350_2004.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

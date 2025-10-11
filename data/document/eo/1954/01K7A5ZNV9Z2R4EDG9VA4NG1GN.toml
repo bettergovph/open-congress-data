@@ -1,0 +1,11 @@
+id = "01K7A5ZNV9Z2R4EDG9VA4NG1GN"
+type = "issuance"
+subtype = "EO"
+name = "EO-020"
+
+[meta]
+date_filed = "1954-03-23"
+lawphil_title = "Transferring the Seat of Government of the Municipality of Sto. Tomas, Province of Pampanga, From Barrio San Matias to the Old Poblacion of Santo Tomas"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1954/eo_20_1954.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1954/pdf/eo_20_1954.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

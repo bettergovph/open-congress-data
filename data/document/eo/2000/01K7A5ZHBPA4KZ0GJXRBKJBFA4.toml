@@ -1,0 +1,11 @@
+id = "01K7A5ZHBPA4KZ0GJXRBKJBFA4"
+type = "issuance"
+subtype = "EO"
+name = "EO-202"
+
+[meta]
+date_filed = "2000-01-18"
+lawphil_title = "Providing for the Creation of a Philippine Task Force on Hazardous Wastes in Former U.S. Military Installations"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2000/eo_202_2000.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2000/pdf/eo_202_2000.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

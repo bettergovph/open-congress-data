@@ -1,0 +1,11 @@
+id = "01K7A5ZMBYP6X82ZNYP93PSWXS"
+type = "issuance"
+subtype = "EO"
+name = "EO-302"
+
+[meta]
+date_filed = "1971-03-16"
+lawphil_title = "Amending Executive Order No. 115, Dated 26 January 1968, Creating the National Export Coordinating Center."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1971/eo_302_1971.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1971/pdf/eo_302_1971.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

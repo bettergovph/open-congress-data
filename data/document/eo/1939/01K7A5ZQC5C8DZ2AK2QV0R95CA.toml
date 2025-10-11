@@ -1,0 +1,11 @@
+id = "01K7A5ZQC5C8DZ2AK2QV0R95CA"
+type = "issuance"
+subtype = "EO"
+name = "EO-219"
+
+[meta]
+date_filed = "1939-08-31"
+lawphil_title = "Suspending the Effectivity of Executive Order No. 213, Dated July 10, 1939"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1939/eo_219_1939.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1939/pdf/eo_219_1939.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

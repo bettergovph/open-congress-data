@@ -1,0 +1,11 @@
+id = "01K7A5ZNVQVKY2Y5EBD8FKJSAE"
+type = "issuance"
+subtype = "EO"
+name = "EO-010"
+
+[meta]
+date_filed = "1954-02-01"
+lawphil_title = "Creating a National Agricultural Council, Provincial Agricultural Councils, City Agricultural Councils, and Municipal Agricultural Councils"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1954/eo_10_1954.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1954/pdf/eo_10_1954.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

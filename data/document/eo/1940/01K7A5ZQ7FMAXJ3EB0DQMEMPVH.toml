@@ -1,0 +1,11 @@
+id = "01K7A5ZQ7FMAXJ3EB0DQMEMPVH"
+type = "issuance"
+subtype = "EO"
+name = "EO-308"
+
+[meta]
+date_filed = "1940-11-07"
+lawphil_title = "Creating a Committee to Revise and Codify the Existing Substantive Laws of the Philippines, and Providing for the Expenses to Be Incurred Thereby."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1940/eo_308_1940.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1940/pdf/eo_308_1940.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

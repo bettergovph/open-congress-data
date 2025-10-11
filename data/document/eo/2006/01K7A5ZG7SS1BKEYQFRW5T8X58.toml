@@ -1,0 +1,11 @@
+id = "01K7A5ZG7SS1BKEYQFRW5T8X58"
+type = "issuance"
+subtype = "EO"
+name = "EO-580"
+
+[meta]
+date_filed = "2006-11-21"
+lawphil_title = "Amending Executive Order No. 256 Dated 21 December 1995 and Executive Order No. 197 Dated 13 January 2000 on the Imposition of Administrative Fine for Loss of Firearm"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2006/eo_580_2006.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2006/pdf/eo_580_2006.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

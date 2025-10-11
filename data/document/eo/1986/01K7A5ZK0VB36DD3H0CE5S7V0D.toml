@@ -1,0 +1,11 @@
+id = "01K7A5ZK0VB36DD3H0CE5S7V0D"
+type = "issuance"
+subtype = "EO"
+name = "EO-064"
+
+[meta]
+date_filed = "1986-11-17"
+lawphil_title = "Further amending Executive Order No. 41, as Amended"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1986/eo_64_1986.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1986/pdf/eo_64_1986.pdf"]
+lawphil_tenure = "Corazon Aquino"

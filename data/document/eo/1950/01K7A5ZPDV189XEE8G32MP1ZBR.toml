@@ -1,0 +1,11 @@
+id = "01K7A5ZPDV189XEE8G32MP1ZBR"
+type = "issuance"
+subtype = "EO"
+name = "EO-302"
+
+[meta]
+date_filed = "1950-02-14"
+lawphil_title = "Amending Executive Order No. 297, Dated December 24, 1949"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_302_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_302_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

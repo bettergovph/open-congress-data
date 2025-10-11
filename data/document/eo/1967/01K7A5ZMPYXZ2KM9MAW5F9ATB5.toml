@@ -1,0 +1,11 @@
+id = "01K7A5ZMPYXZ2KM9MAW5F9ATB5"
+type = "issuance"
+subtype = "EO"
+name = "EO-085"
+
+[meta]
+date_filed = "1967-09-14"
+lawphil_title = "Amending Executive Order No. 16 Dated April 24, 1922, as Amended By Executive Order No. 33 Dated January 25, 1963, So as to Change the Composition of the Committee Therein Created"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1967/eo_85_1967.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1967/pdf/eo_85_1967.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

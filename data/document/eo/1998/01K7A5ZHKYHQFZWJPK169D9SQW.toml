@@ -1,0 +1,11 @@
+id = "01K7A5ZHKYHQFZWJPK169D9SQW"
+type = "issuance"
+subtype = "EO"
+name = "EO-025"
+
+[meta]
+date_filed = "1998-09-21"
+lawphil_title = "Further amendment of Section 3 of Executive Order No. 169, series of 1994, as amended, reconstituting the composition of the Central Bank Board of Liquidators"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1998/eo_25_1998.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1998/pdf/eo_25_1998.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

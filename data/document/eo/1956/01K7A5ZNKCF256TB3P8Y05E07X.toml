@@ -1,0 +1,11 @@
+id = "01K7A5ZNKCF256TB3P8Y05E07X"
+type = "issuance"
+subtype = "EO"
+name = "EO-179"
+
+[meta]
+date_filed = "1956-05-08"
+lawphil_title = "Reclassifying the Province of Catanduanes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1956/eo_179_1956.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1956/pdf/eo_179_1956.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

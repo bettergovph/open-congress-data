@@ -1,0 +1,11 @@
+id = "01K7A5ZK347X4DYDJJTJ5AHK6W"
+type = "issuance"
+subtype = "EO"
+name = "EO-013"
+
+[meta]
+date_filed = "1986-04-23"
+lawphil_title = "Amending Executive Order No. 1, Dated February 28, 1986, Creating the Presidential Commission on Good Government."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1986/eo_13_1986.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1986/pdf/eo_13_1986.pdf"]
+lawphil_tenure = "Corazon Aquino"

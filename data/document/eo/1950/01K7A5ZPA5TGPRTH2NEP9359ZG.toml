@@ -1,0 +1,11 @@
+id = "01K7A5ZPA5TGPRTH2NEP9359ZG"
+type = "issuance"
+subtype = "EO"
+name = "EO-379"
+
+[meta]
+date_filed = "1950-12-05"
+lawphil_title = "Amending Section One of Executive Order Numbered Three Hundred and Thirty-One and for Other Purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_379_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_379_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

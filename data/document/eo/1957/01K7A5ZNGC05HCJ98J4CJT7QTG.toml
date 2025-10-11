@@ -1,0 +1,11 @@
+id = "01K7A5ZNGC05HCJ98J4CJT7QTG"
+type = "issuance"
+subtype = "EO"
+name = "EO-242"
+
+[meta]
+date_filed = "1957-03-01"
+lawphil_title = "Postponing the Implementation of Executive Order No. 227 Dated January 5, 1957, and Reorganization Plans Nos. 15-A and 27-A Which Relates to Commerce and Industry Until the Appointment and Qualification of the Directors of Domestic Trade, Foreign Trade, Industrial Promotion and Cooperatives Administration"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1957/eo_242_1957.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1957/pdf/eo_242_1957.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

@@ -1,0 +1,11 @@
+id = "01K7A5ZMTH1G812MD5BJP993JD"
+type = "issuance"
+subtype = "EO"
+name = "EO-009"
+
+[meta]
+date_filed = "1966-02-21"
+lawphil_title = "Amending Paragraph Number Seven of Executive Order Number One, Dated July Fourth Nineteen Hundred and Forty-Six, Entitled ï¿½Prescribing Rules and Regulations for the Granting and Issuing of Passports.ï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1966/eo_9_1966.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1966/pdf/eo_9_1966.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

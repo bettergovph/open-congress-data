@@ -1,0 +1,11 @@
+id = "01K7A5ZNY3WV5729DN2M9TSDC3"
+type = "issuance"
+subtype = "EO"
+name = "EO-623"
+
+[meta]
+date_filed = "1953-10-01"
+lawphil_title = "Creating the Municipality of Sapao in the Province of Surigao"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1953/eo_623_1953.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1953/pdf/eo_623_1953.pdf"]
+lawphil_tenure = "Elpidio Quirino"

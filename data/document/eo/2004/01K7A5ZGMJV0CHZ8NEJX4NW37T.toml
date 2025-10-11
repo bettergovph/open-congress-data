@@ -1,0 +1,11 @@
+id = "01K7A5ZGMJV0CHZ8NEJX4NW37T"
+type = "issuance"
+subtype = "EO"
+name = "EO-321"
+
+[meta]
+date_filed = "2004-07-02"
+lawphil_title = "Amending Further Executive Order No. 45, Series of 1993, as Amended, Which Prescribes the Adoption of the Philippine Reference System of 1992 as the Standard Reference System of Surveys in the Philippines"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2004/eo_321_2004.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2004/pdf/eo_321_2004.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

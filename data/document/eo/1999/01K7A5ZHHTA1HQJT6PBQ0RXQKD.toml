@@ -1,0 +1,11 @@
+id = "01K7A5ZHHTA1HQJT6PBQ0RXQKD"
+type = "issuance"
+subtype = "EO"
+name = "EO-070"
+
+[meta]
+date_filed = "1999-02-19"
+lawphil_title = "Amending Executive Order No. 43 providing for the creation of a Preparatory Commission on Constitutional Reforms"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1999/eo_70_1999.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1999/pdf/eo_70_1999.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

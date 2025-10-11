@@ -1,0 +1,11 @@
+id = "01K7A5ZPHHGD3G7DD3WTNPQ3QH"
+type = "issuance"
+subtype = "EO"
+name = "EO-227"
+
+[meta]
+date_filed = "1949-06-16"
+lawphil_title = "Amending Executive Order No. 82, Dated August 18, 1947, By Organizing Into a Municipality Under the Name of Tumbao the Former Municipal Districts of Tumbao and Gambar, Which Were Annexed By Said Executive Order to the Municipalities of Cotabato and Midsayap"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1949/eo_227_1949.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1949/pdf/eo_227_1949.pdf"]
+lawphil_tenure = "Elpidio Quirino"

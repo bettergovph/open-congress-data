@@ -1,0 +1,11 @@
+id = "01K7A5ZHFY05G39JHDTV5Q8G94"
+type = "issuance"
+subtype = "EO"
+name = "EO-111"
+
+[meta]
+date_filed = "1999-06-17"
+lawphil_title = "Establishing the guidelines for ecotourism development in the Philippines"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1999/eo_111_1999.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1999/pdf/eo_111_1999.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

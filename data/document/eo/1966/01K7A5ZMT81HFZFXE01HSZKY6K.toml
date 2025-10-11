@@ -1,0 +1,11 @@
+id = "01K7A5ZMT81HFZFXE01HSZKY6K"
+type = "issuance"
+subtype = "EO"
+name = "EO-015"
+
+[meta]
+date_filed = "1966-03-01"
+lawphil_title = "Creating a Committee on the Proposed Philippine Participation in Global Satellite Communications System"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1966/eo_15_1966.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1966/pdf/eo_15_1966.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

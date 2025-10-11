@@ -1,0 +1,11 @@
+id = "01K7A5ZPTQCF9DE9ZHCYY4XA9D"
+type = "issuance"
+subtype = "EO"
+name = "EO-047"
+
+[meta]
+date_filed = "1947-03-17"
+lawphil_title = "Amending Section 3 of Executive Order No. 3, Dated July 10, 1946, Entitled ï¿½On the Control of Exports From the Philippinesï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1947/eo_47_1947.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1947/pdf/eo_47_1947.pdf"]
+lawphil_tenure = "Manuel Roxas"

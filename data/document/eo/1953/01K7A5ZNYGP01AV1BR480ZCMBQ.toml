@@ -1,0 +1,11 @@
+id = "01K7A5ZNYGP01AV1BR480ZCMBQ"
+type = "issuance"
+subtype = "EO"
+name = "EO-614"
+
+[meta]
+date_filed = "1953-09-12"
+lawphil_title = "Repealing Section Three of Executive Order Numbered Four Hundred and Forty-Eight, and for Other Purposes."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1953/eo_614_1953.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1953/pdf/eo_614_1953.pdf"]
+lawphil_tenure = "Elpidio Quirino"

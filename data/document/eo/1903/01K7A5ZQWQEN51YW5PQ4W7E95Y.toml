@@ -1,0 +1,10 @@
+id = "01K7A5ZQWQEN51YW5PQ4W7E95Y"
+type = "issuance"
+subtype = "EO"
+name = "EO-001"
+
+[meta]
+date_filed = "1903-01-02"
+lawphil_title = "William S. Washburn, Chairman, Philippine Civil Service Board, is Designated as Chief Examiner"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo190s/eo_1_1903.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo190s/pdf/eo_1_1903.pdf"]

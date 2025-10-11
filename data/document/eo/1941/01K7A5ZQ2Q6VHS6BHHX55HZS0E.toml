@@ -1,0 +1,11 @@
+id = "01K7A5ZQ2Q6VHS6BHHX55HZS0E"
+type = "issuance"
+subtype = "EO"
+name = "EO-399"
+
+[meta]
+date_filed = "1941-12-29"
+lawphil_title = "Amending Paragraph 4 of Executive Order No. 326"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1942/eo_399_1941.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1942/pdf/eo_399_1941.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

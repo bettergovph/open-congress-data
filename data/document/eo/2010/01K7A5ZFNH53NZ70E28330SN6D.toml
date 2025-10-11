@@ -1,0 +1,11 @@
+id = "01K7A5ZFNH53NZ70E28330SN6D"
+type = "issuance"
+subtype = "EO"
+name = "EO-015"
+
+[meta]
+date_filed = "2010-12-20"
+lawphil_title = "Granting Combat Allowance to uniformed members of the Armed Forces of the Philippines who are directly involved in combat operations against members of national security threat groups, thereby repealing Executive Order (E.O) no. 658 dated September 6, 2007"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2010/eo_15_2010.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2010/pdf/eo_15_2010.pdf"]
+lawphil_tenure = "Benigno Aquino, III Noynoy"

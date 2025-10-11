@@ -1,0 +1,11 @@
+id = "01K7A5ZP04BRC4HZKJCNNXCAR8"
+type = "issuance"
+subtype = "EO"
+name = "EO-581"
+
+[meta]
+date_filed = "1953-04-04"
+lawphil_title = "Revising Annex a of Executive Order No. 471, Dated August 24, 1951, By Placing Tetanus Anti-Toxin in 10,000 and 20,000-Unit Vials Under the Completely Decontrolled Category"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1953/eo_581_1953.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1953/pdf/eo_581_1953.pdf"]
+lawphil_tenure = "Elpidio Quirino"

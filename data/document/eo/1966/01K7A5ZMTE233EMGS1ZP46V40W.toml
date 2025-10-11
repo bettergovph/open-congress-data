@@ -1,0 +1,11 @@
+id = "01K7A5ZMTE233EMGS1ZP46V40W"
+type = "issuance"
+subtype = "EO"
+name = "EO-011"
+
+[meta]
+date_filed = "1966-02-24"
+lawphil_title = "Creating the Anti-Smuggling Action Center"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1966/eo_11_1966.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1966/pdf/eo_11_1966.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

@@ -1,0 +1,11 @@
+id = "01K7A5ZMAG8Y1K9SHP84NXGMTE"
+type = "issuance"
+subtype = "EO"
+name = "EO-319"
+
+[meta]
+date_filed = "1971-05-31"
+lawphil_title = "Amending Executive Order No. 243, Dated July 7, 1970, Entitled ï¿½Creating a National Committee for Mineral Explorations and Survey Operationsï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1971/eo_319_1971.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1971/pdf/eo_319_1971.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

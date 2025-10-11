@@ -1,0 +1,11 @@
+id = "01K7A5ZNPY1XFM1F7F1DJX3K7K"
+type = "issuance"
+subtype = "EO"
+name = "EO-105"
+
+[meta]
+date_filed = "1955-03-10"
+lawphil_title = "Designating the Commissioner of Public Highways as An Additional Member of the National Traffic Commission Created in Executive Order No. 536 Dated October 21, 1952, as Amended By Executive Order No. 569 Dated February 17, 1953"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1955/eo_105_1955.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1955/pdf/eo_105_1955.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

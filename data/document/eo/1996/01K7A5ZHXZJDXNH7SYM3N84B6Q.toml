@@ -1,0 +1,11 @@
+id = "01K7A5ZHXZJDXNH7SYM3N84B6Q"
+type = "issuance"
+subtype = "EO"
+name = "EO-260-A"
+
+[meta]
+date_filed = "1996-02-20"
+lawphil_title = "Amending Executive Order No. 260 entitled \"adjusting the dividend rates of selected government owned and/or controlled corporation on their 1994 earnings pursuant to section 5 of Republic Act No. 7656.\""
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1996/eo_260-a_1996.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1996/pdf/eo_260-a_1996.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

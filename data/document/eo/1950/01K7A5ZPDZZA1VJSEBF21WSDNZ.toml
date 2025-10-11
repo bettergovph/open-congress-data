@@ -1,0 +1,11 @@
+id = "01K7A5ZPDZZA1VJSEBF21WSDNZ"
+type = "issuance"
+subtype = "EO"
+name = "EO-299"
+
+[meta]
+date_filed = "1950-01-06"
+lawphil_title = "Providing Instructions to Be Followed in the Conduct of Public Affairs During the Time That the President Is Outside the Philippines"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_299_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_299_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

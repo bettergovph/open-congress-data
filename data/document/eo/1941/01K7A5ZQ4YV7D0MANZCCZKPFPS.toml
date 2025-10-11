@@ -1,0 +1,11 @@
+id = "01K7A5ZQ4YV7D0MANZCCZKPFPS"
+type = "issuance"
+subtype = "EO"
+name = "EO-355"
+
+[meta]
+date_filed = "1941-07-02"
+lawphil_title = "Amending Paragraph (1) of Executive Order No. 335, Dated April 1, 1941, Creating a Civilian Emergency Administration"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1941/eo_355_1941.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1941/pdf/eo_355_1941.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

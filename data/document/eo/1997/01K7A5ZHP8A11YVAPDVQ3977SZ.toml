@@ -1,0 +1,11 @@
+id = "01K7A5ZHP8A11YVAPDVQ3977SZ"
+type = "issuance"
+subtype = "EO"
+name = "EO-462"
+
+[meta]
+date_filed = "1997-12-29"
+lawphil_title = "Enabling private sector participation in the exploration, development, utilization and commercialization of ocean, solar and wind energy resources for power generation and other energy uses"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1997/eo_462_1997.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1997/pdf/eo_462_1997.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

@@ -1,0 +1,11 @@
+id = "01K7A5ZJ3SXB8NZ9X4SS04QF3Y"
+type = "issuance"
+subtype = "EO"
+name = "EO-155"
+
+[meta]
+date_filed = "1994-02-03"
+lawphil_title = "Amending Executive Order No. 149"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1994/eo_155_1994.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1994/pdf/eo_155_1994.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

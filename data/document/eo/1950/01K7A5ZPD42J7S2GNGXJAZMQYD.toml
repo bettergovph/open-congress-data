@@ -1,0 +1,11 @@
+id = "01K7A5ZPD42J7S2GNGXJAZMQYD"
+type = "issuance"
+subtype = "EO"
+name = "EO-317"
+
+[meta]
+date_filed = "1950-05-22"
+lawphil_title = "Declaring Certain Barrios, Which Were the Subject Matter of the Former Boundary Dispute Between the Municipalities of Barugo and San Miguel, Both of the Province of Leyte, a Part of the Municipality of Barugo"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_317_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_317_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

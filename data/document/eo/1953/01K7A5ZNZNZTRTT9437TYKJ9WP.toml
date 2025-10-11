@@ -1,0 +1,11 @@
+id = "01K7A5ZNZNZTRTT9437TYKJ9WP"
+type = "issuance"
+subtype = "EO"
+name = "EO-590"
+
+[meta]
+date_filed = "1953-05-05"
+lawphil_title = "Reducing the 1952 Taxes on All Real Properties Located in the Municipalities of La Paz, Dulag, Pintuyan, Naval, Bontoc, Barugo, Calubian and Palo, All in the Province of Leyte"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1953/eo_590_1953.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1953/pdf/eo_590_1953.pdf"]
+lawphil_tenure = "Elpidio Quirino"

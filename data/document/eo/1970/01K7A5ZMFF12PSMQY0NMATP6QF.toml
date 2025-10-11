@@ -1,0 +1,11 @@
+id = "01K7A5ZMFF12PSMQY0NMATP6QF"
+type = "issuance"
+subtype = "EO"
+name = "EO-246"
+
+[meta]
+date_filed = "1970-06-18"
+lawphil_title = "Amending Executive Order No. 238 Dated June 18,1970, entitled \"Creating a commitee to study, evolve, and recommend policies relative to the settlement of land disputed and priorities in the granting of titles over public landsï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1970/eo_246_1970.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1970/pdf/eo_246_1970.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

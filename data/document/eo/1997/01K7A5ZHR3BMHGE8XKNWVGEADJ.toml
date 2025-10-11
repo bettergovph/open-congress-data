@@ -1,0 +1,11 @@
+id = "01K7A5ZHR3BMHGE8XKNWVGEADJ"
+type = "issuance"
+subtype = "EO"
+name = "EO-421"
+
+[meta]
+date_filed = "1997-06-20"
+lawphil_title = "Further amending Executive Order No. 203 dated 27 September 1994, as amended by Executive Order No. 356, dated 12 July 1996"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1997/eo_421_1997.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1997/pdf/eo_421_1997.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

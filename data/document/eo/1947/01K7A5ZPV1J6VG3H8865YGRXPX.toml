@@ -1,0 +1,11 @@
+id = "01K7A5ZPV1J6VG3H8865YGRXPX"
+type = "issuance"
+subtype = "EO"
+name = "EO-040"
+
+[meta]
+date_filed = "1947-01-13"
+lawphil_title = "Creating the Council of National Defense"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1947/eo_40_1947.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1947/pdf/eo_40_1947.pdf"]
+lawphil_tenure = "Manuel Roxas"

@@ -1,0 +1,11 @@
+id = "01K7A5ZPCADD4S6APWP4RP4M65"
+type = "issuance"
+subtype = "EO"
+name = "EO-333"
+
+[meta]
+date_filed = "1950-07-15"
+lawphil_title = "Authorizing the Price Administration Board to Make Adjustments in the Maximum Prices to Which An Importer or Wholesaler Is Entitled"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_333_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_333_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

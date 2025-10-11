@@ -1,0 +1,11 @@
+id = "01K7A5ZHZWDEAF4SVQ2P8WDP05"
+type = "issuance"
+subtype = "EO"
+name = "EO-250"
+
+[meta]
+date_filed = "1995-06-02"
+lawphil_title = "Implementing the rationalization of Duty Free stores/outlets and their operations in the Philippines pursuant to Executive Order No. 140 and for other purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1995/eo_250_1995.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1995/pdf/eo_250_1995.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

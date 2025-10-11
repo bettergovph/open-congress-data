@@ -1,0 +1,11 @@
+id = "01K7A5ZFMBJ9Z9YFTDP1A18VP0"
+type = "issuance"
+subtype = "EO"
+name = "EO-040"
+
+[meta]
+date_filed = "2011-04-29"
+lawphil_title = "Implementation of the third tranche of the modified salary schedule for civilian personnel and base pay schedule for military and uniformed personnel in the government"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2011/eo_40_2011.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2011/pdf/eo_40_2011.pdf"]
+lawphil_tenure = "Benigno Aquino, III Noynoy"

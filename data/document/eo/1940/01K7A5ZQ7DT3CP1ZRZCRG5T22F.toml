@@ -1,0 +1,11 @@
+id = "01K7A5ZQ7DT3CP1ZRZCRG5T22F"
+type = "issuance"
+subtype = "EO"
+name = "EO-309"
+
+[meta]
+date_filed = "1940-11-22"
+lawphil_title = "Amending Further Executive Order No. 47, Dated July 7, 1936 as Amended By Executive Order No. 294, Dated August 5, 1940, Fixing the Width of Road and Street Rights-Of-Way Through Public Land."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1940/eo_309_1940.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1940/pdf/eo_309_1940.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

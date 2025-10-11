@@ -1,0 +1,11 @@
+id = "01K7A5ZNMVDZRB3JQKHVCE44QM"
+type = "issuance"
+subtype = "EO"
+name = "EO-148"
+
+[meta]
+date_filed = "1955-12-28"
+lawphil_title = "Creating a National Housing Council to Advise the President of the Philippines on Housing Matters"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1955/eo_148_1955.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1955/pdf/eo_148_1955.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

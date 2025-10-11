@@ -1,0 +1,11 @@
+id = "01K7A5ZHMNPF6DSYZ3CJAKGJ9F"
+type = "issuance"
+subtype = "EO"
+name = "EO-009"
+
+[meta]
+date_filed = "1998-08-04"
+lawphil_title = "Directing all concerned government institutions to ensure the millennium compliance of their computer-based systems"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1998/eo_9_1998.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1998/pdf/eo_9_1998.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

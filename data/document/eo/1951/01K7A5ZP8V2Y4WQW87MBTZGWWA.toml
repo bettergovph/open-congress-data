@@ -1,0 +1,11 @@
+id = "01K7A5ZP8V2Y4WQW87MBTZGWWA"
+type = "issuance"
+subtype = "EO"
+name = "EO-405"
+
+[meta]
+date_filed = "1951-01-25"
+lawphil_title = "Implementing Section 3 of Executive Order No. 383, Dated December 20, 1950, With Respect to the Finances of the Local Governments."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1951/eo_405_1951.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1951/pdf/eo_405_1951.pdf"]
+lawphil_tenure = "Elpidio Quirino"

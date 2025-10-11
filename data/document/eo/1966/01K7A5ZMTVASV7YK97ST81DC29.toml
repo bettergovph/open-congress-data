@@ -1,0 +1,11 @@
+id = "01K7A5ZMTVASV7YK97ST81DC29"
+type = "issuance"
+subtype = "EO"
+name = "EO-002"
+
+[meta]
+date_filed = "1966-01-05"
+lawphil_title = "Directing the Central Bank of the Philippines to Collect Through the Banking System the Estimated Customs Duties, Taxes and Other Levies Due on All Imported Articles and Merchandise"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1966/eo_2_1966.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1966/pdf/eo_2_1966.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

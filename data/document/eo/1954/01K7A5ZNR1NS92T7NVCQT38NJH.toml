@@ -1,0 +1,11 @@
+id = "01K7A5ZNR1NS92T7NVCQT38NJH"
+type = "issuance"
+subtype = "EO"
+name = "EO-084"
+
+[meta]
+date_filed = "1954-12-09"
+lawphil_title = "Creating the Municipality of Saint Bernard in the Province of Leyte"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1954/eo_84_1954.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1954/pdf/eo_84_1954.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

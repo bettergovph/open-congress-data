@@ -1,0 +1,11 @@
+id = "01K7A5ZQ5P0KB5SE51Q6AKMDYT"
+type = "issuance"
+subtype = "EO"
+name = "EO-340"
+
+[meta]
+date_filed = "1941-05-03"
+lawphil_title = "Requiring Dealer, Distributions, Etc. to Report Stocks of Foods and Feeds in Their Possession and of Those Arriving Under Contract"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1941/eo_340_1941.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1941/pdf/eo_340_1941.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

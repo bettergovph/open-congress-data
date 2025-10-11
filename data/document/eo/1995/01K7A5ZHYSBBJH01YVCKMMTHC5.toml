@@ -1,0 +1,11 @@
+id = "01K7A5ZHYSBBJH01YVCKMMTHC5"
+type = "issuance"
+subtype = "EO"
+name = "EO-275"
+
+[meta]
+date_filed = "1995-09-14"
+lawphil_title = "Creating a committee for the special protection of children from all forms of neglect, abuse, cruelty, exploitation, discrimination and other conditions prejudicial to their development"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1995/eo_275_1995.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1995/pdf/eo_275_1995.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

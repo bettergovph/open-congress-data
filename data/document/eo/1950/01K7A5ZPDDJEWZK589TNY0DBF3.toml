@@ -1,0 +1,11 @@
+id = "01K7A5ZPDDJEWZK589TNY0DBF3"
+type = "issuance"
+subtype = "EO"
+name = "EO-311"
+
+[meta]
+date_filed = "1950-04-30"
+lawphil_title = "Abolishing the Municipality of Lapinig in the Province of Samar, and Restoring the Different Barrios Composing This Municipality to the Respective Municipalities and the Municipal District to Which They Belonged Before Becoming Parts of Lapinig."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_311_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_311_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

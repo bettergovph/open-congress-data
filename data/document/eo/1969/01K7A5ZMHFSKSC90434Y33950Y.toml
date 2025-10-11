@@ -1,0 +1,11 @@
+id = "01K7A5ZMHFSKSC90434Y33950Y"
+type = "issuance"
+subtype = "EO"
+name = "EO-202"
+
+[meta]
+date_filed = "1969-12-24"
+lawphil_title = "Creating a Presidential Commission to Survey Philippine Education"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1969/eo_202_1969.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1969/pdf/eo_202_1969.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

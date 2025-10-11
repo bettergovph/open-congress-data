@@ -1,0 +1,11 @@
+id = "01K7A5ZQ9X1NFFXMWDF9QRKK8Y"
+type = "issuance"
+subtype = "EO"
+name = "EO-267"
+
+[meta]
+date_filed = "1940-04-15"
+lawphil_title = "Organization of the Philippine Army Nurse Corps Reserve"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1940/eo_267_1940.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1940/pdf/eo_267_1940.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

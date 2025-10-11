@@ -1,0 +1,11 @@
+id = "01K7A5ZQRQAJH4GYC966RP2Z0H"
+type = "issuance"
+subtype = "EO"
+name = "EO-088"
+
+[meta]
+date_filed = "1913-10-04"
+lawphil_title = "Signed on October 4, 1913: Executive Order No. 88."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1913/eo_88_1913.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1913/pdf/eo_88_1913.pdf"]
+lawphil_tenure = "Newton W. Gilbert"

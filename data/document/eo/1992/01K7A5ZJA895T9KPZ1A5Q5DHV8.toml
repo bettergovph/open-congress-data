@@ -1,0 +1,11 @@
+id = "01K7A5ZJA895T9KPZ1A5Q5DHV8"
+type = "issuance"
+subtype = "EO"
+name = "EO-009"
+
+[meta]
+date_filed = "1992-08-07"
+lawphil_title = "Transferring the National Stud Farm From the Philippine Racing Commission, Office of the President to the Department of Agriculture"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1992/eo_9_1992.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1992/pdf/eo_9_1992.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

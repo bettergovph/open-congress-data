@@ -1,0 +1,11 @@
+id = "01K7A5ZK0M4CJ3HC104SYW18S1"
+type = "issuance"
+subtype = "EO"
+name = "EO-068"
+
+[meta]
+date_filed = "1986-11-21"
+lawphil_title = "Modifying Presidential Decree No. 198, as Amended"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1986/eo_68_1986.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1986/pdf/eo_68_1986.pdf"]
+lawphil_tenure = "Corazon Aquino"

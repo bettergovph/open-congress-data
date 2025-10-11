@@ -1,0 +1,11 @@
+id = "01K7A5ZFQYWZZ87FJQ8H8FQ3EH"
+type = "issuance"
+subtype = "EO"
+name = "EO-876"
+
+[meta]
+date_filed = "2010-03-10"
+lawphil_title = "Amending Executive Order No. 733"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2010/eo_876_2010.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2010/pdf/eo_876_2010.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

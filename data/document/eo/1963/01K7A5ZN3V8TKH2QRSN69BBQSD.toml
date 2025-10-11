@@ -1,0 +1,11 @@
+id = "01K7A5ZN3V8TKH2QRSN69BBQSD"
+type = "issuance"
+subtype = "EO"
+name = "EO-043"
+
+[meta]
+date_filed = "1963-07-29"
+lawphil_title = "Amending Executive Order No. 34, Current Series, Reclassifying All Chartered Cities, Except Manila, Baguio and Quezon Cities, So as to Adjust the Classification of the City of Legazpi"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1963/eo_43_1963.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1963/pdf/eo_43_1963.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

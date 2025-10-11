@@ -1,0 +1,11 @@
+id = "01K7A5ZHN1E8QKAK4BD376TCF8"
+type = "issuance"
+subtype = "EO"
+name = "EO-001"
+
+[meta]
+date_filed = "1998-08-07"
+lawphil_title = "Rescinding the proviso on the \"over and above\" allowance of public school teachers and other related teaching personnel under Section 6 of Executive Order No. 389"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1998/eo_1_1998.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1998/pdf/eo_1_1998.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

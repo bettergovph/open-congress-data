@@ -1,0 +1,11 @@
+id = "01K7A5ZFMV8J2AGDZPWZDFMR25"
+type = "issuance"
+subtype = "EO"
+name = "EO-030"
+
+[meta]
+date_filed = "2011-03-14"
+lawphil_title = "Transferring the Land Registration Authority (LRA) from the Department of Environment and Natural Resources (DENR) to the Department of Justice (DOJ), repealing for the purpose Executive Order No. 690, series of 2007"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2011/eo_30_2011.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2011/pdf/eo_30_2011.pdf"]
+lawphil_tenure = "Benigno Aquino, III Noynoy"

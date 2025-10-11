@@ -1,0 +1,11 @@
+id = "01K7A5ZJ8HRWFH62FA6EMHPPKC"
+type = "issuance"
+subtype = "EO"
+name = "EO-050"
+
+[meta]
+date_filed = "1993-01-21"
+lawphil_title = "Amending Executive Order No. 503, dated January 22, 1992, to grant authority to national government agencies concerned affected by the devolution, to reorganize and restructure as a result of the devolution process"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1993/eo_50_1993.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1993/pdf/eo_50_1993.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

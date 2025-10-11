@@ -1,0 +1,11 @@
+id = "01K7A5ZPB1WFJPDQ3ZX2G9TYYB"
+type = "issuance"
+subtype = "EO"
+name = "EO-360"
+
+[meta]
+date_filed = "1950-11-03"
+lawphil_title = "Fixing the Ceiling Prices of Commodities and for Other Purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_360_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_360_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

@@ -1,0 +1,11 @@
+id = "01K7A5ZQCE11Y6P165RFDNVYS1"
+type = "issuance"
+subtype = "EO"
+name = "EO-213"
+
+[meta]
+date_filed = "1939-07-10"
+lawphil_title = "Annexing a Certain Portion of the Territory of the Municipality of Majayjay, Province of Laguna, to the Municipality of Lilio, Same Province"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1939/eo_213_1939.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1939/pdf/eo_213_1939.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

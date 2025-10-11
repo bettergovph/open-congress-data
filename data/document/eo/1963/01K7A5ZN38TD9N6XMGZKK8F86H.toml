@@ -1,0 +1,11 @@
+id = "01K7A5ZN38TD9N6XMGZKK8F86H"
+type = "issuance"
+subtype = "EO"
+name = "EO-057"
+
+[meta]
+date_filed = "1963-11-24"
+lawphil_title = "Providing Instructions to Be Followed in the Conduct of Public Affairs During the Time That the President Is Outside the Philippines"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1963/eo_57_1963.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1963/pdf/eo_57_1963.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

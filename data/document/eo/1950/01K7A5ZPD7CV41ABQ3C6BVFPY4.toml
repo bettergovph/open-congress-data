@@ -1,0 +1,11 @@
+id = "01K7A5ZPD7CV41ABQ3C6BVFPY4"
+type = "issuance"
+subtype = "EO"
+name = "EO-315"
+
+[meta]
+date_filed = "1950-05-05"
+lawphil_title = "Amending Executive Order No. 259, Dated August 30, 1949, Creating a Fire Prevention Board"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_315_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_315_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

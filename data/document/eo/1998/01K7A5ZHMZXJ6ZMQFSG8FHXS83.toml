@@ -1,0 +1,11 @@
+id = "01K7A5ZHMZXJ6ZMQFSG8FHXS83"
+type = "issuance"
+subtype = "EO"
+name = "EO-002"
+
+[meta]
+date_filed = "1998-07-13"
+lawphil_title = "Transferring the National Food Authority from the Department of Agriculture to the Office of the President"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1998/eo_2_1998.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1998/pdf/eo_2_1998.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

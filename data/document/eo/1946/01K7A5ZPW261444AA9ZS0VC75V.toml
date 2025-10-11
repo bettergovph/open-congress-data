@@ -1,0 +1,11 @@
+id = "01K7A5ZPW261444AA9ZS0VC75V"
+type = "issuance"
+subtype = "EO"
+name = "EO-018"
+
+[meta]
+date_filed = "1946-09-16"
+lawphil_title = "Establishing the Organization and Operation of the Department of Foreign Affairs and of the Foreign Service of the Republic of the Philippines and Fixing the Emoluments, Privileges and Allowances of the Officers and Employees Thereof."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1946/eo_18_1946.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1946/pdf/eo_18_1946.pdf"]
+lawphil_tenure = "Manuel Roxas"

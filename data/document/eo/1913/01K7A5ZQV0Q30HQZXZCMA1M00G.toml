@@ -1,0 +1,11 @@
+id = "01K7A5ZQV0Q30HQZXZCMA1M00G"
+type = "issuance"
+subtype = "EO"
+name = "EO-040"
+
+[meta]
+date_filed = "1913-06-13"
+lawphil_title = "Signed on June 13, 1913: Executive Order No. 40."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1913/eo_40_1913.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1913/pdf/eo_40_1913.pdf"]
+lawphil_tenure = "W. Cameron Forbes"

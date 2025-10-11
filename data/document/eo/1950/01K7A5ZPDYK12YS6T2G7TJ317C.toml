@@ -1,0 +1,11 @@
+id = "01K7A5ZPDYK12YS6T2G7TJ317C"
+type = "issuance"
+subtype = "EO"
+name = "EO-300"
+
+[meta]
+date_filed = "1950-01-06"
+lawphil_title = "Amending Executive Order No. 93 of the President of the Philippines, Dated October 4, 1941, Entitled, ï¿½Abolishing the National Enterprises Control Board, Creating the Government Enterprises Council, Transferring the Metropolitan Transportation Service to the Manila Railroad Company, Dissolving and Merging Certain Corporations Owned or Controlled By the Government, and for Other Purposesï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_300_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_300_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

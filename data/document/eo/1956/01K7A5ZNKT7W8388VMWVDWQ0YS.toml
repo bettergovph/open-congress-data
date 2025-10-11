@@ -1,0 +1,11 @@
+id = "01K7A5ZNKT7W8388VMWVDWQ0YS"
+type = "issuance"
+subtype = "EO"
+name = "EO-170"
+
+[meta]
+date_filed = "1956-03-28"
+lawphil_title = "Fixing Office Hours During the Hot Season"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1956/eo_170_1956.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1956/pdf/eo_170_1956.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

@@ -1,0 +1,11 @@
+id = "01K7A5ZFQ92BX2J1WZMKFJYZFP"
+type = "issuance"
+subtype = "EO"
+name = "EO-889"
+
+[meta]
+date_filed = "2010-06-10"
+lawphil_title = "Amending Section 1 of Executive Order No. 780 transferring the direct supervision and control of the Telecommunications Office (TELOF) and all operating units supporting communications from the Department of Transportation and Communications (DOTC) to the Commission on Information and Communications Technology (CICT)"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2010/eo_889_2010.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2010/pdf/eo_889_2010.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

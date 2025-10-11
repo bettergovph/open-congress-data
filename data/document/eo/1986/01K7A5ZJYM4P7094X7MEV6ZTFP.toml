@@ -1,0 +1,11 @@
+id = "01K7A5ZJYM4P7094X7MEV6ZTFP"
+type = "issuance"
+subtype = "EO"
+name = "EO-111"
+
+[meta]
+date_filed = "1986-12-24"
+lawphil_title = "Amending Certain Provisions of the Labor Code of the Philippines, as Amended"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1986/eo_111_1986.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1986/pdf/eo_111_1986.pdf"]
+lawphil_tenure = "Corazon Aquino"

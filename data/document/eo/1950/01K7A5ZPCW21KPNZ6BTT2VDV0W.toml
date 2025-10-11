@@ -1,0 +1,11 @@
+id = "01K7A5ZPCW21KPNZ6BTT2VDV0W"
+type = "issuance"
+subtype = "EO"
+name = "EO-321"
+
+[meta]
+date_filed = "1950-06-12"
+lawphil_title = "Prescribing the Code of the National Flag and the National Anthem of the Republic of the Philippines"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_321_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_321_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

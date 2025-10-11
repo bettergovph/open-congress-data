@@ -1,0 +1,11 @@
+id = "01K7A5ZJ58T0FVHBE040ECHZ9R"
+type = "issuance"
+subtype = "EO"
+name = "EO-123"
+
+[meta]
+date_filed = "1993-09-08"
+lawphil_title = "Institutionalizing the Committee on Power Conservation and Demand Management"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1993/eo_123_1993.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1993/pdf/eo_123_1993.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

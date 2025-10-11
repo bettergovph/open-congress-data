@@ -1,0 +1,11 @@
+id = "01K7A5ZNYY5C5AT1Z4N3660J8F"
+type = "issuance"
+subtype = "EO"
+name = "EO-605"
+
+[meta]
+date_filed = "1953-06-26"
+lawphil_title = "Providing Instructions to Be Followed in the Conduct of Public Affairs During the Time That the President Is Outside the Philippines."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1953/eo_605_1953.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1953/pdf/eo_605_1953.pdf"]
+lawphil_tenure = "Elpidio Quirino"

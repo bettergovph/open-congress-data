@@ -1,0 +1,11 @@
+id = "01K7A5ZH9PYQTWR28NJMDRFXY4"
+type = "issuance"
+subtype = "EO"
+name = "EO-244"
+
+[meta]
+date_filed = "2000-05-15"
+lawphil_title = "Amending Executive Order No. 512 (S. 1992) as Amended, Providing for the Creation of the Mindano Economic Development Council and for Other Purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2000/eo_244_2000.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2000/pdf/eo_244_2000.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

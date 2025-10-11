@@ -1,0 +1,11 @@
+id = "01K7A5ZF34A3CDD9ZCH85TCNNK"
+type = "issuance"
+subtype = "EO"
+name = "EO-020"
+
+[meta]
+date_filed = "2023-03-23"
+lawphil_title = "Establishing the Presidential Help Desk"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2023/eo_20_2023.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2023/pdf/eo_20_2023.pdf"]
+lawphil_tenure = "Ferdinand Marcos, Jr. Bongbong"

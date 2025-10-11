@@ -1,0 +1,11 @@
+id = "01K7A5ZP391ARJR9KYTCPJQFGT"
+type = "issuance"
+subtype = "EO"
+name = "EO-516"
+
+[meta]
+date_filed = "1952-07-01"
+lawphil_title = "Fixing the Ceiling Prices of Commodities."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1952/eo_516_1952.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1952/pdf/eo_516_1952.pdf"]
+lawphil_tenure = "Elpidio Quirino"

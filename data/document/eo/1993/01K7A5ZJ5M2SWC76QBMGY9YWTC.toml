@@ -1,0 +1,11 @@
+id = "01K7A5ZJ5M2SWC76QBMGY9YWTC"
+type = "issuance"
+subtype = "EO"
+name = "EO-114"
+
+[meta]
+date_filed = "1993-07-23"
+lawphil_title = "Amending Executive Order No. 31"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1993/eo_114_1993.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1993/pdf/eo_114_1993.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

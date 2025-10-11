@@ -1,0 +1,11 @@
+id = "01K7A5ZNMK0NET39KGGRQAWM32"
+type = "issuance"
+subtype = "EO"
+name = "EO-153"
+
+[meta]
+date_filed = "1955-12-31"
+lawphil_title = "Amending Executive Order No. 7 Dated January 7, 1954, Entitled ï¿½Creating the Peace and Amelioration Fund Commissionï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1955/eo_153_1955.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1955/pdf/eo_153_1955.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

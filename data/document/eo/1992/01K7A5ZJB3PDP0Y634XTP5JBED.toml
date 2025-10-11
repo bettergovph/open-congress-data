@@ -1,0 +1,11 @@
+id = "01K7A5ZJB3PDP0Y634XTP5JBED"
+type = "issuance"
+subtype = "EO"
+name = "EO-514"
+
+[meta]
+date_filed = "1992-03-26"
+lawphil_title = "Further Amending Executive Order No. 495, Series of 1991, as Amended, By Providing for the Regularization of the Philippine Shippers' Council"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1992/eo_514_1992.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1992/pdf/eo_514_1992.pdf"]
+lawphil_tenure = "Corazon Aquino Cory"

@@ -1,0 +1,11 @@
+id = "01K7A5ZQR3YZDWMWNVPB8M0RPR"
+type = "issuance"
+subtype = "EO"
+name = "EO-096"
+
+[meta]
+date_filed = "1913-11-08"
+lawphil_title = "Signed on November 8, 1913: Executive Order No. 96."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1913/eo_96_1913.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1913/pdf/eo_96_1913.pdf"]
+lawphil_tenure = "Francis Burton Harrison"

@@ -1,0 +1,11 @@
+id = "01K7A5ZH6V2AMH6Z4R10MQS8QC"
+type = "issuance"
+subtype = "EO"
+name = "EO-303"
+
+[meta]
+date_filed = "2000-10-20"
+lawphil_title = "Amending Executive Order No. 444, S. 1997, Providing for the Rationalization of Duty Free Stores/Outlets and Their Operations in the Philippines Pursuant to Executive Order Nos. 250, 250-A, S. 1995, 419, S. 1997 and 140, S. 1993, and for Other Purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2000/eo_303_2000.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2000/pdf/eo_303_2000.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

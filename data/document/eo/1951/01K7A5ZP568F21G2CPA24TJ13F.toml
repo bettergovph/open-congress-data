@@ -1,0 +1,11 @@
+id = "01K7A5ZP568F21G2CPA24TJ13F"
+type = "issuance"
+subtype = "EO"
+name = "EO-477"
+
+[meta]
+date_filed = "1951-10-12"
+lawphil_title = "Amending Executive Order No. 345, Dated September 19, 1950, By Providing Additional Purposes for Which Disbursements May Be Made Out of the Peace Fund"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1951/eo_477_1951.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1951/pdf/eo_477_1951.pdf"]
+lawphil_tenure = "Elpidio Quirino"

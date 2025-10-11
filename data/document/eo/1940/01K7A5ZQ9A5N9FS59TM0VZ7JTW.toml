@@ -1,0 +1,11 @@
+id = "01K7A5ZQ9A5N9FS59TM0VZ7JTW"
+type = "issuance"
+subtype = "EO"
+name = "EO-279"
+
+[meta]
+date_filed = "1940-06-07"
+lawphil_title = "Allowing Certain Reserve Officers of the Philippine Army to Possess Firearms Under Certificate of Registration."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1940/eo_279_1940.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1940/pdf/eo_279_1940.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

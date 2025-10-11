@@ -1,0 +1,11 @@
+id = "01K7A5ZN07AP8PP3BY03WTEMPV"
+type = "issuance"
+subtype = "EO"
+name = "EO-121"
+
+[meta]
+date_filed = "1964-10-31"
+lawphil_title = "Creating the Municipality of General Aguinaldo in the Province of Zamboanga Del Sur"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1964/eo_121_1964.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1964/pdf/eo_121_1964.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

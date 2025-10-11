@@ -1,0 +1,11 @@
+id = "01K7A5ZHRJP23B5TME7ZG9Z9P9"
+type = "issuance"
+subtype = "EO"
+name = "EO-409"
+
+[meta]
+date_filed = "1997-04-15"
+lawphil_title = "Amending Section 2 of Executive Order No. 374 dated 15 October 1996 which established the Presidential Task Force on Water Resources Development and Management"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1997/eo_409_1997.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1997/pdf/eo_409_1997.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

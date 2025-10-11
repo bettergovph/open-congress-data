@@ -1,0 +1,11 @@
+id = "01K7A5ZMYZCPWX3CPWD026Y865"
+type = "issuance"
+subtype = "EO"
+name = "EO-146"
+
+[meta]
+date_filed = "1965-03-30"
+lawphil_title = "Enjoining All Officers and Employees of the Executive Branch of the Government to Cooperate in the Drive Against Smuggled Products and to Desist From Buying, Possessing or Using Them and Appealing to the Public for Cooperation"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1965/eo_146_1965.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1965/pdf/eo_146_1965.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

@@ -1,0 +1,11 @@
+id = "01K7A5ZJ1Q67YCQ8X173WADH9V"
+type = "issuance"
+subtype = "EO"
+name = "EO-202"
+
+[meta]
+date_filed = "1994-09-22"
+lawphil_title = "Transferring the Securities and Exchange Commission to the Department of Finance"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1994/eo_202_1994.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1994/pdf/eo_202_1994.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

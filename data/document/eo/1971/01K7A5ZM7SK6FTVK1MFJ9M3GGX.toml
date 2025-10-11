@@ -1,0 +1,11 @@
+id = "01K7A5ZM7SK6FTVK1MFJ9M3GGX"
+type = "issuance"
+subtype = "EO"
+name = "EO-345"
+
+[meta]
+date_filed = "1971-10-29"
+lawphil_title = "Creating the National Commission for the Second Development Decade"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1971/eo_345_1971.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1971/pdf/eo_345_1971.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

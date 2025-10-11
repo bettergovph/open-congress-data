@@ -1,0 +1,11 @@
+id = "01K7A5ZNJQY16KTFZMVF0M8SBW"
+type = "issuance"
+subtype = "EO"
+name = "EO-193"
+
+[meta]
+date_filed = "1956-07-20"
+lawphil_title = "Designating the President of the Sanitary Inspectors Association of the Philippines as a Member of the National Advisory Health Council"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1956/eo_193_1956.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1956/pdf/eo_193_1956.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

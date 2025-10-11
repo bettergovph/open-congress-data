@@ -1,0 +1,11 @@
+id = "01K7A5ZPBK80YR5KG493F68Z0J"
+type = "issuance"
+subtype = "EO"
+name = "EO-348"
+
+[meta]
+date_filed = "1950-09-29"
+lawphil_title = "Organizing the Philippine Information Service"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_348_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_348_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

@@ -1,0 +1,11 @@
+id = "01K7A5ZMZ35PEA6XMP3T6GFKP7"
+type = "issuance"
+subtype = "EO"
+name = "EO-144"
+
+[meta]
+date_filed = "1965-03-06"
+lawphil_title = "Amending Executive Order No. 83, Dated May 18, 1964, Entitled ï¿½Requiring All Departments, Bureaus, Offices, Agencies, Instrumentalities and Political Subdivisions of the Government, Including the Corporations Owned and Controlled By the Government, the Armed Forces, Government Hospitals, and Public Educational Institutions to Buy Through Public Bidding From Local Textile Mills, Whenever Available, All Their Requirements for Clothing Materialsï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1965/eo_144_1965.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1965/pdf/eo_144_1965.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

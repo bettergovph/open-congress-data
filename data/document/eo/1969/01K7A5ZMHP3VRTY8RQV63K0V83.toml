@@ -1,0 +1,11 @@
+id = "01K7A5ZMHP3VRTY8RQV63K0V83"
+type = "issuance"
+subtype = "EO"
+name = "EO-197"
+
+[meta]
+date_filed = "1969-10-14"
+lawphil_title = "Authorizing the Documentation and Admission of Foreign Nationals Employed Under Republic Act No. 5186, Otherwise Known as the Investment Incentives Act, as Nonimmigrants Under Section 47(A)(2) of the Philippine Immigration Act of 1940, as Amended"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1969/eo_197_1969.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1969/pdf/eo_197_1969.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

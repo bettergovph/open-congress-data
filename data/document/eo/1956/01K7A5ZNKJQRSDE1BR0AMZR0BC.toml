@@ -1,0 +1,11 @@
+id = "01K7A5ZNKJQRSDE1BR0AMZR0BC"
+type = "issuance"
+subtype = "EO"
+name = "EO-175"
+
+[meta]
+date_filed = "1956-04-04"
+lawphil_title = "Amending Executive Order No. 73, Dated September 30, 1954"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1956/eo_175_1956.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1956/pdf/eo_175_1956.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

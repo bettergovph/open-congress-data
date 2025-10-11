@@ -1,0 +1,11 @@
+id = "01K7A5ZPN7CWRYRZFZBA5BGF3P"
+type = "issuance"
+subtype = "EO"
+name = "EO-150"
+
+[meta]
+date_filed = "1948-07-07"
+lawphil_title = "Creating the Social Security Study Commission"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1948/eo_150_1948.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1948/pdf/eo_150_1948.pdf"]
+lawphil_tenure = "Elpidio Quirino"

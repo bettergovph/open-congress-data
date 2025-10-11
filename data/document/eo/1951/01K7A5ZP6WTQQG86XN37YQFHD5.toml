@@ -1,0 +1,11 @@
+id = "01K7A5ZP6WTQQG86XN37YQFHD5"
+type = "issuance"
+subtype = "EO"
+name = "EO-442"
+
+[meta]
+date_filed = "1951-05-26"
+lawphil_title = "Amending Executive Order Numbered Three Hundred and Forty-Three, Executive Order Numbered Three Hundred and Fifty-Two, Executive Order Numbered Three Hundred and Fifty-Three, Executive Order Numbered Four Hundred Thirty-Five, Repealing Executive Order Numbered Three Hundred Sixty-One, and for Other Purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1951/eo_442_1951.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1951/pdf/eo_442_1951.pdf"]
+lawphil_tenure = "Elpidio Quirino"

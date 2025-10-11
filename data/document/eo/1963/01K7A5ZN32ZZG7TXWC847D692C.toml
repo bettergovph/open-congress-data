@@ -1,0 +1,11 @@
+id = "01K7A5ZN32ZZG7TXWC847D692C"
+type = "issuance"
+subtype = "EO"
+name = "EO-061"
+
+[meta]
+date_filed = "1963-12-31"
+lawphil_title = "Amending Executive Order No. 42, Current Series, Declaring Certain Municipal Districts in the Philippines as Municipalities So as to Include Therein Alilem, Angaki, San Emilio, and Suyo, All of Ilocos Sur, and Matungao, Lanao Del Norte"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1963/eo_61_1963.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1963/pdf/eo_61_1963.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

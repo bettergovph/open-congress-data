@@ -1,0 +1,11 @@
+id = "01K7A5ZJGCN1WHGAHJC0KS5AF2"
+type = "issuance"
+subtype = "EO"
+name = "EO-400"
+
+[meta]
+date_filed = "1990-04-26"
+lawphil_title = "Granting supplemental pensions to Social Security System (SSS) total permanent disability pensioners"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1990/eo_400_1990.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1990/pdf/eo_400_1990.pdf"]
+lawphil_tenure = "Corazon Aquino Cory"

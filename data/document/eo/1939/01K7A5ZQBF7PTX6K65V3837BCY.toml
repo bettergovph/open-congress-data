@@ -1,0 +1,11 @@
+id = "01K7A5ZQBF7PTX6K65V3837BCY"
+type = "issuance"
+subtype = "EO"
+name = "EO-233"
+
+[meta]
+date_filed = "1939-11-08"
+lawphil_title = "Fixing the Maximum Selling Prices of Certain Articles of Prime Necessity"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1939/eo_233_1939.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1939/pdf/eo_233_1939.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

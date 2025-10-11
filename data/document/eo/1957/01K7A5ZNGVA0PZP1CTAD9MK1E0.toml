@@ -1,0 +1,11 @@
+id = "01K7A5ZNGVA0PZP1CTAD9MK1E0"
+type = "issuance"
+subtype = "EO"
+name = "EO-233"
+
+[meta]
+date_filed = "1957-01-31"
+lawphil_title = "Returning the Seat of Government of the Municipality of Nueva Valencia, Province of Iloilo, From Its Present Site At the Barrio of Igang to Its Former Site At the Barrio of Santa Ana, Same Municipality."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1957/eo_233_1957.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1957/pdf/eo_233_1957.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

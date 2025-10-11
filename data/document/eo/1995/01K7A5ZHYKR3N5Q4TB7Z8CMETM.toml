@@ -1,0 +1,11 @@
+id = "01K7A5ZHYKR3N5Q4TB7Z8CMETM"
+type = "issuance"
+subtype = "EO"
+name = "EO-265"
+
+[meta]
+date_filed = "1995-10-04"
+lawphil_title = "Amending Executive Order No. 315, as amended, thereby transferring and rationalizing the powers and functions of the Presidential Committee on the Bataan Nuclear Power Plant to various government agencies"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1995/eo_265_1995.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1995/pdf/eo_265_1995.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

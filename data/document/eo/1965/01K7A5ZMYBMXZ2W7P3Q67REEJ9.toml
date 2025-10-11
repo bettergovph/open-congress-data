@@ -1,0 +1,11 @@
+id = "01K7A5ZMYBMXZ2W7P3Q67REEJ9"
+type = "issuance"
+subtype = "EO"
+name = "EO-158"
+
+[meta]
+date_filed = "1965-07-24"
+lawphil_title = "Revoking Executive Order No. 375, Issued on February 9, 1960, Entitled, ï¿½Transferring the Seat of Government of the Municipality of Milagros, Province of Masbate, From the Present Site At the Poblacion to the Sitio of Bonbon, Same Municipality"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1965/eo_158_1965.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1965/pdf/eo_158_1965.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

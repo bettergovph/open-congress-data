@@ -1,0 +1,11 @@
+id = "01K7A5ZPDWMVXDBJ8P6VXAMV3N"
+type = "issuance"
+subtype = "EO"
+name = "EO-301"
+
+[meta]
+date_filed = "1950-01-06"
+lawphil_title = "Amending Executive Order No. 295, Dated November 29, 1949"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_301_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_301_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

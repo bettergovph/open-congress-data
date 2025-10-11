@@ -1,0 +1,11 @@
+id = "01K7A5ZHKRWSH6B1KFM7R2N1YV"
+type = "issuance"
+subtype = "EO"
+name = "EO-029"
+
+[meta]
+date_filed = "1998-09-30"
+lawphil_title = "Mandating the streamlining of the National Tobacco Administration"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1998/eo_29_1998.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1998/pdf/eo_29_1998.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

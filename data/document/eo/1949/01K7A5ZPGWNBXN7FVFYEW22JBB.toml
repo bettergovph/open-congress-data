@@ -1,0 +1,11 @@
+id = "01K7A5ZPGWNBXN7FVFYEW22JBB"
+type = "issuance"
+subtype = "EO"
+name = "EO-241"
+
+[meta]
+date_filed = "1949-07-08"
+lawphil_title = "Amending Executive Order No. 169, Dated August 30, 1948, Entitled ï¿½Creating An Opium Custodian Committee for the Enforcement of Act No. 2381, as Amended By Act No. 3006, Otherwise Known as the Opium Lawï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1949/eo_241_1949.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1949/pdf/eo_241_1949.pdf"]
+lawphil_tenure = "Elpidio Quirino"

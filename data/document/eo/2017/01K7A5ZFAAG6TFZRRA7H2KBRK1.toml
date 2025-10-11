@@ -1,0 +1,10 @@
+id = "01K7A5ZFAAG6TFZRRA7H2KBRK1"
+type = "issuance"
+subtype = "EO"
+name = "EO-044"
+
+[meta]
+date_filed = "2017-09-28"
+lawphil_title = "Approving the Acquisition of Philippine Postal Savings Bank By the Land Bank of the Philippines"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2017/eo_44_2017.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2017/pdf/eo_44_2017.pdf"]

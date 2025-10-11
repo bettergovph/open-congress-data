@@ -1,0 +1,11 @@
+id = "01K7A5ZJBA9YRJ5KJ6HE5NCCYC"
+type = "issuance"
+subtype = "EO"
+name = "EO-509"
+
+[meta]
+date_filed = "1992-03-04"
+lawphil_title = "Amending Executive Order No. 495, Series of 1991, By Excluding From the Coverage Thereof the Boy Scouts of the Philippines and for Other Purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1992/eo_509_1992.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1992/pdf/eo_509_1992.pdf"]
+lawphil_tenure = "Corazon Aquino Cory"

@@ -1,0 +1,11 @@
+id = "01K7A5ZJQC5HHR910WR58E0VS8"
+type = "issuance"
+subtype = "EO"
+name = "EO-254"
+
+[meta]
+date_filed = "1987-07-25"
+lawphil_title = "Amending Executive Order Numbered One Hundred Thirteen, Series of Nineteen Hundred Fifty-Five"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1987/eo_254_1987.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1987/pdf/eo_254_1987.pdf"]
+lawphil_tenure = "Corazon Aquino Cory"

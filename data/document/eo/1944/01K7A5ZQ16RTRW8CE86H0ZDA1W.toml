@@ -1,0 +1,11 @@
+id = "01K7A5ZQ16RTRW8CE86H0ZDA1W"
+type = "issuance"
+subtype = "EO"
+name = "EO-024"
+
+[meta]
+date_filed = "1944-11-06"
+lawphil_title = "Amending Executive Order No. 371 of October 2, 1941, Fixing the Maximum Selling Prices of Certain Articles of Prime Necessity, and Promulgating Rules and Regulations for the Enforcement Thereof."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1944/eo_24_1944.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1944/pdf/eo_24_1944.pdf"]
+lawphil_tenure = "Sergio Osmeï¿½a Sergio Osmena"

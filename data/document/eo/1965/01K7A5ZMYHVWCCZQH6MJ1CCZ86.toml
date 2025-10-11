@@ -1,0 +1,11 @@
+id = "01K7A5ZMYHVWCCZQH6MJ1CCZ86"
+type = "issuance"
+subtype = "EO"
+name = "EO-154"
+
+[meta]
+date_filed = "1965-04-16"
+lawphil_title = "Further Amending Executive Order No. 72, Dated December 3, 1936, as Amended By Executive Order No. 383, Dated March 11, 1963, Establishing a Classification of Ports"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1965/eo_154_1965.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1965/pdf/eo_154_1965.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

@@ -1,0 +1,11 @@
+id = "01K7A5ZQVN2Y69XG3CSKDSQZHS"
+type = "issuance"
+subtype = "EO"
+name = "EO-026"
+
+[meta]
+date_filed = "1913-02-26"
+lawphil_title = "Signed on February 26, 1913: Executive Order No. 26."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1913/eo_26_1913.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1913/pdf/eo_26_1913.pdf"]
+lawphil_tenure = "W. Cameron Forbes"

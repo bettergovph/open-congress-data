@@ -1,0 +1,11 @@
+id = "01K7A5ZQBCHHPJW6FX70272KMC"
+type = "issuance"
+subtype = "EO"
+name = "EO-235"
+
+[meta]
+date_filed = "1939-11-17"
+lawphil_title = "Eliminating the Distinction Between Spanish and English Examinations Relative to the Maximum Salary Allowable."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1939/eo_235_1939.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1939/pdf/eo_235_1939.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

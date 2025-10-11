@@ -1,0 +1,11 @@
+id = "01K7A5ZF7M4T1FSC140X5VMQYD"
+type = "issuance"
+subtype = "EO"
+name = "EO-101"
+
+[meta]
+date_filed = "2020-01-10"
+lawphil_title = "Creating an Inter-Agency Task Force on Zero Hunger"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2020/eo_101_2020.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2020/pdf/eo_101_2020.pdf"]
+lawphil_tenure = "Rodrigo Duterte"

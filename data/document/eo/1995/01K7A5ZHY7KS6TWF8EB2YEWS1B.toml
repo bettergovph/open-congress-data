@@ -1,0 +1,11 @@
+id = "01K7A5ZHY7KS6TWF8EB2YEWS1B"
+type = "issuance"
+subtype = "EO"
+name = "EO-285"
+
+[meta]
+date_filed = "1995-11-24"
+lawphil_title = "Amending Executive Order No. 202 (22 September 1994)"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1995/eo_285_1995.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1995/pdf/eo_285_1995.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

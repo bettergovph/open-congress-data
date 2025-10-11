@@ -1,0 +1,11 @@
+id = "01K7A5ZGN1T3YWAYQKQ1B98ZVC"
+type = "issuance"
+subtype = "EO"
+name = "EO-312"
+
+[meta]
+date_filed = "2004-05-01"
+lawphil_title = "Providing Amendments to Executive Order 244, S. 2003, \"Modifiying the Rates of Duty on Motor Vehicles, as Provided for Under the Tariff and Customs Code of 1978 (Presidential Decree No. 1464, as Amended), in Order to Implement Preferential Rates Thereon Under the Automotive Export Program.\""
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2004/eo_312_2004.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2004/pdf/eo_312_2004.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

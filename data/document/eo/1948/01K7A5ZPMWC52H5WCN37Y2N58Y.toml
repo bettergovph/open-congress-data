@@ -1,0 +1,11 @@
+id = "01K7A5ZPMWC52H5WCN37Y2N58Y"
+type = "issuance"
+subtype = "EO"
+name = "EO-157"
+
+[meta]
+date_filed = "1948-07-10"
+lawphil_title = "Defining the Boundary Limits of the Province of Nueva Vizcaya"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1948/eo_157_1948.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1948/pdf/eo_157_1948.pdf"]
+lawphil_tenure = "Elpidio Quirino"

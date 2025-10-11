@@ -1,0 +1,11 @@
+id = "01K7A5ZK2P53PNDMZ9Z90SW27Z"
+type = "issuance"
+subtype = "EO"
+name = "EO-024"
+
+[meta]
+date_filed = "1986-06-27"
+lawphil_title = "Repealing Presidential Decree No. 1193, as Amended, and Letter of Instructions No. 595, as Amended, and Accordingly Revoking and Cancelling the Exclusive Authority Granted in Favor of the Tourist Duty-Free Shops, Inc."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1986/eo_24_1986.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1986/pdf/eo_24_1986.pdf"]
+lawphil_tenure = "Corazon Aquino"

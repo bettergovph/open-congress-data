@@ -1,0 +1,11 @@
+id = "01K7A5ZPHQDPTSHBDM7QWG199Y"
+type = "issuance"
+subtype = "EO"
+name = "EO-223"
+
+[meta]
+date_filed = "1949-06-14"
+lawphil_title = "Authorizing the Allotment of Vacant Agricultural Lands of the Public Domain to All Interested Citizens Desiring to Cultivate Them and Granting Such Citizens the Option to Acquire the Same By Homestead or Purchase, to Accelerate the Production of Foodstuffs and Other Prime Commodities"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1949/eo_223_1949.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1949/pdf/eo_223_1949.pdf"]
+lawphil_tenure = "Elpidio Quirino"

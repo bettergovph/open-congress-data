@@ -1,0 +1,11 @@
+id = "01K7A5ZQ8Z9WE09T613Y8VJT9G"
+type = "issuance"
+subtype = "EO"
+name = "EO-286"
+
+[meta]
+date_filed = "1940-07-08"
+lawphil_title = "Revising Further Executive Order No. 135 Dated December 31, 1937, Establishing a Classification of Roads"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1940/eo_286_1940.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1940/pdf/eo_286_1940.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

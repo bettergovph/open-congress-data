@@ -1,0 +1,11 @@
+id = "01K7A5ZJ8EYPHE254HZQ8T0SHW"
+type = "issuance"
+subtype = "EO"
+name = "EO-052"
+
+[meta]
+date_filed = "1993-01-22"
+lawphil_title = "Requiring the indication of Taxpayer Identification Number (TIN) on certain documents"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1993/eo_52_1993.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1993/pdf/eo_52_1993.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

@@ -1,0 +1,11 @@
+id = "01K7A5ZHGC42JC1QF07Q9ANG6H"
+type = "issuance"
+subtype = "EO"
+name = "EO-101"
+
+[meta]
+date_filed = "1999-05-07"
+lawphil_title = "Providing for the immediate organization and operationalization of the interim Internal Affairs Service (IAS) of the Philippine National Police"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1999/eo_101_1999.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1999/pdf/eo_101_1999.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

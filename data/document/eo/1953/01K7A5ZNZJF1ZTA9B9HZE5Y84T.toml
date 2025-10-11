@@ -1,0 +1,11 @@
+id = "01K7A5ZNZJF1ZTA9B9HZE5Y84T"
+type = "issuance"
+subtype = "EO"
+name = "EO-592"
+
+[meta]
+date_filed = "1953-05-08"
+lawphil_title = "Reducing the 1952 Taxes on All Real Properties Located in the Province of Masbate."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1953/eo_592_1953.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1953/pdf/eo_592_1953.pdf"]
+lawphil_tenure = "Elpidio Quirino"

@@ -1,0 +1,11 @@
+id = "01K7A5ZJDS50QEZPEN8T3HSBBP"
+type = "issuance"
+subtype = "EO"
+name = "EO-456"
+
+[meta]
+date_filed = "1991-04-30"
+lawphil_title = "Revoking Executive Order No. 423, series of 1990, as amended"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1991/eo_456_1991.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1991/pdf/eo_456_1991.pdf"]
+lawphil_tenure = "Corazon Aquino Cory"

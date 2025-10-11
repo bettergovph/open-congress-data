@@ -1,0 +1,11 @@
+id = "01K7A5ZNR969KZ2P30C2E2B03T"
+type = "issuance"
+subtype = "EO"
+name = "EO-079"
+
+[meta]
+date_filed = "1954-11-02"
+lawphil_title = "Creating a National Forestry Council"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1954/eo_79_1954.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1954/pdf/eo_79_1954.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

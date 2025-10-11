@@ -1,0 +1,11 @@
+id = "01K7A5ZPDK4C670PYJKN3G3HJE"
+type = "issuance"
+subtype = "EO"
+name = "EO-307"
+
+[meta]
+date_filed = "1950-03-24"
+lawphil_title = "Fixing Office Hours During the Hot Season"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_307_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_307_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

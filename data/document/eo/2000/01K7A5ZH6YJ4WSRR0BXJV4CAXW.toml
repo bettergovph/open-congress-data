@@ -1,0 +1,11 @@
+id = "01K7A5ZH6YJ4WSRR0BXJV4CAXW"
+type = "issuance"
+subtype = "EO"
+name = "EO-301"
+
+[meta]
+date_filed = "2000-10-16"
+lawphil_title = "Amending Executive Order No. 293, S. 2000, ï¿½For the Holding of the National Summit on Childrenï¿½ and Executive Order No. 294, S. 2000, ï¿½Creating the Office of the Presidential Adviser for Childrenï¿½S Affairsï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2000/eo_301_2000.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2000/pdf/eo_301_2000.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

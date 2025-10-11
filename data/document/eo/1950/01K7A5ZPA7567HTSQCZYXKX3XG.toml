@@ -1,0 +1,11 @@
+id = "01K7A5ZPA7567HTSQCZYXKX3XG"
+type = "issuance"
+subtype = "EO"
+name = "EO-378"
+
+[meta]
+date_filed = "1950-12-01"
+lawphil_title = "Fixing the Ceiling Price of Palay"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_378_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_378_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

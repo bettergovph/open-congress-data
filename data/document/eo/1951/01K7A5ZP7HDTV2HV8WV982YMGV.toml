@@ -1,0 +1,11 @@
+id = "01K7A5ZP7HDTV2HV8WV982YMGV"
+type = "issuance"
+subtype = "EO"
+name = "EO-430"
+
+[meta]
+date_filed = "1951-04-09"
+lawphil_title = "Amending Executive Order No. 331, Executive Order No. 343, Executive Order No. 369 and Executive Order No. 404 and for Other Purposes."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1951/eo_430_1951.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1951/pdf/eo_430_1951.pdf"]
+lawphil_tenure = "Elpidio Quirino"

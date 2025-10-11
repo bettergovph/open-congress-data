@@ -1,0 +1,11 @@
+id = "01K7A5ZN1YZVRZ1M8WAX1FRYHM"
+type = "issuance"
+subtype = "EO"
+name = "EO-086"
+
+[meta]
+date_filed = "1964-06-12"
+lawphil_title = "Providing Instructions to Be Followed in the Conduct of Public Affairs During the Time That the President Is Outside the Philippines"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1964/eo_86_1964.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1964/pdf/eo_86_1964.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

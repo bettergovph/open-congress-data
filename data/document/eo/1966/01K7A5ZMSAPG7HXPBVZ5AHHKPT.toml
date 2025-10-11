@@ -1,0 +1,11 @@
+id = "01K7A5ZMSAPG7HXPBVZ5AHHKPT"
+type = "issuance"
+subtype = "EO"
+name = "EO-035"
+
+[meta]
+date_filed = "1966-07-27"
+lawphil_title = "Amending Executive Order No. 29 Dated June 9, 1966, Creating the Peace and Order Council"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1966/eo_35_1966.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1966/pdf/eo_35_1966.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

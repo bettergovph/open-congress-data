@@ -1,0 +1,11 @@
+id = "01K7A5ZQ810HGB5QZA6TZ81337"
+type = "issuance"
+subtype = "EO"
+name = "EO-300"
+
+[meta]
+date_filed = "1940-09-03"
+lawphil_title = "Placing the Bureau of Immigration Under the Supervision and Control of the Office of the President of the Philippines."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1940/eo_300_1940.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1940/pdf/eo_300_1940.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

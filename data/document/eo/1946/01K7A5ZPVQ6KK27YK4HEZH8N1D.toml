@@ -1,0 +1,11 @@
+id = "01K7A5ZPVQ6KK27YK4HEZH8N1D"
+type = "issuance"
+subtype = "EO"
+name = "EO-025"
+
+[meta]
+date_filed = "1946-11-15"
+lawphil_title = "Changing the Membership of the Flood Control Commission Created in Executive Order No.68, Dated 1 December 1936"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1946/eo_25_1946.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1946/pdf/eo_25_1946.pdf"]
+lawphil_tenure = "Manuel Roxas"

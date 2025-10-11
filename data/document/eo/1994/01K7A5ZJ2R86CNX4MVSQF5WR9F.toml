@@ -1,0 +1,11 @@
+id = "01K7A5ZJ2R86CNX4MVSQF5WR9F"
+type = "issuance"
+subtype = "EO"
+name = "EO-178"
+
+[meta]
+date_filed = "1994-05-23"
+lawphil_title = "Amending Executive Order No. 158, dated February 18, 1994, which created a Presidential Commission to formulate short and long-term plans for the restoration and preservation of the Ifugao Rice Terraces in the municipalities of Banaue, Hugduan, Mayoyao, and Kiangan"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1994/eo_178_1994.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1994/pdf/eo_178_1994.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

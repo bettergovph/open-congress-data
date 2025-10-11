@@ -1,0 +1,11 @@
+id = "01K7A5ZNSNDZ7FDX0KVN81GMCE"
+type = "issuance"
+subtype = "EO"
+name = "EO-054"
+
+[meta]
+date_filed = "1954-08-10"
+lawphil_title = "Ordering the Furnishing of Complete Service Records of All Personnel of the Republic of the Philippines to the Government Service Insurance System"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1954/eo_54_1954.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1954/pdf/eo_54_1954.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

@@ -1,0 +1,11 @@
+id = "01K7A5ZP9ZWS53E7S972YNQV1C"
+type = "issuance"
+subtype = "EO"
+name = "EO-383"
+
+[meta]
+date_filed = "1950-12-20"
+lawphil_title = "Abolishing the Department of the Interior, Transferring Its Powers, Duties and Functions to the Office of the President, and for Other Purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_383_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_383_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

@@ -1,0 +1,11 @@
+id = "01K7A5ZPD0XKHYB2CMPZWF7WGB"
+type = "issuance"
+subtype = "EO"
+name = "EO-320"
+
+[meta]
+date_filed = "1950-05-27"
+lawphil_title = "Amending Executive Order No. 242, Dated July 9, 1949 By Removing the Maximum Age Limits Therein Prescribed for Appointment of Reserve Officers Into the Regular Force, Armed Forces of the Philippines."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_320_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_320_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

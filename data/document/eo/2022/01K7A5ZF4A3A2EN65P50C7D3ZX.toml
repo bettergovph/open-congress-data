@@ -1,0 +1,11 @@
+id = "01K7A5ZF4A3A2EN65P50C7D3ZX"
+type = "issuance"
+subtype = "EO"
+name = "EO-170"
+
+[meta]
+date_filed = "2022-05-12"
+lawphil_title = "Adoption of Digital Payments for Government Disbursements and Collections"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2022/eo_170_2022.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2022/pdf/eo_170_2022.pdf"]
+lawphil_tenure = "Rodrigo Duterte"

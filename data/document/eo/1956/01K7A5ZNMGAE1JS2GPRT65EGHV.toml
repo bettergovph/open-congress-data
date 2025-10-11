@@ -1,0 +1,11 @@
+id = "01K7A5ZNMGAE1JS2GPRT65EGHV"
+type = "issuance"
+subtype = "EO"
+name = "EO-155"
+
+[meta]
+date_filed = "1956-01-06"
+lawphil_title = "Conferring Cabinet Rank Upon the Press Secretary to the President"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1956/eo_155_1956.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1956/pdf/eo_155_1956.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

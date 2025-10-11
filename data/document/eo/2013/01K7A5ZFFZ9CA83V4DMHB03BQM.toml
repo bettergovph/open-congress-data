@@ -1,0 +1,11 @@
+id = "01K7A5ZFFZ9CA83V4DMHB03BQM"
+type = "issuance"
+subtype = "EO"
+name = "EO-133"
+
+[meta]
+date_filed = "2013-03-26"
+lawphil_title = "Repealing Executive Order No. 686 (s. 2007) and returning to the Toll Regulatory Board (TRB) the powers transferred to the Department of Public Works and Highways (DPWH)"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2013/eo_133_2013.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2013/pdf/eo_133_2013.pdf"]
+lawphil_tenure = "Benigno Aquino, III Noynoy"

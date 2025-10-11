@@ -1,0 +1,11 @@
+id = "01K7A5ZNQ53M48GV6AXDGKQ8MC"
+type = "issuance"
+subtype = "EO"
+name = "EO-101"
+
+[meta]
+date_filed = "1955-03-03"
+lawphil_title = "Waiving the Additional Progressive Taxes to Be Collected From, and Paid By, Proprietors and Operators of Certain Sugar Mills for the 1953-1954 Crop"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1955/eo_101_1955.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1955/pdf/eo_101_1955.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

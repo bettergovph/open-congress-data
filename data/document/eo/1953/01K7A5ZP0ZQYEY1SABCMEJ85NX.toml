@@ -1,0 +1,11 @@
+id = "01K7A5ZP0ZQYEY1SABCMEJ85NX"
+type = "issuance"
+subtype = "EO"
+name = "EO-564"
+
+[meta]
+date_filed = "1953-02-10"
+lawphil_title = "Fixing the Ceiling Prices of Commodities and for Other Purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1953/eo_564_1953.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1953/pdf/eo_564_1953.pdf"]
+lawphil_tenure = "Elpidio Quirino"

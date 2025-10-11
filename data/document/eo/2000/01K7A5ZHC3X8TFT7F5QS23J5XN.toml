@@ -1,0 +1,11 @@
+id = "01K7A5ZHC3X8TFT7F5QS23J5XN"
+type = "issuance"
+subtype = "EO"
+name = "EO-192"
+
+[meta]
+date_filed = "2000-01-07"
+lawphil_title = "Transferring the Securities and Exchange Commission From the Office of the President to the Department of Finance"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2000/eo_192_2000.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2000/pdf/eo_192_2000.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

@@ -1,0 +1,10 @@
+id = "01K7A5ZFAQFA0BY3C6HKT4984J"
+type = "issuance"
+subtype = "EO"
+name = "EO-035"
+
+[meta]
+date_filed = "2017-07-28"
+lawphil_title = "Amending Executive Order No. 17 (S. 2017) Creating the Order of Lapu-Lapu"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2017/eo_35_2017.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2017/pdf/eo_35_2017.pdf"]

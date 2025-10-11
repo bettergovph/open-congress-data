@@ -1,0 +1,11 @@
+id = "01K7A5ZMWZYGBRGE5P99GCJGRJ"
+type = "issuance"
+subtype = "EO"
+name = "EO-186"
+
+[meta]
+date_filed = "1965-10-15"
+lawphil_title = "Amending Executive Order No. 156 Dated January 6, 1956, and Providing Additional Powers and Duties to the Presidential Assistant on Community Development"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1965/eo_186_1965.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1965/pdf/eo_186_1965.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

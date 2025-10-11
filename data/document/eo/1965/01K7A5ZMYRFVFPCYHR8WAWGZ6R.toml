@@ -1,0 +1,11 @@
+id = "01K7A5ZMYRFVFPCYHR8WAWGZ6R"
+type = "issuance"
+subtype = "EO"
+name = "EO-150"
+
+[meta]
+date_filed = "1965-04-04"
+lawphil_title = "Amending Executive Order No. 76 Dated May 19, 1964, Entitled ï¿½Creating the Committee on Non-Member Agencies for Land Reformï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1965/eo_150_1965.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1965/pdf/eo_150_1965.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

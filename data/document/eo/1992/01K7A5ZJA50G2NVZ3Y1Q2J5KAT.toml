@@ -1,0 +1,11 @@
+id = "01K7A5ZJA50G2NVZ3Y1Q2J5KAT"
+type = "issuance"
+subtype = "EO"
+name = "EO-012"
+
+[meta]
+date_filed = "1992-08-15"
+lawphil_title = "Providing for the Creation of the Presidential Commission to Fight Poverty"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1992/eo_12_1992.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1992/pdf/eo_12_1992.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

@@ -1,0 +1,11 @@
+id = "01K7A5ZM96E5SQHSCSDH7B9VAE"
+type = "issuance"
+subtype = "EO"
+name = "EO-330"
+
+[meta]
+date_filed = "1971-08-10"
+lawphil_title = "Amending Executive Order No. 205 Dated January 9, 1970, Entitled ï¿½Creating the Foreign Trade Councilï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1971/eo_330_1971.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1971/pdf/eo_330_1971.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

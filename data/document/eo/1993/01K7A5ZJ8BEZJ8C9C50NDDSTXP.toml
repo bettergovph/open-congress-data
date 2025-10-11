@@ -1,0 +1,11 @@
+id = "01K7A5ZJ8BEZJ8C9C50NDDSTXP"
+type = "issuance"
+subtype = "EO"
+name = "EO-054"
+
+[meta]
+date_filed = "1993-01-22"
+lawphil_title = "Directing the yearly publication of lists of persons who filed income tax returns and paid income taxes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1993/eo_54_1993.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1993/pdf/eo_54_1993.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

@@ -1,0 +1,11 @@
+id = "01K7A5ZP8PJW9V12X4H2XF7NPD"
+type = "issuance"
+subtype = "EO"
+name = "EO-408"
+
+[meta]
+date_filed = "1951-02-03"
+lawphil_title = "Amending Executive Orders Numbered Three Hundred and Forty Three, Three Hundred and Fifty-Three, and for Other Purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1951/eo_408_1951.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1951/pdf/eo_408_1951.pdf"]
+lawphil_tenure = "Elpidio Quirino"

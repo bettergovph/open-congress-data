@@ -1,0 +1,11 @@
+id = "01K7A5ZPJR8S3GFBHQH30T34V3"
+type = "issuance"
+subtype = "EO"
+name = "EO-200"
+
+[meta]
+date_filed = "1949-01-14"
+lawphil_title = "Amending Executive Order No. 143, Dated June 5, 1948, So as to Extend the Time Within Which Logs, Flitches and Sawn Lumber May Be Exported By the Actual Producers Thereof"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1949/eo_200_1949.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1949/pdf/eo_200_1949.pdf"]
+lawphil_tenure = "Elpidio Quirino"

@@ -1,0 +1,11 @@
+id = "01K7A5ZMXX6SSHM6MZF8WMV0Q4"
+type = "issuance"
+subtype = "EO"
+name = "EO-167"
+
+[meta]
+date_filed = "1965-09-02"
+lawphil_title = "Amending Executive Order No. 114, Series of 1964, Creating the Municipality of Siayan in the Province of Zamboanga Del Norte"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1965/eo_167_1965.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1965/pdf/eo_167_1965.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

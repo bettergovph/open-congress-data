@@ -1,0 +1,11 @@
+id = "01K7A5ZK2BW2ABBYR7H4B0Q2W8"
+type = "issuance"
+subtype = "EO"
+name = "EO-031"
+
+[meta]
+date_filed = "1986-07-01"
+lawphil_title = "Granting Compensation Adjustments to Government Personnel"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1986/eo_31_1986.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1986/pdf/eo_31_1986.pdf"]
+lawphil_tenure = "Corazon Aquino"

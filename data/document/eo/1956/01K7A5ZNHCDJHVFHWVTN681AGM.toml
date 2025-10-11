@@ -1,0 +1,11 @@
+id = "01K7A5ZNHCDJHVFHWVTN681AGM"
+type = "issuance"
+subtype = "EO"
+name = "EO-222"
+
+[meta]
+date_filed = "1956-12-28"
+lawphil_title = "Creating the Municipality of Liargao in the Province of Zamboanga Del Sur."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1956/eo_222_1956.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1956/pdf/eo_222_1956.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

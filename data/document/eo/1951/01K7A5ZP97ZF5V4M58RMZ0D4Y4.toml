@@ -1,0 +1,11 @@
+id = "01K7A5ZP97ZF5V4M58RMZ0D4Y4"
+type = "issuance"
+subtype = "EO"
+name = "EO-398"
+
+[meta]
+date_filed = "1951-01-05"
+lawphil_title = "Reorganizing the Deportation Board"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1951/eo_398_1951.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1951/pdf/eo_398_1951.pdf"]
+lawphil_tenure = "Elpidio Quirino"

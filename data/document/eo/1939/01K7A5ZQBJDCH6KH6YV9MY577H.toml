@@ -1,0 +1,11 @@
+id = "01K7A5ZQBJDCH6KH6YV9MY577H"
+type = "issuance"
+subtype = "EO"
+name = "EO-231"
+
+[meta]
+date_filed = "1939-11-04"
+lawphil_title = "Order of Issue, City of Bacolod, Thirty-Year 5 Per Cent Bonds"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1939/eo_231_1939.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1939/pdf/eo_231_1939.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

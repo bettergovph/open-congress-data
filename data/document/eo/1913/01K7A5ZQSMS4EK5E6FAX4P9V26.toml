@@ -1,0 +1,11 @@
+id = "01K7A5ZQSMS4EK5E6FAX4P9V26"
+type = "issuance"
+subtype = "EO"
+name = "EO-070"
+
+[meta]
+date_filed = "1913-08-30"
+lawphil_title = "Signed on August 30, 1913: Executive Order No. 70."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1913/eo_70_1913.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1913/pdf/eo_70_1913.pdf"]
+lawphil_tenure = "W. Cameron Forbes"

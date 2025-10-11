@@ -1,0 +1,11 @@
+id = "01K7A5ZPMHDQQN63CFFEWQCMQV"
+type = "issuance"
+subtype = "EO"
+name = "EO-164"
+
+[meta]
+date_filed = "1948-08-12"
+lawphil_title = "Amending Further Executive Order No. 79, Dated December 17, 1945, Entitled ï¿½Creating a Quezon Memorial Committee to Take Charge of the Nation-Wide Campaign to Raise Funds for the Erection of a National Monument in Honor of the Late President Manuel L. Quezonï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1948/eo_164_1948.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1948/pdf/eo_164_1948.pdf"]
+lawphil_tenure = "Elpidio Quirino"

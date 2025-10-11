@@ -1,0 +1,11 @@
+id = "01K7A5ZQATTBAA2AADB05EYQMX"
+type = "issuance"
+subtype = "EO"
+name = "EO-247"
+
+[meta]
+date_filed = "1939-12-31"
+lawphil_title = "Abolishing the Bureau of Labor and Transferring All Its Functions to the Department of Labor, and Effecting Certain Adjustments of the Personnel Thereof."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1939/eo_247_1939.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1939/pdf/eo_247_1939.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

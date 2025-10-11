@@ -1,0 +1,11 @@
+id = "01K7A5ZPDN0VW5JYZ5JT2VWMS9"
+type = "issuance"
+subtype = "EO"
+name = "EO-306"
+
+[meta]
+date_filed = "1950-03-18"
+lawphil_title = "Amending Executive Order No 297, Dated December 24, 1949"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_306_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_306_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

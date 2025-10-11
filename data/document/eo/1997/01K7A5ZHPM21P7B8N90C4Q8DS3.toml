@@ -1,0 +1,11 @@
+id = "01K7A5ZHPM21P7B8N90C4Q8DS3"
+type = "issuance"
+subtype = "EO"
+name = "EO-454"
+
+[meta]
+date_filed = "1997-10-31"
+lawphil_title = "Implementing austerity measures in government for 1997"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1997/eo_454_1997.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1997/pdf/eo_454_1997.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

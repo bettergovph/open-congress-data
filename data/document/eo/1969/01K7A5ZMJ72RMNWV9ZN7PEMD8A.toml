@@ -1,0 +1,11 @@
+id = "01K7A5ZMJ72RMNWV9ZN7PEMD8A"
+type = "issuance"
+subtype = "EO"
+name = "EO-185"
+
+[meta]
+date_filed = "1969-07-24"
+lawphil_title = "Amending Executive Order No. 10 Dated February 24, 1966, Entitled ï¿½Centralizing the Custody and Disposition of Confiscated Goods and Payment of Reward to Informersï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1969/eo_185_1969.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1969/pdf/eo_185_1969.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

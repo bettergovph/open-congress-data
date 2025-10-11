@@ -1,0 +1,11 @@
+id = "01K7A5ZH9K2GMA3A5D44K9HFAY"
+type = "issuance"
+subtype = "EO"
+name = "EO-246"
+
+[meta]
+date_filed = "2000-05-20"
+lawphil_title = "Amending Executive Order No. 226 Providing for the Adjustment in the Dividend Rate of the Development Bank of the Philippines on Its 1999 Earnings Pursuant to Section 5 of Republic Act No. 7656"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2000/eo_246_2000.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2000/pdf/eo_246_2000.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

@@ -1,0 +1,11 @@
+id = "01K7A5ZMZAYFMG4PYHRD9P9SS9"
+type = "issuance"
+subtype = "EO"
+name = "EO-139"
+
+[meta]
+date_filed = "1965-02-22"
+lawphil_title = "Creating a National Committee on the Safe Transport of Radioactive Materials"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1965/eo_139_1965.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1965/pdf/eo_139_1965.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

@@ -1,0 +1,11 @@
+id = "01K7A5ZQB6Y5GJQDYCKCBK7345"
+type = "issuance"
+subtype = "EO"
+name = "EO-239"
+
+[meta]
+date_filed = "1939-12-16"
+lawphil_title = "Amending Executive Order No. 135, Dated December 31, 1937, as Amended By Executive Order No. 194, Dated March 13, 1939, Establishing a Classification of Roads."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1939/eo_239_1939.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1939/pdf/eo_239_1939.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

@@ -1,0 +1,11 @@
+id = "01K7A5ZMP839NPGZVWG2ZCCQ2K"
+type = "issuance"
+subtype = "EO"
+name = "EO-100"
+
+[meta]
+date_filed = "1967-11-02"
+lawphil_title = "Amending Executive Order No. 46 Dated September 12, 1966, Prohibiting the Slaughter of Carabaos and Buffaloes, Pursuant to the Provisions of Republic Act No. 11."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1967/eo_100_1967.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1967/pdf/eo_100_1967.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

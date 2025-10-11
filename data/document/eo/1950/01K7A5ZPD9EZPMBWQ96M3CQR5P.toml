@@ -1,0 +1,11 @@
+id = "01K7A5ZPD9EZPMBWQ96M3CQR5P"
+type = "issuance"
+subtype = "EO"
+name = "EO-314"
+
+[meta]
+date_filed = "1950-05-05"
+lawphil_title = "Amending Section 16 of Executive Order No. 135, Dated May 4, 1948, Entitled ï¿½Regulating the Establishment, Maintenance and Operation of Frontons and Basque Pelota Games (Jai-Alai)ï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_314_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_314_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

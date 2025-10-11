@@ -1,0 +1,11 @@
+id = "01K7A5ZK2W5K0H9H5BZYEQ5EQW"
+type = "issuance"
+subtype = "EO"
+name = "EO-019"
+
+[meta]
+date_filed = "1986-06-19"
+lawphil_title = "Enhancing the Independence of the Commission on Audit"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1986/eo_19_1986.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1986/pdf/eo_19_1986.pdf"]
+lawphil_tenure = "Corazon Aquino"

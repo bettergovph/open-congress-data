@@ -1,0 +1,11 @@
+id = "01K7A5ZJ7RWVFVA1P5CB9KKBZN"
+type = "issuance"
+subtype = "EO"
+name = "EO-067"
+
+[meta]
+date_filed = "1993-03-09"
+lawphil_title = "Further amending Executive Order No. 19, dated September 1, 1992, as amended by Executive Order No. 42, dated December 11, 1992"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1993/eo_67_1993.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1993/pdf/eo_67_1993.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

@@ -1,0 +1,11 @@
+id = "01K7A5ZGGNQ5QYYM1VNY4EBDPV"
+type = "issuance"
+subtype = "EO"
+name = "EO-400"
+
+[meta]
+date_filed = "2005-01-18"
+lawphil_title = "Regulating the Assignment and Issuance of Low-Numbered (Protocol) License Plates to Motor Vehicles Used By Officials of the Republic of the Philippines"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2005/eo_400_2005.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2005/pdf/eo_400_2005.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

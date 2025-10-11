@@ -1,0 +1,11 @@
+id = "01K7A5ZNQTZYDKMCRWXTKFQ9XS"
+type = "issuance"
+subtype = "EO"
+name = "EO-088"
+
+[meta]
+date_filed = "1955-01-06"
+lawphil_title = "Prohibiting the Slaughtering of Carabao for a Period of One Year"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1955/eo_88_1955.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1955/pdf/eo_88_1955.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

@@ -1,0 +1,11 @@
+id = "01K7A5ZQAQQHHNNKXQSEV8P8RV"
+type = "issuance"
+subtype = "EO"
+name = "EO-249"
+
+[meta]
+date_filed = "1940-01-04"
+lawphil_title = "Creating the National Trading Corporation"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1940/eo_249_1940.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1940/pdf/eo_249_1940.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

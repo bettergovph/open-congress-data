@@ -1,0 +1,11 @@
+id = "01K7A5ZHNYRZTP91X0N4WX9ZPY"
+type = "issuance"
+subtype = "EO"
+name = "EO-470"
+
+[meta]
+date_filed = "1998-02-24"
+lawphil_title = "Creating the Philippine Council for Mental Health"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1998/eo_470_1998.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1998/pdf/eo_470_1998.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

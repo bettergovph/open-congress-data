@@ -1,0 +1,11 @@
+id = "01K7A5ZJWM973WZFHFFTC4F51N"
+type = "issuance"
+subtype = "EO"
+name = "EO-148"
+
+[meta]
+date_filed = "1987-03-03"
+lawphil_title = "Modifying Executive Order No. 114 Dated December 24, 1986."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1987/eo_148_1987.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1987/pdf/eo_148_1987.pdf"]
+lawphil_tenure = "Corazon Aquino Cory"

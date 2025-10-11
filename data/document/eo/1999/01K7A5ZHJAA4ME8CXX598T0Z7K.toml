@@ -1,0 +1,11 @@
+id = "01K7A5ZHJAA4ME8CXX598T0Z7K"
+type = "issuance"
+subtype = "EO"
+name = "EO-060"
+
+[meta]
+date_filed = "1999-01-13"
+lawphil_title = "Transferring the Securities and Exchange Commission from the Department of Finance to the Office of the President"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1999/eo_60_1999.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1999/pdf/eo_60_1999.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

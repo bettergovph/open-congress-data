@@ -1,0 +1,11 @@
+id = "01K7A5ZN3C8T6P2FENN96B6YYD"
+type = "issuance"
+subtype = "EO"
+name = "EO-054"
+
+[meta]
+date_filed = "1963-10-07"
+lawphil_title = "Amending Executive Order No. 660, Dated December 23, 1953"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1963/eo_54_1963.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1963/pdf/eo_54_1963.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

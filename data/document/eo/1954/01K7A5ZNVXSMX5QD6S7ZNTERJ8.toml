@@ -1,0 +1,11 @@
+id = "01K7A5ZNVXSMX5QD6S7ZNTERJ8"
+type = "issuance"
+subtype = "EO"
+name = "EO-006"
+
+[meta]
+date_filed = "1954-01-07"
+lawphil_title = "Merging the Municipality of Amaya, Created By Executive Order Numbered Six Hundred Thirty-Nine Issued on November 5, 1953, With the Municipality of Tanza, Province of Cavite."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1954/eo_6_1954.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1954/pdf/eo_6_1954.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

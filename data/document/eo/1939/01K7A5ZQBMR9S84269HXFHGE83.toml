@@ -1,0 +1,11 @@
+id = "01K7A5ZQBMR9S84269HXFHGE83"
+type = "issuance"
+subtype = "EO"
+name = "EO-230"
+
+[meta]
+date_filed = "1939-10-31"
+lawphil_title = "Organizing the Department of National Defense"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1939/eo_230_1939.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1939/pdf/eo_230_1939.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

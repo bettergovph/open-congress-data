@@ -1,0 +1,11 @@
+id = "01K7A5ZQ4GCYS0083N2QP40G9N"
+type = "issuance"
+subtype = "EO"
+name = "EO-363"
+
+[meta]
+date_filed = "1941-08-20"
+lawphil_title = "Ordering the Transmission Free of Charge Over All Government Electrical Communication Systems for the Duration of the Present Emergency of All Messages Concerning Weather Conditions and Those Relating to the Enforcement of the Neutrality Rules and Regulations of the United States."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1941/eo_363_1941.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1941/pdf/eo_363_1941.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

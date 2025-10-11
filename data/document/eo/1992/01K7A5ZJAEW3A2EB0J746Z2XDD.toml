@@ -1,0 +1,11 @@
+id = "01K7A5ZJAEW3A2EB0J746Z2XDD"
+type = "issuance"
+subtype = "EO"
+name = "EO-005"
+
+[meta]
+date_filed = "1992-07-14"
+lawphil_title = "Amending Section 1 of Executive Order No. 2 Dated 01 July 1992"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1992/eo_5_1992.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1992/pdf/eo_5_1992.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

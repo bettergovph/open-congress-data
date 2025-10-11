@@ -1,0 +1,11 @@
+id = "01K7A5ZH4R82DE4P600ERN5593"
+type = "issuance"
+subtype = "EO"
+name = "EO-009"
+
+[meta]
+date_filed = "2001-03-29"
+lawphil_title = "Repealing Executive Order No. 189, S. 1999, as Amended By Eo No. 250, S. 2000, and Executive Order No. 190, S. 1999"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2001/eo_9_2001.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2001/pdf/eo_9_2001.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

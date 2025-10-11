@@ -1,0 +1,11 @@
+id = "01K7A5ZHMAFQFCHPE97WSXN27A"
+type = "issuance"
+subtype = "EO"
+name = "EO-017"
+
+[meta]
+date_filed = "1998-08-21"
+lawphil_title = "Amending certain sections of Executive Order No. 177 establishing the World Expo 2002 Philippine Commission and for other purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1998/eo_17_1998.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1998/pdf/eo_17_1998.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

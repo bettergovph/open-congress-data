@@ -1,0 +1,11 @@
+id = "01K7A5ZQBB08PZ4SJM1F3592FC"
+type = "issuance"
+subtype = "EO"
+name = "EO-236"
+
+[meta]
+date_filed = "1939-11-29"
+lawphil_title = "Providing for a Special Permit System to Authorize Importers, Wholesalers, and Retailers to Trade At Prices Higher Than Those Fixed in Executive Order No. 233"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1939/eo_236_1939.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1939/pdf/eo_236_1939.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

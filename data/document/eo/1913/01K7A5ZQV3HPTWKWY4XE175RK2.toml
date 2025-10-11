@@ -1,0 +1,11 @@
+id = "01K7A5ZQV3HPTWKWY4XE175RK2"
+type = "issuance"
+subtype = "EO"
+name = "EO-038"
+
+[meta]
+date_filed = "1913-05-22"
+lawphil_title = "Signed on May 22, 1913: Executive Order No. 38."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1913/eo_38_1913.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1913/pdf/eo_38_1913.pdf"]
+lawphil_tenure = "W. Cameron Forbes"

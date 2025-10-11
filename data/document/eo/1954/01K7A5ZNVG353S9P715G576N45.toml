@@ -1,0 +1,11 @@
+id = "01K7A5ZNVG353S9P715G576N45"
+type = "issuance"
+subtype = "EO"
+name = "EO-015"
+
+[meta]
+date_filed = "1954-02-15"
+lawphil_title = "Implementing Republic Act No. 657, Otherwise Known as the Cassava Flour Law, in the Interest of the National Economy."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1954/eo_15_1954.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1954/pdf/eo_15_1954.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

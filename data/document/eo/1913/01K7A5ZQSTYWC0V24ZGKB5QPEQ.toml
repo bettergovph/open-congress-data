@@ -1,0 +1,11 @@
+id = "01K7A5ZQSTYWC0V24ZGKB5QPEQ"
+type = "issuance"
+subtype = "EO"
+name = "EO-066"
+
+[meta]
+date_filed = "1913-08-22"
+lawphil_title = "Signed on August 22, 1913: Executive Order No. 66."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1913/eo_66_1913.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1913/pdf/eo_66_1913.pdf"]
+lawphil_tenure = "W. Cameron Forbes"

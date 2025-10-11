@@ -1,0 +1,11 @@
+id = "01K7A5ZPWBG0FEHFVWDPZAW649"
+type = "issuance"
+subtype = "EO"
+name = "EO-012"
+
+[meta]
+date_filed = "1946-08-19"
+lawphil_title = "Reorganizing the Quezon Memorial Committee, Created Under Executive Order Numbered Seventy-Nine, Dated December 17, 1945"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1946/eo_12_1946.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1946/pdf/eo_12_1946.pdf"]
+lawphil_tenure = "Manuel Roxas"

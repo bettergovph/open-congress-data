@@ -1,0 +1,11 @@
+id = "01K7A5ZFP5E82N7FW5H7PKTEZA"
+type = "issuance"
+subtype = "EO"
+name = "EO-003"
+
+[meta]
+date_filed = "2010-07-30"
+lawphil_title = "An Executive Order revoking Executive Order No. 883 dated 28 May 2010"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2010/eo_3_2010.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2010/pdf/eo_3_2010.pdf"]
+lawphil_tenure = "Benigno Aquino, III Noynoy"

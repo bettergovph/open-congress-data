@@ -1,0 +1,11 @@
+id = "01K7A5ZHDRABH8E150THZEGKXT"
+type = "issuance"
+subtype = "EO"
+name = "EO-157"
+
+[meta]
+date_filed = "1999-09-09"
+lawphil_title = "Revoking Executive Order No. 45, series of 1998"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1999/eo_157_1999.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1999/pdf/eo_157_1999.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

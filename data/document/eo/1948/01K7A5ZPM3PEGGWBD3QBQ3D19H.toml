@@ -1,0 +1,11 @@
+id = "01K7A5ZPM3PEGGWBD3QBQ3D19H"
+type = "issuance"
+subtype = "EO"
+name = "EO-174"
+
+[meta]
+date_filed = "1948-09-13"
+lawphil_title = "Transferring to the Philippine Constabulary the 8,000 Officers and Enlisted Men of the Armed Forces of the Philippines, Who Were Attached to the Constabulary on January 1, 1948"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1948/eo_174_1948.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1948/pdf/eo_174_1948.pdf"]
+lawphil_tenure = "Elpidio Quirino"

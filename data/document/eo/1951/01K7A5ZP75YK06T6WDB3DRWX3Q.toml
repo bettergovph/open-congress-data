@@ -1,0 +1,11 @@
+id = "01K7A5ZP75YK06T6WDB3DRWX3Q"
+type = "issuance"
+subtype = "EO"
+name = "EO-437"
+
+[meta]
+date_filed = "1951-04-28"
+lawphil_title = "Amending Executive Order No. 330, Dated July 1, 1950, Creating the National Security Council"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1951/eo_437_1951.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1951/pdf/eo_437_1951.pdf"]
+lawphil_tenure = "Elpidio Quirino"

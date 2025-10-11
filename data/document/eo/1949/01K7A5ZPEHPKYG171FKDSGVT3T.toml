@@ -1,0 +1,11 @@
+id = "01K7A5ZPEHPKYG171FKDSGVT3T"
+type = "issuance"
+subtype = "EO"
+name = "EO-288"
+
+[meta]
+date_filed = "1949-10-21"
+lawphil_title = "Amending Executive Order No. 278 Entitled ï¿½Organizing a Portion of the Municipality of Burauen, Province of Leyte, Into a Separate Municipality, Under the Name of Julitaï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1949/eo_288_1949.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1949/pdf/eo_288_1949.pdf"]
+lawphil_tenure = "Elpidio Quirino"

@@ -1,0 +1,11 @@
+id = "01K7A5ZNMRY4Z9PDEK50RQ8G5C"
+type = "issuance"
+subtype = "EO"
+name = "EO-150"
+
+[meta]
+date_filed = "1955-12-31"
+lawphil_title = "Modifying the Rates of Import Duty Provided Under the Philippine Tariff Act of 1909, as Amended"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1955/eo_150_1955.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1955/pdf/eo_150_1955.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

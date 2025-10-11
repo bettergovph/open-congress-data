@@ -1,0 +1,11 @@
+id = "01K7A5ZMTJ544ESJ26HH3GY83Q"
+type = "issuance"
+subtype = "EO"
+name = "EO-008"
+
+[meta]
+date_filed = "1966-02-01"
+lawphil_title = "Creating the Presidential Economic Staff"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1966/eo_8_1966.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1966/pdf/eo_8_1966.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

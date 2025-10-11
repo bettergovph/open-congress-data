@@ -1,0 +1,11 @@
+id = "01K7A5ZQBEMPM5VB5ATVXVGZJF"
+type = "issuance"
+subtype = "EO"
+name = "EO-234"
+
+[meta]
+date_filed = "1939-11-08"
+lawphil_title = "Directing the Board of Indeterminate Sentence to Look Into the Record of Military Prisoners Confined in Penitentiaries and to Make Proper Recommendations for the Release of Such Prisoners on Parole."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1939/eo_234_1939.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1939/pdf/eo_234_1939.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

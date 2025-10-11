@@ -1,0 +1,11 @@
+id = "01K7A5ZNTPZ2P9XV39Y8JY09SP"
+type = "issuance"
+subtype = "EO"
+name = "EO-033"
+
+[meta]
+date_filed = "1954-05-20"
+lawphil_title = "Revising Further Executive Order No. 72, Dated December 3, 1936, Establishing a Classification of Ports."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1954/eo_33_1954.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1954/pdf/eo_33_1954.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

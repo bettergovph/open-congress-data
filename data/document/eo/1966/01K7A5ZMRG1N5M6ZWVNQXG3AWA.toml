@@ -1,0 +1,11 @@
+id = "01K7A5ZMRG1N5M6ZWVNQXG3AWA"
+type = "issuance"
+subtype = "EO"
+name = "EO-052"
+
+[meta]
+date_filed = "1966-11-28"
+lawphil_title = "Banning the Manufacture, Sale and Possession of Firecrackers and Other Pyrotechnic Wares"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1966/eo_52_1966.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1966/pdf/eo_52_1966.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

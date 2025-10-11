@@ -1,0 +1,11 @@
+id = "01K7A5ZP6HHB1Z7CKBFFSF7JNY"
+type = "issuance"
+subtype = "EO"
+name = "EO-449"
+
+[meta]
+date_filed = "1951-06-09"
+lawphil_title = "Repealing Executive Order Numbered Three Hundred and Thirty-Seven and for Other Purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1951/eo_449_1951.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1951/pdf/eo_449_1951.pdf"]
+lawphil_tenure = "Elpidio Quirino"

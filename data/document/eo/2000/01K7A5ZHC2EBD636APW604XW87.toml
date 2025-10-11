@@ -1,0 +1,11 @@
+id = "01K7A5ZHC2EBD636APW604XW87"
+type = "issuance"
+subtype = "EO"
+name = "EO-193"
+
+[meta]
+date_filed = "2000-01-06"
+lawphil_title = "Constituting the Economic Coordinating Council"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2000/eo_193_2000.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2000/pdf/eo_193_2000.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

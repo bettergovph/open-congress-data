@@ -1,0 +1,11 @@
+id = "01K7A5ZM7ZBW9WBYT9Y4NRB9Y0"
+type = "issuance"
+subtype = "EO"
+name = "EO-341"
+
+[meta]
+date_filed = "1971-10-04"
+lawphil_title = "Creating the Presidential Investigation and Recovery Commission"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1971/eo_341_1971.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1971/pdf/eo_341_1971.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

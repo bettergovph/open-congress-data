@@ -1,0 +1,11 @@
+id = "01K7A5ZJKZ6DR3AHMFHS04W1NZ"
+type = "issuance"
+subtype = "EO"
+name = "EO-323"
+
+[meta]
+date_filed = "1988-04-12"
+lawphil_title = "Amending Executive Order No. 316, Dated January 19, 1988, Instituting the Presidential Citation for Outstanding Service to Philippine Democracy"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1988/eo_323_1988.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1988/pdf/eo_323_1988.pdf"]
+lawphil_tenure = "Corazon Aquino Cory"

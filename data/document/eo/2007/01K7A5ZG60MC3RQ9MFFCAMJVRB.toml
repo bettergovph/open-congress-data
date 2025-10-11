@@ -1,0 +1,11 @@
+id = "01K7A5ZG60MC3RQ9MFFCAMJVRB"
+type = "issuance"
+subtype = "EO"
+name = "EO-611"
+
+[meta]
+date_filed = "2007-03-14"
+lawphil_title = "Authorizing Compensation Adjustments to Government Personnel"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2007/eo_611_2007.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2007/pdf/eo_611_2007.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

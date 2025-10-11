@@ -1,0 +1,11 @@
+id = "01K7A5ZH384QNEGCD1AM68JWB7"
+type = "issuance"
+subtype = "EO"
+name = "EO-041"
+
+[meta]
+date_filed = "2001-10-15"
+lawphil_title = "Transferring the National Food Authority and the Philippine Coconut Authority From the Department of Agriculture to the Office of the President."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2001/eo_41_2001.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2001/pdf/eo_41_2001.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"
