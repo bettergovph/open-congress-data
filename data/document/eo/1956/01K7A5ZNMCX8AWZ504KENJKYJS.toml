@@ -1,0 +1,11 @@
+id = "01K7A5ZNMCX8AWZ504KENJKYJS"
+type = "issuance"
+subtype = "EO"
+name = "EO-158"
+
+[meta]
+date_filed = "1956-01-16"
+lawphil_title = "Revoking Executive Order No 634, Issued on October 26, 1953, Creating the Municipality of Victoria in the Province of Bohol"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1956/eo_158_1956.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1956/pdf/eo_158_1956.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

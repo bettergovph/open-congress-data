@@ -1,0 +1,10 @@
+id = "01K7A5ZMJYSQFSE0RMMFB5QQTC"
+type = "issuance"
+subtype = "EO"
+name = "EO-171"
+
+[meta]
+date_filed = "1969-02-19"
+lawphil_title = "Creating the Commission on Population"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1969/eo_171_1969.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1969/pdf/eo_171_1969.pdf"]

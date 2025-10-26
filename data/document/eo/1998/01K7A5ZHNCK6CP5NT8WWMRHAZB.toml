@@ -1,0 +1,11 @@
+id = "01K7A5ZHNCK6CP5NT8WWMRHAZB"
+type = "issuance"
+subtype = "EO"
+name = "EO-482"
+
+[meta]
+date_filed = "1998-05-07"
+lawphil_title = "Amending Executive Order No. 460 by deleting some portions from the title and from Sections 1 and 4 thereof, and by adding one more section thereto"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1998/eo_482_1998.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1998/pdf/eo_482_1998.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

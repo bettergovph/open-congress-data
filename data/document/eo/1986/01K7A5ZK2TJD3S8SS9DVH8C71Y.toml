@@ -1,0 +1,11 @@
+id = "01K7A5ZK2TJD3S8SS9DVH8C71Y"
+type = "issuance"
+subtype = "EO"
+name = "EO-021"
+
+[meta]
+date_filed = "1986-05-22"
+lawphil_title = "Amending Section 128 of the National Internal Revenue Code, as Amended, By Revising the Specific Tax Rates on Petroleum Products."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1986/eo_21_1986.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1986/pdf/eo_21_1986.pdf"]
+lawphil_tenure = "Corazon Aquino"

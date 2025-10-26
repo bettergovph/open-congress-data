@@ -1,0 +1,11 @@
+id = "01K7A5ZJZSYS61B84G28GNQH38"
+type = "issuance"
+subtype = "EO"
+name = "EO-086"
+
+[meta]
+date_filed = "1986-12-15"
+lawphil_title = "Restoring the Ministry Status of Budget and Management"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1986/eo_86_1986.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1986/pdf/eo_86_1986.pdf"]
+lawphil_tenure = "Corazon Aquino"

@@ -1,0 +1,11 @@
+id = "01K7A5ZQ8PC1HZCRRYA2ZZ8PTX"
+type = "issuance"
+subtype = "EO"
+name = "EO-291"
+
+[meta]
+date_filed = "1940-08-05"
+lawphil_title = "Creating the Philippine Exposition Commission to Manage and Direct the Exposition to Be Inaugurated in 1941"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1940/eo_291_1940.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1940/pdf/eo_291_1940.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

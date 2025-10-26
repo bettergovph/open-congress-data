@@ -1,0 +1,11 @@
+id = "01K7A5ZNNGSGC03B8CNR4QBHWX"
+type = "issuance"
+subtype = "EO"
+name = "EO-134"
+
+[meta]
+date_filed = "1955-09-24"
+lawphil_title = "Amending Section 38 of Executive Order No. 119 Dated July 1, 1955, Entitled ï¿½Providing for the Implementing Details for Reorganization Plan No. 10, on Economic Planningï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1955/eo_134_1955.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1955/pdf/eo_134_1955.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

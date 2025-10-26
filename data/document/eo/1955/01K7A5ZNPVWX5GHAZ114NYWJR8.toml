@@ -1,0 +1,11 @@
+id = "01K7A5ZNPVWX5GHAZ114NYWJR8"
+type = "issuance"
+subtype = "EO"
+name = "EO-107"
+
+[meta]
+date_filed = "1955-03-15"
+lawphil_title = "Creating a Presidential Committee on Trade Agreements and Related Matters Covered By Republic Act 1189"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1955/eo_107_1955.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1955/pdf/eo_107_1955.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

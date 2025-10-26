@@ -1,0 +1,11 @@
+id = "01K7A5ZHRZGKHASH09VHVWFZZW"
+type = "issuance"
+subtype = "EO"
+name = "EO-398"
+
+[meta]
+date_filed = "1997-01-31"
+lawphil_title = "Authorizing the National Food Authority to intervene in the stabilization of the price of sugar"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1997/eo_398_1997.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1997/pdf/eo_398_1997.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

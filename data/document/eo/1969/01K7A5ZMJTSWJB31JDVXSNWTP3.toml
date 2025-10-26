@@ -1,0 +1,11 @@
+id = "01K7A5ZMJTSWJB31JDVXSNWTP3"
+type = "issuance"
+subtype = "EO"
+name = "EO-174"
+
+[meta]
+date_filed = "1969-02-26"
+lawphil_title = "Further Amending Executive Order No. 571 Creating a Decoration to Be Known as the Order of Sikatuna"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1969/eo_174_1969.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1969/pdf/eo_174_1969.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

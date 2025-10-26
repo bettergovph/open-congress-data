@@ -1,0 +1,11 @@
+id = "01K7A5ZK00NMC63ECPSKEDS8X0"
+type = "issuance"
+subtype = "EO"
+name = "EO-081"
+
+[meta]
+date_filed = "1986-12-03"
+lawphil_title = "Providing for the 1986 Revised Charter of the Development Bank of the Philippines"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1986/eo_81_1986.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1986/pdf/eo_81_1986.pdf"]
+lawphil_tenure = "Corazon Aquino"

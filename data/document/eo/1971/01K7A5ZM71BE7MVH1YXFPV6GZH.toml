@@ -1,0 +1,11 @@
+id = "01K7A5ZM71BE7MVH1YXFPV6GZH"
+type = "issuance"
+subtype = "EO"
+name = "EO-360"
+
+[meta]
+date_filed = "1971-12-22"
+lawphil_title = "Amending Executive Order No. 337 Dated September 1, 1971, Establishing a Medical Assistance Program Task Force"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1971/eo_360_1971.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1971/pdf/eo_360_1971.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

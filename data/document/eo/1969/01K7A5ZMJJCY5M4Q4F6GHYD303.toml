@@ -1,0 +1,10 @@
+id = "01K7A5ZMJJCY5M4Q4F6GHYD303"
+type = "issuance"
+subtype = "EO"
+name = "EO-178"
+
+[meta]
+date_filed = "1969-04-21"
+lawphil_title = "Creating the Panay Development Planning Board"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1969/eo_178_1969.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1969/pdf/eo_178_1969.pdf"]

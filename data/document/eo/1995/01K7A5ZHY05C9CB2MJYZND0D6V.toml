@@ -1,0 +1,11 @@
+id = "01K7A5ZHY05C9CB2MJYZND0D6V"
+type = "issuance"
+subtype = "EO"
+name = "EO-256"
+
+[meta]
+date_filed = "1995-12-21"
+lawphil_title = "Revising Executive Order No. 58, s. 1987, by rationalizing the fees and charges on firearms, ammunition, spare parts, accessories, components, explosives, explosive ingredients, pyrotechnics and firecrackers"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1995/eo_256_1995.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1995/pdf/eo_256_1995.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

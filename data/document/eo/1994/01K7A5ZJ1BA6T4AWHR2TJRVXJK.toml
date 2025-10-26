@@ -1,0 +1,11 @@
+id = "01K7A5ZJ1BA6T4AWHR2TJRVXJK"
+type = "issuance"
+subtype = "EO"
+name = "EO-213"
+
+[meta]
+date_filed = "1994-11-28"
+lawphil_title = "Deregulating domestic shipping rates"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1994/eo_213_1994.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1994/pdf/eo_213_1994.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

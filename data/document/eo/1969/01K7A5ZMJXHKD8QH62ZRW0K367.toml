@@ -1,0 +1,11 @@
+id = "01K7A5ZMJXHKD8QH62ZRW0K367"
+type = "issuance"
+subtype = "EO"
+name = "EO-172"
+
+[meta]
+date_filed = "1969-02-24"
+lawphil_title = "Amending Executive Order No. 159 Dated July 27, 1965 Which Created the Bicol Development Planning Board"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1969/eo_172_1969.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1969/pdf/eo_172_1969.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

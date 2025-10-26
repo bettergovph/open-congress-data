@@ -1,0 +1,11 @@
+id = "01K7A5ZMHSQBHJRCWQTCA6YKHA"
+type = "issuance"
+subtype = "EO"
+name = "EO-195"
+
+[meta]
+date_filed = "1969-10-13"
+lawphil_title = "Amending Executive Order No. 180 Dated April 25, 1969, Entitled ï¿½Reconstituting the Committee on Wood Industries Development Under the Office of the Presidentï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1969/eo_195_1969.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1969/pdf/eo_195_1969.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

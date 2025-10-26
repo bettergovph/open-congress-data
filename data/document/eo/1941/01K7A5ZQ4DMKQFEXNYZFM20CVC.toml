@@ -1,0 +1,11 @@
+id = "01K7A5ZQ4DMKQFEXNYZFM20CVC"
+type = "issuance"
+subtype = "EO"
+name = "EO-365"
+
+[meta]
+date_filed = "1941-08-29"
+lawphil_title = "Amending Paragraphs 3 and 8 of Executive Order No. 354, Dated July 1, 1941, Promulgating Certain Emergency Laws and Regulations Governing Electrical Communication and Radio Installation and Sale or Repair of Radio Apparatus or Parts Thereof."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1941/eo_365_1941.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1941/pdf/eo_365_1941.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

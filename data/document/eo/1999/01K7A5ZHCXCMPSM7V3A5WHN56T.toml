@@ -1,0 +1,11 @@
+id = "01K7A5ZHCXCMPSM7V3A5WHN56T"
+type = "issuance"
+subtype = "EO"
+name = "EO-175"
+
+[meta]
+date_filed = "1999-11-03"
+lawphil_title = "Organizational Restructuring of the Bureau of Internal Revenue to Improve Administrative Control Over Certain Categories of Taxpayers"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1999/eo_175_1999.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1999/pdf/eo_175_1999.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

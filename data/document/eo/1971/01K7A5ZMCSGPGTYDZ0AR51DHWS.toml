@@ -1,0 +1,11 @@
+id = "01K7A5ZMCSGPGTYDZ0AR51DHWS"
+type = "issuance"
+subtype = "EO"
+name = "EO-292"
+
+[meta]
+date_filed = "1971-02-17"
+lawphil_title = "Amending Executive Order No. 180, Series of 1969, Reconstituting the Committee on Wood Industries Development Under the Office of the President."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1971/eo_292_1971.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1971/pdf/eo_292_1971.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

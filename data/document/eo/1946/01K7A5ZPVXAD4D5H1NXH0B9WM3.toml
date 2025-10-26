@@ -1,0 +1,11 @@
+id = "01K7A5ZPVXAD4D5H1NXH0B9WM3"
+type = "issuance"
+subtype = "EO"
+name = "EO-021"
+
+[meta]
+date_filed = "1946-10-15"
+lawphil_title = "Fixing Wednesday, January 1, 1947, as Census Day"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1946/eo_21_1946.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1946/pdf/eo_21_1946.pdf"]
+lawphil_tenure = "Manuel Roxas"

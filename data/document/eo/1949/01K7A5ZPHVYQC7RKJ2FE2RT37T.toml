@@ -1,0 +1,11 @@
+id = "01K7A5ZPHVYQC7RKJ2FE2RT37T"
+type = "issuance"
+subtype = "EO"
+name = "EO-220"
+
+[meta]
+date_filed = "1949-06-04"
+lawphil_title = "Amending Item 41, Section 1, of Executive Order No. 192, Dated December 24, 1948, Entitled ï¿½On the Control of Exports From the Philippinesï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1949/eo_220_1949.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1949/pdf/eo_220_1949.pdf"]
+lawphil_tenure = "Elpidio Quirino"

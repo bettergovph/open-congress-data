@@ -1,0 +1,11 @@
+id = "01K7A5ZQ9QV84RFPDH0742KG8E"
+type = "issuance"
+subtype = "EO"
+name = "EO-271"
+
+[meta]
+date_filed = "1940-05-11"
+lawphil_title = "Modifying Paragraph 2 of Executive Order No. 221, Dated September 9, 1939, Regarding Increases in Salary in the Same Position"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1940/eo_271_1940.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1940/pdf/eo_271_1940.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

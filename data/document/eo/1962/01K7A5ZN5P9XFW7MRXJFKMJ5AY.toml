@@ -1,0 +1,11 @@
+id = "01K7A5ZN5P9XFW7MRXJFKMJ5AY"
+type = "issuance"
+subtype = "EO"
+name = "EO-006"
+
+[meta]
+date_filed = "1962-01-25"
+lawphil_title = "Adopting a Program to Stabilize the Price of Palay, Rice, and Corn, and Creating a Presidential Rice and Corn Committee to Implement and Execute That Program"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1962/eo_6_1962.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1962/pdf/eo_6_1962.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

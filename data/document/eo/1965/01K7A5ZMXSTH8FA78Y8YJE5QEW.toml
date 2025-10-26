@@ -1,0 +1,11 @@
+id = "01K7A5ZMXSTH8FA78Y8YJE5QEW"
+type = "issuance"
+subtype = "EO"
+name = "EO-169"
+
+[meta]
+date_filed = "1965-09-06"
+lawphil_title = "Creating the Coconut Development Committee Under the Office of the President"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1965/eo_169_1965.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1965/pdf/eo_169_1965.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

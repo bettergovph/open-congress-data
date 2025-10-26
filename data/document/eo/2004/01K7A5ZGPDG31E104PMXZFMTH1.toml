@@ -1,0 +1,11 @@
+id = "01K7A5ZGPDG31E104PMXZFMTH1"
+type = "issuance"
+subtype = "EO"
+name = "EO-291"
+
+[meta]
+date_filed = "2004-02-28"
+lawphil_title = "Amending Executive Order No. 248 Dated 26 October 2003 Creating the Office of the Anti-Kidnapping Presidential Adviser."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2004/eo_291_2004.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2004/pdf/eo_291_2004.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

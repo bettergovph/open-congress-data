@@ -1,0 +1,11 @@
+id = "01K7A5ZNV6454GVCESZ2NCVKR4"
+type = "issuance"
+subtype = "EO"
+name = "EO-022"
+
+[meta]
+date_filed = "1954-04-05"
+lawphil_title = "Prohibiting the Use of Trawls in San Miguel Bay"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1954/eo_22_1954.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1954/pdf/eo_22_1954.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

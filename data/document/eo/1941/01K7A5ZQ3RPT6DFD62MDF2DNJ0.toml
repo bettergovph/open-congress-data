@@ -1,0 +1,11 @@
+id = "01K7A5ZQ3RPT6DFD62MDF2DNJ0"
+type = "issuance"
+subtype = "EO"
+name = "EO-378"
+
+[meta]
+date_filed = "1941-12-10"
+lawphil_title = "Amending Further Paragraph (1) of Executive Order No. 335, Dated April 1, 1941, Creating a Civilian Emergency Administration"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1941/eo_378_1941.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1941/pdf/eo_378_1941.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

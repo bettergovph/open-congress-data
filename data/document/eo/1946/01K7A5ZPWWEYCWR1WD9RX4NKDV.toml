@@ -1,0 +1,11 @@
+id = "01K7A5ZPWWEYCWR1WD9RX4NKDV"
+type = "issuance"
+subtype = "EO"
+name = "EO-001"
+
+[meta]
+date_filed = "1946-07-04"
+lawphil_title = "Prescribing Rules and Regulations for the Granting and Issuing of Passports"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1946/eo_1_1946.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1946/pdf/eo_1_1946.pdf"]
+lawphil_tenure = "Manuel Roxas"

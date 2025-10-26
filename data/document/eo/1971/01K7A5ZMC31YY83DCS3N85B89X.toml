@@ -1,0 +1,11 @@
+id = "01K7A5ZMC31YY83DCS3N85B89X"
+type = "issuance"
+subtype = "EO"
+name = "EO-300"
+
+[meta]
+date_filed = "1971-03-10"
+lawphil_title = "Amending Executive Order No. 164 Dated January 17, 1969, Entitled ï¿½Creating the Committee to Coordinate and Supervise the Collation, Collection, Identification, Classification, Reproduction and Release of Archival Materials and Other Historical Papers in the Possession of Government Agenciesï¿½."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1971/eo_300_1971.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1971/pdf/eo_300_1971.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

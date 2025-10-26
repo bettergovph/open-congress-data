@@ -1,0 +1,11 @@
+id = "01K7A5ZGTY0K4504FP5K7P1GFD"
+type = "issuance"
+subtype = "EO"
+name = "EO-221"
+
+[meta]
+date_filed = "2003-06-30"
+lawphil_title = "Amending Executive Order No. 15 Series of 1998, Entitled \"Redirecting the Functions and Operations of the Department of Social Welfare and Development\""
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2003/eo_221_2003.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2003/pdf/eo_221_2003.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

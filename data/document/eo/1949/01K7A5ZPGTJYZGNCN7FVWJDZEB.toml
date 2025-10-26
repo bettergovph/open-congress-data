@@ -1,0 +1,11 @@
+id = "01K7A5ZPGTJYZGNCN7FVWJDZEB"
+type = "issuance"
+subtype = "EO"
+name = "EO-242"
+
+[meta]
+date_filed = "1949-07-09"
+lawphil_title = "Prescribing Rules and Regulations for the Appointment of Reserve Officers Into the Regular Force, Armed Forces of the Philippines"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1949/eo_242_1949.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1949/pdf/eo_242_1949.pdf"]
+lawphil_tenure = "Elpidio Quirino"

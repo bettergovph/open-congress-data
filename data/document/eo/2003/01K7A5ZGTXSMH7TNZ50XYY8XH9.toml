@@ -1,0 +1,11 @@
+id = "01K7A5ZGTXSMH7TNZ50XYY8XH9"
+type = "issuance"
+subtype = "EO"
+name = "EO-222"
+
+[meta]
+date_filed = "2003-06-30"
+lawphil_title = "Transferring the Presidential Action Center From the Office of the President to the National Anti-Poverty Commission"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2003/eo_222_2003.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2003/pdf/eo_222_2003.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

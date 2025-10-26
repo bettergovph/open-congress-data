@@ -1,0 +1,10 @@
+id = "01K7A5ZFAGMNQ20V5Z9MFRWJVK"
+type = "issuance"
+subtype = "EO"
+name = "EO-040"
+
+[meta]
+date_filed = "2017-09-15"
+lawphil_title = "Amending Executive Order No. 9 (S. 2016) for the Purpose of Strengthening the Functional Arrangements in the Office of the President"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2017/eo_40_2017.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2017/pdf/eo_40_2017.pdf"]

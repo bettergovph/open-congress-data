@@ -1,0 +1,11 @@
+id = "01K7A5ZH9W2YAREVK0ZYHF1TDE"
+type = "issuance"
+subtype = "EO"
+name = "EO-240"
+
+[meta]
+date_filed = "2000-05-04"
+lawphil_title = "Further Amending Executive Order No. 249 Dated May 29, 1995 Granting Permanent Resident Status to Certain Vietnamese Citizens and Filipino-Vietnamese Children"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2000/eo_240_2000.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2000/pdf/eo_240_2000.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

@@ -1,0 +1,11 @@
+id = "01K7A5ZF6F95T4HTW7V5D11DH7"
+type = "issuance"
+subtype = "EO"
+name = "EO-125"
+
+[meta]
+date_filed = "2021-02-05"
+lawphil_title = "Creation of the National Amnesty Commission"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2021/eo_125_2021.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2021/pdf/eo_125_2021.pdf"]
+lawphil_tenure = "Rodrigo Duterte"

@@ -1,0 +1,11 @@
+id = "01K7A5ZMJPD3GCSNXZY3Y2PPJC"
+type = "issuance"
+subtype = "EO"
+name = "EO-176"
+
+[meta]
+date_filed = "1969-03-22"
+lawphil_title = "Creating a National Committee to Take Charge of the Celebration of Philippine Independence Day on June 12, 1969"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1969/eo_176_1969.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1969/pdf/eo_176_1969.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

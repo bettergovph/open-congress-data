@@ -1,0 +1,11 @@
+id = "01K7A5ZQBX63X4THK21APJP5J2"
+type = "issuance"
+subtype = "EO"
+name = "EO-224"
+
+[meta]
+date_filed = "1939-09-28"
+lawphil_title = "Amending Executive Order No. 220, Dated September 8, 1939"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1939/eo_224_1939.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1939/pdf/eo_224_1939.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

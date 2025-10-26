@@ -1,0 +1,11 @@
+id = "01K7A5ZP0RS94PH83X9H43EGZH"
+type = "issuance"
+subtype = "EO"
+name = "EO-569"
+
+[meta]
+date_filed = "1953-02-17"
+lawphil_title = "Amending Executive Order No. 536 Dated October 21, 1952, By Changing the Composition of the National Traffic Commission Created Therein"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1953/eo_569_1953.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1953/pdf/eo_569_1953.pdf"]
+lawphil_tenure = "Elpidio Quirino"

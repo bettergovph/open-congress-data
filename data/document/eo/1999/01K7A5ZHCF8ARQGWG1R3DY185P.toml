@@ -1,0 +1,11 @@
+id = "01K7A5ZHCF8ARQGWG1R3DY185P"
+type = "issuance"
+subtype = "EO"
+name = "EO-185"
+
+[meta]
+date_filed = "1999-12-14"
+lawphil_title = "Amending certain sections of Executive Order No. 128 dated July 23, 1999 establishing the Presidential Commission for the New Century and the Millennium and for other purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1999/eo_185_1999.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1999/pdf/eo_185_1999.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

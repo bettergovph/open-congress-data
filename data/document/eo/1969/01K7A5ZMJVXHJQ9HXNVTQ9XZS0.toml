@@ -1,0 +1,10 @@
+id = "01K7A5ZMJVXHJQ9HXNVTQ9XZS0"
+type = "issuance"
+subtype = "EO"
+name = "EO-173"
+
+[meta]
+date_filed = "1969-02-25"
+lawphil_title = "Abolishing the National Youth Coordinating Council"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1969/eo_173_1969.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1969/pdf/eo_173_1969.pdf"]

@@ -1,0 +1,11 @@
+id = "01K7A5ZP4RDWCCHE8B9WSG7REW"
+type = "issuance"
+subtype = "EO"
+name = "EO-486"
+
+[meta]
+date_filed = "1951-12-07"
+lawphil_title = "Providing for the Collection and Compilation of Historical Data Regarding Barrios, Towns, Cities, and Provinces"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1951/eo_486_1951.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1951/pdf/eo_486_1951.pdf"]
+lawphil_tenure = "Elpidio Quirino"

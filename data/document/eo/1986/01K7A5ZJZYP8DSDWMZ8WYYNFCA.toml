@@ -1,0 +1,11 @@
+id = "01K7A5ZJZYP8DSDWMZ8WYYNFCA"
+type = "issuance"
+subtype = "EO"
+name = "EO-082"
+
+[meta]
+date_filed = "1986-12-08"
+lawphil_title = "Creating the Presidential Committee for the Urban Poor"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1986/eo_82_1986.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1986/pdf/eo_82_1986.pdf"]
+lawphil_tenure = "Corazon Aquino"

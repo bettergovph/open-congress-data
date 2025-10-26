@@ -1,0 +1,11 @@
+id = "01K7A5ZQ2KAGBVMRVEDGK8F525"
+type = "issuance"
+subtype = "EO"
+name = "EO-401"
+
+[meta]
+date_filed = "1942-02-26"
+lawphil_title = "Conferring Jurisdiction on the Court of First Instance of Iloilo to Try Crimes Committed in the Province of Masbate"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1942/eo_401_1942.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1942/pdf/eo_401_1942.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

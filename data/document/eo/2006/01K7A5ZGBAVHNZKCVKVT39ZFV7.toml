@@ -1,0 +1,11 @@
+id = "01K7A5ZGBAVHNZKCVKVT39ZFV7"
+type = "issuance"
+subtype = "EO"
+name = "EO-512"
+
+[meta]
+date_filed = "2006-03-07"
+lawphil_title = "Authorizing the National Food Authority to Intervene to Provide Consumers Access to Reasonably Priced Sugar"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2006/eo_512_2006.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2006/pdf/eo_512_2006.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

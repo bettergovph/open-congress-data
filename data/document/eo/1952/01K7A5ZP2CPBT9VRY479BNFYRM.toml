@@ -1,0 +1,11 @@
+id = "01K7A5ZP2CPBT9VRY479BNFYRM"
+type = "issuance"
+subtype = "EO"
+name = "EO-535"
+
+[meta]
+date_filed = "1952-10-10"
+lawphil_title = "Abolishing Visa Fees in the Case of Aliens Coming to the Philippines as Non-Immigrants Under Certain Conditions"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1952/eo_535_1952.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1952/pdf/eo_535_1952.pdf"]
+lawphil_tenure = "Elpidio Quirino"

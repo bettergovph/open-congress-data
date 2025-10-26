@@ -1,0 +1,11 @@
+id = "01K7A5ZM823ZCHBTBXQF2JGZRG"
+type = "issuance"
+subtype = "EO"
+name = "EO-339"
+
+[meta]
+date_filed = "1971-09-09"
+lawphil_title = "Amending Executive Order No. 206 of January 9, 1970, So as to Direct the Central Bank of the Philippines to Receive Payment Through the Banking System of Other National Internal Revenue Taxes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1971/eo_339_1971.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1971/pdf/eo_339_1971.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

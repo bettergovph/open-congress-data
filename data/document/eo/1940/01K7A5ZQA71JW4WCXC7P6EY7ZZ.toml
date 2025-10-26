@@ -1,0 +1,11 @@
+id = "01K7A5ZQA71JW4WCXC7P6EY7ZZ"
+type = "issuance"
+subtype = "EO"
+name = "EO-257"
+
+[meta]
+date_filed = "1940-03-12"
+lawphil_title = "Amending Executive Order No. 33, Creating the Deportation Board"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1940/eo_257_1940.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1940/pdf/eo_257_1940.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

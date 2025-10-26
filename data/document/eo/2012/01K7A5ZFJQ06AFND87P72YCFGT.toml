@@ -1,0 +1,11 @@
+id = "01K7A5ZFJQ06AFND87P72YCFGT"
+type = "issuance"
+subtype = "EO"
+name = "EO-076"
+
+[meta]
+date_filed = "2012-04-30"
+lawphil_title = "Implementation of the fourth tranche of the modified salary schedule for civilian personnel and base pay schedule for military and uniformed personnel in the government."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2012/eo_76_2012.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2012/pdf/eo_76_2012.pdf"]
+lawphil_tenure = "Benigno Aquino, III Noynoy"

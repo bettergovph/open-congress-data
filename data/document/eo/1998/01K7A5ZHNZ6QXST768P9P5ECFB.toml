@@ -1,0 +1,11 @@
+id = "01K7A5ZHNZ6QXST768P9P5ECFB"
+type = "issuance"
+subtype = "EO"
+name = "EO-469"
+
+[meta]
+date_filed = "1998-02-23"
+lawphil_title = "Amending Executive Order No. 190 dated 19 July 1994 approving and adopting the National Information Technology Plan 2000 and establishing the National Information Technology Council"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1998/eo_469_1998.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1998/pdf/eo_469_1998.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

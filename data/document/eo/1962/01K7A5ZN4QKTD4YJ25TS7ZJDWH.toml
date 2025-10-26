@@ -1,0 +1,11 @@
+id = "01K7A5ZN4QKTD4YJ25TS7ZJDWH"
+type = "issuance"
+subtype = "EO"
+name = "EO-024"
+
+[meta]
+date_filed = "1962-10-19"
+lawphil_title = "Amending Executive Order No. 571, Creating a Decoration to Be Known as the Order of Sikatuna"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1962/eo_24_1962.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1962/pdf/eo_24_1962.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

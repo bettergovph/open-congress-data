@@ -1,0 +1,11 @@
+id = "01K7A5ZNR6HFCYK3AVXEDG2EPM"
+type = "issuance"
+subtype = "EO"
+name = "EO-081"
+
+[meta]
+date_filed = "1954-11-20"
+lawphil_title = "Further Amending Executive Order No. 475 Dated October 5 1951, Is Amended By Executive Order No. 51 Dated August 10, 1954."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1954/eo_81_1954.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1954/pdf/eo_81_1954.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

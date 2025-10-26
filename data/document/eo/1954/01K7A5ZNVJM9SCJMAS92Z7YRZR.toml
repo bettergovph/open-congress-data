@@ -1,0 +1,11 @@
+id = "01K7A5ZNVJM9SCJMAS92Z7YRZR"
+type = "issuance"
+subtype = "EO"
+name = "EO-014"
+
+[meta]
+date_filed = "1954-02-14"
+lawphil_title = "Merging the Municipality of Victoria, Created By Executive Order Numbered Six Hundred Twenty-Eight Issued on October 14, 1953, With the Municipality of Allen, Province of Samar"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1954/eo_14_1954.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1954/pdf/eo_14_1954.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

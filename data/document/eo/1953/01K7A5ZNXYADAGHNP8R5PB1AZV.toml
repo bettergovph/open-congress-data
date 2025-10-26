@@ -1,0 +1,11 @@
+id = "01K7A5ZNXYADAGHNP8R5PB1AZV"
+type = "issuance"
+subtype = "EO"
+name = "EO-626"
+
+[meta]
+date_filed = "1953-10-08"
+lawphil_title = "Fixing the Ceiling Prices of Japanese Sardines, and for Other Purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1953/eo_626_1953.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1953/pdf/eo_626_1953.pdf"]
+lawphil_tenure = "Elpidio Quirino"

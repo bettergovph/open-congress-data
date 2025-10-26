@@ -1,0 +1,11 @@
+id = "01K7A5ZMPH7W90SJS24S2M6KW9"
+type = "issuance"
+subtype = "EO"
+name = "EO-094"
+
+[meta]
+date_filed = "1967-10-23"
+lawphil_title = "Revoking Executive Order No. 200, Issued on November 18, 1965, Entitled ï¿½Directing the Board of Liquidators to Acquire, Administer and Dispose of Certain Real Property of the Philippine National Railwaysï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1967/eo_94_1967.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1967/pdf/eo_94_1967.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

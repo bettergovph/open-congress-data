@@ -1,0 +1,11 @@
+id = "01K7A5ZH40B02BE2MDX831QWFZ"
+type = "issuance"
+subtype = "EO"
+name = "EO-025"
+
+[meta]
+date_filed = "2001-07-18"
+lawphil_title = "Establishing the Governance Advisory Council"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2001/eo_25_2001.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2001/pdf/eo_25_2001.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

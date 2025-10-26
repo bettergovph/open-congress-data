@@ -1,0 +1,11 @@
+id = "01K7A5ZPN9E2V7ND4WBMV7C12K"
+type = "issuance"
+subtype = "EO"
+name = "EO-149"
+
+[meta]
+date_filed = "1948-07-07"
+lawphil_title = "Amending Paragraph 3(B) of Executive Order No. 95, Dated October 13, 1947"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1948/eo_149_1948.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1948/pdf/eo_149_1948.pdf"]
+lawphil_tenure = "Elpidio Quirino"

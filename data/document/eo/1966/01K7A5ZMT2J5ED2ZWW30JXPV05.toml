@@ -1,0 +1,11 @@
+id = "01K7A5ZMT2J5ED2ZWW30JXPV05"
+type = "issuance"
+subtype = "EO"
+name = "EO-019"
+
+[meta]
+date_filed = "1966-04-02"
+lawphil_title = "Prescribing Rules and Regulations for Appeals to the Office of the President for Finality of Decisions Thereof"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1966/eo_19_1966.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1966/pdf/eo_19_1966.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

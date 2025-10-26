@@ -1,0 +1,11 @@
+id = "01K7A5ZPWFKDCQZEN5ZWM3XDD9"
+type = "issuance"
+subtype = "EO"
+name = "EO-009"
+
+[meta]
+date_filed = "1946-07-29"
+lawphil_title = "Amending Paragraph 1, of Executive Order No.320, Dated January 27, 1941, Entitled ï¿½Regulating the Maintenance and Operation of Race Tracks and Horse Racing.ï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1946/eo_9_1946.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1946/pdf/eo_9_1946.pdf"]
+lawphil_tenure = "Manuel Roxas"

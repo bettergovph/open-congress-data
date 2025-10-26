@@ -1,0 +1,11 @@
+id = "01K7A5ZPCGGD9E3869RKNZEMXY"
+type = "issuance"
+subtype = "EO"
+name = "EO-329"
+
+[meta]
+date_filed = "1950-07-01"
+lawphil_title = "Creating a Civilian Emergency Administration, Defining Its Powers and Duties and Providing for the Coordination and Control of Civilian Organizations for the Protection of the Civil Population in Extraordinary and Emergency Conditions"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_329_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_329_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

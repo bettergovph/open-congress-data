@@ -1,0 +1,11 @@
+id = "01K7A5ZNNBBH90RXF72NBXQFNE"
+type = "issuance"
+subtype = "EO"
+name = "EO-137"
+
+[meta]
+date_filed = "1955-10-17"
+lawphil_title = "Adjusting the Classification of the Municipality of Madrid, Province of Surigao, From Fourth Class to Third Class, Thereby Amending Executive Order Numbered One Hundred Ten, Dated April 14, 1955, Reclassifying All Municipalities in the Philippines"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1955/eo_137_1955.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1955/pdf/eo_137_1955.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

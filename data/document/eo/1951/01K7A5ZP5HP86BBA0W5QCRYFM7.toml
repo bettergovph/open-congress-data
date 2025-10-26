@@ -1,0 +1,11 @@
+id = "01K7A5ZP5HP86BBA0W5QCRYFM7"
+type = "issuance"
+subtype = "EO"
+name = "EO-470"
+
+[meta]
+date_filed = "1951-08-24"
+lawphil_title = "Providing Instructions to Be Followed in the Conduct of Public Affairs During the Time That the President Is Outside the Philippines."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1951/eo_470_1951.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1951/pdf/eo_470_1951.pdf"]
+lawphil_tenure = "Elpidio Quirino"

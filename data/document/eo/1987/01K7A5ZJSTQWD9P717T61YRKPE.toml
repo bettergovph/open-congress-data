@@ -1,0 +1,11 @@
+id = "01K7A5ZJSTQWD9P717T61YRKPE"
+type = "issuance"
+subtype = "EO"
+name = "EO-206"
+
+[meta]
+date_filed = "1987-06-30"
+lawphil_title = "Amending Section 105 of the Tariff and Customs Code of the Philippines"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1987/eo_206_1987.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1987/pdf/eo_206_1987.pdf"]
+lawphil_tenure = "Corazon Aquino Cory"

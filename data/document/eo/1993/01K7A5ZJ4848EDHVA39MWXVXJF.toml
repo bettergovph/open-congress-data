@@ -1,0 +1,11 @@
+id = "01K7A5ZJ4848EDHVA39MWXVXJF"
+type = "issuance"
+subtype = "EO"
+name = "EO-144"
+
+[meta]
+date_filed = "1993-12-14"
+lawphil_title = "Amending Executive Order No. 84, dated April 24, 1993, which created a Presidential Commission to formulate short and long-term plans for the development of Tagaytay City and its adjacent municipalities, and the Taal Volcano Island and its surrounding coastal municipalities"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1993/eo_144_1993.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1993/pdf/eo_144_1993.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

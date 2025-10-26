@@ -1,0 +1,11 @@
+id = "01K7A5ZJVNXAJQTPH310V759T2"
+type = "issuance"
+subtype = "EO"
+name = "EO-170"
+
+[meta]
+date_filed = "1987-05-08"
+lawphil_title = "Repealing Presidential Decree No. 1507, Entitled \"An Act Granting the Philippines Games and Holidays Corporation a Franchise to Operate, Construct and Maintain a Fronton for Basque Pelota and Similar Games of Skill in the City of Cebu\", and Accordingly Revoking and Cancelling the Right, Privilege and Authority Granted Therein"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1987/eo_170_1987.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1987/pdf/eo_170_1987.pdf"]
+lawphil_tenure = "Corazon Aquino Cory"

@@ -1,0 +1,11 @@
+id = "01K7A5ZQJNP0FBE7E7D7BARQGC"
+type = "issuance"
+subtype = "EO"
+name = "EO-087"
+
+[meta]
+date_filed = "1937-01-23"
+lawphil_title = "Prescribing Instruction to Be Followed in the Conduct of Public Affairs During the Time That the President Is Outside the Philippines."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1937/eo_87_1937.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1937/pdf/eo_87_1937.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

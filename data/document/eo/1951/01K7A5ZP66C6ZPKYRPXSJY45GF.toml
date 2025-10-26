@@ -1,0 +1,11 @@
+id = "01K7A5ZP66C6ZPKYRPXSJY45GF"
+type = "issuance"
+subtype = "EO"
+name = "EO-457"
+
+[meta]
+date_filed = "1951-07-04"
+lawphil_title = "Amending Executive Order No. 38, Dated January 7, 1947, Entitled ï¿½Providing for the Coat of Arms, Seal, and Flag of the President and Vice President of the Philippines.ï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1951/eo_457_1951.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1951/pdf/eo_457_1951.pdf"]
+lawphil_tenure = "Elpidio Quirino"

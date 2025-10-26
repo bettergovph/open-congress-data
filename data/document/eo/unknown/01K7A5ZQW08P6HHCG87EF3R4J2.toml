@@ -1,0 +1,10 @@
+id = "01K7A5ZQW08P6HHCG87EF3R4J2"
+type = "issuance"
+subtype = "EO"
+name = "EO-017"
+
+[meta]
+lawphil_title = "Duration for Submission of Reports"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1913/eo_17_1913.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1913/pdf/eo_17_1913.pdf"]
+lawphil_tenure = "W. Cameron Forbes"

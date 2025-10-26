@@ -1,0 +1,11 @@
+id = "01K7A5ZP3FBFE91HKXFEXXDS7X"
+type = "issuance"
+subtype = "EO"
+name = "EO-512"
+
+[meta]
+date_filed = "1952-07-01"
+lawphil_title = "Establishing the Manila Port Area Rat-Proof Building Zone"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1952/eo_512_1952.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1952/pdf/eo_512_1952.pdf"]
+lawphil_tenure = "Elpidio Quirino"

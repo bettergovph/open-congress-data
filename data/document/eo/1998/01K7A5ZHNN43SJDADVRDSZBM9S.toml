@@ -1,0 +1,11 @@
+id = "01K7A5ZHNN43SJDADVRDSZBM9S"
+type = "issuance"
+subtype = "EO"
+name = "EO-476"
+
+[meta]
+date_filed = "1998-03-31"
+lawphil_title = "Further amending Executive Order 169, series of 1994 by modifying the representations of DOF and DBM to the Central Bank-Board of Liquidators"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1998/eo_476_1998.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1998/pdf/eo_476_1998.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

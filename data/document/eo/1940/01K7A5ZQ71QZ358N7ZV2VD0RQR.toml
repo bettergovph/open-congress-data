@@ -1,0 +1,11 @@
+id = "01K7A5ZQ71QZ358N7ZV2VD0RQR"
+type = "issuance"
+subtype = "EO"
+name = "EO-315"
+
+[meta]
+date_filed = "1940-12-28"
+lawphil_title = "Confirming the Elections of Provincial and City Officers Elected on December 10, 1940"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1940/eo_315_1940.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1940/pdf/eo_315_1940.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

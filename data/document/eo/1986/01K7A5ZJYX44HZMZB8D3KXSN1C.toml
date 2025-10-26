@@ -1,0 +1,11 @@
+id = "01K7A5ZJYX44HZMZB8D3KXSN1C"
+type = "issuance"
+subtype = "EO"
+name = "EO-105"
+
+[meta]
+date_filed = "1986-12-24"
+lawphil_title = "Amending Certain Sections of Presidential Decree No. 1519 to Strengthen the Philippine Medical Care Plan"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1986/eo_105_1986.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1986/pdf/eo_105_1986.pdf"]
+lawphil_tenure = "Corazon Aquino"

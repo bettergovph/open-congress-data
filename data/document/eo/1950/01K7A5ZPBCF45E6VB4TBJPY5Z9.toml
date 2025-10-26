@@ -1,0 +1,11 @@
+id = "01K7A5ZPBCF45E6VB4TBJPY5Z9"
+type = "issuance"
+subtype = "EO"
+name = "EO-353"
+
+[meta]
+date_filed = "1950-10-06"
+lawphil_title = "Fixing the Ceiling Prices of Commodities and for Other Purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_353_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_353_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

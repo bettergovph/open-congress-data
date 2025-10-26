@@ -1,0 +1,11 @@
+id = "01K7A5ZFP1TQ7P686KWT1MB6S5"
+type = "issuance"
+subtype = "EO"
+name = "EO-005"
+
+[meta]
+date_filed = "2010-08-25"
+lawphil_title = "Amending Executive Order No. 594, dated December 20, 2006, regarding the rules governing the appointment/designation and conduct of Special Envoys"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2010/eo_5_2010.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2010/pdf/eo_5_2010.pdf"]
+lawphil_tenure = "Benigno Aquino, III Noynoy"

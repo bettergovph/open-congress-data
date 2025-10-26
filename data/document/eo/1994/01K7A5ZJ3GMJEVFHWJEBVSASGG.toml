@@ -1,0 +1,11 @@
+id = "01K7A5ZJ3GMJEVFHWJEBVSASGG"
+type = "issuance"
+subtype = "EO"
+name = "EO-160"
+
+[meta]
+date_filed = "1994-02-23"
+lawphil_title = "Reducing the special duties of crude oil and oil products prescribed in Executive Order No. 115, series of 1993"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1994/eo_160_1994.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1994/pdf/eo_160_1994.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

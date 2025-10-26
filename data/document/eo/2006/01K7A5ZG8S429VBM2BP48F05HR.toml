@@ -1,0 +1,11 @@
+id = "01K7A5ZG8S429VBM2BP48F05HR"
+type = "issuance"
+subtype = "EO"
+name = "EO-500"
+
+[meta]
+date_filed = "2006-01-27"
+lawphil_title = "Providing for the Expansion of Air Services to the Diosdado Macapagal International Airport"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2006/eo_500_2006.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2006/pdf/eo_500_2006.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

@@ -1,0 +1,11 @@
+id = "01K7A5ZJCJEVAMK8QXWSAB9NHF"
+type = "issuance"
+subtype = "EO"
+name = "EO-483"
+
+[meta]
+date_filed = "1991-09-30"
+lawphil_title = "Reorganizing the Office of the President in accordance with the Administrative Code of 1987"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1991/eo_483_1991.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1991/pdf/eo_483_1991.pdf"]
+lawphil_tenure = "Corazon Aquino Cory"

@@ -1,0 +1,11 @@
+id = "01K7A5ZNJPZ3VFM11DVB8JH2XD"
+type = "issuance"
+subtype = "EO"
+name = "EO-194"
+
+[meta]
+date_filed = "1956-07-23"
+lawphil_title = "Extending the Prohibition to Slaughter Carabaos Up to December 31, 1956"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1956/eo_194_1956.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1956/pdf/eo_194_1956.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

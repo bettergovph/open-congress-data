@@ -1,0 +1,11 @@
+id = "01K7A5ZNM10QV3836KRNBQZAX5"
+type = "issuance"
+subtype = "EO"
+name = "EO-165"
+
+[meta]
+date_filed = "1956-02-27"
+lawphil_title = "Creating the National Fire Control Council"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1956/eo_165_1956.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1956/pdf/eo_165_1956.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

@@ -1,0 +1,11 @@
+id = "01K7A5ZN2ZE6CXB2PHY3J02YJE"
+type = "issuance"
+subtype = "EO"
+name = "EO-063"
+
+[meta]
+date_filed = "1964-01-15"
+lawphil_title = "Amending Further Executive Order No. 72, Dated December 3, 1936, Establishing a Classification of Ports"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1964/eo_63_1964.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1964/pdf/eo_63_1964.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

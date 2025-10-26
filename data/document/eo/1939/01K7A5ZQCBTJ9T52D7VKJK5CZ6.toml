@@ -1,0 +1,11 @@
+id = "01K7A5ZQCBTJ9T52D7VKJK5CZ6"
+type = "issuance"
+subtype = "EO"
+name = "EO-215"
+
+[meta]
+date_filed = "1939-07-22"
+lawphil_title = "Revising Executive Order No. 115 Entitled ï¿½Requiring the Approval of the Secretary of Public Works and Communications in the Construction and Operation of Any Government Radio Station and Authorizing the Granting of General Authority to the Philippine Army to Establish and Operate Radio Stations for Military Purposesï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1939/eo_215_1939.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1939/pdf/eo_215_1939.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

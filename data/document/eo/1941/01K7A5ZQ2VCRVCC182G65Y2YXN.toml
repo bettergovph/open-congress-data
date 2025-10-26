@@ -1,0 +1,11 @@
+id = "01K7A5ZQ2VCRVCC182G65Y2YXN"
+type = "issuance"
+subtype = "EO"
+name = "EO-396"
+
+[meta]
+date_filed = "1941-12-24"
+lawphil_title = "Reorganizing and Grouping the Executive Departments of the Government"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1942/eo_396_1941.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1942/pdf/eo_396_1941.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

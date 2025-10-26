@@ -1,0 +1,11 @@
+id = "01K7A5ZNGEPHVCKQRESE404J8M"
+type = "issuance"
+subtype = "EO"
+name = "EO-241"
+
+[meta]
+date_filed = "1957-02-28"
+lawphil_title = "Postponing the Implementation of Executive Order No. 209 Dated October 19, 1956, and Reorganization Plan No. 60, Relative to Public Utilities Regulations and Land Transportation Until the Appointment and Qualification of the Commissioners Composing the Public Utilities Commission"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1957/eo_241_1957.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1957/pdf/eo_241_1957.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

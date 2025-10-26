@@ -1,0 +1,11 @@
+id = "01K7A5ZJNS52H078C5M1CZDKZX"
+type = "issuance"
+subtype = "EO"
+name = "EO-287"
+
+[meta]
+date_filed = "1987-07-25"
+lawphil_title = "Repealing Presidential Decree No. 1153, Entitled \"Requiring the Planting of One Tree Every Month for Five Consecutive Year By Every Citizen of the Philippines\""
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1987/eo_287_1987.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1987/pdf/eo_287_1987.pdf"]
+lawphil_tenure = "Corazon Aquino Cory"

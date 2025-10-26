@@ -1,0 +1,11 @@
+id = "01K7A5ZGNHE968NVB2HZW1GN3A"
+type = "issuance"
+subtype = "EO"
+name = "EO-222-A"
+
+[meta]
+date_filed = "2004-03-31"
+lawphil_title = "Revoking Executive Order No. 222 Dated June 30, 2003 Entitled ï¿½Transferring the Presidential Action Center From the Office of the President to the National Anti-Poverty Commissionï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2004/eo_222-a_2004.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2004/pdf/eo_222-a_2004.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

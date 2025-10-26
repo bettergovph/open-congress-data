@@ -1,0 +1,11 @@
+id = "01K7A5ZJZKGQZEXZ5EKAMWKT97"
+type = "issuance"
+subtype = "EO"
+name = "EO-091"
+
+[meta]
+date_filed = "1986-12-17"
+lawphil_title = "Amending Articles 27, 28, 29 , 31, 33, and 35 of Presidential Decree No. 603, Otherwise Known as the \"Child and Youth Welfare Code\""
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1986/eo_91_1986.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1986/pdf/eo_91_1986.pdf"]
+lawphil_tenure = "Corazon Aquino"

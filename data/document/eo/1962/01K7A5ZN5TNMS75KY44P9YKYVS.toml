@@ -1,0 +1,11 @@
+id = "01K7A5ZN5TNMS75KY44P9YKYVS"
+type = "issuance"
+subtype = "EO"
+name = "EO-004"
+
+[meta]
+date_filed = "1962-01-18"
+lawphil_title = "Creating a Presidential Anti-Graft Committee"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1962/eo_4_1962.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1962/pdf/eo_4_1962.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

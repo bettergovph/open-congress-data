@@ -1,0 +1,11 @@
+id = "01K7A5ZGNQVWR2F2ZBMCY39P7V"
+type = "issuance"
+subtype = "EO"
+name = "EO-301"
+
+[meta]
+date_filed = "2004-03-29"
+lawphil_title = "Establishing a Green Procurement Program for All Departments, Bureaus, Offices and Agencies of the Executive Branch of Government"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2004/eo_301_2004.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2004/pdf/eo_301_2004.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

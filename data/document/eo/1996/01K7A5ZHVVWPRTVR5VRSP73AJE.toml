@@ -1,0 +1,11 @@
+id = "01K7A5ZHVVWPRTVR5VRSP73AJE"
+type = "issuance"
+subtype = "EO"
+name = "EO-339"
+
+[meta]
+date_filed = "1996-05-21"
+lawphil_title = "Amending Executive Order No. 167 dated 25 March 1994, creating the Iwahig Penal Colony Inter-Agency Study Committee"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1996/eo_339_1996.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1996/pdf/eo_339_1996.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

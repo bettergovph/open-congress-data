@@ -1,0 +1,11 @@
+id = "01K7A5ZNJMS9PGAKVVYVCGFFSF"
+type = "issuance"
+subtype = "EO"
+name = "EO-195"
+
+[meta]
+date_filed = "1956-07-31"
+lawphil_title = "Creating the Municipality of Malimono in the Province of Surigao"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1956/eo_195_1956.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1956/pdf/eo_195_1956.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

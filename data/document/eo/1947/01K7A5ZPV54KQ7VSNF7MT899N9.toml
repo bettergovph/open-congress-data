@@ -1,0 +1,11 @@
+id = "01K7A5ZPV54KQ7VSNF7MT899N9"
+type = "issuance"
+subtype = "EO"
+name = "EO-037"
+
+[meta]
+date_filed = "1947-01-04"
+lawphil_title = "January 4, 1947: Reorganizing the Deportation Board"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1947/eo_37_1947.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1947/pdf/eo_37_1947.pdf"]
+lawphil_tenure = "Manuel Roxas"

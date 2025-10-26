@@ -1,0 +1,11 @@
+id = "01K7A5ZNJ4Q2S73KC0Z2DDHX58"
+type = "issuance"
+subtype = "EO"
+name = "EO-206"
+
+[meta]
+date_filed = "1956-10-13"
+lawphil_title = "Creating a Joint Committee for Philippine Participation in the Brussels International Exposition of 1958"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1956/eo_206_1956.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1956/pdf/eo_206_1956.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

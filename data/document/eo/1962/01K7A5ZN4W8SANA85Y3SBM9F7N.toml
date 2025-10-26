@@ -1,0 +1,11 @@
+id = "01K7A5ZN4W8SANA85Y3SBM9F7N"
+type = "issuance"
+subtype = "EO"
+name = "EO-021"
+
+[meta]
+date_filed = "1962-09-17"
+lawphil_title = "Declaring the Proposed San Fernando Airport Road in La Union, From the Junction With the Poro Point Road to the Terminal Office of the Airport as National Secondary Road"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1962/eo_21_1962.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1962/pdf/eo_21_1962.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

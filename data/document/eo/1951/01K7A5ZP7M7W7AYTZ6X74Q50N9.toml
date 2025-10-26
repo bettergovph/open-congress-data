@@ -1,0 +1,11 @@
+id = "01K7A5ZP7M7W7AYTZ6X74Q50N9"
+type = "issuance"
+subtype = "EO"
+name = "EO-428"
+
+[meta]
+date_filed = "1951-04-03"
+lawphil_title = "Allowing the Addition of One Per Centum Municipal Tax to Prices Fixed in Executive Orders Nos. 331, 332, 337, 343, 352, 353, 360, 361, 369, 370, 373, 374, 379, 381, 382, and 390."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1951/eo_428_1951.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1951/pdf/eo_428_1951.pdf"]
+lawphil_tenure = "Elpidio Quirino"

@@ -1,0 +1,11 @@
+id = "01K7A5ZPNEAST4EJCVCXA6VM2W"
+type = "issuance"
+subtype = "EO"
+name = "EO-146"
+
+[meta]
+date_filed = "1948-06-22"
+lawphil_title = "Suspending the Collection of Irrigation Charges in Excess of Six Pesos Per Hectare for a Period of One Year"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1948/eo_146_1948.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1948/pdf/eo_146_1948.pdf"]
+lawphil_tenure = "Elpidio Quirino"

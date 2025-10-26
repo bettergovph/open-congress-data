@@ -1,0 +1,11 @@
+id = "01K7A5ZP6KERNP7BSTMRD948VN"
+type = "issuance"
+subtype = "EO"
+name = "EO-448"
+
+[meta]
+date_filed = "1951-06-09"
+lawphil_title = "Amending Executive Order Numbered Three Hundred and Forty-Three, Executive Order Numbered Three Hundred and Eighty-One, Executive Order Numbered Four Hundred and Twenty-Seven and Repealing Executive Order Numbered Four Hundred and Thirty-Four, and for Other Purposes."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1951/eo_448_1951.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1951/pdf/eo_448_1951.pdf"]
+lawphil_tenure = "Elpidio Quirino"

@@ -1,0 +1,11 @@
+id = "01K7A5ZMZNCJKDMZY9J3EBYGCW"
+type = "issuance"
+subtype = "EO"
+name = "EO-132"
+
+[meta]
+date_filed = "1964-12-02"
+lawphil_title = "Amending Executive Order No. 108, Dated October 1, 1964, Creating the Municipality of Sultan Alonto in the Province of Lanao Del Sur"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1964/eo_132_1964.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1964/pdf/eo_132_1964.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

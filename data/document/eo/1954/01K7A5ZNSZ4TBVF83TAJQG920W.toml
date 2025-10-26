@@ -1,0 +1,11 @@
+id = "01K7A5ZNSZ4TBVF83TAJQG920W"
+type = "issuance"
+subtype = "EO"
+name = "EO-048"
+
+[meta]
+date_filed = "1954-07-21"
+lawphil_title = "Delegating to the Undersecretary of Agriculture and Natural Resources the Power to Sign Patents and Certificates"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1954/eo_48_1954.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1954/pdf/eo_48_1954.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

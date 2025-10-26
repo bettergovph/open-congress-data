@@ -1,0 +1,11 @@
+id = "01K7A5ZNSXB3R57CV6Y3XARSEA"
+type = "issuance"
+subtype = "EO"
+name = "EO-049"
+
+[meta]
+date_filed = "1954-07-23"
+lawphil_title = "Conferring the Temporary Rank of Lieutenant General Upon the Chief of Staff of the Armed Forces of the Philippines"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1954/eo_49_1954.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1954/pdf/eo_49_1954.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

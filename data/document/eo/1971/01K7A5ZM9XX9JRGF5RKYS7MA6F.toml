@@ -1,0 +1,11 @@
+id = "01K7A5ZM9XX9JRGF5RKYS7MA6F"
+type = "issuance"
+subtype = "EO"
+name = "EO-326"
+
+[meta]
+date_filed = "1971-07-12"
+lawphil_title = "Amending Executive Order No. 313 Dated April 23, 1971, Creating a Cottage Industry Development Council and a Cottage Industry Development Enterprise"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1971/eo_326_1971.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1971/pdf/eo_326_1971.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

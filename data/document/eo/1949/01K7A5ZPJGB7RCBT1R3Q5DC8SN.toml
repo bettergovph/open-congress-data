@@ -1,0 +1,11 @@
+id = "01K7A5ZPJGB7RCBT1R3Q5DC8SN"
+type = "issuance"
+subtype = "EO"
+name = "EO-206"
+
+[meta]
+date_filed = "1949-03-16"
+lawphil_title = "Amending Section 4 of Executive Order No. 193, Dated December 28, 1948, Entitled ï¿½Prescribing Rules and Regulations to Carry Into Effect the Control and Regulation of Imports of Non-Essential and Luxury Articles Into the Philippines as Provided for in Republic Act No. 330\""
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1949/eo_206_1949.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1949/pdf/eo_206_1949.pdf"]
+lawphil_tenure = "Elpidio Quirino"

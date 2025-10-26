@@ -1,0 +1,11 @@
+id = "01K7A5ZN034EE7YQQFVP0ZD220"
+type = "issuance"
+subtype = "EO"
+name = "EO-123"
+
+[meta]
+date_filed = "1964-10-03"
+lawphil_title = "Readjusting the Boundary Line Between the Municipalities of Maigo and Bacolod, Both of the Province of Lanao Del Norte, By Revoking Executive Order No. 342, Dated June 26, 1959"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1964/eo_123_1964.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1964/pdf/eo_123_1964.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

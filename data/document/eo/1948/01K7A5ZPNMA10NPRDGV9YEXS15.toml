@@ -1,0 +1,11 @@
+id = "01K7A5ZPNMA10NPRDGV9YEXS15"
+type = "issuance"
+subtype = "EO"
+name = "EO-142"
+
+[meta]
+date_filed = "1948-05-28"
+lawphil_title = "Amending Executive Order No. 91 Dated February 5, 1946, Entitled ï¿½Fixing New Ceiling Prices of All Commodities and for Other Purposesï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1948/eo_142_1948.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1948/pdf/eo_142_1948.pdf"]
+lawphil_tenure = "Elpidio Quirino"

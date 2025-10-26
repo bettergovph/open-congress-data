@@ -1,0 +1,10 @@
+id = "01K7A5ZFBHPN6NC72272045Q14"
+type = "issuance"
+subtype = "EO"
+name = "EO-018"
+
+[meta]
+date_filed = "2017-04-07"
+lawphil_title = "Repealing Executive Order No. 235 (S. 2003), Streamlining the Rules and Procedures of Defense Contracts, and for Other Purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2017/eo_18_2017.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2017/pdf/eo_18_2017.pdf"]

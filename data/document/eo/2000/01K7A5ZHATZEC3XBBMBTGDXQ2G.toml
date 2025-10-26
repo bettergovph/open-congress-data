@@ -1,0 +1,11 @@
+id = "01K7A5ZHATZEC3XBBMBTGDXQ2G"
+type = "issuance"
+subtype = "EO"
+name = "EO-221"
+
+[meta]
+date_filed = "2000-03-23"
+lawphil_title = "Amending Executive Order No. 1086, Series of 1986, Entitled ï¿½Fixing the Boundaries of the Reclaimed Area of the Vitas in the Tondo Foreshore and Transferring to the National Housing Authority the Title and the Administration of Said Areaï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2000/eo_221_2000.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2000/pdf/eo_221_2000.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

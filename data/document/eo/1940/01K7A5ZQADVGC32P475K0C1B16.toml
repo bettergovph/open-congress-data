@@ -1,0 +1,11 @@
+id = "01K7A5ZQADVGC32P475K0C1B16"
+type = "issuance"
+subtype = "EO"
+name = "EO-256"
+
+[meta]
+date_filed = "1940-03-01"
+lawphil_title = "Amending Paragraph 6 of Executive Order No. 169, Dated October 15, 1938"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1940/eo_256_1940.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1940/pdf/eo_256_1940.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

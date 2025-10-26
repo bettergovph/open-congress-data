@@ -1,0 +1,11 @@
+id = "01K7A5ZH5P43R906GCNYHMTGYG"
+type = "issuance"
+subtype = "EO"
+name = "EO-327"
+
+[meta]
+date_filed = "2000-12-09"
+lawphil_title = "Abolishing the Tagaytay-Taal Presidential Commission"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2000/eo_327_2000.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2000/pdf/eo_327_2000.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

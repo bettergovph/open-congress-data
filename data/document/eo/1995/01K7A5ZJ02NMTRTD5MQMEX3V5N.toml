@@ -1,0 +1,11 @@
+id = "01K7A5ZJ02NMTRTD5MQMEX3V5N"
+type = "issuance"
+subtype = "EO"
+name = "EO-243"
+
+[meta]
+date_filed = "1995-05-12"
+lawphil_title = "Creating a Nuclear Power Steering Committee"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1995/eo_243_1995.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1995/pdf/eo_243_1995.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

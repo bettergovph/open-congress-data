@@ -1,0 +1,11 @@
+id = "01K7A5ZQQ6PMJKV48W7WW6JTB4"
+type = "issuance"
+subtype = "EO"
+name = "EO-108"
+
+[meta]
+date_filed = "1913-12-08"
+lawphil_title = "Signed on December 8, 1913: Executive Order No. 108."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1913/eo_108_1913.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1913/pdf/eo_108_1913.pdf"]
+lawphil_tenure = "Francis Burton Harrison"

@@ -1,0 +1,11 @@
+id = "01K7A5ZQCJV7Y6MH1V4P4H967S"
+type = "issuance"
+subtype = "EO"
+name = "EO-210"
+
+[meta]
+date_filed = "1939-06-23"
+lawphil_title = "Amending Executive Order No. 118 (Creating the Philippine Sugar Administration)"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1939/eo_210_1939.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1939/pdf/eo_210_1939.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

@@ -1,0 +1,11 @@
+id = "01K7A5ZQ67MRXPRTVP4TKGQKKW"
+type = "issuance"
+subtype = "EO"
+name = "EO-330"
+
+[meta]
+date_filed = "1941-03-07"
+lawphil_title = "Amending Executive Order No. 316, Organizing the Municipality of Tagcawayan, Tayabas"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1941/eo_330_1941.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1941/pdf/eo_330_1941.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

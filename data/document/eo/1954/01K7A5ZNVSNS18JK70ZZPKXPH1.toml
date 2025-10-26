@@ -1,0 +1,11 @@
+id = "01K7A5ZNVSNS18JK70ZZPKXPH1"
+type = "issuance"
+subtype = "EO"
+name = "EO-009"
+
+[meta]
+date_filed = "1954-02-01"
+lawphil_title = "Promulgating Rules and Regulations for the Control and Supervision of the Licensing, Sale, Possession, Use, Storage and Manufacture of Explosives."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1954/eo_9_1954.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1954/pdf/eo_9_1954.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

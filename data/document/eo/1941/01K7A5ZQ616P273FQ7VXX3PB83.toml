@@ -1,0 +1,11 @@
+id = "01K7A5ZQ616P273FQ7VXX3PB83"
+type = "issuance"
+subtype = "EO"
+name = "EO-334"
+
+[meta]
+date_filed = "1941-03-22"
+lawphil_title = "Amending Executive Order No. 333 Dated March 20, 1941, Entitled ï¿½Prohibiting the Exportation of Riceï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1941/eo_334_1941.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1941/pdf/eo_334_1941.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

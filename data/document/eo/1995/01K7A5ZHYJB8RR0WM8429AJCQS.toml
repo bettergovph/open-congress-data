@@ -1,0 +1,11 @@
+id = "01K7A5ZHYJB8RR0WM8429AJCQS"
+type = "issuance"
+subtype = "EO"
+name = "EO-278"
+
+[meta]
+date_filed = "1995-10-10"
+lawphil_title = "Amending Executive Order No. 274 dated 14 September 1995, establishing the Presidential Commission on Bicol Tourism special development project"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1995/eo_278_1995.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1995/pdf/eo_278_1995.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

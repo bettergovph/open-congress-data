@@ -1,0 +1,11 @@
+id = "01K7A5ZQ5ENX0ZGSWCXV0N1QJZ"
+type = "issuance"
+subtype = "EO"
+name = "EO-345"
+
+[meta]
+date_filed = "1941-05-17"
+lawphil_title = "Designating the Department of Labor in Place of the Philippine National Bank as One of the Agencies to Carry Out the Objectives of Commonwealth Act No. 600"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1941/eo_345_1941.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1941/pdf/eo_345_1941.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

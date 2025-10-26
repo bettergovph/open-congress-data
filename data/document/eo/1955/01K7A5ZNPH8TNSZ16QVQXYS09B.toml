@@ -1,0 +1,11 @@
+id = "01K7A5ZNPH8TNSZ16QVQXYS09B"
+type = "issuance"
+subtype = "EO"
+name = "EO-113"
+
+[meta]
+date_filed = "1955-05-02"
+lawphil_title = "Establishing the Classification of Roads"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1955/eo_113_1955.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1955/pdf/eo_113_1955.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

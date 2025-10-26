@@ -1,0 +1,11 @@
+id = "01K7A5ZNN900K633EWDXD04HW7"
+type = "issuance"
+subtype = "EO"
+name = "EO-138"
+
+[meta]
+date_filed = "1955-10-22"
+lawphil_title = "Terminating the Collection of Tolls At the Sigma Toll Bridge, Province of Capiz"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1955/eo_138_1955.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1955/pdf/eo_138_1955.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

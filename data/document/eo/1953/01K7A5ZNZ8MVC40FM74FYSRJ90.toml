@@ -1,0 +1,11 @@
+id = "01K7A5ZNZ8MVC40FM74FYSRJ90"
+type = "issuance"
+subtype = "EO"
+name = "EO-599"
+
+[meta]
+date_filed = "1953-06-16"
+lawphil_title = "Returning to the Old Poblacion (Centro) the Seat of Government of the Municipality of San Pablo, Province of Isabela."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1953/eo_599_1953.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1953/pdf/eo_599_1953.pdf"]
+lawphil_tenure = "Elpidio Quirino"

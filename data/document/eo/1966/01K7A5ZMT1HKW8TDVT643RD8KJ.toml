@@ -1,0 +1,11 @@
+id = "01K7A5ZMT1HKW8TDVT643RD8KJ"
+type = "issuance"
+subtype = "EO"
+name = "EO-020"
+
+[meta]
+date_filed = "1966-04-12"
+lawphil_title = "Instituting the Order of the Grieving Heart"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1966/eo_20_1966.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1966/pdf/eo_20_1966.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

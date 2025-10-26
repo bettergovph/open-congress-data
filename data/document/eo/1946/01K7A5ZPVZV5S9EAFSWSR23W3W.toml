@@ -1,0 +1,11 @@
+id = "01K7A5ZPVZV5S9EAFSWSR23W3W"
+type = "issuance"
+subtype = "EO"
+name = "EO-020"
+
+[meta]
+date_filed = "1946-10-15"
+lawphil_title = "Amending Executive Order Numbered Four, Dated July Eleven, Nineteen Hundred and Forty-Six Entitled ï¿½Fixing the Salaries and Allowances of Officers and Enlisted Men of the Philippine Army.ï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1946/eo_20_1946.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1946/pdf/eo_20_1946.pdf"]
+lawphil_tenure = "Manuel Roxas"

@@ -1,0 +1,11 @@
+id = "01K7A5ZNGGZR7P5P09ETJDDKQR"
+type = "issuance"
+subtype = "EO"
+name = "EO-240"
+
+[meta]
+date_filed = "1957-02-16"
+lawphil_title = "Abolishing the Municipality of Pagudpud in the Province of Ilocos Norte, and Restoring the Different Barrios Composing This Municipality to the Municipality of Bangui, Same Province, to Which They Belonged Prior to Their Becoming Parts of Pagudpud"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1957/eo_240_1957.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1957/pdf/eo_240_1957.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

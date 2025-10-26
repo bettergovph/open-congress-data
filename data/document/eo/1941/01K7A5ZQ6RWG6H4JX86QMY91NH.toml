@@ -1,0 +1,11 @@
+id = "01K7A5ZQ6RWG6H4JX86QMY91NH"
+type = "issuance"
+subtype = "EO"
+name = "EO-320"
+
+[meta]
+date_filed = "1941-01-27"
+lawphil_title = "Regulating the Maintenance and Operation of Race Tracks and Horse Racing"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1941/eo_320_1941.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1941/pdf/eo_320_1941.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

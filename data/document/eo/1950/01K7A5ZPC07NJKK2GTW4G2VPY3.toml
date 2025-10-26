@@ -1,0 +1,11 @@
+id = "01K7A5ZPC07NJKK2GTW4G2VPY3"
+type = "issuance"
+subtype = "EO"
+name = "EO-340"
+
+[meta]
+date_filed = "1950-08-09"
+lawphil_title = "Promulgating Rules and Regulations for the Organization and Training of Civilian Emergency Administration Guards"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_340_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_340_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

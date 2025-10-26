@@ -1,0 +1,11 @@
+id = "01K7A5ZQ1B2QXQ5V7ZGYGW8MP7"
+type = "issuance"
+subtype = "EO"
+name = "EO-021"
+
+[meta]
+date_filed = "1944-10-28"
+lawphil_title = "Declaring to Be on Active Service in the Philippine Army All Persons Now Actively Serving in Recognized Military Forces in the Philippines"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1944/eo_21_1944.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1944/pdf/eo_21-w_1944.pdf"]
+lawphil_tenure = "Sergio Osmeï¿½a Sergio Osmena"

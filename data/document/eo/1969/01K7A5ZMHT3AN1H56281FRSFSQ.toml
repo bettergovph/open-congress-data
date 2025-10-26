@@ -1,0 +1,11 @@
+id = "01K7A5ZMHT3AN1H56281FRSFSQ"
+type = "issuance"
+subtype = "EO"
+name = "EO-194"
+
+[meta]
+date_filed = "1969-10-13"
+lawphil_title = "Further Amending Executive Order No. 321 Dated June 12, 1950, as Revised By Executive Order No. 137 Dated January 7, 1965, Prescribing the Code of the National Flag and the National Anthem of the Republic of the Philippines"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1969/eo_194_1969.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1969/pdf/eo_194_1969.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

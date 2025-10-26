@@ -1,0 +1,11 @@
+id = "01K7A5ZQCFMFXRW56GREK05S6W"
+type = "issuance"
+subtype = "EO"
+name = "EO-212"
+
+[meta]
+date_filed = "1939-07-06"
+lawphil_title = "Regulations Governing Seniority, Promotion, and Separation From the Service of Officers of the Reserve Force, Philippine Army"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1939/eo_212_1939.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1939/pdf/eo_212_1939.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

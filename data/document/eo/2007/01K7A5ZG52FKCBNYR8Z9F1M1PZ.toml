@@ -1,0 +1,11 @@
+id = "01K7A5ZG52FKCBNYR8Z9F1M1PZ"
+type = "issuance"
+subtype = "EO"
+name = "EO-625"
+
+[meta]
+date_filed = "2007-04-04"
+lawphil_title = "Amending Bir Executive Order No. 175 of President Joseph Estrada and for Other Purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2007/eo_625_2007.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2007/pdf/eo_625_2007.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

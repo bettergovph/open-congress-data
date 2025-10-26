@@ -1,0 +1,11 @@
+id = "01K7A5ZPNA53FERPJK3GXAQ39F"
+type = "issuance"
+subtype = "EO"
+name = "EO-148"
+
+[meta]
+date_filed = "1948-07-02"
+lawphil_title = "Suspending the Provisions of Executive Order No. 140, Dated May 12, 1948, Organizing Certain Barrios of the Municipality of Lemery, Province of Batangas, Into An Independent Municipality Under the Name of Pansipit"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1948/eo_148_1948.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1948/pdf/eo_148_1948.pdf"]
+lawphil_tenure = "Elpidio Quirino"

@@ -1,0 +1,11 @@
+id = "01K7A5ZP1A1WGA84NAFG16RSM0"
+type = "issuance"
+subtype = "EO"
+name = "EO-557"
+
+[meta]
+date_filed = "1953-01-16"
+lawphil_title = "Amending Executive Order Numbered Four Hundred and Forty-Two, and for Other Purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1953/eo_557_1953.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1953/pdf/eo_557_1953.pdf"]
+lawphil_tenure = "Elpidio Quirino"

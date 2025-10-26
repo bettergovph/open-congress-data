@@ -1,0 +1,11 @@
+id = "01K7A5ZPAX556PAQ3TMZ660EYN"
+type = "issuance"
+subtype = "EO"
+name = "EO-363"
+
+[meta]
+date_filed = "1950-11-09"
+lawphil_title = "Amending Section One of Executive Order Numbered Three Hundred Thirty-One, as Amended By Executive Order Numbered Three Hundred and Fifty-Nine"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_363_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_363_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

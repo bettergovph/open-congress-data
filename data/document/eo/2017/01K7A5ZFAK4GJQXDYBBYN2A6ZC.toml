@@ -1,0 +1,10 @@
+id = "01K7A5ZFAK4GJQXDYBBYN2A6ZC"
+type = "issuance"
+subtype = "EO"
+name = "EO-038"
+
+[meta]
+date_filed = "2017-08-07"
+lawphil_title = "Revoking Executive Order No. 183 (S. 2015) Which Created a Negros Island Region and for Other Purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2017/eo_38_2017.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2017/pdf/eo_38_2017.pdf"]

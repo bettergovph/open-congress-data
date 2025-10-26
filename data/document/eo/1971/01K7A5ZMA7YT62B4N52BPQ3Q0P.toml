@@ -1,0 +1,11 @@
+id = "01K7A5ZMA7YT62B4N52BPQ3Q0P"
+type = "issuance"
+subtype = "EO"
+name = "EO-323"
+
+[meta]
+date_filed = "1971-06-18"
+lawphil_title = "Amending Executive Order No. 64, Dated May 28, 1967, Entitled ï¿½Reconstituting the Committee Created Under Executive Order No. 298 Dated August 12, 1940, Entitled ï¿½Prohibiting the Automatic Renewal of Contracts, Requiring Public Bidding Before Entering Into New Contracts, and Providing Exceptions Thereforï¿½ as Amended By Executive Order No. 146 Dated December 27, 1955, Executive Order No. 212 Dated November 6, 1956, Executive Order No. 318 Dated September 17, 1958, Executive Order No. 358 Dated September 23, 1959, and Executive Order No. 40 Dated June 1, 1963ï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1971/eo_323_1971.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1971/pdf/eo_323_1971.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

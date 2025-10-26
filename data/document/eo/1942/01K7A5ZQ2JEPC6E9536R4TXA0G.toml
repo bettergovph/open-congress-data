@@ -1,0 +1,11 @@
+id = "01K7A5ZQ2JEPC6E9536R4TXA0G"
+type = "issuance"
+subtype = "EO"
+name = "EO-402"
+
+[meta]
+date_filed = "1942-03-26"
+lawphil_title = "Authorizing and Empowering Colonel Manuel Roxas, Secretary to the President, to Act for and in Behalf of the President"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1942/eo_402_1942.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1942/pdf/eo_402_1942.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

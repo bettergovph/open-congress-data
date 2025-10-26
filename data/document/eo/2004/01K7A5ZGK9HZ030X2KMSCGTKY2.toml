@@ -1,0 +1,11 @@
+id = "01K7A5ZGK9HZ030X2KMSCGTKY2"
+type = "issuance"
+subtype = "EO"
+name = "EO-347"
+
+[meta]
+date_filed = "2004-08-11"
+lawphil_title = "Amending Executive Order No. 314"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2004/eo_347_2004.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2004/pdf/eo_347_2004.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

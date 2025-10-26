@@ -1,0 +1,11 @@
+id = "01K7A5ZQA1PP2MZ7GSQ8CM72W5"
+type = "issuance"
+subtype = "EO"
+name = "EO-264"
+
+[meta]
+date_filed = "1940-04-01"
+lawphil_title = "Appointment and Separation of Secret Agents or Detectives and Confidential Employees"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1940/eo_264_1940.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1940/pdf/eo_264_1940.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

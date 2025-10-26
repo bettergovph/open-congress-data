@@ -1,0 +1,11 @@
+id = "01K7A5ZPF88R49W97YC1ZGFVEV"
+type = "issuance"
+subtype = "EO"
+name = "EO-273"
+
+[meta]
+date_filed = "1949-09-29"
+lawphil_title = "Amending Further Executive Order No. 72, Dated December 3, 1936, Establishing a Classification of Ports"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1949/eo_273_1949.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1949/pdf/eo_273_1949.pdf"]
+lawphil_tenure = "Elpidio Quirino"

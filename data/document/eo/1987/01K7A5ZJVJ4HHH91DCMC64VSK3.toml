@@ -1,0 +1,11 @@
+id = "01K7A5ZJVJ4HHH91DCMC64VSK3"
+type = "issuance"
+subtype = "EO"
+name = "EO-172"
+
+[meta]
+date_filed = "1987-05-08"
+lawphil_title = "Creating the Energy Regulatory Board"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1987/eo_172_1987.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1987/pdf/eo_172_1987.pdf"]
+lawphil_tenure = "Corazon Aquino Cory"

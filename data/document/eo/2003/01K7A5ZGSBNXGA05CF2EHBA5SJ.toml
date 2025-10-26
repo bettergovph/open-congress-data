@@ -1,0 +1,11 @@
+id = "01K7A5ZGSBNXGA05CF2EHBA5SJ"
+type = "issuance"
+subtype = "EO"
+name = "EO-251"
+
+[meta]
+date_filed = "2003-11-25"
+lawphil_title = "Requiring the Bureau of Internal Revenue to Furnish the Office of the Ombudsman With Income Tax Returns Filed"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2003/eo_251_2003.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2003/pdf/eo_251_2003.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

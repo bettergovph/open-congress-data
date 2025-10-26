@@ -1,0 +1,11 @@
+id = "01K7A5ZH5QS6ZQ32AY4G8SPBCE"
+type = "issuance"
+subtype = "EO"
+name = "EO-326"
+
+[meta]
+date_filed = "2000-12-09"
+lawphil_title = "Repealing Section 7 of Administrative Order No. 170"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2000/eo_326_2000.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2000/pdf/eo_326_2000.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

@@ -1,0 +1,11 @@
+id = "01K7A5ZGP1QV4F8JEB5VQ9VJZC"
+type = "issuance"
+subtype = "EO"
+name = "EO-296"
+
+[meta]
+date_filed = "2004-03-10"
+lawphil_title = "Further Amending Executive Order No. 219 Dated January 3, 1995 Establishing the Domestic and International Civil Aviation Liberalization Policy"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2004/eo_296_2004.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2004/pdf/eo_296_2004.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

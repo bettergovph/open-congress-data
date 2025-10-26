@@ -1,0 +1,11 @@
+id = "01K7A5ZQV28HD76DE03N51C1ZV"
+type = "issuance"
+subtype = "EO"
+name = "EO-039"
+
+[meta]
+date_filed = "1913-06-12"
+lawphil_title = "Signed on June 12, 1913: Executive Order No. 39."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1913/eo_39_1913.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1913/pdf/eo_39_1913.pdf"]
+lawphil_tenure = "W. Cameron Forbes"

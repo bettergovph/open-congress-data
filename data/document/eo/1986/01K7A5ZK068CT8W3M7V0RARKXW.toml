@@ -1,0 +1,11 @@
+id = "01K7A5ZK068CT8W3M7V0RARKXW"
+type = "issuance"
+subtype = "EO"
+name = "EO-077"
+
+[meta]
+date_filed = "1986-12-02"
+lawphil_title = "Further Amending Executive Order No. 755, as Amended."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1986/eo_77_1986.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1986/pdf/eo_77_1986.pdf"]
+lawphil_tenure = "Corazon Aquino"

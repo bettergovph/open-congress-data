@@ -1,0 +1,11 @@
+id = "01K7A5ZPJ1WKWQ2TGY4VRXCFF2"
+type = "issuance"
+subtype = "EO"
+name = "EO-216"
+
+[meta]
+date_filed = "1949-05-28"
+lawphil_title = "Amending Executive Order No. 82, Dated August 18, 1947, By Restoring to the Municipality of Dulawan the Barrios or Sitios of Barurao and Lambayong Which Were Annexed to the New Municipality of Buluan Under Said Executive Order"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1949/eo_216_1949.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1949/pdf/eo_216_1949.pdf"]
+lawphil_tenure = "Elpidio Quirino"

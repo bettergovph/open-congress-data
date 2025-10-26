@@ -1,0 +1,11 @@
+id = "01K7A5ZMSR81J0WSS75B6BN007"
+type = "issuance"
+subtype = "EO"
+name = "EO-026"
+
+[meta]
+date_filed = "1966-05-26"
+lawphil_title = "Amending Executive Order No. 236 Dated February 13, 1957, Entitled ï¿½Prescribing Procedures for the Planning of Development Finances, the Issuance of Government Securities, and the Disbursement of Proceedsï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1966/eo_26_1966.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1966/pdf/eo_26_1966.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

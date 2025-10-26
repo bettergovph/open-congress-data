@@ -1,0 +1,11 @@
+id = "01K7A5ZGPKAW0MEN9AAJ6C52HV"
+type = "issuance"
+subtype = "EO"
+name = "EO-289"
+
+[meta]
+date_filed = "2004-02-24"
+lawphil_title = "Revocation of the Memorandum Dated May 24, 1966 Issued By Former President Ferdinand E. Marcos Directing the Director of Lands to Stop the Grant of Foreshore Leases Along the Manila Bay Towards Cavite and Towards Bataan"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2004/eo_289_2004.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2004/pdf/eo_289_2004.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

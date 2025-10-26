@@ -1,0 +1,11 @@
+id = "01K7A5ZMTB07NYWPA6RPTHTBNX"
+type = "issuance"
+subtype = "EO"
+name = "EO-013"
+
+[meta]
+date_filed = "1966-02-24"
+lawphil_title = "Providing for the Internal Organization of the National Security Council"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1966/eo_13_1966.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1966/pdf/eo_13_1966.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

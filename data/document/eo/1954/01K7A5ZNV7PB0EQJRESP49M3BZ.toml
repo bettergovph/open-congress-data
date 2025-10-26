@@ -1,0 +1,11 @@
+id = "01K7A5ZNV7PB0EQJRESP49M3BZ"
+type = "issuance"
+subtype = "EO"
+name = "EO-021"
+
+[meta]
+date_filed = "1954-03-23"
+lawphil_title = "Amending Paragraph Five of Executive Order No. 111, Dated August 30, 1937, Entitled ï¿½Prohibiting and Restricting the Practice of Nepotismï¿½."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1954/eo_21_1954.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1954/pdf/eo_21_1954.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

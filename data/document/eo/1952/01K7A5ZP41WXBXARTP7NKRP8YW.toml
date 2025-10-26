@@ -1,0 +1,11 @@
+id = "01K7A5ZP41WXBXARTP7NKRP8YW"
+type = "issuance"
+subtype = "EO"
+name = "EO-500"
+
+[meta]
+date_filed = "1952-05-02"
+lawphil_title = "Directing That All Unserviceable Property From Which Scrap Metal Can Be Derived and No Longer Needed By the Government, Its Branches, Agencies and Instrumentalities, Be Transferred, Without Cost, to the National Shipyards and Steel Corporation"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1952/eo_500_1952.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1952/pdf/eo_500_1952.pdf"]
+lawphil_tenure = "Elpidio Quirino"

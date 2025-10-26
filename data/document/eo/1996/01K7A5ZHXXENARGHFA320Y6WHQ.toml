@@ -1,0 +1,11 @@
+id = "01K7A5ZHXXENARGHFA320Y6WHQ"
+type = "issuance"
+subtype = "EO"
+name = "EO-290"
+
+[meta]
+date_filed = "1996-01-02"
+lawphil_title = "Third year implementation of the new salary schedule in the government"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1996/eo_290_1996.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1996/pdf/eo_290_1996.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

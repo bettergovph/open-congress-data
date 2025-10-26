@@ -1,0 +1,11 @@
+id = "01K7A5ZM7WBZXWT9WAFAK5XD6S"
+type = "issuance"
+subtype = "EO"
+name = "EO-343"
+
+[meta]
+date_filed = "1971-10-13"
+lawphil_title = "Amending Executive Order No. 215 Dated March 7, 1970, Reorganizing the Presidential Committee on Housing and Urban Resettlement, By Designating the Secretary of Public Works and Communications as Executive Director Thereof"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1971/eo_343_1971.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1971/pdf/eo_343_1971.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

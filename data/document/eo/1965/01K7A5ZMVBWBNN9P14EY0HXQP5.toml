@@ -1,0 +1,11 @@
+id = "01K7A5ZMVBWBNN9P14EY0HXQP5"
+type = "issuance"
+subtype = "EO"
+name = "EO-220"
+
+[meta]
+date_filed = "1965-12-08"
+lawphil_title = "Amending Executive Order No. 107 Dated October 1, 1964, Creating the Municipality of Andong in the Province of Lanao Del Sur."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1965/eo_220_1965.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1965/pdf/eo_220_1965.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

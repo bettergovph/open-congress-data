@@ -1,0 +1,11 @@
+id = "01K7A5ZHMEP0212GBG7XC8X9C1"
+type = "issuance"
+subtype = "EO"
+name = "EO-014"
+
+[meta]
+date_filed = "1998-08-19"
+lawphil_title = "Establishing the Presidential Commission on Year 2000 Compliance"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1998/eo_14_1998.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1998/pdf/eo_14_1998.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

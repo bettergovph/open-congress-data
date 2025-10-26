@@ -1,0 +1,11 @@
+id = "01K7A5ZQ4TQ89WR2RBE3ZTGMDQ"
+type = "issuance"
+subtype = "EO"
+name = "EO-357"
+
+[meta]
+date_filed = "1941-07-30"
+lawphil_title = "Revising Further Executive Order No. 135, Dated December 31, 1937, as Amended, Establishing a Classification of Roads."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1941/eo_357_1941.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1941/pdf/eo_357_1941.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

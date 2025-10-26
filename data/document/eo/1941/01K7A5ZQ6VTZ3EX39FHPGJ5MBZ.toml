@@ -1,0 +1,11 @@
+id = "01K7A5ZQ6VTZ3EX39FHPGJ5MBZ"
+type = "issuance"
+subtype = "EO"
+name = "EO-318"
+
+[meta]
+date_filed = "1941-01-24"
+lawphil_title = "Regulating the Operation of Cockpits"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1941/eo_318_1941.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1941/pdf/eo_318_1941.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

@@ -1,0 +1,11 @@
+id = "01K7A5ZJ13CZ83Z1FS9E7CZJFH"
+type = "issuance"
+subtype = "EO"
+name = "EO-218"
+
+[meta]
+date_filed = "1995-01-01"
+lawphil_title = "Second year of implementation of the new Salary Schedule in the Government"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1995/eo_218_1995.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1995/pdf/eo_218_1995.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

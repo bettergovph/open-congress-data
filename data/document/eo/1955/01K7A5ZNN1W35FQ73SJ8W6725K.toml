@@ -1,0 +1,11 @@
+id = "01K7A5ZNN1W35FQ73SJ8W6725K"
+type = "issuance"
+subtype = "EO"
+name = "EO-144"
+
+[meta]
+date_filed = "1955-12-19"
+lawphil_title = "Authorizing the Designation of Personnel Officers in the Departments, Bureaus, Offices, and Agencies of the National Government and Defining the Duties of Such Officers"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1955/eo_144_1955.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1955/pdf/eo_144_1955.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

@@ -1,0 +1,11 @@
+id = "01K7A5ZMVVKFT96V3ZYN6GJE1B"
+type = "issuance"
+subtype = "EO"
+name = "EO-210"
+
+[meta]
+date_filed = "1965-11-29"
+lawphil_title = "Amending Executive Order No. 184, Series of 1956, Insofar as the Southwestern Boundaries of the Municipality of Dagohoy, Province of Bohol, Are Concerned."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1965/eo_210_1965.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1965/pdf/eo_210_1965.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

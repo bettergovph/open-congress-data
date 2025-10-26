@@ -1,0 +1,11 @@
+id = "01K7A5ZK1R42QXW8RZHGZ9SN8A"
+type = "issuance"
+subtype = "EO"
+name = "EO-044"
+
+[meta]
+date_filed = "1986-09-04"
+lawphil_title = "Authorizing the Bureau of Internal Revenue to Accept Compromise Payments on Delinquent Accounts and Disputed Assessments Pending as of December 31, 1985"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1986/eo_44_1986.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1986/pdf/eo_44_1986.pdf"]
+lawphil_tenure = "Corazon Aquino"

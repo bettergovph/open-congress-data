@@ -1,0 +1,11 @@
+id = "01K7A5ZPGXKBC91R6WWDM3TD7F"
+type = "issuance"
+subtype = "EO"
+name = "EO-240"
+
+[meta]
+date_filed = "1949-07-08"
+lawphil_title = "Continuing the Appropriations Authorized By the Congress for the Operation and Maintenance of Certain Existing Activities or Services of the Government of the Republic of the Philippines During the Period From July 1, 1949 to June 30, 1950, and for Other Purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1949/eo_240_1949.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1949/pdf/eo_240_1949.pdf"]
+lawphil_tenure = "Elpidio Quirino"

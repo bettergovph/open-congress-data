@@ -1,0 +1,11 @@
+id = "01K7A5ZQS26SCE8KPW6PV8NZ6C"
+type = "issuance"
+subtype = "EO"
+name = "EO-081"
+
+[meta]
+date_filed = "1913-09-27"
+lawphil_title = "Signed on September 27, 1913: Executive Order No. 81."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1913/eo_81_1913.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1913/pdf/eo_81_1913.pdf"]
+lawphil_tenure = "Newton W. Gilbert"

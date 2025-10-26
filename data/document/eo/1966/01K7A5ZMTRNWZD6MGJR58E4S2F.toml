@@ -1,0 +1,11 @@
+id = "01K7A5ZMTRNWZD6MGJR58E4S2F"
+type = "issuance"
+subtype = "EO"
+name = "EO-004"
+
+[meta]
+date_filed = "1966-01-07"
+lawphil_title = "Creating the Presidential Agency on Reforms and Government Operations (Pargo)"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1966/eo_4_1966.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1966/pdf/eo_4_1966.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

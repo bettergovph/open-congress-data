@@ -1,0 +1,11 @@
+id = "01K7A5ZHQSBAKS0E9EF51YWYCX"
+type = "issuance"
+subtype = "EO"
+name = "EO-429"
+
+[meta]
+date_filed = "1997-07-28"
+lawphil_title = "Amending Executive Order No. 62, series of 1993, which prescribed the policies and guidelines to implement Republic Act No. 7227"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1997/eo_429_1997.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1997/pdf/eo_429_1997.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

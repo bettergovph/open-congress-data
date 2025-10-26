@@ -1,0 +1,11 @@
+id = "01K7A5ZN1BE32W0H72X49WM6W5"
+type = "issuance"
+subtype = "EO"
+name = "EO-099"
+
+[meta]
+date_filed = "1964-09-26"
+lawphil_title = "Creating the Municipality of Sebaste in the Province of Antique"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1964/eo_99_1964.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1964/pdf/eo_99_1964.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

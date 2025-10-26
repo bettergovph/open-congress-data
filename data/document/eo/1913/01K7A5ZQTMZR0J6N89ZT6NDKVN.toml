@@ -1,0 +1,11 @@
+id = "01K7A5ZQTMZR0J6N89ZT6NDKVN"
+type = "issuance"
+subtype = "EO"
+name = "EO-048"
+
+[meta]
+date_filed = "1913-06-28"
+lawphil_title = "Signed on June 28, 1913: Executive Order No. 48."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1913/eo_48_1913.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1913/pdf/eo_48_1913.pdf"]
+lawphil_tenure = "W. Cameron Forbes"

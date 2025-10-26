@@ -1,0 +1,11 @@
+id = "01K7A5ZF67KVPD51AZ7G278V30"
+type = "issuance"
+subtype = "EO"
+name = "EO-130"
+
+[meta]
+date_filed = "2021-04-14"
+lawphil_title = "Amending Section 4 of Executive Order No. 79, S. 2012, Institutionalizing and Implementing Reforms in the Philippine Mining Sector, Providing Policies and Guidelines to Ensure Environmental Protection and Responsible Mining in the Utilization of Mineral Resources"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2021/eo_130_2021.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2021/pdf/eo_130_2021.pdf"]
+lawphil_tenure = "Rodrigo Duterte"

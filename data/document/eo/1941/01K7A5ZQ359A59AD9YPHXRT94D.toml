@@ -1,0 +1,11 @@
+id = "01K7A5ZQ359A59AD9YPHXRT94D"
+type = "issuance"
+subtype = "EO"
+name = "EO-390"
+
+[meta]
+date_filed = "1941-12-22"
+lawphil_title = "Prescribing the Order of Presidential Succession and Abolishing the Department of the Interior"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1941/eo_390_1941.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1941/pdf/eo_390_1941.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

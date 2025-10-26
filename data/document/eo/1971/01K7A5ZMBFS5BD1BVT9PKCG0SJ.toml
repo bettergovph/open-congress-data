@@ -1,0 +1,11 @@
+id = "01K7A5ZMBFS5BD1BVT9PKCG0SJ"
+type = "issuance"
+subtype = "EO"
+name = "EO-307"
+
+[meta]
+date_filed = "1971-03-23"
+lawphil_title = "Creating the Philippine Agricultural Training Council"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1971/eo_307_1971.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1971/pdf/eo_307_1971.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

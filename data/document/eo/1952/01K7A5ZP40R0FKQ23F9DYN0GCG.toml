@@ -1,0 +1,11 @@
+id = "01K7A5ZP40R0FKQ23F9DYN0GCG"
+type = "issuance"
+subtype = "EO"
+name = "EO-501"
+
+[meta]
+date_filed = "1952-05-07"
+lawphil_title = "Further Amending Executive Order No. 318, Dated May 25, 1950, Creating the Integrity Board"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1952/eo_501_1952.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1952/pdf/eo_501_1952.pdf"]
+lawphil_tenure = "Elpidio Quirino"

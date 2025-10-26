@@ -1,0 +1,11 @@
+id = "01K7A5ZGS2D3BAD93R233XX24G"
+type = "issuance"
+subtype = "EO"
+name = "EO-256"
+
+[meta]
+date_filed = "2003-12-08"
+lawphil_title = "Declaration on the Effect of Special Patent No. 3596 and Establishing a Makati-Taguig Boundary Committee"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2003/eo_256_2003.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2003/pdf/eo_256_2003.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

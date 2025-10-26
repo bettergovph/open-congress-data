@@ -1,0 +1,11 @@
+id = "01K7A5ZMJN60HZDVKR9W9F1QRS"
+type = "issuance"
+subtype = "EO"
+name = "EO-177"
+
+[meta]
+date_filed = "1969-03-30"
+lawphil_title = "Providing Instructions to Be Followed in the Conduct of Public Affairs During the Time the President Is Outside the Philippines"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1969/eo_177_1969.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1969/pdf/eo_177_1969.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

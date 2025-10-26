@@ -1,0 +1,11 @@
+id = "01K7A5ZM8M1Q66SVP33821BF6A"
+type = "issuance"
+subtype = "EO"
+name = "EO-333"
+
+[meta]
+date_filed = "1971-08-26"
+lawphil_title = "Creating a Presidential Administrative Assistance Committee Relative to the Implementation of Proclamation No. 889 Dated August 21, 1971, Suspending the Privilege of the Writ of Habeas Corpus"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1971/eo_333_1971.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1971/pdf/eo_333_1971.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

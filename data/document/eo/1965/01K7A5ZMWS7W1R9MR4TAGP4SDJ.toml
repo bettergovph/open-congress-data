@@ -1,0 +1,11 @@
+id = "01K7A5ZMWS7W1R9MR4TAGP4SDJ"
+type = "issuance"
+subtype = "EO"
+name = "EO-190"
+
+[meta]
+date_filed = "1965-11-06"
+lawphil_title = "Defining the Boundaries of the City of Palayan"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1965/eo_190_1965.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1965/pdf/eo_190_1965.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

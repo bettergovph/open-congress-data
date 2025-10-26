@@ -1,0 +1,11 @@
+id = "01K7A5ZNQQ36BKTQA4BKN9VSR3"
+type = "issuance"
+subtype = "EO"
+name = "EO-090"
+
+[meta]
+date_filed = "1955-01-12"
+lawphil_title = "Prohibiting the Use of Trawls in Sorsogon Bay"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1955/eo_90_1955.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1955/pdf/eo_90_1955.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

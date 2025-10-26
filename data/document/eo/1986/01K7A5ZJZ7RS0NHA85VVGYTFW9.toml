@@ -1,0 +1,11 @@
+id = "01K7A5ZJZ7RS0NHA85VVGYTFW9"
+type = "issuance"
+subtype = "EO"
+name = "EO-099"
+
+[meta]
+date_filed = "1986-12-18"
+lawphil_title = "Repealing Presidential Decrees Nos. 1727-A and 1804 Which Prohibit and Penalize the Grant of Permits to Certain Persons"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1986/eo_99_1986.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1986/pdf/eo_99_1986.pdf"]
+lawphil_tenure = "Corazon Aquino"

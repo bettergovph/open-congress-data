@@ -1,0 +1,11 @@
+id = "01K7A5ZHH1YGXZSVBCFT2PTF5R"
+type = "issuance"
+subtype = "EO"
+name = "EO-087"
+
+[meta]
+date_filed = "1999-04-01"
+lawphil_title = "Facilitating the importation of sugar"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1999/eo_87_1999.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1999/pdf/eo_87_1999.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

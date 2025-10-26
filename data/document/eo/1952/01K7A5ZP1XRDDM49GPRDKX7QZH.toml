@@ -1,0 +1,11 @@
+id = "01K7A5ZP1XRDDM49GPRDKX7QZH"
+type = "issuance"
+subtype = "EO"
+name = "EO-545"
+
+[meta]
+date_filed = "1952-11-10"
+lawphil_title = "Appropriating Funds for Urgent and Essential Public Works."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1952/eo_545_1952.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1952/pdf/eo_545_1952.pdf"]
+lawphil_tenure = "Elpidio Quirino"

@@ -1,0 +1,11 @@
+id = "01K7A5ZMY0B79T8RQ2VZBMAACP"
+type = "issuance"
+subtype = "EO"
+name = "EO-165"
+
+[meta]
+date_filed = "1965-08-27"
+lawphil_title = "Creating the Municipal Advisory Health Council"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1965/eo_165_1965.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1965/pdf/eo_165_1965.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

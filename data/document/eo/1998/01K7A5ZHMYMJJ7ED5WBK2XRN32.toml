@@ -1,0 +1,11 @@
+id = "01K7A5ZHMYMJJ7ED5WBK2XRN32"
+type = "issuance"
+subtype = "EO"
+name = "EO-003"
+
+[meta]
+date_filed = "1998-07-15"
+lawphil_title = "Reverting the Board of Liquidators from the Asset Privatization Trust to the Office of the President as an attached agency"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1998/eo_3_1998.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1998/pdf/eo_3_1998.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

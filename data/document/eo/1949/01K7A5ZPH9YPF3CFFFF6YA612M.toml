@@ -1,0 +1,11 @@
+id = "01K7A5ZPH9YPF3CFFFF6YA612M"
+type = "issuance"
+subtype = "EO"
+name = "EO-231"
+
+[meta]
+date_filed = "1949-06-28"
+lawphil_title = "Amending Executive Order No. 193, Dated December 28, 1948, and No. 209, Dated March 30, 1949"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1949/eo_231_1949.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1949/pdf/eo_231_1949.pdf"]
+lawphil_tenure = "Elpidio Quirino"

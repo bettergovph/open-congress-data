@@ -1,0 +1,11 @@
+id = "01K7A5ZMTQDCEJAAB0YQS27D1R"
+type = "issuance"
+subtype = "EO"
+name = "EO-005"
+
+[meta]
+date_filed = "1966-01-07"
+lawphil_title = "Conferring Cabinet Rank Upon the Governor of the Land Authority"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1966/eo_5_1966.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1966/pdf/eo_5_1966.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

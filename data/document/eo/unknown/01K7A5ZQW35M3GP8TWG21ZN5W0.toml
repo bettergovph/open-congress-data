@@ -1,0 +1,10 @@
+id = "01K7A5ZQW35M3GP8TWG21ZN5W0"
+type = "issuance"
+subtype = "EO"
+name = "EO-013"
+
+[meta]
+lawphil_title = "The Director of Prisons is hereby authorized to designate, subject to the approval of the Governor-General"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1913/eo_13_1913.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1913/pdf/eo_13_1913.pdf"]
+lawphil_tenure = "W. Cameron Forbes"

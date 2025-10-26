@@ -1,0 +1,11 @@
+id = "01K7A5ZN4AVZ3GF3GZQH7ZQXCM"
+type = "issuance"
+subtype = "EO"
+name = "EO-033"
+
+[meta]
+date_filed = "1963-01-25"
+lawphil_title = "Amending Executive Order No. 16 Dated April 24, 1922, So as to Change the Composition of the Committee Therein Created"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1963/eo_33_1963.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1963/pdf/eo_33_1963.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

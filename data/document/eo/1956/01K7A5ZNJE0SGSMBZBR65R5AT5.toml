@@ -1,0 +1,11 @@
+id = "01K7A5ZNJE0SGSMBZBR65R5AT5"
+type = "issuance"
+subtype = "EO"
+name = "EO-199"
+
+[meta]
+date_filed = "1956-08-15"
+lawphil_title = "Annexing a Certain Portion of the So-Called Barrio of Jones, Municipality of Tanjay, Negros Oriental, to the Municipality of Pamplona, Same Province"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1956/eo_199_1956.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1956/pdf/eo_199_1956.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

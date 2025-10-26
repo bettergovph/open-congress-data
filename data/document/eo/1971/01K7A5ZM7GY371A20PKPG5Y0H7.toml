@@ -1,0 +1,11 @@
+id = "01K7A5ZM7GY371A20PKPG5Y0H7"
+type = "issuance"
+subtype = "EO"
+name = "EO-351"
+
+[meta]
+date_filed = "1971-11-16"
+lawphil_title = "Amending Executive Order No. 17 Dated March 24, 1966, Which Created the Development Council"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1971/eo_351_1971.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1971/pdf/eo_351_1971.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

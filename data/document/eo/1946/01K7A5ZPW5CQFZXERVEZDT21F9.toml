@@ -1,0 +1,11 @@
+id = "01K7A5ZPW5CQFZXERVEZDT21F9"
+type = "issuance"
+subtype = "EO"
+name = "EO-016"
+
+[meta]
+date_filed = "1946-09-05"
+lawphil_title = "Further Amending the Third Paragraph of Executive Order No. 33, Dated May 29, 1936, as Amended By Executive Orders Nos. 257 and 7, Dated March 12, 1940 and July 18, 1946, Respectively, Reorganizing the Deportation Board"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1946/eo_16_1946.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1946/pdf/eo_16_1946.pdf"]
+lawphil_tenure = "Manuel Roxas"

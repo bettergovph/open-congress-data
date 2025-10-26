@@ -1,0 +1,11 @@
+id = "01K7A5ZQAK6TTPHQHJT8BT2VA6"
+type = "issuance"
+subtype = "EO"
+name = "EO-252"
+
+[meta]
+date_filed = "1940-01-23"
+lawphil_title = "Granting Authority to the Commissioner of the Census to Order and Approve the Publication of Census Reports"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1940/eo_252_1940.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1940/pdf/eo_252_1940.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

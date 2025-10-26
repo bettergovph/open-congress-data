@@ -1,0 +1,11 @@
+id = "01K7A5ZNW23JV40P5BQYDJGD6Q"
+type = "issuance"
+subtype = "EO"
+name = "EO-003"
+
+[meta]
+date_filed = "1954-01-05"
+lawphil_title = "Organizing a Certain Portion of the Municipality of San Jose, Province of Antique, Into An Independent Municipality Under the Name of Hamtic"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1954/eo_3_1954.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1954/pdf/eo_3_1954.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

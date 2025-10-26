@@ -1,0 +1,11 @@
+id = "01K7A5ZQS747PRZ5PSNMEB37KV"
+type = "issuance"
+subtype = "EO"
+name = "EO-078"
+
+[meta]
+date_filed = "1913-09-18"
+lawphil_title = "Signed on September 18, 1913: Executive Order No. 78."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1913/eo_78_1913.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1913/pdf/eo_78_1913.pdf"]
+lawphil_tenure = "Newton W. Gilbert"

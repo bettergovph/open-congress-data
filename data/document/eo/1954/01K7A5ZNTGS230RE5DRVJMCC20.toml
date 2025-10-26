@@ -1,0 +1,11 @@
+id = "01K7A5ZNTGS230RE5DRVJMCC20"
+type = "issuance"
+subtype = "EO"
+name = "EO-037"
+
+[meta]
+date_filed = "1954-05-22"
+lawphil_title = "Amending Executive Order No. 500, Dated May 2, 1952, Relative to the Transfer of Unserviceable Government Property to the National Shipyards and Steel Corporation."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1954/eo_37_1954.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1954/pdf/eo_37_1954.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

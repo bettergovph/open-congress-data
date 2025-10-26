@@ -1,0 +1,11 @@
+id = "01K7A5ZQA4PX117BHYKRFQJ83Q"
+type = "issuance"
+subtype = "EO"
+name = "EO-262"
+
+[meta]
+date_filed = "1940-04-01"
+lawphil_title = "Revising Executive Order No. 32, Dated May 25, 1936, Prescribing Uniform Fees for Copies of Official Records and Documents Furnished Private Persons and Entities"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1940/eo_262_1940.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1940/pdf/eo_262_1940.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

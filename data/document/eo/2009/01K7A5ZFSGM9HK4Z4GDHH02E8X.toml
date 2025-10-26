@@ -1,0 +1,11 @@
+id = "01K7A5ZFSGM9HK4Z4GDHH02E8X"
+type = "issuance"
+subtype = "EO"
+name = "EO-845"
+
+[meta]
+date_filed = "2009-11-15"
+lawphil_title = "Lifting Executive Order No. 839, Series of 2009"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2009/eo_845_2009.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2009/pdf/eo_845_2009.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

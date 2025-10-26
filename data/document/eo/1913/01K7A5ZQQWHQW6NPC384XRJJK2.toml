@@ -1,0 +1,11 @@
+id = "01K7A5ZQQWHQW6NPC384XRJJK2"
+type = "issuance"
+subtype = "EO"
+name = "EO-099"
+
+[meta]
+date_filed = "1913-11-28"
+lawphil_title = "Signed on November 28, 1913: Executive Order No. 99."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1913/eo_99_1913.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1913/pdf/eo_99_1913.pdf"]
+lawphil_tenure = "Francis Burton Harrison"

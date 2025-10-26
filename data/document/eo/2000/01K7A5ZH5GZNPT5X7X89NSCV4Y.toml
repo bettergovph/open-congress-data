@@ -1,0 +1,11 @@
+id = "01K7A5ZH5GZNPT5X7X89NSCV4Y"
+type = "issuance"
+subtype = "EO"
+name = "EO-331"
+
+[meta]
+date_filed = "2000-12-29"
+lawphil_title = "Creating An Inter-Agency Task Force to Combat Securities-Fraud"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2000/eo_331_2000.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2000/pdf/eo_331_2000.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

@@ -1,0 +1,11 @@
+id = "01K7A5ZQ560ER9695KT18XJ8DM"
+type = "issuance"
+subtype = "EO"
+name = "EO-350"
+
+[meta]
+date_filed = "1941-05-31"
+lawphil_title = "Establishing a Public Assistance Service Under the Bureau of Public Welfare to Take Over the Relief and Other Activities of the Associated Charities of the Philippines"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1941/eo_350_1941.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1941/pdf/eo_350_1941.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

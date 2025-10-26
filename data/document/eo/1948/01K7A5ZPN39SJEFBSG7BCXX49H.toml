@@ -1,0 +1,11 @@
+id = "01K7A5ZPN39SJEFBSG7BCXX49H"
+type = "issuance"
+subtype = "EO"
+name = "EO-153"
+
+[meta]
+date_filed = "1948-07-09"
+lawphil_title = "Prescribing the Procedure for the Reception of Foreign Public Vessels"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1948/eo_153_1948.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1948/pdf/eo_153_1948.pdf"]
+lawphil_tenure = "Elpidio Quirino"

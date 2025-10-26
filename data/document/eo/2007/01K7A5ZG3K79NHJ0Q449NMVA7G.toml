@@ -1,0 +1,11 @@
+id = "01K7A5ZG3K79NHJ0Q449NMVA7G"
+type = "issuance"
+subtype = "EO"
+name = "EO-585-A"
+
+[meta]
+date_filed = "2007-08-28"
+lawphil_title = "Amending Executive Order No. 585, Series of 2006, By Extending the Period of Registration of Firearms and Increasing the Amnesty Fees for the Surrender and Licensing of Loose Firearms"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2007/eo_585-a_2007.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2007/pdf/eo_585-a_2007.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

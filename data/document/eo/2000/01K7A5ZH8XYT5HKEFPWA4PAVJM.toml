@@ -1,0 +1,11 @@
+id = "01K7A5ZH8XYT5HKEFPWA4PAVJM"
+type = "issuance"
+subtype = "EO"
+name = "EO-260"
+
+[meta]
+date_filed = "2000-06-29"
+lawphil_title = "Amending Executive Order Nos. 159 and 179 S. 1999 and Executive Order No. 216 S. 2000, Consolidating the Housing Functions and Staff Support on Housing to the Housing and Urban Development Coordinating Council"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2000/eo_260_2000.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2000/pdf/eo_260_2000.pdf"]
+lawphil_tenure = "Joseph Ejercito-Estrada"

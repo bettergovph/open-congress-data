@@ -1,0 +1,11 @@
+id = "01K7A5ZPD69WESVB01V5VW08R8"
+type = "issuance"
+subtype = "EO"
+name = "EO-316"
+
+[meta]
+date_filed = "1950-05-05"
+lawphil_title = "Further Amending Executive Order No. 278, Dated October 10, 1949, as Amended By Executive Order No. 288, Dated October 21, 1949, Creating the Municipality of Julita, Province of Leyte"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_316_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_316_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

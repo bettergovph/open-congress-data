@@ -1,0 +1,11 @@
+id = "01K7A5ZMZVM4MA70P2BYJFV21H"
+type = "issuance"
+subtype = "EO"
+name = "EO-128"
+
+[meta]
+date_filed = "1964-10-29"
+lawphil_title = "Creating the Municipality of Maco in the Province of Davao"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1964/eo_128_1964.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1964/pdf/eo_128_1964.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

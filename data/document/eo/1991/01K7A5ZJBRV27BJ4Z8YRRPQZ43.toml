@@ -1,0 +1,11 @@
+id = "01K7A5ZJBRV27BJ4Z8YRRPQZ43"
+type = "issuance"
+subtype = "EO"
+name = "EO-501"
+
+[meta]
+date_filed = "1991-12-27"
+lawphil_title = "Increasing the Medicare benefits under the Philippine Medical Care Plan"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1991/eo_501_1991.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1991/pdf/eo_501_1991.pdf"]
+lawphil_tenure = "Corazon Aquino Cory"

@@ -1,0 +1,11 @@
+id = "01K7A5ZJZ83CBRKGEVWR65C05J"
+type = "issuance"
+subtype = "EO"
+name = "EO-098"
+
+[meta]
+date_filed = "1986-07-01"
+lawphil_title = "Modifying Executive Order No. 55"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1986/eo_98_1986.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1986/pdf/eo_98_1986.pdf"]
+lawphil_tenure = "Corazon Aquino"

@@ -1,0 +1,11 @@
+id = "01K7A5ZQ2GKZTYRZ14B03C39CE"
+type = "issuance"
+subtype = "EO"
+name = "EO-001"
+
+[meta]
+date_filed = "1942-01-03"
+lawphil_title = "Gen. Douglas MacArthur, United States Army, was appointed Military Adviser to the Commonwealth of the Philippines."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1942/eo_1_1942.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1942/pdf/eo_1_1942.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

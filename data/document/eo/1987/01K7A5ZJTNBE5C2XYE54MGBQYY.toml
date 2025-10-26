@@ -1,0 +1,11 @@
+id = "01K7A5ZJTNBE5C2XYE54MGBQYY"
+type = "issuance"
+subtype = "EO"
+name = "EO-191"
+
+[meta]
+date_filed = "1987-06-10"
+lawphil_title = "Modifying Executive Order No. 59"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1987/eo_191_1987.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1987/pdf/eo_191_1987.pdf"]
+lawphil_tenure = "Corazon Aquino Cory"

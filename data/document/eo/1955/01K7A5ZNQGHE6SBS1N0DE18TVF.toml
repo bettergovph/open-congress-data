@@ -1,0 +1,11 @@
+id = "01K7A5ZNQGHE6SBS1N0DE18TVF"
+type = "issuance"
+subtype = "EO"
+name = "EO-094"
+
+[meta]
+date_filed = "1955-02-07"
+lawphil_title = "Further Amending Executive Order No. 58, Dated August 16, 1954, So as to Include the Director of the Planning of the National Planning Commission as Member of the Commission for the Development and Maintenance of Corregidor and Bataan"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1955/eo_94_1955.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1955/pdf/eo_94_1955.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

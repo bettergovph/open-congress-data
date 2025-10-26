@@ -1,0 +1,11 @@
+id = "01K7A5ZPEMBH7MSV01J3Z17MK8"
+type = "issuance"
+subtype = "EO"
+name = "EO-286"
+
+[meta]
+date_filed = "1949-10-18"
+lawphil_title = "Creating a Fair Trade Board"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1949/eo_286_1949.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1949/pdf/eo_286_1949.pdf"]
+lawphil_tenure = "Elpidio Quirino"

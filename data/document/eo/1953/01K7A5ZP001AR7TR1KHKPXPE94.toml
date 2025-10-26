@@ -1,0 +1,11 @@
+id = "01K7A5ZP001AR7TR1KHKPXPE94"
+type = "issuance"
+subtype = "EO"
+name = "EO-583"
+
+[meta]
+date_filed = "1953-04-04"
+lawphil_title = "Classifying Newly Organized Municipalities in the Philippines"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1953/eo_583_1953.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1953/pdf/eo_583_1953.pdf"]
+lawphil_tenure = "Elpidio Quirino"

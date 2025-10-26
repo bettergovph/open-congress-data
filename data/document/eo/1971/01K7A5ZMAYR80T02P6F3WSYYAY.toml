@@ -1,0 +1,11 @@
+id = "01K7A5ZMAYR80T02P6F3WSYYAY"
+type = "issuance"
+subtype = "EO"
+name = "EO-314"
+
+[meta]
+date_filed = "1971-04-26"
+lawphil_title = "Amending Executive Order No. 212-A Dated March 1, 1970, Entitled ï¿½Dispensing With the Submission to the Office of the President for Review or Approval of Certain Contracts or Transactionsï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1971/eo_314_1971.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1971/pdf/eo_314_1971.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

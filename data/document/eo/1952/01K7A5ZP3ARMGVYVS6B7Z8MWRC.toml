@@ -1,0 +1,11 @@
+id = "01K7A5ZP3ARMGVYVS6B7Z8MWRC"
+type = "issuance"
+subtype = "EO"
+name = "EO-515"
+
+[meta]
+date_filed = "1952-07-01"
+lawphil_title = "Amending Executive Order Numbered Four Hundred and Forty and Executive Order Numbered Four Hundred and Sixty and for Other Purposes."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1952/eo_515_1952.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1952/pdf/eo_515_1952.pdf"]
+lawphil_tenure = "Elpidio Quirino"

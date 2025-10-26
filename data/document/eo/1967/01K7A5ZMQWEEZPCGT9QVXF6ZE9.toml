@@ -1,0 +1,11 @@
+id = "01K7A5ZMQWEEZPCGT9QVXF6ZE9"
+type = "issuance"
+subtype = "EO"
+name = "EO-065"
+
+[meta]
+date_filed = "1967-05-28"
+lawphil_title = "Creating a Permanent Committee on Public Bidding"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1967/eo_65_1967.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1967/pdf/eo_65_1967.pdf"]
+lawphil_tenure = "Ferdinand E. Marcos"

@@ -1,0 +1,11 @@
+id = "01K7A5ZFT1Q0YCNXV93B04C7BT"
+type = "issuance"
+subtype = "EO"
+name = "EO-837"
+
+[meta]
+date_filed = "2009-10-20"
+lawphil_title = "An Order Placing the Film Development Council of the Philippines Under the Oversight of the Department of Education"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2009/eo_837_2009.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2009/pdf/eo_837_2009.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

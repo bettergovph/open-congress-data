@@ -1,0 +1,11 @@
+id = "01K7A5ZJSKECG47EJ2QEZN3JZP"
+type = "issuance"
+subtype = "EO"
+name = "EO-210"
+
+[meta]
+date_filed = "1987-07-07"
+lawphil_title = "Amending Executive Order No. 603, Entitled \"Creating a Light Rail Transit Authority, Vesting the Same With Authority to Construct and Operate the Light Rail Transit (LRT) Project and Providing Funds Therefor\""
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1987/eo_210_1987.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1987/pdf/eo_210_1987.pdf"]
+lawphil_tenure = "Corazon Aquino Cory"

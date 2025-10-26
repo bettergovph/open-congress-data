@@ -1,0 +1,11 @@
+id = "01K7A5ZPDHX3QSJTFA7CTDJDQM"
+type = "issuance"
+subtype = "EO"
+name = "EO-308"
+
+[meta]
+date_filed = "1950-03-30"
+lawphil_title = "Reorganizing the Armed Forces of the Philippines"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_308_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_308_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

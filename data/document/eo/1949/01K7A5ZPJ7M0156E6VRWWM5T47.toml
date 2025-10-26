@@ -1,0 +1,11 @@
+id = "01K7A5ZPJ7M0156E6VRWWM5T47"
+type = "issuance"
+subtype = "EO"
+name = "EO-212"
+
+[meta]
+date_filed = "1949-04-07"
+lawphil_title = "Lifting the Suspension of the Provisions of Executive Order No. 140, Dated May 12, 1948, Organizing Certain Barrios of the Municipality of Lemery, Province of Batangas, Into An Independent Municipality and Authorizing the Immediate Organization Thereof Under the Name of Agoncillo"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1949/eo_212_1949.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1949/pdf/eo_212_1949.pdf"]
+lawphil_tenure = "Elpidio Quirino"

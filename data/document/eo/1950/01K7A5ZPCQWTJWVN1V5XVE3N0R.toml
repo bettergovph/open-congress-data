@@ -1,0 +1,11 @@
+id = "01K7A5ZPCQWTJWVN1V5XVE3N0R"
+type = "issuance"
+subtype = "EO"
+name = "EO-325"
+
+[meta]
+date_filed = "1950-06-17"
+lawphil_title = "Extending the Term of the Code Commission"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1950/eo_325_1950.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1950/pdf/eo_325_1950.pdf"]
+lawphil_tenure = "Elpidio Quirino"

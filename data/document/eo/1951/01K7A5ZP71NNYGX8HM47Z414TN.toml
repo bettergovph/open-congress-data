@@ -1,0 +1,11 @@
+id = "01K7A5ZP71NNYGX8HM47Z414TN"
+type = "issuance"
+subtype = "EO"
+name = "EO-439"
+
+[meta]
+date_filed = "1951-05-04"
+lawphil_title = "Further Amending Executive Order No. 318, Dated May 25, 1950, Creating the Integrity Board"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1951/eo_439_1951.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1951/pdf/eo_439_1951.pdf"]
+lawphil_tenure = "Elpidio Quirino"

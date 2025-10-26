@@ -1,0 +1,11 @@
+id = "01K7A5ZP21QFATJ7ZMR0Z4FWVG"
+type = "issuance"
+subtype = "EO"
+name = "EO-542"
+
+[meta]
+date_filed = "1952-10-28"
+lawphil_title = "Reducing the 1952 Taxes on All Real Properties in the Province of Romblon"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1952/eo_542_1952.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1952/pdf/eo_542_1952.pdf"]
+lawphil_tenure = "Elpidio Quirino"

@@ -1,0 +1,11 @@
+id = "01K7A5ZP23N71MTNX8ZJPVQ6YM"
+type = "issuance"
+subtype = "EO"
+name = "EO-541"
+
+[meta]
+date_filed = "1952-10-28"
+lawphil_title = "Reducing the 1952 Taxes on Real Properties Located in the Municipalities of Capul, Giporlos, Llorente, Marabut, San Antonio, San Julian, and Tarangnan, All in the Province of Samar"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1952/eo_541_1952.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1952/pdf/eo_541_1952.pdf"]
+lawphil_tenure = "Elpidio Quirino"

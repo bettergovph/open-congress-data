@@ -1,0 +1,11 @@
+id = "01K7A5ZQAP92X4WPPWAKA78X81"
+type = "issuance"
+subtype = "EO"
+name = "EO-250"
+
+[meta]
+date_filed = "1940-01-10"
+lawphil_title = "Creating a Committee to Make a Study of, and Recommend Ways and Means for the Organization of a Reservists Association"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1940/eo_250_1940.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1940/pdf/eo_250_1940.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

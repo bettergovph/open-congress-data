@@ -1,0 +1,11 @@
+id = "01K7A5ZK3GRYPZ33C7HZR6MA9S"
+type = "issuance"
+subtype = "EO"
+name = "EO-005"
+
+[meta]
+date_filed = "1986-03-12"
+lawphil_title = "Converting the Presidential Commission on Reorganization Into a Presidential Commission on Government Reorganization, Econstituting Its Membership, and for Other Purposes."
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1986/eo_5_1986.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1986/pdf/eo_5_1986.pdf"]
+lawphil_tenure = "Corazon Aquino"

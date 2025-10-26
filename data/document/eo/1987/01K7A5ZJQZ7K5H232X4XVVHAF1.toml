@@ -1,0 +1,11 @@
+id = "01K7A5ZJQZ7K5H232X4XVVHAF1"
+type = "issuance"
+subtype = "EO"
+name = "EO-242"
+
+[meta]
+date_filed = "1987-07-24"
+lawphil_title = "Amending Executive Order No. 133, Series of 1987 Entitled \"Reorganizing the Department of Trade and Industry, Its Attached Agencies, and for Other Purposes\""
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1987/eo_242_1987.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1987/pdf/eo_242_1987.pdf"]
+lawphil_tenure = "Corazon Aquino Cory"

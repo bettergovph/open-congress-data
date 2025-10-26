@@ -1,0 +1,11 @@
+id = "01K7A5ZNYQVZPGE0WZAFJ4AND7"
+type = "issuance"
+subtype = "EO"
+name = "EO-610"
+
+[meta]
+date_filed = "1953-08-22"
+lawphil_title = "Amending Executive Order No. 592, Dated May 8, 1953, Entitled ï¿½Reducing the 1952 Taxes on All Real Properties Located in the Province of Masbate.ï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1953/eo_610_1953.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1953/pdf/eo_610_1953.pdf"]
+lawphil_tenure = "Elpidio Quirino"

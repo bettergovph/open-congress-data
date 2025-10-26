@@ -1,0 +1,11 @@
+id = "01K7A5ZNSBZYGM055W34Y76E88"
+type = "issuance"
+subtype = "EO"
+name = "EO-060"
+
+[meta]
+date_filed = "1954-08-31"
+lawphil_title = "Designating the Board of Liquidators Created Under Executive Order No. 372, Dated November 24, 1950, to Liquidate the Assets and Liabilities of the Land Settlement and Development Corporation (Lasedeco), Abolished Under Republic Act No. 1160"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1954/eo_60_1954.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1954/pdf/eo_60_1954.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

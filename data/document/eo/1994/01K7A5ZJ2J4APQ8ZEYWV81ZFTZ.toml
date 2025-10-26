@@ -1,0 +1,11 @@
+id = "01K7A5ZJ2J4APQ8ZEYWV81ZFTZ"
+type = "issuance"
+subtype = "EO"
+name = "EO-183"
+
+[meta]
+date_filed = "1994-06-22"
+lawphil_title = "Amending Executive Order No. 128, series of 1993, establishing the National Centennial Commission"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1994/eo_183_1994.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1994/pdf/eo_183_1994.pdf"]
+lawphil_tenure = "Fidel V. Ramos"

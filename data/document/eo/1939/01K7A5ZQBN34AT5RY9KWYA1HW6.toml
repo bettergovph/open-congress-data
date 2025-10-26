@@ -1,0 +1,11 @@
+id = "01K7A5ZQBN34AT5RY9KWYA1HW6"
+type = "issuance"
+subtype = "EO"
+name = "EO-229"
+
+[meta]
+date_filed = "1939-10-31"
+lawphil_title = "Cordage Allotments for May 1, 1939 to December 31, 1939"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1939/eo_229_1939.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1939/pdf/eo_229_1939.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

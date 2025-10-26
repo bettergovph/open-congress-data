@@ -1,0 +1,11 @@
+id = "01K7A5ZG83KDN2740ZPRCWJZS0"
+type = "issuance"
+subtype = "EO"
+name = "EO-558"
+
+[meta]
+date_filed = "2006-08-08"
+lawphil_title = "Repealing Executive Order No. 138 Dated August 10, 1999, Entitled \"Directing Government Entities Involved in the Implementation of Credit Programs to Adopt the Credit Policy Guidelines Formulated By the National Credit Council\""
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2006/eo_558_2006.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2006/pdf/eo_558_2006.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

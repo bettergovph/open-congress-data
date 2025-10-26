@@ -1,0 +1,11 @@
+id = "01K7A5ZP02742AW0E5R41JQ9W1"
+type = "issuance"
+subtype = "EO"
+name = "EO-582"
+
+[meta]
+date_filed = "1953-04-04"
+lawphil_title = "Amending Executive Order Numbered 449 and for Other Purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1953/eo_582_1953.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1953/pdf/eo_582_1953.pdf"]
+lawphil_tenure = "Elpidio Quirino"

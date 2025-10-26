@@ -1,0 +1,11 @@
+id = "01K7A5ZH4BRQ4Q89EZ8P8ACP6B"
+type = "issuance"
+subtype = "EO"
+name = "EO-018"
+
+[meta]
+date_filed = "2001-05-25"
+lawphil_title = "Amending Certain Portions of Executive Order No. 264, Series of 2000, Entitled ï¿½Establishing the Information Technology and Electronic Commerce Council (ITECC) From the Merger of the National Information Technology Council (NITC) and the Electronic Commerce Promotion Council (ECPC)ï¿½"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo2001/eo_18_2001.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo2001/pdf/eo_18_2001.pdf"]
+lawphil_tenure = "Gloria Macapagal-Arroyo"

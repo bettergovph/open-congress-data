@@ -1,0 +1,11 @@
+id = "01K7A5ZJFE553R9HN4FF1JG8CC"
+type = "issuance"
+subtype = "EO"
+name = "EO-420"
+
+[meta]
+date_filed = "1990-09-07"
+lawphil_title = "Converting the Philippine High School for the Arts into a regular government agency, repealing Presidential Decree No. 1287 and for other purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1990/eo_420_1990.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1990/pdf/eo_420_1990.pdf"]
+lawphil_tenure = "Corazon Aquino Cory"

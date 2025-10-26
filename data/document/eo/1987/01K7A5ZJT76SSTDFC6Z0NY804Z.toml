@@ -1,0 +1,11 @@
+id = "01K7A5ZJT76SSTDFC6Z0NY804Z"
+type = "issuance"
+subtype = "EO"
+name = "EO-200"
+
+[meta]
+date_filed = "1987-06-18"
+lawphil_title = "Providing for the Publication of Laws Either in the Official Gazette or in a Newspaper of General Circulation in the Philippines as a Requirement for Their Effectivity"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1987/eo_200_1987.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1987/pdf/eo_200_1987.pdf"]
+lawphil_tenure = "Corazon Aquino Cory"

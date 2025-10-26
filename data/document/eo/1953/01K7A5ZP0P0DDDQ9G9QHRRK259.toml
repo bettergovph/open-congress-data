@@ -1,0 +1,11 @@
+id = "01K7A5ZP0P0DDDQ9G9QHRRK259"
+type = "issuance"
+subtype = "EO"
+name = "EO-570"
+
+[meta]
+date_filed = "1953-02-24"
+lawphil_title = "Repealing Executive Order No. 183 Dated February 2, 1939, and Executive Order No. 74 Dated August 12, 1947"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1953/eo_570_1953.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1953/pdf/eo_570_1953.pdf"]
+lawphil_tenure = "Elpidio Quirino"

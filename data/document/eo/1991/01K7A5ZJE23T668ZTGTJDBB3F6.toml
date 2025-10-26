@@ -1,0 +1,11 @@
+id = "01K7A5ZJE23T668ZTGTJDBB3F6"
+type = "issuance"
+subtype = "EO"
+name = "EO-450"
+
+[meta]
+date_filed = "1991-03-19"
+lawphil_title = "Lifting the ban on new applications for licenses to operate private employment agencies engaged in recruitment and placement of Filipino workers for overseas employment"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1991/eo_450_1991.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1991/pdf/eo_450_1991.pdf"]
+lawphil_tenure = "Corazon Aquino Cory"

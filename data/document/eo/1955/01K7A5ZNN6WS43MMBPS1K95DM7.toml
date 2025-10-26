@@ -1,0 +1,11 @@
+id = "01K7A5ZNN6WS43MMBPS1K95DM7"
+type = "issuance"
+subtype = "EO"
+name = "EO-141"
+
+[meta]
+date_filed = "1955-12-08"
+lawphil_title = "Creating a Science Advisory Committee"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1955/eo_141_1955.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1955/pdf/eo_141_1955.pdf"]
+lawphil_tenure = "Ramon Magsaysay"

@@ -1,0 +1,11 @@
+id = "01K7A5ZN56CPNEK361NBGQS48D"
+type = "issuance"
+subtype = "EO"
+name = "EO-016"
+
+[meta]
+date_filed = "1962-08-20"
+lawphil_title = "Relaxing the Regulation on the Prohibition of Taking Aerial Photography for Surveying and Mapping Purposes"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1962/eo_16_1962.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1962/pdf/eo_16_1962.pdf"]
+lawphil_tenure = "Diosdado Macapagal"

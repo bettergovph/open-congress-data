@@ -1,0 +1,11 @@
+id = "01K7A5ZQCCMBX5Q9PBS5HVCEJ1"
+type = "issuance"
+subtype = "EO"
+name = "EO-214"
+
+[meta]
+date_filed = "1939-07-10"
+lawphil_title = "Composition of the Appraisal Committee Created Under Executive Order No. 132, Dated December 27, 1937"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1939/eo_214_1939.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1939/pdf/eo_214_1939.pdf"]
+lawphil_tenure = "Manuel L. Quezon"

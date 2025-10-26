@@ -1,0 +1,11 @@
+id = "01K7A5ZP852PQAQ0W5DF4B0ZTN"
+type = "issuance"
+subtype = "EO"
+name = "EO-418"
+
+[meta]
+date_filed = "1951-03-05"
+lawphil_title = "Fixing Office Hours During the Hot Season"
+lawphil_permalink = "https://lawphil.net/executive/execord/eo1951/eo_418_1951.html"
+download_url_sources = ["https://lawphil.net/executive/execord/eo1951/pdf/eo_418_1951.pdf"]
+lawphil_tenure = "Elpidio Quirino"
